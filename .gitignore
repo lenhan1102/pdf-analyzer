@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# System & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary extraction caches
+*.tmp
+*.raw.txt
+scratch/
+
+# Large report PDFs (uncomment if you want to exclude original PDFs from git)
+# companies/**/reports/*.pdf

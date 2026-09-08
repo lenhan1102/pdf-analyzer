@@ -1,0 +1,20 @@
+{
+  "ticker": "VNM",
+  "year": "2023",
+  "company_name": "Công ty Cổ phần Sữa Việt Nam (Vinamilk)",
+  "status": "completed",
+  "pdf_reports": [
+    "annual-report-2023.pdf",
+    "audited-financial-statements-2023.pdf"
+  ],
+  "sections": {
+    "00-summary": true,
+    "01-business": true,
+    "02-risk-factors": true,
+    "03-financial-statements": true,
+    "04-mda": true,
+    "05-management-governance": true,
+    "06-ownership": true,
+    "07-exhibits-notes": true
+  }
+}
