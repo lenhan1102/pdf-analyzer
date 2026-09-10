@@ -1,0 +1,22 @@
+{
+  "ticker": "MBB",
+  "year": "2025",
+  "period": "FY",
+  "company_name": "Ngân hàng TMCP Quân Đội",
+  "status": "completed",
+  "pdf_reports": [
+    "MBB_2025_FY_Annual-Report.pdf",
+    "MBB_2025_FY_Audited-FS.pdf"
+  ],
+  "sections": {
+    "00-summary": true,
+    "01-business": true,
+    "02-risk-factors": true,
+    "03-financial-statements": true,
+    "04-mda": true,
+    "05-management-governance": true,
+    "06-ownership": true,
+    "07-exhibits-notes": true,
+    "08-disclosure-gaps": true
+  }
+}

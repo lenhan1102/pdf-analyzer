@@ -1,24 +1,25 @@
 ---
 name: 10k-analyzer
-description: Kích hoạt quy trình phân tích Báo Cáo Thường Niên và Báo Cáo Tài Chính của doanh nghiệp theo chuẩn mực 10-K (7 trụ cột trọng yếu, nhận diện Cờ Đỏ, chất lượng lợi nhuận).
+description: Kích hoạt quy trình phân tích Báo Cáo Thường Niên và Báo Cáo Tài Chính của doanh nghiệp theo chuẩn mực 10-K & Bóc tách Điểm mù Ban Quản Trị (8 trụ cột trọng yếu, nhận diện Cờ Đỏ, chất lượng lợi nhuận, khoảng trống thông tin).
 ---
 
 # 10-K Company Analyzer Skill
 
-Skill này hướng dẫn AI Agent tiếp nhận và phân tích tài liệu PDF báo cáo tài chính, báo cáo thường niên của doanh nghiệp theo chuẩn 10-K.
+Skill này hướng dẫn AI Agent tiếp nhận và phân tích tài liệu PDF báo cáo tài chính, báo cáo thường niên của doanh nghiệp theo chuẩn 10-K kết hợp kiểm toán khoảng trống thông tin.
 
 ## Các trường hợp kích hoạt
 - Người dùng yêu cầu phân tích một công ty (ví dụ: "Hãy phân tích báo cáo thường niên và BCTC của VNM năm 2023", "phân tích 10-K của FPT", "thẩm định sức khỏe tài chính doanh nghiệp...").
-- Người dùng yêu cầu trích xuất một trong 7 trụ cột 10-K (Business, Risk Factors, Financial Statements, MD&A, Management & Governance, Ownership, Exhibits).
+- Người dùng yêu cầu trích xuất một trong 8 trụ cột 10-K (Business, Risk Factors, Financial Statements, MD&A, Management & Governance, Ownership, Exhibits, Disclosure Gaps).
 
 ## Quy trình thực hiện chuẩn 5 bước
 
 ### 1. Xác định công ty & khởi tạo môi trường
-- Xác định mã cổ phiếu `<TICKER>` và năm tài chính `<YEAR>`.
-- Kiểm tra `companies/<TICKER>/<YEAR>/reports/` đã có file PDF chưa.
+- Xác định mã cổ phiếu `<TICKER>`, năm tài chính `<YEAR>`, và kỳ báo cáo `<PERIOD>` (`FY` cho cả năm, hoặc `Q1`, `Q2`, `Q3`, `Q4` cho quý).
+- Kiểm tra `companies/<TICKER>/<YEAR>/<PERIOD>/reports/` đã có file PDF chưa.
+- Đặt tên file PDF theo chuẩn: `<TICKER>_<YEAR>_<PERIOD>_<LOẠI_FILE>.pdf`.
 - Nếu chưa có thư mục cấu trúc, chạy:
   ```bash
-  python3 scripts/init_company.py --ticker <TICKER> --year <YEAR>
+  python3 scripts/init_company.py --ticker <TICKER> --year <YEAR> --period <PERIOD>
   ```
 
 ### 2. Trích xuất tài liệu PDF
@@ -26,10 +27,10 @@ Skill này hướng dẫn AI Agent tiếp nhận và phân tích tài liệu PDF
   - Bảng cân đối kế toán, Kết quả KD, Lưu chuyển tiền tệ.
   - Phần thảo luận của Ban Tổng Giám đốc (MD&A).
   - Báo cáo Quản trị công ty & Danh sách HĐQT.
-  - Thuyết minh BCTC (phần giao dịch bên liên quan, nợ tiềm tàng).
+  - Thuyết minh BCTC (phần giao dịch bên liên quan, nợ tiềm tàng, cơ cấu doanh thu).
 
-### 3. Phân tích 7 Trụ Cột theo mẫu
-- Ghi dữ liệu vào `companies/<TICKER>/<YEAR>/analysis/`:
+### 3. Phân tích 8 Trụ Cột theo mẫu
+- Ghi dữ liệu vào `companies/<TICKER>/<YEAR>/<PERIOD>/analysis/`:
   - `01-business.md`
   - `02-risk-factors.md`
   - `03-financial-statements.md`
@@ -37,20 +38,23 @@ Skill này hướng dẫn AI Agent tiếp nhận và phân tích tài liệu PDF
   - `05-management-governance.md`
   - `06-ownership.md`
   - `07-exhibits-notes.md`
+  - `08-disclosure-gaps.md` (Bóc tách thông tin bị thiếu/làm mờ: doanh thu theo SKU, biên lãi gộp từng mảng, nồng độ khách hàng/nhà cung cấp, công suất nhà máy, covenants nợ, KPI lãnh đạo).
+  - **Đánh giá tổng quan cấu trúc BCTN theo tiêu chuẩn Warren Buffett ("Tự báo cáo cho bản thân sau một năm đi xa"):** Báo cáo có trả lời được trọn vẹn 5 câu hỏi cốt tử (sức khỏe thị phần thực tế, sự sòng phẳng thừa nhận sai lầm, chất lượng dòng tiền & phân bổ vốn, các quả bom nổ chậm, và tính đồng cam cộng khổ của lãnh đạo) hay chỉ là tài liệu PR tô hồng?
 - Luôn kiểm tra tính nhất quán giữa CFO và Net Income.
 - Cảnh báo các dấu hiệu Red Flags (bán chịu dồn dập, nợ vay ngắn hạn căng thẳng, giao dịch bên liên quan bất thường).
 
 ### 4. Viết Tóm Tắt Điều Hành & Đóng Gói
-- Viết `summary.md` (Executive Summary, Top Risks, Moat, Red Flags Checklist).
+- Viết `summary.md` (Executive Summary, Top Risks, Moat, Red Flags Checklist, **Đánh giá Đạt Chuẩn 'Tự Báo Cáo Sau 1 Năm Đi Xa'**, Điểm số minh bạch).
 - Chạy script đóng gói:
   ```bash
-  python3 scripts/build_report.py --ticker <TICKER> --year <YEAR>
+  python3 scripts/build_report.py --ticker <TICKER> --year <YEAR> --period <PERIOD>
   ```
 
-### 5. Git Commit & Push
-- Tự động thực hiện lệnh Git đã được cấp phép:
+### 5. Commit, Push Git & Báo Cáo Phản Hồi
+- Thực hiện commit và push các file báo cáo phân tích mới lên remote repository:
   ```bash
-  git add .
-  git commit -m "feat(<TICKER>-<YEAR>): complete 10-K analysis"
-  git push origin main
+  git add companies/<TICKER>/<YEAR>/<PERIOD>/
+  git commit -m "feat(analysis): hoàn thành phân tích 10-K <TICKER> <PERIOD> <YEAR>"
+  git push
   ```
+- Thông báo kết quả phân tích kèm đường dẫn tới thư mục và file báo cáo README.md.

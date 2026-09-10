@@ -1,11 +1,11 @@
 {
-  "ticker": "VNM",
-  "year": "2023",
-  "company_name": "Công ty Cổ phần Sữa Việt Nam (Vinamilk)",
+  "ticker": "REE",
+  "year": "2025",
+  "period": "FY",
+  "company_name": "Công ty Cổ phần Cơ Điện Lạnh",
   "status": "completed",
   "pdf_reports": [
-    "annual-report-2023.pdf",
-    "audited-financial-statements-2023.pdf"
+    "REE_2025_FY_Annual-Report.pdf"
   ],
   "sections": {
     "00-summary": true,
@@ -15,6 +15,7 @@
     "04-mda": true,
     "05-management-governance": true,
     "06-ownership": true,
-    "07-exhibits-notes": true
+    "07-exhibits-notes": true,
+    "08-disclosure-gaps": true
   }
 }

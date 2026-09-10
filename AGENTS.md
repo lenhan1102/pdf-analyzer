@@ -1,20 +1,27 @@
 # AGENTS.md - Quy Chuẩn & Quy Tắc Vận Hành Phân Tích Doanh Nghiệp Theo Chuẩn 10-K
 
 Tài liệu này là quy chuẩn chỉ đạo tối cao dành cho **AI Agent** trong repository `10K`. 
-Mục tiêu cốt lõi của dự án là: **Tiếp nhận Báo Cáo Thường Niên (Annual Report) và Báo Cáo Tài Chính (Financial Statements) dưới dạng PDF của doanh nghiệp, sau đó phân tích sâu sắc, bóc tách và trích xuất thành 7 trụ cột trọng yếu theo chuẩn mực báo cáo thường niên 10-K của Ủy ban Chứng khoán Hoa Kỳ (SEC).**
+Mục tiêu cốt lõi của dự án là: **Tiếp nhận Báo Cáo Thường Niên (Annual Report) và Báo Cáo Tài Chính (Financial Statements) dưới dạng PDF của doanh nghiệp, sau đó phân tích sâu sắc, bóc tách và trích xuất thành 8 trụ cột trọng yếu theo chuẩn mực báo cáo thường niên 10-K của Ủy ban Chứng khoán Hoa Kỳ (SEC) kết hợp kiểm toán tính minh bạch & khoảng trống thông tin của Ban Quản Trị.**
 
 ---
 
-## 1. Bản Chất Dự Án & Cấu Trúc Thư Mục
+## 1. Bản Chất Dự Án & Cấu Trúc Thư Mục Phân Cấp
 
-Mỗi doanh nghiệp và từng năm tài chính được module hóa độc lập theo đường dẫn: `companies/<TICKER>/<YEAR>/`
+Mỗi doanh nghiệp và từng thời điểm báo cáo được module hóa độc lập theo phân cấp ngăn nắp:  
+`companies/<TICKER>/<YEAR>/<PERIOD>/`
+
+- `<TICKER>`: Mã cổ phiếu (ví dụ: `VNM`, `FPT`, `HPG`, `AAPL`...).
+- `<YEAR>`: Năm tài chính 4 chữ số (ví dụ: `2023`, `2024`, `2025`...).
+- `<PERIOD>`: Thời điểm báo cáo:
+  - **`FY`**: Fiscal Year - Báo cáo thường niên & BCTC kiểm toán cả năm (**Chuẩn 10-K**).
+  - **`Q1`, `Q2`, `Q3`, `Q4`**: Báo cáo tài chính quý (**Chuẩn 10-Q**).
 
 ```text
 10K/
 ├── AGENTS.md                  # Bản quy chuẩn tối cao vận hành AI Agent
-├── README.md                  # Hướng dẫn tổng quan và triết lý phân tích 10-K
+├── README.md                  # Hướng dẫn tổng quan và triết lý phân tích 10-K/10-Q
 ├── requirements.txt           # Thư viện xử lý PDF và dữ liệu
-├── templates/                 # Các biểu mẫu chuẩn cho từng phần phân tích
+├── templates/                 # Các biểu mẫu chuẩn cho 8 trụ cột phân tích
 │   ├── 00-summary.md
 │   ├── 01-business.md
 │   ├── 02-risk-factors.md
@@ -22,35 +29,55 @@ Mỗi doanh nghiệp và từng năm tài chính được module hóa độc l�
 │   ├── 04-mda.md
 │   ├── 05-management-governance.md
 │   ├── 06-ownership.md
-│   └── 07-exhibits-notes.md
+│   ├── 07-exhibits-notes.md
+│   └── 08-disclosure-gaps.md
 ├── scripts/                   # Công cụ trích xuất PDF và đóng gói báo cáo
-│   ├── init_company.py        # Khởi tạo thư mục mã công ty & năm tài chính
+│   ├── init_company.py        # Khởi tạo thư mục mã công ty, năm & kỳ báo cáo
 │   ├── extract_pdf.py         # Trích xuất văn bản & bảng biểu từ PDF
-│   └── build_report.py        # Đóng gói 7 phần thành báo cáo tổng hợp README.md
+│   └── build_report.py        # Đóng gói thành báo cáo tổng hợp README.md
 └── companies/
-    └── <TICKER>/              # Ví dụ: VNM, FPT, HPG, VHM, AAPL, NVDA...
+    └── <TICKER>/              # Ví dụ: VNM, FPT, HPG, VHM, AAPL...
         └── <YEAR>/            # Ví dụ: 2023, 2024...
-            ├── reports/       # Thư mục chứa các file PDF gốc của người dùng
-            │   ├── annual-report.pdf          # Báo cáo thường niên gốc
-            │   └── financial-statements.pdf   # Báo cáo tài chính kiểm toán gốc
-            ├── analysis/      # 7 file markdown tương ứng 7 trụ cột 10-K
-            │   ├── 01-business.md
-            │   ├── 02-risk-factors.md
-            │   ├── 03-financial-statements.md
-            │   ├── 04-mda.md
-            │   ├── 05-management-governance.md
-            │   ├── 06-ownership.md
-            │   └── 07-exhibits-notes.md
-            ├── summary.md     # Bản tóm tắt điều hành (Executive Summary & Red Flags)
-            ├── README.md      # Toàn bộ báo cáo phân tích hoàn chỉnh được đóng gói
-            └── progress.json  # Trạng thái xử lý các section
+            ├── FY/            # Báo cáo thường niên cả năm (Chuẩn 10-K)
+            │   ├── reports/   # File PDF gốc được đánh dấu chuẩn tên
+            │   │   ├── <TICKER>_<YEAR>_FY_Annual-Report.pdf
+            │   │   └── <TICKER>_<YEAR>_FY_Audited-FS.pdf
+            │   ├── analysis/  # 8 file markdown tương ứng 8 trụ cột phân tích
+            │   │   ├── 01-business.md
+            │   │   ├── 02-risk-factors.md
+            │   │   ├── 03-financial-statements.md
+            │   │   ├── 04-mda.md
+            │   │   ├── 05-management-governance.md
+            │   │   ├── 06-ownership.md
+            │   │   ├── 07-exhibits-notes.md
+            │   │   └── 08-disclosure-gaps.md
+            │   ├── summary.md # Bản tóm tắt điều hành & Bảng Cờ Đỏ
+            │   ├── README.md  # Toàn bộ báo cáo phân tích hoàn chỉnh được đóng gói
+            │   └── progress.json
+            ├── Q1/            # Báo cáo tài chính Quý 1 (Chuẩn 10-Q)
+            │   ├── reports/
+            │   │   └── <TICKER>_<YEAR>_Q1_Financial-Statements.pdf
+            │   ├── summary.md
+            │   └── README.md
+            ├── Q2/
+            ├── Q3/
+            └── Q4/
 ```
+
+### Quy Chuẩn Đặt Tên File (Naming Convention)
+Mọi file tài liệu PDF đầu vào trong thư mục `reports/` phải tuân theo cú pháp:  
+`[TICKER]_[YEAR]_[PERIOD]_[LOẠI_TÀI_LIỆU].pdf`
+
+- Báo cáo thường niên năm: `VNM_2023_FY_Annual-Report.pdf`
+- BCTC kiểm toán cả năm: `VNM_2023_FY_Audited-FS.pdf`
+- BCTC hợp nhất quý: `VNM_2024_Q1_Financial-Statements.pdf`
+- Giải trình KQKD / Báo cáo ban điều hành quý: `VNM_2024_Q1_Management-Report.pdf`
 
 ---
 
-## 2. 7 Trụ Cột Trọng Yếu Của Báo Cáo Phân Tích 10-K
+## 2. 8 Trụ Cột Trọng Yếu Của Báo Cáo Phân Tích 10-K
 
-Khi phân tích bất kỳ doanh nghiệp nào, AI **BẮT BUỘC** phải bóc tách số liệu và thông tin theo đúng 7 phần sau:
+Khi phân tích bất kỳ doanh nghiệp nào, AI **BẮT BUỘC** phải bóc tách số liệu và thông tin theo đúng 8 phần sau:
 
 ### Trụ Cột 1: Business (Item 1) — Mô Hình Kinh Doanh & Vị Thế Cạnh Tranh
 - **Công ty thực sự kinh doanh gì?** Bản chất cốt lõi của việc kiếm tiền, nguồn doanh thu chính phân theo mảng sản phẩm/dịch vụ và theo khu vực địa lý.
@@ -109,6 +136,28 @@ Khi phân tích bất kỳ doanh nghiệp nào, AI **BẮT BUỘC** phải bóc 
   - Từ chối đưa ra ý kiến (Disclaimer) hoặc Ý kiến trái ngược (Adverse).
 - **Thay đổi chính sách kế toán:** Thay đổi phương pháp ghi nhận doanh thu, thời gian trích khấu hao, hay trích lập dự phòng.
 
+### Trụ Cột 8: Disclosure Gaps & Blind Spots — Khoảng Trống Thông Tin & Điểm Mù Ban Quản Trị (YÊU CẦU ĐẶC BIỆT)
+> [!IMPORTANT]
+> **Triết lý kiểm toán khắt khe — Thước đo Warren Buffett: Tiêu chuẩn "Tự báo cáo cho bản thân sau một năm đi xa":**  
+> *"Báo cáo thường niên lý tưởng là bản báo cáo mà một CEO/người quản lý viết cho chính đối tác sở hữu của mình — nói rõ sự thật những gì họ muốn biết nếu họ ở vị trí ngược lại: Nếu bạn phải đi xa 1 năm, hoàn toàn không biết gì về công ty, khi trở về mở bản báo cáo này ra, bạn có nắm trọn bức tranh thực sự về vận mệnh doanh nghiệp hay không?"*  
+> AI phải đóng vai trò **Ban Giám Sát Độc Lập** để đánh giá tổng quan cấu trúc và nội dung báo cáo: **Báo cáo này là một bản tường trình kinh doanh trung thực cho chủ sở hữu hay chỉ là một tập tài liệu PR bóng bẩy "báo công, giấu tội"?**
+
+AI **BẮT BUỘC** phải rà soát cấu trúc báo cáo qua **5 Câu Hỏi Cốt Tử Của Người Vừa Đi Xa Trở Về**:
+1. **Vị thế cạnh tranh & Sức khỏe thị phần:** Sau 1 năm, doanh nghiệp đang thực sự mạnh lên hay yếu đi? Khách hàng còn trung thành không? Thị phần tăng hay giảm trước các đối thủ mới nổi? Có dòng sản phẩm nào đang âm thầm suy thoái không?
+2. **Sự sòng phẳng khi thừa nhận sai lầm:** Ban điều hành có dám dũng cảm nêu tên các quyết định sai lầm, dự án thất bại, khoản đầu tư thua lỗ trong năm hay chỉ toàn dùng mỹ từ tô hồng ("nỗ lực vượt khó", "kết quả đáng khích lệ")?
+3. **Chất lượng dòng tiền & Phân bổ vốn:** Lợi nhuận ghi nhận là "tiền tươi thóc thật" (CFO) hay chỉ nằm trên giấy (bán chịu dồn vào phải thu, hàng ế chất kho)? Tiền thặng dư kiếm được đã được tái đầu tư vào đâu, tỷ suất sinh lời thực tế (ROIC) là bao nhiêu?
+4. **Rủi ro sinh tồn & Những quả bom nổ chậm:** Có cam kết nợ vay, covenants tài chính với ngân hàng, kiện tụng pháp lý hay rủi ro đứt gãy khách hàng/nhà cung ứng trọng yếu nào có thể đẩy công ty vào khủng hoảng trong 1-2 năm tới?
+5. **Tính trung thực & Đồng cam cộng khổ (Skin in the game):** Ban điều hành có đang cùng chịu rủi ro và hưởng lợi công bằng với cổ đông, hay họ đang tìm cách rút ruột quyền lợi thông qua thù lao cao ngất ngưởng, giao dịch mờ ám với công ty sân sau và phát hành ESOP dễ dãi?
+
+Đồng thời, AI **BẮT BUỘC** phải rà soát và chỉ rõ các điểm mù kỹ thuật sau:
+- **Khoảng trống Doanh thu & Biên lợi nhuận:** Công ty có gộp chung doanh thu không? Có bóc tách doanh thu và biên lợi nhuận gộp (Gross Margin) theo từng dòng sản phẩm/SKU hay không? Có tách rõ tăng trưởng đến từ sản lượng (Volume) hay tăng giá bán (Price)? Có công bố tỷ trọng từng kênh phân phối (GT, MT, E-commerce, B2B) không?
+- **Khoảng trống Khách hàng & Nhà cung cấp:** Có khách hàng nào chiếm $\ge 10\%$ doanh thu không (theo chuẩn Item 1 của SEC)? Nồng độ phụ thuộc vào nhà cung cấp đơn lẻ ra sao?
+- **Khoảng trống Hiệu suất vận hành (Operating Metrics):** Công suất thiết kế và tỷ lệ huy động thực tế (% Utilization Rate) của các nhà máy là bao nhiêu? Các chỉ số Unit Economics (doanh thu/cửa hàng, doanh thu/m2 sàn, giá bán bình quân ASP...) có bị giấu không?
+- **Khoảng trống Nợ vay & Covenants:** Lãi suất vay thực tế thả nổi có biên độ bao nhiêu? Các cam kết giao ước tài chính (Debt Covenants) với ngân hàng là gì và công ty có nguy cơ vi phạm không?
+- **Khoảng trống Kế hoạch Capex & Phân bổ vốn:** Các dự án lớn dở dang đã giải ngân bao nhiêu, tiến độ thực tế ra sao, tỷ suất sinh lời kỳ vọng (ROIC/IRR) có được công bố sòng phẳng không?
+- **Khoảng trống Lương thưởng & KPI Lãnh đạo:** Cơ chế thưởng của Ban Điều hành có gắn với KPI định lượng dài hạn (ROE, EPS, FCF) hay chỉ dựa trên kế hoạch doanh thu ngắn hạn dễ bị thao túng? Điều kiện phát hành ESOP có minh bạch không?
+- **Bảng Đánh Giá Đạt Chuẩn "Tự Báo Cáo Cho Bản Thân Sau Một Năm Đi Xa" & Bảng Điểm Minh Bạch (Transparency Scorecard 1-10)** kèm Top 5 Câu Hỏi "Hóc Búa" để chất vấn tại ĐHĐCĐ.
+
 ---
 
 ## 3. Quy Trình 5 Bước Tự Động Hóa Cho AI Agent
@@ -120,11 +169,13 @@ Khi người dùng yêu cầu phân tích một công ty, ví dụ:
 AI **BẮT BUỘC** kích hoạt quy trình 5 bước sau đây:
 
 ### Bước 1: Kiểm Tra Tài Liệu & Cấu Trúc Thư Mục
-1. Kiểm tra sự tồn tại của thư mục `companies/<TICKER>/<YEAR>/reports/`.
-2. Xác định các file PDF có trong thư mục `reports/` (ví dụ `annual-report.pdf`, `financial-statements.pdf`, hoặc file kết hợp).
+1. Kiểm tra sự tồn tại của thư mục `companies/<TICKER>/<YEAR>/<PERIOD>/reports/` (mặc định `<PERIOD>` là `FY` nếu phân tích cả năm, hoặc `Q1`-`Q4` nếu phân tích quý).
+2. Xác định các file PDF có trong thư mục `reports/` theo quy chuẩn đặt tên:
+   - Cả năm: `<TICKER>_<YEAR>_FY_Annual-Report.pdf`, `<TICKER>_<YEAR>_FY_Audited-FS.pdf`.
+   - Quý: `<TICKER>_<YEAR>_<PERIOD>_Financial-Statements.pdf`.
 3. Nếu thư mục chưa có cấu trúc chuẩn, chạy script khởi tạo:
    ```bash
-   python3 scripts/init_company.py --ticker <TICKER> --year <YEAR>
+   python3 scripts/init_company.py --ticker <TICKER> --year <YEAR> --period <PERIOD>
    ```
 
 ### Bước 2: Quét Mục Lục & Trích Xuất Dữ Liệu PDF
@@ -136,7 +187,7 @@ AI **BẮT BUỘC** kích hoạt quy trình 5 bước sau đây:
 2. Trích xuất text và bảng số liệu từ các dải trang tương ứng để phục vụ phân tích.
 
 ### Bước 3: Phân Tích Từng Trụ Cột & Lưu Vào `analysis/`
-1. Lần lượt viết các file phân tích chi tiết vào `companies/<TICKER>/<YEAR>/analysis/`:
+1. Lần lượt viết 8 file phân tích chi tiết vào `companies/<TICKER>/<YEAR>/<PERIOD>/analysis/`:
    - `01-business.md`
    - `02-risk-factors.md`
    - `03-financial-statements.md`
@@ -144,6 +195,7 @@ AI **BẮT BUỘC** kích hoạt quy trình 5 bước sau đây:
    - `05-management-governance.md`
    - `06-ownership.md`
    - `07-exhibits-notes.md`
+   - `08-disclosure-gaps.md`
 2. **Quy tắc trích xuất số liệu:**
    - Mọi số liệu tài chính phải có đơn vị tính rõ ràng (VNĐ, Tỷ VNĐ, Triệu USD, %).
    - Luôn so sánh với cùng kỳ năm trước ($YoY$) và tính tỷ lệ tăng trưởng.
@@ -156,22 +208,22 @@ AI **BẮT BUỘC** kích hoạt quy trình 5 bước sau đây:
    - Điểm mạnh cốt lõi (Key Strengths) & Điểm yếu/Rủi ro lớn nhất (Key Risks).
    - Bảng tổng hợp các chỉ số tài chính 3-5 năm gần nhất.
    - Bảng tổng hợp các Cờ Đỏ (Red Flags).
-   - Kết luận & Góc nhìn đầu tư theo phong cách 10-K.
+   - **Đánh giá Mức độ Minh bạch & Khoảng trống thông tin trọng yếu (Disclosure Gaps).**
+   - Kết luận & Góc nhìn đầu tư theo phong cách 10-K/10-Q.
 2. Chạy script đóng gói báo cáo hoàn chỉnh:
    ```bash
-   python3 scripts/build_report.py --ticker <TICKER> --year <YEAR>
+   python3 scripts/build_report.py --ticker <TICKER> --year <YEAR> --period <PERIOD>
    ```
-   Script này sẽ tổng hợp `summary.md` và toàn bộ 7 file trong `analysis/` thành một file `companies/<TICKER>/<YEAR>/README.md` duy nhất, chuẩn mực.
+   Script này sẽ tổng hợp `summary.md` và toàn bộ 8 file trong `analysis/` thành một file `companies/<TICKER>/<YEAR>/<PERIOD>/README.md` duy nhất, chuẩn mực.
 
-### Bước 5: Tự Động Git Commit & Push Lên GitHub
-> [!IMPORTANT]
-> Người dùng đã cấp phép tự động sử dụng Git cho repository này (`git@github.com:lenhan1102/10K.git`).
-> Sau khi hoàn thành phân tích hoặc cập nhật, thực hiện:
-```bash
-git add .
-git commit -m "feat(<TICKER>-<YEAR>): complete 10-K analysis"
-git push origin main
-```
+### Bước 5: Commit, Push Git & Hoàn Tất Báo Cáo
+1. **Commit & Push Git:** Sau khi hoàn thành phân tích và đóng gói báo cáo, AI thực hiện add các file phân tích mới, tạo commit và push lên remote repository:
+   ```bash
+   git add companies/<TICKER>/<YEAR>/<PERIOD>/
+   git commit -m "feat(analysis): hoàn thành phân tích 10-K <TICKER> <PERIOD> <YEAR>"
+   git push
+   ```
+2. **Phản hồi kết quả:** Khi hoàn thành, báo cáo phản hồi kết quả cho người dùng theo đúng cấu trúc chuẩn.
 
 ---
 
@@ -181,10 +233,9 @@ git push origin main
 - Trình bày mạch lạc, bảng biểu rõ ràng, sử dụng bullet points sắc bén.
 - Báo cáo phản hồi khi hoàn thành lệnh:
   ```markdown
-  Đã hoàn thành phân tích 10-K cho **[TÊN CÔNG TY] ([TICKER]) - Năm [YEAR]**
-  - Thư mục báo cáo: `companies/<TICKER>/<YEAR>/`
-  - 7 Trụ cột phân tích chi tiết: `companies/<TICKER>/<YEAR>/analysis/`
-  - Báo cáo tóm tắt điều hành: `companies/<TICKER>/<YEAR>/summary.md`
-  - Toàn văn báo cáo tổng hợp: `companies/<TICKER>/<YEAR>/README.md`
-  - Git commit: `feat(<TICKER>-<YEAR>): complete 10-K analysis` (đã push lên main)
+  Đã hoàn thành phân tích cho **[TÊN CÔNG TY] ([TICKER]) - Kỳ [PERIOD] Năm [YEAR]**
+  - Thư mục báo cáo: `companies/<TICKER>/<YEAR>/<PERIOD>/`
+  - 8 Trụ cột phân tích chi tiết: `companies/<TICKER>/<YEAR>/<PERIOD>/analysis/`
+  - Báo cáo tóm tắt điều hành: `companies/<TICKER>/<YEAR>/<PERIOD>/summary.md`
+  - Toàn văn báo cáo tổng hợp: `companies/<TICKER>/<YEAR>/<PERIOD>/README.md`
   ```

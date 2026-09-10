@@ -44,5 +44,21 @@
 
 ---
 
-## 5. Kết Luận & Góc Nhìn 10-K
+## 5. Đánh Giá Cấu Trúc Báo Cáo & Mức Độ Minh Bạch (Disclosure Gaps)
+
+- **Đánh Giá Theo Tiêu Chuẩn Warren Buffett ("Tự báo cáo cho bản thân sau 1 năm đi xa"):** `[ĐẠT CHUẨN / BÁN ĐẠT CHUẨN / THIÊN VỀ PR TÔ HỒNG]`
+  - *Bản chất báo cáo:* [Nếu chủ sở hữu đi xa 1 năm không biết gì về công ty, đọc báo cáo này có nắm được toàn bộ sự thật về vận mệnh doanh nghiệp không?]
+  - *Độ sòng phẳng thừa nhận khuyết điểm:* [Ban lãnh đạo có dám nêu tên sai lầm/dự án lỗ hay chỉ "báo công giấu tội"?]
+  - *Chất lượng dòng tiền & phân bổ vốn:* [Có giải trình minh bạch tiền kiếm được đi đâu và tỷ suất sinh lời thực tế?]
+- **Điểm Minh Bạch Tổng Thể:** `[X/10]` ([Cao / Khá / Trung Bình / Kém - Che Giấu Nhiều])
+- **Những thông tin trọng yếu Ban Quản Trị KHÔNG công bố chi tiết so với chuẩn 10-K:**
+  1. **[Khoảng trống 1]:** [Ví dụ: Không bóc tách cơ cấu doanh thu & biên lãi gộp từng dòng sản phẩm]
+  2. **[Khoảng trống 2]:** [Ví dụ: Thiếu số liệu nồng độ khách hàng lớn / sự phụ thuộc nhà cung ứng chính]
+  3. **[Khoảng trống 3]:** [Ví dụ: Không công bố công suất & tỷ lệ sử dụng thực tế của nhà máy]
+  4. **[Khoảng trống 4]:** [Ví dụ: Điều khoản nợ vay & covenants tài chính mập mờ]
+- **Câu hỏi quan trọng nhất cần chất vấn tại ĐHĐCĐ:** [Nêu 1-2 câu hỏi cấp thiết nhất]
+
+---
+
+## 6. Kết Luận & Góc Nhìn 10-K
 [Nhận định tổng kết về chất lượng doanh nghiệp, tính bền vững của lợi thế cạnh tranh và những điểm mấu chốt nhà đầu tư cần theo dõi sát sao trong năm tiếp theo.]
