@@ -1,0 +1,21 @@
+{
+  "ticker": "VRE",
+  "year": "2024",
+  "period": "FY",
+  "status": "COMPLETED",
+  "steps": {
+    "init": true,
+    "extract": true,
+    "analysis_01": true,
+    "analysis_02": true,
+    "analysis_03": true,
+    "analysis_04": true,
+    "analysis_05": true,
+    "analysis_06": true,
+    "analysis_07": true,
+    "analysis_08": true,
+    "appendix_09": true,
+    "summary": true,
+    "build": false
+  }
+}

@@ -28,7 +28,9 @@ Rất nhiều nhà đầu tư nhầm lẫn giữa hai khái niệm này:
 | **Hình tượng trực quan**| Là **"vòi nước bơm vào bồn"**. Mỗi năm ngân hàng trích bớt lợi nhuận để bơm vào bồn dự phòng. | Là **"mực nước tích trong bồn"**. Sẵn sàng xả ra để dập lửa khi có nợ mất vốn mà không làm thủng lợi nhuận năm đó. |
 
 ### Công thức tích lũy của Quỹ dự phòng:
-$$\text{Số dư Quỹ cuối kỳ} = \text{Số dư Quỹ đầu kỳ} + \text{Chi phí trích lập trong kỳ (P&L)} - \text{Số tiền dùng để xóa nợ (Write-off)}$$
+```text
+Số dư Quỹ cuối kỳ = Số dư Quỹ đầu kỳ + Chi phí trích lập trong kỳ (P&L) - Số tiền dùng để xóa nợ (Write-off)
+```
 
 *(Năm 2025 tại MB: Đầu năm có sẵn ~14.021 tỷ + Bơm thêm 13.744 tỷ chi phí từ P&L - Xả ra 12.185 tỷ xóa nợ = Số dư quỹ cuối năm còn lại khoảng 15.580 tỷ VNĐ).*
 
@@ -54,7 +56,9 @@ Trên Báo cáo tài chính của MBB năm 2025, có 2 cấu phần ngoại bả
 ## 4. Tại Sao Hàng Năm Tài Sản Tăng Cao Hơn Lợi Nhuận Rất Nhiều? Có Vi phạm Đẳng Thức Kế Toán Không?
 
 Đẳng thức kế toán nền tảng:
-$$\mathbf{Tài\ sản\ (Assets) = Nợ\ phải\ trả\ (Liabilities) + Vốn\ chủ\ sở\ hữu\ (Equity)}$$
+```text
+Tài sản (Assets) = Nợ phải trả (Liabilities) + Vốn chủ sở hữu (Equity)
+```
 
 Nhiều người thấy vô lý vì: *"Vốn chủ sở hữu (Equity) chỉ tăng thêm 20 nghìn tỷ lợi nhuận, tại sao Tài sản ngân hàng lại tăng thêm cả trăm nghìn tỷ?"*
 
@@ -83,7 +87,9 @@ Câu trả lời là: **HOÀN TOÀN KHÔNG**.
 
 Nguyên tắc bất di bất dịch của kế toán ngân hàng là: **"Chỉ trích lập phần còn thiếu (trích lập bổ sung)"**, không bao giờ trích lập mới lại từ đầu một khoản nợ cũ.
 
-$$\text{Chi phí trích lập trong kỳ (P&L)} = \text{Số dự phòng CẦN CÓ kỳ này} - \text{Số dự phòng ĐÃ CÓ từ trước}$$
+```text
+Chi phí trích lập ghi vào P&L = Số dự phòng CẦN CÓ kỳ này - Số dự phòng ĐÃ CÓ từ trước
+```
 
 - **Trần trích lập tối đa:** Đúng bằng **100% giá trị rủi ro của khoản nợ** (sau khi trừ giá trị khấu trừ của tài sản bảo đảm hợp lệ).
 - **Nếu nợ giữ nguyên nhóm:** Số cần có bằng số đã có $\rightarrow$ **Chi phí trích lập = 0 đồng** (dù khoản nợ xấu đó nằm lì 2 hay 3 năm, ngân hàng không tốn thêm chi phí).
@@ -102,5 +108,7 @@ $$\text{Chi phí trích lập trong kỳ (P&L)} = \text{Số dự phòng CẦN C
 | **Năm 5** | Vẫn nằm ở **Nhóm 5** | 100% | **100 tỷ** | 100 tỷ | **0 đồng** *(Đã trích đủ 100%)* |
 
 **Tổng chi phí thực tế ngân hàng đã ghi nhận qua 5 năm:**
-$$0,75 + 19,25 + 0 + 80 + 0 = \mathbf{100\ \text{tỷ VNĐ}}$$
+```text
+0,75 + 19,25 + 0 + 80 + 0 = 100 tỷ VNĐ
+```
 Đúng bằng **100%** giá trị khoản nợ, **không vượt dù chỉ 1 đồng**. Đến lúc này, ngân hàng dùng 100 tỷ quỹ dự phòng để xóa hẳn khoản nợ khỏi nội bảng và chuyển sang theo dõi ngoại bảng.

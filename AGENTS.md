@@ -224,15 +224,19 @@ Khi người dùng đặt câu hỏi giải thích thêm hoặc đào sâu về 
 2. **Nội dung:** Giải thích cặn kẽ bản chất nghiệp vụ, nguyên lý kế toán kép ($Assets = Liabilities + Equity$), liên hệ bảng số liệu thực tế của doanh nghiệp, và đánh giá tác động rủi ro/cơ hội.
 3. **Đóng gói lại:** Chạy lại `python3 scripts/build_report.py --ticker <TICKER> --year <YEAR> --period <PERIOD>` để tự động tích hợp phụ lục vào cuối báo cáo `README.md`.
 
-### Bước 5: Commit, Push Git & Hoàn Tất Báo Cáo
-1. **Quy tắc kiểm soát Git:** AI **tuyệt đối không được tự ý chạy lệnh git** trừ khi có sự cho phép rõ ràng từ người dùng.
-2. Khi được người dùng cho phép, thực hiện:
+### Bước 5: Tự Động Commit & Push Git Sau Khi Hoàn Thành Task
+> [!NOTE]
+> **Quy Tắc Đặc Thù Riêng Của Project (Project-Specific Rule):**  
+> Trong dự án `pdf-analyzer`, AI được phép **tự động chạy lệnh `git add`, `git commit` và `git push`** sau khi hoàn thành việc phân tích, đóng gói báo cáo hoặc cập nhật tài liệu để đồng bộ ngay lập tức lên GitHub repository mà không cần đợi người dùng phải xác nhận thủ công từng lần.
+
+1. **Thực hiện lệnh git tự động:**
    ```bash
    git add companies/<TICKER>/<YEAR>/<PERIOD>/
    git commit -m "feat(analysis): hoàn thành phân tích 10-K <TICKER> <PERIOD> <YEAR>"
    git push
    ```
-3. **Phản hồi kết quả:** Khi hoàn thành, báo cáo phản hồi kết quả cho người dùng theo đúng cấu trúc chuẩn kèm đường dẫn tới các file đã tạo.
+2. **Quy tắc an toàn:** Chỉ add và commit các file tài liệu/báo cáo phân tích hợp lệ, không commit các file rác, file tạm thừa hoặc thông tin bảo mật/credentials.
+3. **Phản hồi kết quả:** Khi hoàn thành, báo cáo phản hồi kết quả cho người dùng theo đúng cấu trúc chuẩn kèm đường dẫn tới các file đã tạo và thông báo trạng thái push Git thành công.
 
 ---
 
