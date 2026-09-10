@@ -50,11 +50,27 @@ Skill này hướng dẫn AI Agent tiếp nhận và phân tích tài liệu PDF
   python3 scripts/build_report.py --ticker <TICKER> --year <YEAR> --period <PERIOD>
   ```
 
-### 5. Commit, Push Git & Báo Cáo Phản Hồi
-- Thực hiện commit và push các file báo cáo phân tích mới lên remote repository:
+### 5. Tạo File Giải Thích Bổ Sung / Phụ Lục (Khi người dùng yêu cầu)
+- **Khi người dùng yêu cầu giải thích sâu** về một thuật ngữ, cơ chế kế toán hoặc hiện tượng tài chính đặc thù (ví dụ: xử lý nợ xấu, quỹ dự phòng, cam kết ngoại bảng, khấu hao, đòn bẩy, M&A...):
+  1. **Tạo file markdown giải thích** đặt trong thư mục `companies/<TICKER>/<YEAR>/<PERIOD>/analysis/` với định dạng tên:
+     - `09-appendix-<tên-chủ-đề-ngắn-gọn>.md` (hoặc số thứ tự tiếp theo nếu đã có `09-...`).
+  2. **Nội dung file giải thích bắt buộc gồm:**
+     - Bản chất kỹ thuật & quy định pháp lý/chuẩn mực kế toán (VAS/IFRS, Thông tư NHNN).
+     - Bút toán kế toán kép (Double-entry) và tác động lên phương trình kế toán ($Assets = Liabilities + Equity$).
+     - Minh họa bằng số liệu thực tế trích từ báo cáo tài chính của chính doanh nghiệp đó.
+     - Đánh giá ý nghĩa đối với nhà đầu tư (cơ hội vs cờ đỏ rủi ro).
+  3. **Đóng gói lại báo cáo:** Chạy lại script đóng gói để phụ lục tự động nối vào cuối file `README.md`:
+     ```bash
+     python3 scripts/build_report.py --ticker <TICKER> --year <YEAR> --period <PERIOD>
+     ```
+
+### 6. Commit, Push Git & Báo Cáo Phản Hồi
+- **LƯU Ý QUY TẮC:** Chỉ thực hiện git add, commit, push khi người dùng cho phép (tuân thủ quy tắc không tự ý dùng git).
+- Khi được phép, thực hiện:
   ```bash
   git add companies/<TICKER>/<YEAR>/<PERIOD>/
   git commit -m "feat(analysis): hoàn thành phân tích 10-K <TICKER> <PERIOD> <YEAR>"
   git push
   ```
-- Thông báo kết quả phân tích kèm đường dẫn tới thư mục và file báo cáo README.md.
+- Thông báo kết quả phân tích kèm đường dẫn tới thư mục, file phân tích mới và file báo cáo README.md.
+

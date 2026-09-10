@@ -69,6 +69,21 @@ def main():
         else:
             full_content.append(f"\n\n## {title}\n*Đang cập nhật...*\n\n---\n")
 
+    # 3. Phụ Lục & Các File Giải Thích Bổ Sung (Appendices / Explanatory Notes)
+    standard_files = {s[0] for s in sections}
+    if os.path.exists(analysis_dir):
+        extra_files = sorted([
+            f for f in os.listdir(analysis_dir)
+            if f.endswith(".md") and f not in standard_files
+        ])
+        for extra_file in extra_files:
+            extra_path = os.path.join(analysis_dir, extra_file)
+            with open(extra_path, "r", encoding="utf-8") as ef:
+                content = ef.read().strip()
+                full_content.append(f"\n\n<!-- APPENDIX: {extra_file} -->\n")
+                full_content.append(content)
+                full_content.append("\n\n---\n")
+
     full_content.append("\n\n*Báo cáo được tạo bởi Hệ thống 10-K Analyzer.*\n")
 
     with open(output_readme, "w", encoding="utf-8") as out:

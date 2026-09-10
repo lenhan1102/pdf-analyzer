@@ -216,16 +216,23 @@ AI **BẮT BUỘC** kích hoạt quy trình 5 bước sau đây:
    ```bash
    python3 scripts/build_report.py --ticker <TICKER> --year <YEAR> --period <PERIOD>
    ```
-   Script này sẽ tổng hợp `summary.md` và toàn bộ 8 file trong `analysis/` thành một file `companies/<TICKER>/<YEAR>/<PERIOD>/README.md` duy nhất, chuẩn mực.
+   Script này sẽ tổng hợp `summary.md`, toàn bộ 8 file chuẩn trong `analysis/` và bất kỳ file phụ lục giải thích bổ sung nào (`09-appendix-*.md`) thành một file `companies/<TICKER>/<YEAR>/<PERIOD>/README.md` duy nhất, chuẩn mực.
+
+### Bước 4.1: Tạo File Giải Thích Chuyên Sâu (Khi Người Dùng Yêu Cầu Đào Sâu)
+Khi người dùng đặt câu hỏi giải thích thêm hoặc đào sâu về một cơ chế kế toán, tài chính đặc thù (dự phòng rủi ro, xóa nợ ngoại bảng, khấu hao, dòng tiền, M&A...):
+1. **Tạo file phụ lục:** Tạo file `companies/<TICKER>/<YEAR>/<PERIOD>/analysis/09-appendix-<tên-chủ-đề>.md` (hoặc `10-...` nếu đã có).
+2. **Nội dung:** Giải thích cặn kẽ bản chất nghiệp vụ, nguyên lý kế toán kép ($Assets = Liabilities + Equity$), liên hệ bảng số liệu thực tế của doanh nghiệp, và đánh giá tác động rủi ro/cơ hội.
+3. **Đóng gói lại:** Chạy lại `python3 scripts/build_report.py --ticker <TICKER> --year <YEAR> --period <PERIOD>` để tự động tích hợp phụ lục vào cuối báo cáo `README.md`.
 
 ### Bước 5: Commit, Push Git & Hoàn Tất Báo Cáo
-1. **Commit & Push Git:** Sau khi hoàn thành phân tích và đóng gói báo cáo, AI thực hiện add các file phân tích mới, tạo commit và push lên remote repository:
+1. **Quy tắc kiểm soát Git:** AI **tuyệt đối không được tự ý chạy lệnh git** trừ khi có sự cho phép rõ ràng từ người dùng.
+2. Khi được người dùng cho phép, thực hiện:
    ```bash
    git add companies/<TICKER>/<YEAR>/<PERIOD>/
    git commit -m "feat(analysis): hoàn thành phân tích 10-K <TICKER> <PERIOD> <YEAR>"
    git push
    ```
-2. **Phản hồi kết quả:** Khi hoàn thành, báo cáo phản hồi kết quả cho người dùng theo đúng cấu trúc chuẩn.
+3. **Phản hồi kết quả:** Khi hoàn thành, báo cáo phản hồi kết quả cho người dùng theo đúng cấu trúc chuẩn kèm đường dẫn tới các file đã tạo.
 
 ---
 
