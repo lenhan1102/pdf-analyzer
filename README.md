@@ -105,6 +105,14 @@ AI sẽ tự động:
 4. Phát hiện các dấu hiệu cảnh báo (Red Flags), chấm điểm minh bạch và viết `summary.md`.
 5. Chạy `python3 scripts/build_report.py --ticker FPT --year 2023 --period FY` để đóng gói báo cáo hoàn chỉnh.
 
+---
+
+## 📋 Mẫu Prompt Ra Lệnh Cho AI (Prompts Cheatsheet)
+Xem toàn bộ các mẫu câu lệnh tổng quát cho cả 2 Nhiệm vụ tại: **[PROMPTS.md](PROMPTS.md)**
+- **Nhiệm vụ 1:** Phân tích BCTC & BCTN theo chuẩn 10-K & bóc tách điểm mù Ban Quản Trị.
+- **Nhiệm vụ 2:** Trích xuất Tiêu chuẩn Doanh nghiệp Tinh hoa từ bài viết / bài nói chuyện.
+- **Nhiệm vụ Kết hợp:** Chấm điểm đối chiếu doanh nghiệp theo Bộ tiêu chuẩn (`scorecard`).
+
 
 ---
 

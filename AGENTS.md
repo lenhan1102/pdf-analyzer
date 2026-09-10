@@ -1,27 +1,29 @@
-# AGENTS.md - Quy Chuẩn & Quy Tắc Vận Hành Phân Tích Doanh Nghiệp Theo Chuẩn 10-K
+# AGENTS.md - Quy Chuẩn & Quy Tắc Vận Hành Hệ Thống Phân Tích Doanh Nghiệp & Bộ Tiêu Chuẩn Đầu Tư
 
-Tài liệu này là quy chuẩn chỉ đạo tối cao dành cho **AI Agent** trong repository `10K`. 
-Mục tiêu cốt lõi của dự án là: **Tiếp nhận Báo Cáo Thường Niên (Annual Report) và Báo Cáo Tài Chính (Financial Statements) dưới dạng PDF của doanh nghiệp, sau đó phân tích sâu sắc, bóc tách và trích xuất thành 8 trụ cột trọng yếu theo chuẩn mực báo cáo thường niên 10-K của Ủy ban Chứng khoán Hoa Kỳ (SEC) kết hợp kiểm toán tính minh bạch & khoảng trống thông tin của Ban Quản Trị.**
+Tài liệu này là quy chuẩn chỉ đạo tối cao dành cho **AI Agent** trong repository. 
+Hệ thống vận hành **2 Nhiệm Vụ Cốt Lõi** tương hỗ lẫn nhau:
+
+1. **Nhiệm Vụ 1 (10k-analyzer):** Tiếp nhận Báo Cáo Thường Niên (Annual Report) và Báo Cáo Tài Chính (Financial Statements) dưới dạng PDF, sau đó bóc tách thành 8 trụ cột trọng yếu theo chuẩn 10-K của SEC kết hợp kiểm toán tính minh bạch & khoảng trống thông tin theo chuẩn Warren Buffett.
+2. **Nhiệm Vụ 2 (criteria-extractor):** Tiếp nhận các tài liệu đúc kết tri thức (bài nói chuyện, bài viết, sách, tài liệu phân tích định tính dạng PDF/MD), trích xuất thành **Bộ Tiêu Chuẩn Doanh Nghiệp Tốt** (gồm cả định lượng BCTC và định tính: con hào kinh tế, quan hệ chính phủ/thể chế), từ đó làm thước đo đối chiếu chấm điểm (`scorecard`) cho các doanh nghiệp ở Nhiệm vụ 1.
 
 ---
 
 ## 1. Bản Chất Dự Án & Cấu Trúc Thư Mục Phân Cấp
 
-Mỗi doanh nghiệp và từng thời điểm báo cáo được module hóa độc lập theo phân cấp ngăn nắp:  
-`companies/<TICKER>/<YEAR>/<PERIOD>/`
-
-- `<TICKER>`: Mã cổ phiếu (ví dụ: `VNM`, `FPT`, `HPG`, `AAPL`...).
-- `<YEAR>`: Năm tài chính 4 chữ số (ví dụ: `2023`, `2024`, `2025`...).
-- `<PERIOD>`: Thời điểm báo cáo:
-  - **`FY`**: Fiscal Year - Báo cáo thường niên & BCTC kiểm toán cả năm (**Chuẩn 10-K**).
-  - **`Q1`, `Q2`, `Q3`, `Q4`**: Báo cáo tài chính quý (**Chuẩn 10-Q**).
-
 ```text
-10K/
+pdf-analyzer/
 ├── AGENTS.md                  # Bản quy chuẩn tối cao vận hành AI Agent
-├── README.md                  # Hướng dẫn tổng quan và triết lý phân tích 10-K/10-Q
+├── README.md                  # Hướng dẫn tổng quan
 ├── requirements.txt           # Thư viện xử lý PDF và dữ liệu
+├── .agents/skills/            # Kỹ năng định nghĩa cho AI Agent
+│   ├── 10k-analyzer/          # Kỹ năng phân tích doanh nghiệp theo chuẩn 10-K
+│   └── criteria-extractor/    # Kỹ năng trích xuất tiêu chuẩn doanh nghiệp tốt
+├── frameworks/                # [Nhiệm vụ 2] Kho tri thức tiêu chuẩn & triết lý đầu tư
+│   ├── sources/               # Tài liệu nguồn (bài viết, bài phát biểu PDF/MD)
+│   └── criteria/              # Các bộ tiêu chuẩn đã được module hóa
+│       └── index.md           # Danh mục các bộ tiêu chuẩn
 ├── templates/                 # Các biểu mẫu chuẩn cho 8 trụ cột phân tích
+├── scripts/                   # Công cụ trích xuất PDF và đóng gói báo cáo
 │   ├── 00-summary.md
 │   ├── 01-business.md
 │   ├── 02-risk-factors.md
