@@ -1111,3 +1111,192 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 - **Lý do loại trừ tại Bước 4:**
   - ROE trong suốt 5 năm gần nhất (4.8%, 6.8%, 8.9%, 7.0%) đều nằm dưới ngưỡng tối thiểu 10%.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 105. NSH - Công ty Cổ phần Tập đoàn Nhôm Sông Hồng Shalumi
+- **Mã cổ phiếu:** `NSH` (Sàn HNX)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.6%, 1.8%, 0.4%, 0.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 106. NST - Công ty Cổ phần Ngân Sơn
+- **Mã cổ phiếu:** `NST` (Sàn HNX)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.5%, 3.6%, 6.2%, 9.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 107. NVB - Ngân hàng Thương mại cổ phần Quốc Dân
+- **Mã cổ phiếu:** `NVB` (Sàn HNX)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.0%, 0.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 108. ONE - Công ty Cổ phần Công nghệ ONE
+- **Mã cổ phiếu:** `ONE` (Sàn HNX)
+- **Ngành nghề niêm yết:** Công nghệ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.2%, 6.8%, 1.8%, 1.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 109. PCH - Công ty Cổ phần Nhựa Picomat
+- **Mã cổ phiếu:** `PCH` (Sàn HNX)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.2%, 6.4%, 5.8%, 4.7%, 4.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 110. POT - Công ty Cổ phần Thiết bị Bưu điện
+- **Mã cổ phiếu:** `POT` (Sàn HNX)
+- **Ngành nghề niêm yết:** Công nghệ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (5.5%, 4.0%, 0.8%, 1.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 111. PPT - Công ty cổ phần Petro Times
+- **Mã cổ phiếu:** `PPT` (Sàn HNX)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.8%, 4.2%, 4.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 112. PRC - Công ty Cổ phần Logistics Portserco
+- **Mã cổ phiếu:** `PRC` (Sàn HNX)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.3%, 4.6%, 0.3%, 5.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 113. PSC - Công ty cổ phần Vận tải và Dịch vụ Petrolimex Sài Gòn
+- **Mã cổ phiếu:** `PSC` (Sàn HNX)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (9.5%, 6.5%, 6.5%, 0.9%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 114. PVC - Tổng Công ty Hóa chất và Dịch vụ Dầu khí - CTCP
+- **Mã cổ phiếu:** `PVC` (Sàn HNX)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.7%, 0.9%, 1.9%, 0.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 115. PVG - Công ty Cổ phần Kinh doanh LPG Việt Nam
+- **Mã cổ phiếu:** `PVG` (Sàn HNX)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.1%, 3.0%, 0.2%, 2.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 116. SDA - Công ty Cổ phần Simco Sông Đà
+- **Mã cổ phiếu:** `SDA` (Sàn HNX)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (2.4%, 8.8%, -15.7%, -115.9%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 117. SGD - Công ty cổ phần Sách Giáo dục tại T.P Hồ Chí Minh
+- **Mã cổ phiếu:** `SGD` (Sàn HNX)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.9%, 2.7%, 2.7%, -1.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 118. SGH - Công ty Cổ phần Khách sạn Sài Gòn
+- **Mã cổ phiếu:** `SGH` (Sàn HNX)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (2.6%, 2.6%, 9.2%, 7.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 119. SHN - Công ty Cổ phần Đầu tư Tổng hợp Hà Nội
+- **Mã cổ phiếu:** `SHN` (Sàn HNX)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.2%, 2.2%, 0.2%, 0.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 120. SJ1 - Công ty cổ phần Nông nghiệp Hùng Hậu
+- **Mã cổ phiếu:** `SJ1` (Sàn HNX)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.4%, 4.4%, 3.2%, 8.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 121. SMT - Công ty cổ phần SAMETEL
+- **Mã cổ phiếu:** `SMT` (Sàn HNX)
+- **Ngành nghề niêm yết:** Công nghệ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (5.5%, 3.1%, -4.8%, 1.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 122. SSM - Công ty Cổ phần Chế tạo Kết cấu Thép VNECO.SSM
+- **Mã cổ phiếu:** `SSM` (Sàn HNX)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (9.5%, -5.2%, 2.5%, 7.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 123. STP - Công ty Cổ phần Công nghiệp Thương mại Sông Đà
+- **Mã cổ phiếu:** `STP` (Sàn HNX)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (5.1%, 4.7%, 7.0%, 4.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 124. TD6 - Công ty cổ phần Than Đèo Nai - Cọc Sáu - TKV
+- **Mã cổ phiếu:** `TD6` (Sàn HNX)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (8.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 125. TDT - Công ty cổ phần Đầu tư và Phát triển TDT
+- **Mã cổ phiếu:** `TDT` (Sàn HNX)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (9.2%, 7.8%, 4.9%, 5.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
