@@ -38,4 +38,5 @@
 | 28 | `FCN` | CTCP FECON | HOSE | Xây lắp nền móng & Hạ tầng | Nhà thầu xây lắp công trình hạ tầng, nợ đọng lớn, biên ròng mỏng, ROE 0.3% | 13/09/2026 |
 | 29 | `FDC` | CTCP Ngoại thương & PTĐT TP.HCM (Fideco) | HOSE | Bất động sản & Đầu tư tài chính | BĐS dân dụng dự án chậm trễ, đầu tư tài chính biến động, từng lỗ nặng 2022, ROE 1.1% | 13/09/2026 |
 | 30 | `FIR` | CTCP Địa ốc First Real | HOSE | Bất động sản đất nền | Đất nền miền Trung đóng băng thanh khoản, nợ vay đọng, ROE năm 2024 chỉ 0.08% | 13/09/2026 |
+| 31 | `FIT` | CTCP Tập đoàn F.I.T | HOSE | Đầu tư tài chính & BĐS nghỉ dưỡng | Holding đầu tư tài chính dàn trải, BĐS nghỉ dưỡng đọng vốn, ROE 7 năm < 3.5% | 13/09/2026 |
 

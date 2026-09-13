@@ -311,3 +311,14 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
   - Hoạt động cốt lõi là **đầu tư phát triển và môi giới đất nền bất động sản dân dụng**, nằm ngoài Vòng tròn năng lực theo quy chuẩn hệ thống.
   - Phụ thuộc vào các đợt sốt đất nền miền Trung; khi thị trường đóng băng thanh khoản, lợi nhuận sụt giảm nghiêm trọng, năm 2024 LNST chỉ đạt vài trăm triệu đồng, ROE chỉ đạt **0.08%**.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 31. FIT - Công ty Cổ phần Tập đoàn F.I.T
+- **Mã cổ phiếu:** `FIT` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Tài chính / Đầu tư tài chính đa ngành
+- **Hoạt động kinh doanh chính:** Hoạt động như một tập đoàn holding đầu tư tài chính đa ngành, thâu tóm và nắm giữ vốn tại các công ty dược phẩm (DCL), nước khoáng (Vikoda), nông nghiệp (Westfood) và bất động sản nghỉ dưỡng (Cap Padaran Mũi Dinh).
+- **Lý do loại trừ tại Bước 1:**
+  - Mô hình kinh doanh là **tập đoàn đầu tư tài chính đa ngành và bất động sản nghỉ dưỡng đầu cơ**, nằm ngoài Vòng tròn năng lực theo quy chuẩn hệ thống.
+  - Hoạt động đầu tư dàn trải, hiệu quả phân bổ vốn rất yếu kém (ROE suốt 7 năm liền chưa từng vượt quá 3.5%, năm 2023 thua lỗ), cơ cấu tài chính tiềm ẩn nhiều rủi ro đầu tư ủy thác và pha loãng cổ phiếu.
+- **Ngày Phân Tích:** 13/09/2026

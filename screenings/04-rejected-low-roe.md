@@ -350,3 +350,36 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
   - Vượt qua 3 bước đầu tiên.
   - Tuy nhiên tại Bước 4, EVF có **ROE 5 năm liên tục nằm dưới mức 8.5% (chưa từng có năm nào chạm mốc 10%)**. Là tổ chức tín dụng phi ngân hàng, EVF chịu chi phí huy động vốn cao hơn đáng kể so với các ngân hàng thương mại, rủi ro nợ xấu và trích lập dự phòng lớn khiến tỷ suất sinh lời trên vốn chủ sở hữu không thể bứt phá lên mức 10%.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 26. GEG - Công ty Cổ phần Điện Gia Lai
+- **Mã cổ phiếu:** `GEG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Năng lượng / Năng lượng tái tạo
+- **Hoạt động kinh doanh chính:** Đầu tư và vận hành các nhà máy năng lượng tái tạo (thủy điện, điện mặt trời, điện gió) trên toàn quốc.
+- **Thống kê ROE qua các năm:**
+  - Năm 2020: ROE = **7.42%**
+  - Năm 2021: ROE = **7.57%**
+  - Năm 2022: ROE = **~7.80%**
+  - Năm 2023: ROE = **2.38%**
+  - Năm 2024: ROE = **1.99%**
+  - *Giai đoạn trước đó (2018 - 2019): ROE chỉ đạt 6.01% và 9.73%*
+- **Lý do loại trừ tại Bước 4:**
+  - Doanh nghiệp hoàn thành Bước 1, Bước 2 và Bước 3 (sản xuất điện sạch thiết yếu).
+  - Tuy nhiên tại Bước 4, GEG có **hiệu quả sử dụng vốn liên tục dưới 8% trong suốt 5 năm gần nhất, và suy giảm nghiêm trọng còn ~2% trong 2 năm 2023-2024**.
+  - Doanh nghiệp sử dụng đòn bẩy nợ vay tài chính rất lớn để mở rộng ồ ạt các dự án điện gió và điện mặt trời (tỷ lệ Nợ/Vốn CSH thường xuyên ở mức 1.8 - 2.2 lần); gánh nặng chi phí lãi vay trong môi trường lãi suất cao cùng rủi ro cắt giảm công suất phát điện đã bào mòn gần hết lợi nhuận ròng của cổ đông.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 27. GEL - Công ty Cổ phần Hạ tầng GELEX
+- **Mã cổ phiếu:** `GEL` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Công nghiệp / Hạ tầng khu công nghiệp & Tiện ích
+- **Hoạt động kinh doanh chính:** Nắm giữ và phát triển mảng hạ tầng của Tập đoàn GELEX: Bất động sản khu công nghiệp và vật liệu xây dựng (thông qua Viglacera - VGC), sản xuất nước sạch (Nước sạch Sông Đà - VCW) và năng lượng tái tạo.
+- **Thống kê ROE:**
+  - Năm 2025: ROE = **2.53%** (EPS = 0.61k trên BVPS 10.82k)
+- **Lý do loại trừ tại Bước 4:**
+  - Hoàn thành Bước 1 (hạ tầng KCN và nước sạch), Bước 2 và Bước 3.
+  - Tuy nhiên tại Bước 4, GEL có **hiệu quả sử dụng vốn quá thấp với ROE chỉ đạt 2.53% (< 10%)**.
+  - Là công ty holding sở hữu các mảng hạ tầng với quy mô tài sản lớn nhưng cơ cấu nợ vay cao (Nợ/Tổng tài sản xấp xỉ 60%), chi phí tài chính và lợi ích cổ đông thiểu số lớn khiến tỷ suất sinh lời thực tế trên vốn chủ sở hữu không đạt chuẩn tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026

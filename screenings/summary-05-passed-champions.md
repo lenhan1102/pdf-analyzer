@@ -58,4 +58,11 @@
 | 48 | `DSN` | CTCP Công viên nước Đầm Sen | HOSE | Vui chơi giải trí nội đô | ~29.3% (5 năm: 19-36%) | ~1.40 | Độc quyền công viên nước nội đô TP.HCM, nợ vay 0đ, tiền gửi chiếm 60% TS, cổ tức 40-60% | 13/09/2026 |
 | 49 | `DVP` | CTCP Đầu tư và Phát triển Cảng Đình Vũ | HOSE | Cảng biển container | ~22.6% (5 năm: 18.5-24%) | ~1.98 | Cảng container cửa ngõ Hải Phòng, biên ròng 45-50%, tiền gửi >1,200 tỷ (70% TS), cổ tức 50-70% | 13/09/2026 |
 | 50 | `EIB` | Ngân hàng TMCP Xuất nhập khẩu Việt Nam (Eximbank) | HOSE | Ngân hàng thương mại | ~9.0% (2022: 14.4%) | ~0.96 | Ngân hàng TMCP quy mô lớn, thế mạnh tài trợ XNK; cần chú ý rủi ro quản trị nhóm cổ đông | 13/09/2026 |
+| 51 | `FMC` | CTCP Thực phẩm Sao Ta | HOSE | Thủy sản chế biến sâu | ~12.4% (5 năm: 12-21%) | ~1.00 | Vua tôm xuất khẩu Nhật Bản, thuộc The PAN Group & C.P Thái Lan, cổ tức 20-25% | 13/09/2026 |
+| 52 | `FPT` | CTCP FPT | HOSE | Công nghệ & Viễn thông | ~22.0% (5 năm: 19-22%) | ~3.68 | Gã khổng lồ CNTT số 1 VN, đối tác NVIDIA/Microsoft, tiền mặt ~30,000 tỷ, ROE ~22% | 13/09/2026 |
+| 53 | `FRT` | CTCP Bán lẻ Kỹ thuật số FPT (FPT Retail) | HOSE | Bán lẻ dược phẩm & ICT | 15.0% (2021-22: 25-26%) | ~9.98 | Vua bán lẻ dược phẩm với ~2,000 nhà thuốc Long Châu dẫn đầu toàn quốc, ROE bùng nổ | 13/09/2026 |
+| 54 | `FTS` | CTCP Chứng khoán FPT | HOSE | Dịch vụ chứng khoán | ~13.8% (5 năm: 11.5-28%) | ~1.75 | CTCK công nghệ chuẩn Nhật Bản Daiwa Securities, không nợ xấu margin, ROE 12-28% | 13/09/2026 |
+| 55 | `GAS` | Tổng Công ty Khí Việt Nam (PV GAS) | HOSE | Năng lượng / Hạ tầng Khí | ~16.9% (5 năm: 16-24.5%) | ~3.29 | Độc quyền 100% hệ thống đường ống khí quốc gia, tiền gửi >35,000 tỷ, cổ tức 30-60% | 13/09/2026 |
+| 56 | `GDT` | CTCP Chế biến Gỗ Đức Thành | HOSE | Đồ gỗ gia dụng cao cấp | ~18.4% (5 năm: 12.5-29.5%) | ~1.26 | Đồ gỗ gia dụng xuất Nhật/Mỹ chuẩn an toàn cao, sạch bóng nợ vay, cổ tức 30-50% | 13/09/2026 |
+| 57 | `GEE` | CTCP Điện lực GELEX | HOSE | Thiết bị điện | ~22.8% (5 năm: 12-22.8%) | ~3.05 | Vua dây cáp CADIVI thị phần số 1 VN & máy biến áp THIBIDI, ROE đạt 22.8% | 13/09/2026 |
 

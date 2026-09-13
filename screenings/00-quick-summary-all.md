@@ -139,4 +139,14 @@
 | 118 | `FCN` | CTCP FECON | HOSE | Công nghiệp / Xây lắp nền móng | ❌ Rớt B1 | Nhà thầu thi công hạ tầng, công nợ đọng lớn, biên ròng mỏng, ROE 0.3% | [01-rejected](01-rejected-circle-of-competence.md) |
 | 119 | `FDC` | CTCP Ngoại thương & PTĐT TP.HCM (Fideco) | HOSE | Dịch vụ / Bất động sản | ❌ Rớt B1 | BĐS dân dụng dự án chậm trễ, từng lỗ nặng năm 2022, ROE năm 2024 chỉ 1.1% | [01-rejected](01-rejected-circle-of-competence.md) |
 | 120 | `FIR` | CTCP Địa ốc First Real | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Đất nền miền Trung đóng băng thanh khoản, lợi nhuận teo tóp, ROE 2024 chỉ 0.08% | [01-rejected](01-rejected-circle-of-competence.md) |
+| 121 | `FIT` | CTCP Tập đoàn F.I.T | HOSE | Tài chính / Đầu tư tài chính | ❌ Rớt B1 | Holding đầu tư tài chính dàn trải, BĐS nghỉ dưỡng đọng vốn, ROE < 3.5% | [01-rejected](01-rejected-circle-of-competence.md) |
+| 122 | `FMC` | CTCP Thực phẩm Sao Ta | HOSE | Nông nghiệp / Thủy sản | 🏆 Vượt B4 | Vua tôm chế biến sâu xuất khẩu Nhật Bản, The PAN Group, ROE 12-21%, cổ tức 20-25% | [05-passed](05-passed-champions.md) |
+| 123 | `FPT` | CTCP FPT | HOSE | Công nghệ thông tin | 🏆 Vượt B4 | Gã khổng lồ CNTT số 1 VN, tiền mặt ~30,000 tỷ, ROE 19-22% suốt 5 năm | [05-passed](05-passed-champions.md) |
+| 124 | `FRT` | CTCP Bán lẻ Kỹ thuật số FPT | HOSE | Bán lẻ dược phẩm & ICT | 🏆 Vượt B4 | Chuỗi ~2,000 nhà thuốc FPT Long Châu số 1 VN, ROE bùng nổ 15% - 26% | [05-passed](05-passed-champions.md) |
+| 125 | `FTS` | CTCP Chứng khoán FPT | HOSE | Tài chính / Chứng khoán | 🏆 Vượt B4 | CTCK công nghệ chuẩn Nhật Bản Daiwa Securities, không nợ margin, ROE 12-28% | [05-passed](05-passed-champions.md) |
+| 126 | `GAS` | Tổng Công ty Khí Việt Nam (PV GAS) | HOSE | Năng lượng / Hạ tầng Khí | 🏆 Vượt B4 | Độc quyền 100% hạ tầng khí quốc gia, tiền gửi >35,000 tỷ, ROE 16-24.5%, cổ tức khủng | [05-passed](05-passed-champions.md) |
+| 127 | `GDT` | CTCP Chế biến Gỗ Đức Thành | HOSE | Hàng tiêu dùng / Đồ gỗ | 🏆 Vượt B4 | Đồ gỗ gia dụng xuất khẩu Nhật/Mỹ, nợ vay 0đ, ROE 12.5-29.5%, cổ tức 30-50% tiền mặt | [05-passed](05-passed-champions.md) |
+| 128 | `GEE` | CTCP Điện lực GELEX | HOSE | Công nghiệp / Thiết bị điện | 🏆 Vượt B4 | Vua dây cáp điện CADIVI thị phần số 1 VN & THIBIDI, ROE bùng nổ 22.8% | [05-passed](05-passed-champions.md) |
+| 129 | `GEG` | CTCP Điện Gia Lai | HOSE | Năng lượng tái tạo | ❌ Rớt B4 | Đòn bẩy nợ mở rộng điện gió lớn, chi phí lãi vay cao, ROE 5 năm < 8% | [04-rejected](04-rejected-low-roe.md) |
+| 130 | `GEL` | CTCP Hạ tầng GELEX | HOSE | Công nghiệp / Hạ tầng KCN | ❌ Rớt B4 | Holding hạ tầng KCN Viglacera đòn bẩy nợ cao (~60%), ROE chỉ đạt 2.53% | [04-rejected](04-rejected-low-roe.md) |
 

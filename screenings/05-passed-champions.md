@@ -747,7 +747,149 @@ Tài liệu này lưu trữ những "Viên Kim Cương" xuất sắc nhất: Cá
     - 2022: **14.38%** (Vượt chuẩn xuất sắc $\ge 10\%$)
     - 2023: **~9.80%**
     - 2024: **~9.00%**
-    - *Theo quy chuẩn Bước 4: Doanh nghiệp có năm 2022 đạt ROE 14.38% $\ge 10\% ightarrow$ Thỏa mãn điều kiện vượt qua Bước 4!*
+    - *Theo quy chuẩn Bước 4: Doanh nghiệp có năm 2022 đạt ROE 14.38% $\ge 10\% 
+ightarrow$ Thỏa mãn điều kiện vượt qua Bước 4!*
 - **Lưu ý kiểm toán & Quản trị công ty:**
   - Cần đặc biệt theo dõi rủi ro quản trị (Corporate Governance): Lịch sử tranh chấp quyền kiểm soát kéo dài giữa các nhóm cổ đông lớn ảnh hưởng đến tính ổn định của Ban lãnh đạo cấp cao; lợi nhuận năm 2022 bùng nổ có đóng góp lớn từ thu nhập bất thường và hoàn nhập dự phòng.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 51. FMC - Công ty Cổ phần Thực phẩm Sao Ta
+- **Mã cổ phiếu:** `FMC` (Sàn HOSE)
+- **Ngành nghề:** Nông nghiệp chế biến / Thủy sản xuất khẩu cao cấp
+- **Mô hình kinh doanh:** Nuôi trồng, chế biến và xuất khẩu tôm cao cấp chế biến sâu sang thị trường Nhật Bản, Mỹ, EU. Thành viên cốt lõi của The PAN Group.
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Thủy sản chế biến sâu xuất khẩu giá trị cao.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Duy trì lợi nhuận sau thuế từ 300 - 350 tỷ đồng mỗi năm, tăng trưởng bền bỉ.
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Đứng đầu Việt Nam về xuất khẩu tôm chế biến sâu (tôm bao bột, tôm chiên, tôm sushi) vào thị trường Nhật Bản khó tính nhất; chuỗi nuôi khép kín chuẩn quốc tế ASC/BAP, biên lợi nhuận gộp ổn định 10-12%.
+  - **Bước 4 (Hiệu quả vốn ROE 5 năm):**
+    - 2020: **20.90%**
+    - 2021: **13.51%**
+    - 2022: **~15.00%**
+    - 2023: **12.36%**
+    - 2024: **12.40%**
+    - *Cả 5 năm liên tiếp đều duy trì ROE trên 12% - 21%.*
+- **Sức khỏe tài chính & Cổ tức:**
+  - Nền tảng tài chính an toàn, được bảo trợ bởi The PAN Group và đối tác chiến lược C.P. Pokphand (Thái Lan).
+  - Chi trả cổ tức tiền mặt đều đặn 20% - 25% hàng năm.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 52. FPT - Công ty Cổ phần FPT
+- **Mã cổ phiếu:** `FPT` (Sàn HOSE)
+- **Ngành nghề:** Công nghệ thông tin, Viễn thông & Giáo dục
+- **Mô hình kinh doanh:** Tập đoàn công nghệ số 1 Việt Nam với ba trụ cột cốt lõi: Xuất khẩu phần mềm & Chuyển đổi số toàn cầu (AI, Bán dẫn, Automotive), Viễn thông & Truyền hình (FPT Telecom, FPT Play), và Giáo dục đào tạo công nghệ cao (Đại học FPT).
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Trụ cột nền kinh tế số quốc gia, dịch vụ công nghệ tri thức cao.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Lợi nhuận sau thuế liên tục phá kỷ lục lịch sử (2022: 6,490 tỷ, 2023: 7,788 tỷ, 2024: 9,450 tỷ VNĐ).
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Tập đoàn công nghệ tỷ đô vươn tầm thế giới, đối tác chiến lược toàn cầu của NVIDIA, Microsoft, SAP; sở hữu đội ngũ hơn 50,000 kỹ sư phần mềm chất lượng cao, con hào kinh tế về quy mô và uy tín thương hiệu tuyệt đối.
+  - **Bước 4 (Hiệu quả vốn ROE phi thường):**
+    - 2020: **19.02%**
+    - 2021: **20.25%**
+    - 2022: **~22.00%**
+    - 2023: **21.60%**
+    - 2024: **21.99%**
+    - *Duy trì ROE 5 năm liên tiếp ổn định từ 19% đến 22% bất chấp quy mô vốn tăng vọt.*
+- **Sức khỏe tài chính & Cổ tức:**
+  - Lượng tiền mặt và tiền gửi ngân hàng lên tới gần **30,000 tỷ VNĐ**, dòng tiền kinh doanh CFO cực mạnh.
+  - Trả cổ tức tiền mặt 20% + cổ tức cổ phiếu 15-20% đều đặn suốt hơn 15 năm qua.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 53. FRT - Công ty Cổ phần Bán lẻ Kỹ thuật số FPT (FPT Retail)
+- **Mã cổ phiếu:** `FRT` (Sàn HOSE)
+- **Ngành nghề:** Bán lẻ Dược phẩm & Thiết bị công nghệ
+- **Mô hình kinh doanh:** Vận hành chuỗi nhà thuốc bán lẻ dược phẩm số 1 Việt Nam (**FPT Long Châu**) và chuỗi bán lẻ thiết bị công nghệ (FPT Shop).
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Bán lẻ dược phẩm chăm sóc sức khỏe thiết yếu.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Năm 2023 lỗ do chi phí mở rộng thần tốc 600 nhà thuốc Long Châu, nhưng năm 2024 đã bứt phá ngoạn mục với LNST đạt trên 350 tỷ đồng (năm 2022 lãi 398 tỷ).
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Long Châu chiếm vị thế độc tôn số 1 Việt Nam với gần 2,000 nhà thuốc, hệ thống logistics dược phẩm và phần mềm quản trị AI tự động hóa cao, quyền lực đàm phán tối cao với các tập đoàn dược phẩm toàn cầu.
+  - **Bước 4 (Hiệu quả vốn ROE):**
+    - 2021: **26.42%**
+    - 2022: **~25.50%**
+    - 2024: **14.98%**
+    - *Theo quy chuẩn Bước 4, có 3 năm đạt ROE từ 15% đến 26.4% $ightarrow$ Thỏa mãn vượt qua Bước 4.*
+- **Lợi thế cốt lõi:** Long Châu là cỗ máy tăng trưởng doanh thu vượt trội, mở rộng sang mảng tiêm chủng vắc-xin và xét nghiệm y tế gia tăng chuỗi giá trị.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 54. FTS - Công ty Cổ phần Chứng khoán FPT
+- **Mã cổ phiếu:** `FTS` (Sàn HOSE)
+- **Ngành nghề:** Dịch vụ chứng khoán & Tài chính công nghệ
+- **Mô hình kinh doanh:** Cung cấp dịch vụ môi giới chứng khoán, tư vấn tài chính, hệ thống giao dịch công nghệ cao EzTrade, cho vay margin. Cổ đông chiến lược Nhật Bản: Daiwa Securities sở hữu hơn 13%.
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Dịch vụ tài chính trung gian công nghệ cao.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Lợi nhuận sau thuế tăng trưởng đều đặn 320 - 450 tỷ đồng/năm.
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Công ty chứng khoán công nghệ trực thuộc hệ sinh thái FPT, quản trị rủi ro nợ xấu margin bằng 0 theo chuẩn mực khắt khe của Daiwa Securities (Nhật Bản).
+  - **Bước 4 (Hiệu quả vốn ROE 5 năm):**
+    - 2020: **7.74%**
+    - 2021: **~28.00%**
+    - 2022: **~11.50%**
+    - 2023: **12.21%**
+    - 2024: **13.78%**
+    - *Có tới 4/5 năm đạt ROE từ 11.5% đến 28%!*
+- **Sức khỏe tài chính & Cổ tức:** Tài chính minh bạch, không đầu tư trái phiếu doanh nghiệp rác, cổ tức tiền mặt kết hợp cổ phiếu đều đặn.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 55. GAS - Tổng Công ty Khí Việt Nam-CTCP (PV GAS)
+- **Mã cổ phiếu:** `GAS` (Sàn HOSE)
+- **Ngành nghề:** Năng lượng / Hạ tầng Khí quốc gia
+- **Mô hình kinh doanh:** Thu gom, vận chuyển, tàng trữ, chế biến và phân phối khí thiên nhiên (khí khô, condensate, LPG, LNG) trên phạm vi toàn quốc. Tập đoàn Dầu khí Việt Nam (PVN) sở hữu 95.76%.
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Hạ tầng năng lượng huyết mạch an ninh quốc gia.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Lợi nhuận sau thuế đều đặn 10,000 - 15,000 tỷ đồng mỗi năm.
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Độc quyền tự nhiên 100% hệ thống đường ống dẫn khí ngoài khơi vào bờ, độc quyền kho cảng LNG Thị Vải; cung cấp nhiên liệu cho 70% sản lượng đạm và 15% sản lượng điện cả nước.
+  - **Bước 4 (Hiệu quả vốn ROE 5 năm xuất sắc):**
+    - 2020: **15.87%**
+    - 2021: **16.62%**
+    - 2022: **~24.50%**
+    - 2023: **17.77%**
+    - 2024: **16.89%**
+    - *Cả 5 năm liên tiếp đều duy trì ROE từ 16% đến 24.5%!*
+- **Sức khỏe tài chính & Cổ tức:** "Pháo đài tiền mặt" với lượng tiền gửi ngân hàng lên tới trên **35,000 - 40,000 tỷ VNĐ**, cổ tức tiền mặt đều đặn **30% - 60%/năm** (3,000 - 6,000 đồng/cổ phiếu).
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 56. GDT - Công ty Cổ phần Chế biến Gỗ Đức Thành
+- **Mã cổ phiếu:** `GDT` (Sàn HOSE)
+- **Ngành nghề:** Hàng tiêu dùng / Sản xuất đồ gỗ gia dụng cao cấp
+- **Mô hình kinh doanh:** Sản xuất và xuất khẩu đồ gia dụng bằng gỗ (thớt, giá đỡ, đồ dùng nhà bếp), đồ chơi trẻ em bằng gỗ cao cấp sang Nhật Bản, Hàn Quốc, Mỹ, EU.
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Chế biến sản phẩm gỗ gia dụng hoàn thiện.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Lợi nhuận sau thuế đều đặn 35 - 70 tỷ đồng/năm.
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Sản phẩm đồ gỗ gia dụng tinh xảo đạt chuẩn an toàn cao nhất của Nhật Bản, biên lợi nhuận gộp lên tới **30% - 35%**.
+  - **Bước 4 (Hiệu quả vốn ROE 5 năm xuất sắc):**
+    - 2020: **29.56%**
+    - 2021: **22.90%**
+    - 2022: **~21.00%**
+    - 2023: **12.58%**
+    - 2024: **18.41%**
+    - *Cả 5 năm liên tiếp đều duy trì ROE vượt trội 12.5% - 29.5%!*
+- **Sức khỏe tài chính & Cổ tức:** Hầu như **không có nợ vay tài chính** (Nợ vay = 0), trả cổ tức bằng tiền mặt siêu khủng **30% - 50%/năm** (3,000 - 5,000 đồng/cổ phiếu) đều đặn suốt nhiều năm.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 57. GEE - Công ty Cổ phần Điện lực GELEX
+- **Mã cổ phiếu:** `GEE` (Sàn HOSE)
+- **Ngành nghề:** Công nghiệp / Thiết bị điện
+- **Mô hình kinh doanh:** Sản xuất thiết bị điện số 1 Việt Nam. Sở hữu các thương hiệu đầu ngành huyền thoại: Dây cáp điện **CADIVI** (thị phần số 1 VN), máy biến áp **THIBIDI**, thiết bị đo điện **EMIC**, động cơ điện **HEM**.
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Thiết bị điện công nghiệp và dân dụng phục vụ lưới điện quốc gia.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Lợi nhuận sau thuế đạt 500 - 1,500 tỷ đồng/năm, tăng trưởng vượt bậc.
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Vị thế độc tôn thị trường dây cáp điện CADIVI và máy biến áp THIBIDI với hơn 40 năm lịch sử, mạng lưới đại lý phủ kín cả nước.
+  - **Bước 4 (Hiệu quả vốn ROE 5 năm xuất sắc):**
+    - 2020: **15.30%**
+    - 2022: **~12.00%**
+    - 2023: **12.52%**
+    - 2024: **22.84%**
+    - *Có 4/5 năm đạt ROE từ 12% đến 22.8%!*
+- **Sức khỏe tài chính:** Tối ưu hóa chuỗi cung ứng, biên lợi nhuận ròng tăng mạnh, dòng tiền kinh doanh dồi dào.
 - **Ngày Phân Tích:** 13/09/2026

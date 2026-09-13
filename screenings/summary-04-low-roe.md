@@ -33,4 +33,6 @@
 | 23 | `ELC` | CTCP Công nghệ - Viễn thông ELCOM | HOSE | Giải pháp phần mềm & ITS | 3.73% | 5.54% | ~5.8% | 6.74% | 7.64% | Dự án công nghệ vòng quay vốn chậm, chi phí triển khai cao, ROE 5 năm < 8% | 13/09/2026 |
 | 24 | `EVE` | CTCP Everpia | HOSE | Chăn ga gối đệm Everon | 4.45% | 6.19% | ~8.5% | 1.78% | -3.18% | Cạnh tranh đệm giá rẻ, nhà máy mới dư thừa công suất, ROE < 8.5% và lỗ 2024 | 13/09/2026 |
 | 25 | `EVF` | Công ty Tài chính CP Điện lực | HOSE | Tài chính tín dụng tiêu dùng | 6.23% | 8.30% | 8.44% | ~7.5% | ~8.1% | Chi phí huy động vốn cao hơn ngân hàng, trích lập dự phòng lớn, ROE < 8.5% | 13/09/2026 |
+| 26 | `GEG` | CTCP Điện Gia Lai | HOSE | Năng lượng tái tạo | 7.42% | 7.57% | ~7.8% | 2.38% | 1.99% | Đòn bẩy nợ mở rộng điện gió/mặt trời lớn, lãi vay bào mòn lợi nhuận, ROE < 8% | 13/09/2026 |
+| 27 | `GEL` | CTCP Hạ tầng GELEX | HOSE | Hạ tầng KCN & Nước sạch | - | - | - | - | 2.53% | Holding hạ tầng KCN Viglacera đòn bẩy nợ cao (~60%), ROE chỉ đạt 2.53% | 13/09/2026 |
 
