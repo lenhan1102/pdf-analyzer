@@ -12,7 +12,7 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (90 Mã Đầu Tiên)
     "Rớt Bước 2 (Lỗ 3 năm)" : 1
     "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 14
     "Rớt Bước 4 (ROE 5 năm < 10%)" : 18
-    "🏆 Đạt Chuẩn File 5" : 379
+    "🏆 Đạt Chuẩn File 5" : 425
 ```
 
 - **Tổng số mã đã kiểm tra:** **90** doanh nghiệp
@@ -155,3 +155,4 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (90 Mã Đầu Tiên)
 | Đợt 20 | 451 - 550 | CPC, CSC, CST, CTB, CTC... | 34 | 0 | 0 | 12 | 54 | 13/09/2026 |
 | Đợt 21 | 551 - 650 | NBW, NDN, NDX, NET, NFC... | 29 | 0 | 0 | 21 | 50 | 13/09/2026 |
 | Đợt 22 | 651 - 750 | TFC, THB, THD, THS, THT... | 29 | 0 | 0 | 29 | 42 | 13/09/2026 |
+| Đợt 23 | 751 - 850 | AVC, AVG, BAL, BBH, BBM... | 27 | 0 | 0 | 27 | 46 | 13/09/2026 |

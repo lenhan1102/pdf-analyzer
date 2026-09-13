@@ -3900,3 +3900,417 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
 - **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
 - **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 380. AVC - Công ty cổ phần Thuỷ điện A Vương
+- **Mã cổ phiếu:** `AVC` (Sàn UPCOM)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 381. BBM - Công ty Cổ phần Bia Hà Nội - Nam Định
+- **Mã cổ phiếu:** `BBM` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 382. BBT - Công ty Cổ phần Bông Bạch Tuyết
+- **Mã cổ phiếu:** `BBT` (Sàn UPCOM)
+- **Ngành nghề:** Y tế
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Y tế, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 383. BCA - Công ty cổ phần B.C.H
+- **Mã cổ phiếu:** `BCA` (Sàn UPCOM)
+- **Ngành nghề:** Nguyên vật liệu
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 384. BCB - Công ty cổ phần 397
+- **Mã cổ phiếu:** `BCB` (Sàn UPCOM)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 385. BDG - Công ty cổ phần May mặc Bình Dương
+- **Mã cổ phiếu:** `BDG` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 386. BDW - Công ty cổ phần Cấp thoát nước Bình Định
+- **Mã cổ phiếu:** `BDW` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 387. BEL - CTCP Điện tử Biên Hòa
+- **Mã cổ phiếu:** `BEL` (Sàn UPCOM)
+- **Ngành nghề:** Công nghệ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghệ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 388. BGE - Công ty cổ phần BCG Energy
+- **Mã cổ phiếu:** `BGE` (Sàn UPCOM)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 389. BHA - Công ty Cổ phần Thủy điện Bắc Hà
+- **Mã cổ phiếu:** `BHA` (Sàn UPCOM)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 390. BHH - Công ty cổ phần Thương mại Bia Hà Nội - Hưng Yên 89
+- **Mã cổ phiếu:** `BHH` (Sàn UPCOM)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 391. BHK - Công ty Cổ phần Bia Hà Nội - Kim Bài
+- **Mã cổ phiếu:** `BHK` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 392. BLI - Tổng Công ty cổ phần Bảo hiểm Bảo Long
+- **Mã cổ phiếu:** `BLI` (Sàn UPCOM)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 393. BLT - Công ty Cổ phần Lương thực Bình Định
+- **Mã cổ phiếu:** `BLT` (Sàn UPCOM)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 394. BMD - Công ty Cổ phần Môi trường và Dịch vụ đô thị Bình Thuận
+- **Mã cổ phiếu:** `BMD` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 395. BMG - Công ty cổ phần May Bình Minh
+- **Mã cổ phiếu:** `BMG` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 396. BMK - Công ty cổ phần Kỹ thuật nhiệt Mèo Đen
+- **Mã cổ phiếu:** `BMK` (Sàn UPCOM)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 397. BNW - Công ty cổ phần Nước sạch Bắc Ninh
+- **Mã cổ phiếu:** `BNW` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 398. BQP - Công ty cổ phần Nhựa Chất lượng cao Bình Thuận
+- **Mã cổ phiếu:** `BQP` (Sàn UPCOM)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 399. BRR - Công ty Cổ phần Cao su Bà Rịa
+- **Mã cổ phiếu:** `BRR` (Sàn UPCOM)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 400. BRS - Công ty Cổ phần Dịch vụ đô thị Bà Rịa
+- **Mã cổ phiếu:** `BRS` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 401. BSA - Công ty cổ phần Thủy điện Buôn Đôn
+- **Mã cổ phiếu:** `BSA` (Sàn UPCOM)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 402. BSD - Công ty Cổ phần Bia, Rượu Sài Gòn - Đồng Xuân
+- **Mã cổ phiếu:** `BSD` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 403. BSG - Công ty Cổ phần Xe khách Sài Gòn
+- **Mã cổ phiếu:** `BSG` (Sàn UPCOM)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 404. BSH - Công ty cổ phần Bia Sài Gòn - Hà Nội
+- **Mã cổ phiếu:** `BSH` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 405. BSQ - Công ty cổ phần Bia Sài Gòn - Quảng Ngãi
+- **Mã cổ phiếu:** `BSQ` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 406. BT1 - Công ty cổ phần Bảo vệ Thực vật 1 Trung ương
+- **Mã cổ phiếu:** `BT1` (Sàn UPCOM)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 407. BTH - Công ty Cổ phần Chế tạo Biến thế và Vật liệu điện Hà Nội
+- **Mã cổ phiếu:** `BTH` (Sàn UPCOM)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 408. BTV - Công ty Cổ phần Dịch vụ Du lịch Bến Thành
+- **Mã cổ phiếu:** `BTV` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 409. BVN - Công ty cổ phần Bông Việt Nam
+- **Mã cổ phiếu:** `BVN` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 410. BWS - Công ty cổ phần Cấp nước Bà Rịa - Vũng Tàu
+- **Mã cổ phiếu:** `BWS` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 411. C22 - Công ty Cổ phần 22
+- **Mã cổ phiếu:** `C22` (Sàn UPCOM)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 412. CAD - Công ty Cổ phần Chế biến và Xuất nhập khẩu Thủy sản CADOVIMEX
+- **Mã cổ phiếu:** `CAD` (Sàn UPCOM)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 413. CAT - Công ty Cổ phần Thủy sản Cà Mau
+- **Mã cổ phiếu:** `CAT` (Sàn UPCOM)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 414. CBS - Công ty Cổ phần Mía đường Cao Bằng
+- **Mã cổ phiếu:** `CBS` (Sàn UPCOM)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 415. CCP - Công ty cổ phần Cảng Cửa Cấm Hải Phòng
+- **Mã cổ phiếu:** `CCP` (Sàn UPCOM)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 416. CCS - Công ty cổ phần Chíp Sáng
+- **Mã cổ phiếu:** `CCS` (Sàn UPCOM)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 417. CFV - Công ty cổ phần Cà phê Thắng Lợi
+- **Mã cổ phiếu:** `CFV` (Sàn UPCOM)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 418. CHC - Công ty Cổ phần Cẩm Hà
+- **Mã cổ phiếu:** `CHC` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 419. CHS - Công ty Cổ phần Chiếu sáng Công cộng Thành phố Hồ Chí Minh
+- **Mã cổ phiếu:** `CHS` (Sàn UPCOM)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 420. CKA - Công ty cổ phần Cơ khí An Giang
+- **Mã cổ phiếu:** `CKA` (Sàn UPCOM)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 421. CKD - Công ty cổ phần Cơ khí Đông Anh Licogi
+- **Mã cổ phiếu:** `CKD` (Sàn UPCOM)
+- **Ngành nghề:** Nguyên vật liệu
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 422. CLI - Công ty cổ phần Tập đoàn CNCTech
+- **Mã cổ phiếu:** `CLI` (Sàn UPCOM)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 423. CLX - Công ty Cổ phần Xuất nhập khẩu và Đầu tư Chợ Lớn (Cholimex)
+- **Mã cổ phiếu:** `CLX` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 424. CMF - Công ty Cổ phần Thực phẩm Cholimex
+- **Mã cổ phiếu:** `CMF` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 425. CMI - Công ty cổ phần CMISTONE Việt Nam
+- **Mã cổ phiếu:** `CMI` (Sàn UPCOM)
+- **Ngành nghề:** Nguyên vật liệu
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026

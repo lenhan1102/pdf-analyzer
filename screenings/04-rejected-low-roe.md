@@ -1561,3 +1561,246 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 - **Lý do loại trừ tại Bước 4:**
   - ROE trong suốt 5 năm gần nhất (1.1%, 0.1%, 0.0%, 0.0%) đều nằm dưới ngưỡng tối thiểu 10%.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 155. AVG - CTCP Phân bón Quốc tế Âu Việt
+- **Mã cổ phiếu:** `AVG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.1%, 5.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 156. BAL - Công ty cổ phần Bao bì Bia – Rượu – Nước giải khát
+- **Mã cổ phiếu:** `BAL` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-1.8%, 3.3%, 5.2%, 4.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 157. BBH - CTCP Bao bì Hoàng Thạch
+- **Mã cổ phiếu:** `BBH` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (7.1%, 2.9%, 0.7%, 0.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 158. BCP - Công ty cổ phần Dược Enlie
+- **Mã cổ phiếu:** `BCP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-25.0%, -10.3%, -16.5%, 1.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 159. BCV - CTCP Du lịch và Thương mại Bằng Giang Cao Bằng - Vimico
+- **Mã cổ phiếu:** `BCV` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-13.1%, 0.0%, 2.8%, 2.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 160. BGW - Công ty Cổ phần Nước sạch Bắc Giang
+- **Mã cổ phiếu:** `BGW` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (5.1%, 5.4%, 6.1%, 6.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 161. BHG - Công ty cổ phần Chè Biển Hồ
+- **Mã cổ phiếu:** `BHG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.7%, 0.2%, 1.3%, 1.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 162. BHI - Tổng Công ty cổ phần Bảo hiểm Sài Gòn - Hà Nội
+- **Mã cổ phiếu:** `BHI` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.1%, 0.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 163. BHP - Công ty Cổ phần Bia Hà Nội - Hải Phòng
+- **Mã cổ phiếu:** `BHP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.7%, 1.2%, 1.8%, 1.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 164. BIO - Công ty cổ phần Vắc xin và Sinh phẩm Nha Trang
+- **Mã cổ phiếu:** `BIO` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Y tế
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (5.5%, 3.9%, 6.2%, 8.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 165. BLF - Công ty Cổ phần Thủy sản Bạc Liêu
+- **Mã cổ phiếu:** `BLF` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (2.3%, -7.3%, 3.7%, 0.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 166. BLN - CTCP Vận tải và Dịch vụ Liên Ninh
+- **Mã cổ phiếu:** `BLN` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.5%, 0.2%, 1.7%, 1.9%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 167. BMS - Công ty Cổ phần Chứng khoán Bảo Minh
+- **Mã cổ phiếu:** `BMS` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (9.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 168. BMV - Công ty Cổ phần Bột mỳ Vinafood 1
+- **Mã cổ phiếu:** `BMV` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.2%, 1.8%, 1.4%, 0.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 169. BOT - Công ty cổ phần BOT Cầu Thái Hà
+- **Mã cổ phiếu:** `BOT` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-24.1%, -25.5%, -53.4%, -29.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 170. BQB - Công ty Cổ phần Bia Hà Nội - Quảng Bình
+- **Mã cổ phiếu:** `BQB` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-16.8%, -23.8%, -17.0%, 0.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 171. BSL - Công ty Cổ phần Bia Sài Gòn - Sông Lam
+- **Mã cổ phiếu:** `BSL` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (7.0%, 7.1%, 6.6%, 7.9%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 172. BSP - Công ty cổ phần Bia Sài Gòn - Phú Thọ
+- **Mã cổ phiếu:** `BSP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (5.0%, 8.3%, 2.5%, 3.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 173. BTB - Công ty Cổ phần Bia Hà Nội - Thái Bình
+- **Mã cổ phiếu:** `BTB` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.7%, -0.8%, 0.9%, 0.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 174. BTG - Công ty Cổ phần Bao bì Tiền Giang
+- **Mã cổ phiếu:** `BTG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.7%, -7.2%, 1.3%, -6.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 175. BVG - Công ty Cổ phần GROUP Bắc Việt
+- **Mã cổ phiếu:** `BVG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-8.4%, 9.6%, 9.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 176. CCA - CTCP Xuất nhập khẩu Thủy sản Cần Thơ
+- **Mã cổ phiếu:** `CCA` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (2.6%, 7.7%, 1.5%, 3.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 177. CCT - Công ty Cổ phần Cảng Cần Thơ
+- **Mã cổ phiếu:** `CCT` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.5%, 1.0%, 2.4%, 1.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 178. CDP - Công ty cổ phần Dược phẩm Trung ương Codupha
+- **Mã cổ phiếu:** `CDP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Y tế
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (8.8%, 8.1%, 4.6%, 8.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 179. CEN - Công ty Cổ phần CENCON Việt Nam
+- **Mã cổ phiếu:** `CEN` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Doanh nghiệp Upcom
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.6%, 2.4%, 0.1%, 0.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 180. CFM - CTCP Đầu tư CFM
+- **Mã cổ phiếu:** `CFM` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-1.7%, 0.7%, 8.1%, 3.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 181. CK8 - Công ty Cổ phần Cơ khí 120
+- **Mã cổ phiếu:** `CK8` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-25.3%, -18.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026

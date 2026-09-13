@@ -1871,3 +1871,246 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 - **Lý do loại trừ tại Bước 1:**
   - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 203. BDT - Công ty Cổ phần Xây lắp và Vật liệu Xây dựng Đồng Tháp
+- **Mã cổ phiếu:** `BDT` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 204. BHC - Công ty Cổ phần Bê tông Biên Hòa
+- **Mã cổ phiếu:** `BHC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 205. BIG - CTCP Big Invest Group
+- **Mã cổ phiếu:** `BIG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 206. BMF - Công ty cổ phần Vật liệu Xây dựng và Chất đốt Đồng Nai
+- **Mã cổ phiếu:** `BMF` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Năng lượng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 207. BMJ - Công ty Cổ phần Khoáng sản Miền Đông AHP
+- **Mã cổ phiếu:** `BMJ` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 208. BT6 - Công ty Cổ phần Beton 6
+- **Mã cổ phiếu:** `BT6` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 209. BTD - Công ty Cổ phần Bê tông Ly tâm Thủ Đức
+- **Mã cổ phiếu:** `BTD` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 210. BTN - Công ty Cổ phần Gạch Tuy Nen Bình Định
+- **Mã cổ phiếu:** `BTN` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 211. BTU - CTCP Công trình Đô thị Bến Tre
+- **Mã cổ phiếu:** `BTU` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 212. BVL - Công ty cổ phần BV Land
+- **Mã cổ phiếu:** `BVL` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 213. BWA - Công ty Cổ phần Cấp thoát nước và Xây dựng Bảo Lộc
+- **Mã cổ phiếu:** `BWA` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Dịch vụ), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 214. C21 - Công ty cổ phần Thế kỷ 21
+- **Mã cổ phiếu:** `C21` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 215. C4G - Công ty cổ phần Tập đoàn CIENCO4
+- **Mã cổ phiếu:** `C4G` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 216. C92 - Công ty Cổ phần Xây dựng và Đầu tư 492
+- **Mã cổ phiếu:** `C92` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 217. CBI - Công ty Cổ phần Gang thép Cao Bằng
+- **Mã cổ phiếu:** `CBI` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 218. CC1 - Tổng Công ty Xây dựng số 1 - CTCP
+- **Mã cổ phiếu:** `CC1` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 219. CCM - Công ty Cổ phần Khoáng sản & Xi măng Cần Thơ
+- **Mã cổ phiếu:** `CCM` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 220. CCV - Công ty cổ phần Tư vấn Xây dựng Công nghiệp và Đô thị Việt Nam
+- **Mã cổ phiếu:** `CCV` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 221. CDG - Công ty Cổ phần Cầu Đuống
+- **Mã cổ phiếu:** `CDG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 222. CDO - Công ty Cổ phần Tư vấn thiết kế và Phát triển đô thị
+- **Mã cổ phiếu:** `CDO` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 223. CDR - Công ty Cổ phần Xây dựng Cao su Đồng Nai
+- **Mã cổ phiếu:** `CDR` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 224. CGV - Công ty Cổ phần Sành sứ Thủy tinh Việt Nam
+- **Mã cổ phiếu:** `CGV` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 225. CH5 - Công ty Cổ phần Xây dựng Số 5 Hà Nội
+- **Mã cổ phiếu:** `CH5` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 226. CI5 - Công ty cổ phần Đầu tư Xây dựng số 5
+- **Mã cổ phiếu:** `CI5` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 227. CID - Công ty Cổ phần Xây dựng và Phát triển Cơ sở Hạ tầng
+- **Mã cổ phiếu:** `CID` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 228. CIP - Công ty Cổ phần Xây lắp và Sản xuất Công nghiệp
+- **Mã cổ phiếu:** `CIP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 229. CMD - CTCP Vật liệu Xây dựng và Trang trí Nội thất Thành phố Hồ Chí Minh
+- **Mã cổ phiếu:** `CMD` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
