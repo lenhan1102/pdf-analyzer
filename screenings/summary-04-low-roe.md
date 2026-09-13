@@ -40,3 +40,9 @@
 | 30 | `HAP` | CTCP Tập đoàn Hapaco | HOSE | Giấy vàng mã & Dịch vụ y tế | 5.63% | 5.53% | ~4.5% | 1.47% | 7.02% | Giấy vàng mã biên thấp, đầu tư dàn trải, ROE 5 năm liên tục < 7.1% | 13/09/2026 |
 | 31 | `HHP` | CTCP Giấy Hoàng Hà Hải Phòng | HOSE | Giấy bao bì carton | 9.33% | 8.80% | ~6.5% | 2.74% | ~3.5% | Giấy bao bì Kraft đại trà cạnh tranh gay gắt, biên mỏng, ROE 5 năm < 9.4% | 13/09/2026 |
 
+| 32 | `HSL` | Công ty Cổ phần Đầu tư Phát triển Thực phẩm Hồng Hà | HOSE | Nông nghiệp | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (4.8%, 6.1%, 2.7%, 1.5%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 33 | `HTV` | Công ty Cổ phần Logistics Vicem | HOSE | Công nghiệp | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (7.8%, 5.2%, 2.5%, 2.8%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 34 | `ICT` | Công ty cổ phần Viễn thông - Tin học Bưu điện | HOSE | Chưa phân loại | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (9.8%, 8.2%, 2.3%, 4.7%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 35 | `IDI` | Công ty Cổ phần Đầu tư và Phát triển Đa Quốc Gia I.D.I | HOSE | Nông nghiệp | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (3.2%, 4.3%, 1.7%, 1.7%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 36 | `KHP` | Công ty Cổ phần Điện lực Khánh Hòa | HOSE | Năng lượng | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (6.8%, 7.1%, 7.8%, 8.2%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 37 | `KMR` | Công ty Cổ phần Mirae | HOSE | Hàng tiêu dùng | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (0.0%, 2.9%, 1.5%, 1.1%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |

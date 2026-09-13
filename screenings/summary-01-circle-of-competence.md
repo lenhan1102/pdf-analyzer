@@ -45,3 +45,25 @@
 | 35 | `HDC` | CTCP Phát triển nhà Bà Rịa-Vũng Tàu | HOSE | Bất động sản dân dụng | Dự án KĐT Vũng Tàu phụ thuộc sốt đất nền, thanh khoản đóng băng, ROE rơi về 2.9% | 13/09/2026 |
 | 36 | `HDG` | CTCP Tập đoàn Hà Đô | HOSE | Bất động sản dân dụng & Điện | BĐS dân dụng vướng pháp lý dự án mới, điện mặt trời thanh tra FIT, ROE rơi về 4.7% | 13/09/2026 |
 
+| 37 | `HHS` | Công ty Cổ phần Đầu tư Dịch vụ Hoàng Huy | HOSE | Bất động sản và Xây dựng | BĐS dân dụng Hoàng Huy & phân phối xe đầu kéo, phụ thuộc thị trường nhà đất Hải Phòng | 13/09/2026 |
+| 38 | `HHV` | Công ty cổ phần Đầu tư hạ tầng giao thông Đèo Cả | HOSE | Công nghiệp | Nhà thầu xây lắp công trình hầm giao thông & dự án BOT nợ đọng lớn | 13/09/2026 |
+| 39 | `HID` | Công ty Cổ phần Halcom Việt Nam | HOSE | Bất động sản và Xây dựng | Đầu tư xây dựng hạ tầng kỹ thuật và BĐS dân dụng, hiệu quả thấp | 13/09/2026 |
+| 40 | `HMC` | Công ty Cổ phần Kim khí Thành phố Hồ Chí Minh - Vnsteel | HOSE | Bất động sản và Xây dựng | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực. | 13/09/2026 |
+| 41 | `HPX` | Công ty cổ phần Đầu tư Hải Phát | HOSE | Bất động sản và Xây dựng | BĐS dân dụng ngập trong nợ trái phiếu, thanh khoản đóng băng | 13/09/2026 |
+| 42 | `HQC` | Công ty cổ phần Tư vấn-Thương mại-Dịch vụ Địa ốc Hoàng Quân | HOSE | Bất động sản và Xây dựng | BĐS nhà ở xã hội và dân dụng phân lô, hiệu quả vốn teo tóp | 13/09/2026 |
+| 43 | `HTN` | Công ty Cổ phần Hưng Thịnh Incons | HOSE | Bất động sản và Xây dựng | Tổng thầu xây lắp Hưng Thịnh Incons, gắn liền BĐS Hưng Thịnh | 13/09/2026 |
+| 44 | `HU1` | Công ty Cổ phần Đầu tư và Xây dựng HUD1 | HOSE | Bất động sản và Xây dựng | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực. | 13/09/2026 |
+| 45 | `HUB` | Công ty cổ phần Xây lắp Thừa Thiên Huế | HOSE | Bất động sản và Xây dựng | Xây lắp và BĐS dân dụng Thừa Thiên Huế | 13/09/2026 |
+| 46 | `HVH` | Công ty Cổ phần Đầu tư và Công nghệ HVC | HOSE | Bất động sản và Xây dựng | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực. | 13/09/2026 |
+| 47 | `HVX` | Công ty Cổ phần Xi măng Vicem Hải Vân | HOSE | Bất động sản và Xây dựng | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực. | 13/09/2026 |
+| 48 | `IJC` | Công ty Cổ phần Phát triển Hạ tầng Kỹ thuật | HOSE | Bất động sản và Xây dựng | BĐS dân dụng Becamex IJC và thu phí BOT | 13/09/2026 |
+| 49 | `ITC` | Công ty Cổ phần Đầu tư - Kinh doanh nhà | HOSE | Bất động sản và Xây dựng | Đầu tư kinh doanh BĐS nhà ở dân dụng | 13/09/2026 |
+| 50 | `KDH` | Công ty Cổ phần Đầu tư và Kinh doanh nhà Khang Điền | HOSE | Bất động sản và Xây dựng | Đầu tư phát triển BĐS nhà ở dân dụng Khang Điền | 13/09/2026 |
+| 51 | `KHG` | Công ty Cổ phần Tập đoàn Khải Hoàn Land | HOSE | Bất động sản và Xây dựng | Môi giới và dịch vụ BĐS Khải Hoàn Land | 13/09/2026 |
+| 52 | `KOS` | Công ty Cổ phần Kosy | HOSE | Bất động sản và Xây dựng | BĐS dân dụng Kosy Group | 13/09/2026 |
+| 53 | `L10` | Công ty cổ phần Lilama 10 | HOSE | Bất động sản và Xây dựng | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực. | 13/09/2026 |
+| 54 | `LBM` | Công ty Cổ phần Khoáng sản và Vật liệu xây dựng Lâm Đồng | HOSE | Bất động sản và Xây dựng | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực. | 13/09/2026 |
+| 55 | `LCG` | Công ty cổ phần LIZEN | HOSE | Bất động sản và Xây dựng | Lizen - Nhà thầu thi công xây lắp hạ tầng giao thông | 13/09/2026 |
+| 56 | `LDG` | Công ty Cổ phần Đầu tư LDG | HOSE | Bất động sản và Xây dựng | BĐS dân dụng LDG vướng lao lý dự án trái phép | 13/09/2026 |
+| 57 | `LGC` | Công ty Cổ phần Đầu tư Cầu đường CII | HOSE | Công nghiệp | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Công nghiệp), ngoài Vòng tròn năng lực. | 13/09/2026 |
+| 58 | `LGL` | Công ty cổ phần Đầu tư và Phát triển Đô thị Long Giang | HOSE | Bất động sản và Xây dựng | BĐS dân dụng Long Giang Land | 13/09/2026 |

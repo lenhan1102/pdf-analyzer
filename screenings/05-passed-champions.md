@@ -1101,3 +1101,201 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
     - *Duy trì ROE 5 năm liên tục ở mức phi thường 17% - 23.5%! Nằm trong top 3 ngân hàng sinh lời cao nhất Việt Nam.*
 - **Sức khỏe tài chính & Cổ tức:** Tỷ lệ nợ xấu kiểm soát chặt chẽ, chi trả cổ tức đều đặn **25% - 30%/năm** bằng tiền mặt và cổ phiếu.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 69. HII - Công ty Cổ phần An Tiến Industries
+- **Mã cổ phiếu:** `HII` (Sàn HOSE)
+- **Ngành nghề:** Nguyên vật liệu
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 70. HNA - Công ty Cổ phần Thủy điện Hủa Na
+- **Mã cổ phiếu:** `HNA` (Sàn HOSE)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Nhà máy thủy điện 180MW Nghệ An, PV Power, biên ròng 40-45%, ROE 12-18%
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 71. HPA - Công ty Cổ phần Phát triển Nông nghiệp Hòa Phát
+- **Mã cổ phiếu:** `HPA` (Sàn HOSE)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Chăn nuôi heo bò và thức ăn chăn nuôi Hòa Phát, quản trị chuẩn mực, ROE >15%
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 72. HPG - Công ty cổ phần Tập đoàn Hòa Phát
+- **Mã cổ phiếu:** `HPG` (Sàn HOSE)
+- **Ngành nghề:** Nguyên vật liệu
+- **Lợi thế cạnh tranh (Moat):** Vua thép Đông Nam Á, chuỗi lò cao BOF Dung Quất chi phí rẻ nhất thế giới, ROE đỉnh cao 25-35%
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 73. HRC - Công ty Cổ phần Cao su Hòa Bình
+- **Mã cổ phiếu:** `HRC` (Sàn HOSE)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 74. HSG - Công ty Cổ phần Tập đoàn Hoa Sen
+- **Mã cổ phiếu:** `HSG` (Sàn HOSE)
+- **Ngành nghề:** Nguyên vật liệu
+- **Lợi thế cạnh tranh (Moat):** Vua tôn mạ Việt Nam, hệ thống phân phối Hoa Sen Home hơn 500 chi nhánh, ROE chu kỳ 15-30%
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 75. HT1 - Công ty Cổ phần xi măng VICEM Hà Tiên
+- **Mã cổ phiếu:** `HT1` (Sàn HOSE)
+- **Ngành nghề:** Bất động sản và Xây dựng
+- **Lợi thế cạnh tranh (Moat):** Xi măng số 1 miền Nam, nhà máy clinker Kiên Lương, ROE đạt chuẩn chu kỳ xây dựng
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 76. HTG - Tổng Công ty cổ phần Dệt may Hòa Thọ
+- **Mã cổ phiếu:** `HTG` (Sàn HOSE)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 77. HTI - Công ty Cổ phần Đầu tư phát triển hạ tầng IDICO
+- **Mã cổ phiếu:** `HTI` (Sàn HOSE)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 78. HTL - Công ty Cổ phần Kỹ thuật và Ô tô Trường Long
+- **Mã cổ phiếu:** `HTL` (Sàn HOSE)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 79. HVN - Tổng Công ty Hàng không Việt Nam - CTCP
+- **Mã cổ phiếu:** `HVN` (Sàn HOSE)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 80. ILB - Công ty Cổ phần ICD Tân Cảng – Long Bình
+- **Mã cổ phiếu:** `ILB` (Sàn HOSE)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 81. IMP - Công ty Cổ phần Dược phẩm IMEXPHARM
+- **Mã cổ phiếu:** `IMP` (Sàn HOSE)
+- **Ngành nghề:** Y tế
+- **Lợi thế cạnh tranh (Moat):** Dược phẩm chuẩn EU-GMP số 1 VN, cổ đông SK Hàn Quốc, ROE 15-20%
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 82. ITD - Công ty Cổ phần Công nghệ ITD
+- **Mã cổ phiếu:** `ITD` (Sàn HOSE)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 83. JVC - Công ty cổ phần Đầu tư Y Tế - Dược phẩm Việt Nam
+- **Mã cổ phiếu:** `JVC` (Sàn HOSE)
+- **Ngành nghề:** Y tế
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Y tế, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 84. KBC - Tổng Công ty Phát triển Đô thị Kinh Bắc-CTCP
+- **Mã cổ phiếu:** `KBC` (Sàn HOSE)
+- **Ngành nghề:** Bất động sản và Xây dựng
+- **Lợi thế cạnh tranh (Moat):** Vua BĐS KCN thu hút FDI lớn nhất VN (Foxconn, Goertek, Apple), biên gộp >50%
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 85. KDC - Công ty Cổ phần Tập đoàn Kido
+- **Mã cổ phiếu:** `KDC` (Sàn HOSE)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Vua ngành kem (Merino, Celano ~45% thị phần) và dầu ăn Tường An, ROE > 12%
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 86. KLB - Ngân hàng Thương mại cổ phần Kiên Long
+- **Mã cổ phiếu:** `KLB` (Sàn HOSE)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 87. KSB - Công ty Cổ phần Khoáng sản và Xây dựng Bình Dương
+- **Mã cổ phiếu:** `KSB` (Sàn HOSE)
+- **Ngành nghề:** Bất động sản và Xây dựng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Bất động sản và Xây dựng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 88. LAF - Công ty Cổ phần Chế biến Hàng xuất khẩu Long An
+- **Mã cổ phiếu:** `LAF` (Sàn HOSE)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 89. LHG - Công ty Cổ phần Long Hậu
+- **Mã cổ phiếu:** `LHG` (Sàn HOSE)
+- **Ngành nghề:** Bất động sản và Xây dựng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Bất động sản và Xây dựng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 90. LIX - Công ty Cổ phần LIX
+- **Mã cổ phiếu:** `LIX` (Sàn HOSE)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026

@@ -377,3 +377,201 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
   - Hoạt động kinh doanh mang tính quyết định của Hà Đô qua các chu kỳ là **đầu tư phát triển bất động sản dân dụng**, nằm ngoài Vòng tròn năng lực theo quy chuẩn hệ thống.
   - Sau khi hoàn thành bàn giao dự án lớn Centrosa Garden, mảng bất động sản đối mặt với nút thắt pháp lý phê duyệt quy hoạch tại các dự án mới, trong khi mảng điện mặt trời vướng thanh tra cơ chế giá FIT; lợi nhuận suy giảm sâu, ROE năm 2023 chỉ đạt 9.2% và năm 2024 rơi xuống 4.72%.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 37. HHS - Công ty Cổ phần Đầu tư Dịch vụ Hoàng Huy
+- **Mã cổ phiếu:** `HHS` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - BĐS dân dụng Hoàng Huy & phân phối xe đầu kéo, phụ thuộc thị trường nhà đất Hải Phòng
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 38. HHV - Công ty cổ phần Đầu tư hạ tầng giao thông Đèo Cả
+- **Mã cổ phiếu:** `HHV` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 1:**
+  - Nhà thầu xây lắp công trình hầm giao thông & dự án BOT nợ đọng lớn
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 39. HID - Công ty Cổ phần Halcom Việt Nam
+- **Mã cổ phiếu:** `HID` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Đầu tư xây dựng hạ tầng kỹ thuật và BĐS dân dụng, hiệu quả thấp
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 40. HMC - Công ty Cổ phần Kim khí Thành phố Hồ Chí Minh - Vnsteel
+- **Mã cổ phiếu:** `HMC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 41. HPX - Công ty cổ phần Đầu tư Hải Phát
+- **Mã cổ phiếu:** `HPX` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - BĐS dân dụng ngập trong nợ trái phiếu, thanh khoản đóng băng
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 42. HQC - Công ty cổ phần Tư vấn-Thương mại-Dịch vụ Địa ốc Hoàng Quân
+- **Mã cổ phiếu:** `HQC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - BĐS nhà ở xã hội và dân dụng phân lô, hiệu quả vốn teo tóp
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 43. HTN - Công ty Cổ phần Hưng Thịnh Incons
+- **Mã cổ phiếu:** `HTN` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Tổng thầu xây lắp Hưng Thịnh Incons, gắn liền BĐS Hưng Thịnh
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 44. HU1 - Công ty Cổ phần Đầu tư và Xây dựng HUD1
+- **Mã cổ phiếu:** `HU1` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 45. HUB - Công ty cổ phần Xây lắp Thừa Thiên Huế
+- **Mã cổ phiếu:** `HUB` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Xây lắp và BĐS dân dụng Thừa Thiên Huế
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 46. HVH - Công ty Cổ phần Đầu tư và Công nghệ HVC
+- **Mã cổ phiếu:** `HVH` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 47. HVX - Công ty Cổ phần Xi măng Vicem Hải Vân
+- **Mã cổ phiếu:** `HVX` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 48. IJC - Công ty Cổ phần Phát triển Hạ tầng Kỹ thuật
+- **Mã cổ phiếu:** `IJC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - BĐS dân dụng Becamex IJC và thu phí BOT
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 49. ITC - Công ty Cổ phần Đầu tư - Kinh doanh nhà
+- **Mã cổ phiếu:** `ITC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Đầu tư kinh doanh BĐS nhà ở dân dụng
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 50. KDH - Công ty Cổ phần Đầu tư và Kinh doanh nhà Khang Điền
+- **Mã cổ phiếu:** `KDH` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Đầu tư phát triển BĐS nhà ở dân dụng Khang Điền
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 51. KHG - Công ty Cổ phần Tập đoàn Khải Hoàn Land
+- **Mã cổ phiếu:** `KHG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Môi giới và dịch vụ BĐS Khải Hoàn Land
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 52. KOS - Công ty Cổ phần Kosy
+- **Mã cổ phiếu:** `KOS` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - BĐS dân dụng Kosy Group
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 53. L10 - Công ty cổ phần Lilama 10
+- **Mã cổ phiếu:** `L10` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 54. LBM - Công ty Cổ phần Khoáng sản và Vật liệu xây dựng Lâm Đồng
+- **Mã cổ phiếu:** `LBM` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 55. LCG - Công ty cổ phần LIZEN
+- **Mã cổ phiếu:** `LCG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Lizen - Nhà thầu thi công xây lắp hạ tầng giao thông
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 56. LDG - Công ty Cổ phần Đầu tư LDG
+- **Mã cổ phiếu:** `LDG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - BĐS dân dụng LDG vướng lao lý dự án trái phép
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 57. LGC - Công ty Cổ phần Đầu tư Cầu đường CII
+- **Mã cổ phiếu:** `LGC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Công nghiệp), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 58. LGL - Công ty cổ phần Đầu tư và Phát triển Đô thị Long Giang
+- **Mã cổ phiếu:** `LGL` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - BĐS dân dụng Long Giang Land
+- **Ngày Phân Tích:** 13/09/2026

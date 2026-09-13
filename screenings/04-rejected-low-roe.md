@@ -454,3 +454,57 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
   - Hoàn thành Bước 1, Bước 2 và Bước 3.
   - Tại Bước 4, HHP có **ROE suốt 5 năm liên tiếp (và cả 7 năm liền) chưa từng có năm nào vượt quá 9.4%, liên tục dưới chuẩn 10%**. Ngành giấy bao bì carton đại trà cạnh tranh gay gắt, chi phí nguyên liệu bột giấy và giấy phế liệu tái chế biến động làm xói mòn biên lợi nhuận ròng.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 32. HSL - Công ty Cổ phần Đầu tư Phát triển Thực phẩm Hồng Hà
+- **Mã cổ phiếu:** `HSL` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.8%, 6.1%, 2.7%, 1.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 33. HTV - Công ty Cổ phần Logistics Vicem
+- **Mã cổ phiếu:** `HTV` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (7.8%, 5.2%, 2.5%, 2.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 34. ICT - Công ty cổ phần Viễn thông - Tin học Bưu điện
+- **Mã cổ phiếu:** `ICT` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (9.8%, 8.2%, 2.3%, 4.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 35. IDI - Công ty Cổ phần Đầu tư và Phát triển Đa Quốc Gia I.D.I
+- **Mã cổ phiếu:** `IDI` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (3.2%, 4.3%, 1.7%, 1.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 36. KHP - Công ty Cổ phần Điện lực Khánh Hòa
+- **Mã cổ phiếu:** `KHP` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.8%, 7.1%, 7.8%, 8.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 37. KMR - Công ty Cổ phần Mirae
+- **Mã cổ phiếu:** `KMR` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.0%, 2.9%, 1.5%, 1.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
