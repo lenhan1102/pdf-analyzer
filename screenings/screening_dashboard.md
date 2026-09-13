@@ -1,26 +1,26 @@
 # 📊 Bảng Điều Khiển Sàng Lọc Doanh Nghiệp (Screening Dashboard)
 
-Tài liệu này theo dõi toàn bộ trạng thái của các mã cổ phiếu trong vũ trụ đầu tư đã được đưa qua phễu lọc 4 bước.
+Tài liệu này theo dõi toàn bộ trạng thái của các mã cổ phiếu trong vũ trụ đầu tư đã được đưa qua phễu lọc 4 bước khắt khe.
 
 ---
 
 ## 1. Thống Kê Phễu Lọc (Funnel Metrics)
 
 ```mermaid
-pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (90 Mã Đầu Tiên)
-    "Rớt Bước 1 (Ngành & Vòng tròn năng lực)" : 16
-    "Rớt Bước 2 (Lỗ 3 năm)" : 2
-    "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 14
-    "Rớt Bước 4 (ROE 5 năm < 10%)" : 18
+pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,642 Mã Toàn Thị Trường)
+    "Rớt Bước 1 (Ngành & Vòng tròn năng lực)" : 428
+    "Rớt Bước 2 (Lỗ 3 năm liên tiếp)" : 2
+    "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 16
+    "Rớt Bước 4 (ROE 5 năm < 10%)" : 392
     "🏆 Đạt Chuẩn File 5" : 804
 ```
 
-- **Tổng số mã đã kiểm tra:** **90** doanh nghiệp
-- **Số mã rớt tại Bước 1:** **16** mã (17.8%)
-- **Số mã rớt tại Bước 2:** **1** mã (1.1%)
-- **Số mã rớt tại Bước 3:** **14** mã (15.6%)
-- **Số mã rớt tại Bước 4:** **18** mã (20.0%)
-- **Số mã đạt chuẩn vào File 5:** **41** mã (45.6%)
+- **Tổng số mã đã kiểm tra:** **1,642 / 1,642** doanh nghiệp (**Tiến độ: 100.0%**)
+- **Số mã rớt tại Bước 1:** **428** mã (26.07%)
+- **Số mã rớt tại Bước 2:** **2** mã (0.12%)
+- **Số mã rớt tại Bước 3:** **16** mã (0.97%)
+- **Số mã rớt tại Bước 4:** **392** mã (23.87%)
+- **Số mã đạt chuẩn vào File 5:** **804** mã (48.96%)
 
 ---
 
@@ -30,13 +30,12 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (90 Mã Đầu Tiên)
 
 | STT | File Bảng Tóm Tắt Rút Gọn | Nội Dung Trọng Tâm | Số Lượng Mã | Bản Phân Tích Đầy Đủ |
 | :---: | :--- | :--- | :---: | :--- |
-| ⚡ | [00-quick-summary-all.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md) | **Bảng Tổng Hợp Siêu Tốc 50 Cổ Phiếu** (Cheat-sheet 1 trang) | 90 mã | Xem chi tiết từng mã |
-| 1 | [summary-01-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md) | Bảng tóm tắt các công ty rớt Bước 1 (Ngành nghề ngoài VTNL) | 16 mã | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
-| 2 | [summary-02-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-02-consecutive-loss.md) | Bảng tóm tắt các công ty rớt Bước 2 (Lỗ 3 năm liên tiếp) | 1 mã | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
-| 3 | [summary-03-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md) | Bảng tóm tắt các công ty rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5) | 14 mã | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
-| 4 | [summary-04-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md) | Bảng tóm tắt các công ty rớt Bước 4 (ROE 5 năm < 10%) | 18 mã | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
-| 5 | [summary-05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md) | 🏆 **Bảng tóm tắt 22 Doanh Nghiệp Đạt Chuẩn (File 5)** | 41 mã | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
-
+| ⚡ | [00-quick-summary-all.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md) | **Bảng Tổng Hợp Siêu Tốc Toàn Bộ Cổ Phiếu** (Cheat-sheet tra cứu) | **1,642** mã | Xem chi tiết từng mã |
+| 1 | [summary-01-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md) | Bảng tóm tắt các công ty rớt Bước 1 (Ngành nghề ngoài VTNL) | **428** mã | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 2 | [summary-02-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-02-consecutive-loss.md) | Bảng tóm tắt các công ty rớt Bước 2 (Lỗ 3 năm liên tiếp) | **2** mã | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
+| 3 | [summary-03-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md) | Bảng tóm tắt các công ty rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5) | **16** mã | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
+| 4 | [summary-04-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md) | Bảng tóm tắt các công ty rớt Bước 4 (ROE 5 năm < 10%) | **392** mã | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
+| 5 | [summary-05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md) | 🏆 **Bảng tóm tắt Doanh Nghiệp Đạt Chuẩn (File 5)** | **804** mã | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 
 ---
 

@@ -1,8 +1,8 @@
 # 📋 Bảng Tóm Tắt Nhanh: Doanh Nghiệp Rớt Bước 4 (ROE 5 Năm < 10%)
 
-> **Mục đích:** Bảng tổng hợp rút gọn 11 doanh nghiệp bị loại do Tỷ suất sinh lời trên vốn chủ sở hữu (ROE) nằm dưới ngưỡng 10% trong suốt 5 năm tài chính liên tục gần nhất.
+> **Mục đích:** Bảng tổng hợp rút gọn 392 doanh nghiệp bị loại do Tỷ suất sinh lời trên vốn chủ sở hữu (ROE) nằm dưới ngưỡng 10% trong suốt 5 năm tài chính liên tục gần nhất.
 > 
-> 📁 **Hồ sơ phân tích chi tiết đầy đủ:** [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) | ⚡ **Quay lại:** [Bảng Tổng Hợp Siêu Tốc 50 Mã](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md)
+> 📁 **Hồ sơ phân tích chi tiết đầy đủ:** [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) | ⚡ **Quay lại:** [Bảng Tổng Hợp Siêu Tốc 1,642 Mã](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md)
 
 ---
 

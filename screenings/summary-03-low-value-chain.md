@@ -1,8 +1,8 @@
 # 📋 Bảng Tóm Tắt Nhanh: Doanh Nghiệp Rớt Bước 3 (Chuỗi Giá Trị Thấp & P/B $\ge$ 0.5)
 
-> **Mục đích:** Bảng tổng hợp rút gọn 9 doanh nghiệp bị loại do sản phẩm đại trà, sơ chế thô, gia công ở đáy chuỗi giá trị và định giá thị trường không đủ rẻ ($P/B \ge 0.5$).
+> **Mục đích:** Bảng tổng hợp rút gọn 16 doanh nghiệp bị loại do sản phẩm đại trà, sơ chế thô, gia công ở đáy chuỗi giá trị và định giá thị trường không đủ rẻ ($P/B \ge 0.5$).
 > 
-> 📁 **Hồ sơ phân tích chi tiết đầy đủ:** [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) | ⚡ **Quay lại:** [Bảng Tổng Hợp Siêu Tốc 50 Mã](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md)
+> 📁 **Hồ sơ phân tích chi tiết đầy đủ:** [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) | ⚡ **Quay lại:** [Bảng Tổng Hợp Siêu Tốc 1,642 Mã](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md)
 
 ---
 

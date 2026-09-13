@@ -1,21 +1,21 @@
-# ⚡ Bảng Tổng Hợp Siêu Tốc Toàn Bộ 90 Doanh Nghiệp (Master Quick Summary)
+# ⚡ Bảng Tổng Hợp Siêu Tốc Toàn Bộ 1,642 Doanh Nghiệp Thị Trường Chứng Khoán Việt Nam (Master Quick Summary)
 
-> **Mục đích:** File tóm tắt dạng Cheat-sheet giúp người dùng lướt qua nhanh toàn bộ 90 mã cổ phiếu đầu tiên, nắm bắt ngay trạng thái từng bước và lý do cốt tử (1 câu) mà không cần cuộn qua các bài phân tích dài dòng.
+> **Mục đích:** File tóm tắt dạng Cheat-sheet giúp người dùng lướt qua nhanh toàn bộ 1,642 mã cổ phiếu (HOSE, HNX, UPCoM & Đại chúng OTC), nắm bắt ngay trạng thái từng bước và lý do cốt tử (1 câu) mà không cần cuộn qua các bài phân tích dài dòng.
 > 
 > 📁 **Hồ sơ chi tiết đầy đủ:** [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md)
 
 ---
 
-### 📊 Thống Kê Tổng Quan Phễu Lọc (90 Mã Đầu Tiên)
-- ❌ **Rớt Bước 1 (Ngành nghề & Vòng tròn năng lực):** **16** mã (17.8%) → [Bảng tóm tắt Bước 1](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md)
-- ❌ **Rớt Bước 2 (Lỗ 3 năm liên tiếp):** **1** mã (1.1%) → [Bảng tóm tắt Bước 2](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-02-consecutive-loss.md)
-- ❌ **Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5):** **14** mã (15.6%) → [Bảng tóm tắt Bước 3](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md)
-- ❌ **Rớt Bước 4 (ROE 5 năm < 10%):** **18** mã (20.0%) → [Bảng tóm tắt Bước 4](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md)
-- 🏆 **VƯỢT QUA TOÀN BỘ (File 5):** **41** mã (45.6%) → [Bảng tóm tắt File 5](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md)
+### 📊 Thống Kê Tổng Quan Phễu Lọc (Toàn Bộ 1,642 Mã)
+- ❌ **Rớt Bước 1 (Ngành nghề & Vòng tròn năng lực):** **428** mã (26.07%) → [Bảng tóm tắt Bước 1](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md)
+- ❌ **Rớt Bước 2 (Lỗ 3 năm liên tiếp):** **2** mã (0.12%) → [Bảng tóm tắt Bước 2](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-02-consecutive-loss.md)
+- ❌ **Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5):** **16** mã (0.97%) → [Bảng tóm tắt Bước 3](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md)
+- ❌ **Rớt Bước 4 (ROE 5 năm < 10%):** **392** mã (23.87%) → [Bảng tóm tắt Bước 4](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md)
+- 🏆 **VƯỢT QUA TOÀN BỘ (File 5):** **804** mã (48.96%) → [Bảng tóm tắt File 5](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md)
 
 ---
 
-### 📋 Bảng Tra Cứu Nhanh 90 Cổ Phiếu
+### 📋 Bảng Tra Cứu Nhanh 1,642 Cổ Phiếu
 
 | STT | Mã CK | Tên Doanh Nghiệp | Ngành Hoạt Động | B1 | B2 | B3 | B4 | Kết Quả | Lý Do Cốt Tử / Luận Điểm Ngắn Gọn | Xem Chi Tiết |
 | :---: | :---: | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :--- | :---: |

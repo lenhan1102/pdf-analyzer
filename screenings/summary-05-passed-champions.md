@@ -1,8 +1,8 @@
-# 🏆 Bảng Tóm Tắt Nhanh: 22 "Viên Kim Cương" Tinh Hoa Vượt Qua Toàn Bộ Phễu Lọc
+# 🏆 Bảng Tóm Tắt Nhanh: 804 Doanh Nghiệp Đạt Chuẩn File 5 Vượt Qua Toàn Bộ Phễu Lọc
 
-> **Mục đích:** Bảng tổng hợp rút gọn 22 doanh nghiệp xuất sắc nhất đã vượt qua toàn bộ 4 bước sàng lọc khắt khe, chứng minh con hào kinh tế vững mạnh, chuỗi giá trị cao và hiệu quả sinh lời trên vốn vượt trội.
+> **Mục đích:** Bảng tổng hợp rút gọn 804 doanh nghiệp xuất sắc nhất đã vượt qua toàn bộ 4 bước sàng lọc khắt khe, chứng minh con hào kinh tế vững mạnh, chuỗi giá trị cao và hiệu quả sinh lời trên vốn vượt trội.
 > 
-> 📁 **Hồ sơ phân tích chi tiết đầy đủ:** [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) | ⚡ **Quay lại:** [Bảng Tổng Hợp Siêu Tốc 50 Mã](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md)
+> 📁 **Hồ sơ phân tích chi tiết đầy đủ:** [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) | ⚡ **Quay lại:** [Bảng Tổng Hợp Siêu Tốc 1,642 Mã](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md)
 
 ---
 

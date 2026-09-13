@@ -1,8 +1,8 @@
 # 📋 Bảng Tóm Tắt Nhanh: Doanh Nghiệp Rớt Bước 1 (Vòng Tròn Năng Lực & Ngành Nghề)
 
-> **Mục đích:** Bảng tổng hợp rút gọn giúp lướt nhanh 7 doanh nghiệp bị loại ngay từ vòng đầu tiên (Bất động sản dân dụng, Xây dựng xây lắp hạ tầng, Vật liệu xây dựng đại trà).
+> **Mục đích:** Bảng tổng hợp rút gọn giúp lướt nhanh 428 doanh nghiệp bị loại ngay từ vòng đầu tiên (Bất động sản dân dụng, Xây dựng xây lắp hạ tầng, Vật liệu xây dựng đại trà).
 > 
-> 📁 **Hồ sơ phân tích chi tiết đầy đủ:** [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) | ⚡ **Quay lại:** [Bảng Tổng Hợp Siêu Tốc 50 Mã](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md)
+> 📁 **Hồ sơ phân tích chi tiết đầy đủ:** [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) | ⚡ **Quay lại:** [Bảng Tổng Hợp Siêu Tốc 1,642 Mã](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md)
 
 ---
 
