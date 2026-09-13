@@ -225,3 +225,22 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
   - *Bước 4:* **LOẠI BỎ.** Quy mô vốn chủ sở hữu lớn (>1,500 tỷ đồng) nhưng gánh nặng chi phí bán hàng, chi phí quản lý và chi phí tài chính cao khiến hiệu quả sinh lời trên vốn cổ đông rất thấp. Suốt 5 năm liên tiếp từ 2020 đến 2024, ROE của DCL chỉ dao động quanh 3.56% - 8.41% (**toàn bộ các năm đều dưới ngưỡng 10%**), hiệu quả sử dụng vốn không đạt chuẩn.
 - **Ngày sàng lọc:** 2026-09-13
 
+
+---
+
+### 19. DQC - Công ty Cổ phần Bóng đèn Điện Quang
+- **Mã cổ phiếu:** `DQC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng / Thiết bị điện & Chiếu sáng
+- **Hoạt động kinh doanh chính:** Sản xuất và kinh doanh thiết bị chiếu sáng, bóng đèn LED, thiết bị điện dân dụng và giải pháp Smart Lighting.
+- **Thống kê ROE qua các năm:**
+  - Năm 2020: ROE = **1.71%**
+  - Năm 2021: ROE = **2.30%**
+  - Năm 2022: ROE = **~1.80%**
+  - Năm 2023: ROE = **-3.82%** (Thua lỗ)
+  - Năm 2024: ROE = **-15.74%** (Lỗ nặng -154 tỷ đồng)
+  - *Giai đoạn trước đó (2018 - 2019): ROE cũng chỉ đạt 8.19% và 2.93%*
+- **Lý do loại trừ tại Bước 4:**
+  - Hoàn thành Bước 1, Bước 2 (chỉ mới lỗ 2 năm liên tiếp 2023-2024) và Bước 3 (thị giá 9.35k vs BVPS 27.76k cho $P/B = 0.34 < 0.5$).
+  - Tuy nhiên tại Bước 4, DQC có **hiệu quả sử dụng vốn cực kỳ yếu kém với ROE 5 năm liên tiếp từ 2020 đến 2024 đều nằm dưới 3%, thậm chí thua lỗ âm nặng trong 2 năm gần nhất**.
+  - Doanh nghiệp bị cạnh tranh khốc liệt bởi các sản phẩm đèn LED giá rẻ của Trung Quốc và đối thủ lớn Rạng Đông (RAL), thị phần suy giảm, không duy trì được tỷ suất sinh lời tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026

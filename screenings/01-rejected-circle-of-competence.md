@@ -155,3 +155,49 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 - **Xem xét yếu tố đặc thù:** Không sở hữu mỏ tài nguyên độc quyền hay TTTM bán lẻ đặc thù.
 - **Ngày sàng lọc:** 2026-09-13
 
+
+---
+
+### 17. DIG - Tổng Công ty Cổ phần Đầu tư Phát triển Xây dựng (DIC Corp)
+- **Mã cổ phiếu:** `DIG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Hoạt động kinh doanh chính:** Đầu tư phát triển các dự án khu đô thị, khu phức hợp dân dụng (KĐT Nam Vĩnh Yên, KĐT Du lịch Long Tân, KĐT Chí Linh Vũng Tàu), xây dựng công trình dân dụng hạ tầng kỹ thuật.
+- **Lý do loại trừ tại Bước 1:**
+  - Hoạt động cốt lõi là **đầu tư phát triển bất động sản dân dụng và phân lô bán nền**, lĩnh vực nằm ngoài Vòng tròn năng lực theo quy chuẩn hệ thống.
+  - Mô hình kinh doanh phụ thuộc nặng nề vào các chu kỳ sốt đất, đòn bẩy tài chính lớn, nhu cầu vốn giải phóng mặt bằng khổng lồ, và chịu rủi ro pháp lý quy hoạch kéo dài.
+  - Doanh nghiệp không sở hữu các tài sản hạ tầng độc quyền phòng thủ hay BĐS KCN quỹ đất sạch sẵn sàng cho thuê tạo dòng tiền đều.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 18. DLG - Công ty Cổ phần Tập đoàn Đức Long Gia Lai
+- **Mã cổ phiếu:** `DLG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Hoạt động kinh doanh chính:** Đầu tư dự án bất động sản, xây dựng hạ tầng giao thông BOT, sản xuất linh kiện điện tử gia công và nông nghiệp.
+- **Lý do loại trừ tại Bước 1:**
+  - Hoạt động kinh doanh cốt lõi thuộc nhóm **Bất động sản dân dụng và xây lắp hạ tầng**, nằm ngoài Vòng tròn năng lực.
+  - Doanh nghiệp có lịch sử đầu tư dàn trải đa ngành kém hiệu quả, đọng vốn lớn tại các dự án BOT và nợ phải thu khó đòi, nhiều năm kinh doanh thua lỗ nặng nề (từng bị đối tác nộp đơn yêu cầu mở thủ tục phá sản).
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 19. DPG - Công ty Cổ phần Tập đoàn Đạt Phương
+- **Mã cổ phiếu:** `DPG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Hoạt động kinh doanh chính:** Thi công xây lắp hạ tầng giao thông cầu đường, đầu tư phát triển bất động sản đô thị (Casamia Hội An, Cồn Tiến), sản xuất điện năng từ thủy điện.
+- **Lý do loại trừ tại Bước 1:**
+  - Doanh thu và lợi nhuận chính phụ thuộc vào nhóm **Xây lắp công trình hạ tầng và Bất động sản dân dụng/nghỉ dưỡng**, nằm ngoài Vòng tròn năng lực.
+  - Mảng xây lắp hạ tầng có biên lợi nhuận ròng rất mỏng (5-6%), chịu rủi ro trượt giá vật tư và công nợ đọng kéo dài từ các chủ đầu tư; mảng BĐS chịu ảnh hưởng lớn từ chu kỳ thanh khoản thị trường nhà đất miền Trung.
+  - Hiệu quả sử dụng vốn của DPG cũng suy giảm rõ rệt (ROE 2023-2024 chỉ đạt 8.5% - 8.6% < 10%).
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 20. DRH - Công ty Cổ phần DRH Holdings
+- **Mã cổ phiếu:** `DRH` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Hoạt động kinh doanh chính:** Phát triển các dự án bất động sản căn hộ chung cư (Aurora Residences, D-Vela) và hoạt động đầu tư tài chính đầu cơ.
+- **Lý do loại trừ tại Bước 1:**
+  - Doanh nghiệp **bất động sản dân dụng đầu cơ**, nằm ngoài Vòng tròn năng lực.
+  - Tình hình tài chính sa sút nghiêm trọng: Dòng tiền kinh doanh tắc nghẽn, các dự án chung cư vướng mắc bàn giao, doanh thu teo tóp chỉ vài tỷ đồng trong khi gánh nặng chi phí lãi vay đẩy công ty thua lỗ nặng nề 2 năm liên tiếp 2023-2024 (lỗ hàng trăm tỷ đồng), đơn vị kiểm toán đưa ra nghi ngờ về khả năng hoạt động liên tục.
+- **Ngày Phân Tích:** 13/09/2026

@@ -49,3 +49,9 @@
 | 39 | **DHA** | Hóa An | Khai thác mỏ đá xây dựng Tân Cang 3 | **12.10% - 21.19%** | 14.8 | 1.79 | Mỏ đá Tân Cang 3/Thạnh Phú 2 tâm điểm Sân bay Long Thành, biên gộp 35%, ROE 12-23% suốt 5N | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md#dha) |
 | 40 | **DHC** | Đông Hải Bến Tre (Dohaco) | Giấy bao bì công nghiệp Kraft & Carton | **12.08% - 16.70%** | 12.4 | 1.47 | Nhà máy Giao Long 1&2 dẫn đầu ĐBSCL, chuỗi giá trị bao bì khép kín, ROE 12-28% suốt 5 năm | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md#dhc) |
 | 41 | **DHG** | Dược Hậu Giang | Sản xuất dược phẩm số 1 Việt Nam | **19.02% - 21.65%** | 16.6 | 3.06 | Vua dược phẩm VN (Hapacol), cổ đông Taisho Nhật Bản, chuẩn Japan/EU-GMP, ROE 19-23.5% suốt 5N | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md#dhg) |
+| 42 | `DMC` | CTCP Xuất nhập khẩu Y tế Domesco | HOSE | Dược phẩm y tế | ~12.6% | ~1.29 | Dược phẩm hàng đầu VN, tập đoàn Abbott (Hoa Kỳ) sở hữu 51.7%, tài chính sạch nợ, cổ tức 25% | 13/09/2026 |
+| 43 | `DMX` | CTCP Đầu tư Điện máy Xanh | HOSE | Bán lẻ điện máy | ~19.3% | ~4.80 | Vua bán lẻ điện máy VN với >50% thị phần, hơn 2,000 siêu thị, quyền lực đàm phán độc tôn | 13/09/2026 |
+| 44 | `DPM` | Tổng CTCP Phân bón và Hóa chất Dầu khí (Đạm Phú Mỹ) | HOSE | Phân bón & Hóa chất | 4.8% (2021-22: 25-29%) | ~0.80 | Vua phân đạm Việt Nam, sở hữu >6,000 tỷ tiền mặt, nợ dài hạn bằng 0, cổ tức tiền mặt cao | 13/09/2026 |
+| 45 | `DPR` | CTCP Cao su Đồng Phú | HOSE | Cao su & BĐS KCN | 8.1% (2021: 15.7%) | ~1.35 | Chuỗi cao su khép kín + quỹ đất chuyển đổi KCN giá vốn 0đ, >1,500 tỷ tiền mặt, cổ tức 20-30% | 13/09/2026 |
+| 46 | `DRC` | CTCP Cao su Đà Nẵng | HOSE | Săm lốp xe tải ô tô | ~12.1% (5 năm: 12-16.5%) | ~0.62 | Vua lốp Radial xe tải VN xuất khẩu Mỹ/Brazil, ROE 5 năm luôn >12%, cổ tức tiền mặt bền vững | 13/09/2026 |
+

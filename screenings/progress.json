@@ -1,53 +1,52 @@
 {
   "project": "Vietnamese Stock Market Multi-Stage Screening Funnel",
   "total_universe": 1642,
-  "screened_count": 90,
-  "remaining_count": 1552,
-  "progress_percentage": 5.48,
+  "screened_count": 100,
+  "remaining_count": 1542,
+  "progress_percentage": 6.09,
   "current_batch": {
-    "batch_number": 9,
-    "range": "81-90",
+    "batch_number": 10,
+    "range": "91-100",
     "tickers": [
-      "DBT",
-      "DC4",
-      "DCL",
-      "DCM",
-      "DGC",
-      "DGW",
-      "DHA",
-      "DHC",
-      "DHG",
-      "DHM"
+      "DIG",
+      "DLG",
+      "DMC",
+      "DMX",
+      "DPG",
+      "DPM",
+      "DPR",
+      "DQC",
+      "DRC",
+      "DRH"
     ],
     "status": "completed",
     "results": {
       "step_1_rejected": [
-        "DC4"
+        "DIG",
+        "DLG",
+        "DPG",
+        "DRH"
       ],
       "step_2_rejected": [],
-      "step_3_rejected": [
-        "DHM"
-      ],
+      "step_3_rejected": [],
       "step_4_rejected": [
-        "DBT",
-        "DCL"
+        "DQC"
       ],
       "passed_file_5": [
-        "DCM",
-        "DGC",
-        "DGW",
-        "DHA",
-        "DHC",
-        "DHG"
+        "DMC",
+        "DMX",
+        "DPM",
+        "DPR",
+        "DRC"
       ]
     }
   },
   "summary_metrics": {
-    "step_1_rejected_circle_of_competence": 16,
+    "step_1_rejected_circle_of_competence": 20,
     "step_2_rejected_consecutive_loss": 1,
     "step_3_rejected_low_value_chain": 14,
-    "step_4_rejected_low_roe": 18,
-    "step_5_passed_champions": 41
+    "step_4_rejected_low_roe": 19,
+    "step_5_passed_champions": 46
   },
   "batches_history": [
     {
@@ -238,6 +237,27 @@
       "step_3": 1,
       "step_4": 2,
       "passed": 6
+    },
+    {
+      "batch": 10,
+      "range": "91-100",
+      "tickers": [
+        "DIG",
+        "DLG",
+        "DMC",
+        "DMX",
+        "DPG",
+        "DPM",
+        "DPR",
+        "DQC",
+        "DRC",
+        "DRH"
+      ],
+      "step_1": 4,
+      "step_2": 0,
+      "step_3": 0,
+      "step_4": 1,
+      "passed": 5
     }
   ],
   "last_updated": "2026-09-13T11:20:00+07:00"

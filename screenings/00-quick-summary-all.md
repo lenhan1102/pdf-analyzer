@@ -109,3 +109,14 @@
 | 88 | **DHC** | Đông Hải Bến Tre (Dohaco) | Giấy bao bì công nghiệp Kraft & Carton | ✅ | ✅ | ✅ | ✅ | 🏆 **File 5** | Nhà máy Giao Long 1&2 dẫn đầu ĐBSCL, chuỗi giá trị bao bì khép kín, ROE 12-28% suốt 5 năm | [Chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md#dhc) |
 | 89 | **DHG** | Dược Hậu Giang | Sản xuất dược phẩm số 1 Việt Nam | ✅ | ✅ | ✅ | ✅ | 🏆 **File 5** | Vua dược phẩm VN (Hapacol), cổ đông Taisho Nhật Bản, chuẩn Japan/EU-GMP, ROE 19-23.5% suốt 5N | [Chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md#dhg) |
 | 90 | **DHM** | TM&KT Khoáng sản Dương Hiếu | Thương mại khoáng sản & than cốc | ✅ | ✅ | ❌ | - | Dừng ở B3 | Thương mại trung gian biên ròng cực mỏng (<0.5%), không có mỏ độc quyền, P/B = 0.68 >= 0.5 | [Chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md#dhm) |
+| 91 | `DIG` | Tổng CTCP Đầu tư Phát triển Xây dựng (DIC Corp) | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | BĐS dân dụng & Phân lô Nam Vĩnh Yên, Long Tân, đòn bẩy cao | [01-rejected](01-rejected-circle-of-competence.md) |
+| 92 | `DLG` | CTCP Tập đoàn Đức Long Gia Lai | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | BĐS & BOT giao thông, đầu tư dàn trải, nợ đọng, rủi ro phá sản | [01-rejected](01-rejected-circle-of-competence.md) |
+| 93 | `DMC` | CTCP Xuất nhập khẩu Y tế Domesco | HOSE | Dược phẩm | 🏆 Vượt B4 | Dược phẩm top đầu, Abbott nắm 51.7%, ROE 5 năm >12%, sạch nợ | [05-passed](05-passed-champions.md) |
+| 94 | `DMX` | CTCP Đầu tư Điện máy Xanh | HOSE | Bán lẻ điện máy | 🏆 Vượt B4 | Thị phần bán lẻ điện máy số 1 VN (>50%), mạng lưới >2,000 shop, ROE 19.3% | [05-passed](05-passed-champions.md) |
+| 95 | `DPG` | CTCP Tập đoàn Đạt Phương | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Xây lắp cầu đường biên mỏng + BĐS nghỉ dưỡng Casamia Hội An | [01-rejected](01-rejected-circle-of-competence.md) |
+| 96 | `DPM` | Tổng CTCP Phân bón và Hóa chất Dầu khí (Đạm Phú Mỹ) | HOSE | Nông nghiệp / Hóa chất | 🏆 Vượt B4 | Đạm Phú Mỹ đầu ngành, tiền mặt >6,000 tỷ, ROE bùng nổ 25-29% | [05-passed](05-passed-champions.md) |
+| 97 | `DPR` | CTCP Cao su Đồng Phú | HOSE | Nông nghiệp / BĐS KCN | 🏆 Vượt B4 | Cao su tự nhiên + KCN đất sạch, tiền mặt >1,500 tỷ, cổ tức 20-30% | [05-passed](05-passed-champions.md) |
+| 98 | `DQC` | CTCP Bóng đèn Điện Quang | HOSE | Hàng tiêu dùng / Thiết bị điện | ❌ Rớt B4 | Cạnh tranh khốc liệt thiết bị LED Trung Quốc, ROE 5 năm <3% & lỗ nặng | [04-rejected](04-rejected-low-roe.md) |
+| 99 | `DRC` | CTCP Cao su Đà Nẵng | HOSE | Công nghiệp / Săm lốp | 🏆 Vượt B4 | Vua lốp Radial xe tải VN xuất khẩu Mỹ/Brazil, ROE 12-16.5% suốt 5 năm | [05-passed](05-passed-champions.md) |
+| 100 | `DRH` | CTCP DRH Holdings | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | BĐS dân dụng đình trệ, đầu cơ tài chính lỗ triền miên, nguy cơ phá sản | [01-rejected](01-rejected-circle-of-competence.md) |
+

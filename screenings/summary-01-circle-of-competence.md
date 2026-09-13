@@ -24,3 +24,8 @@
 | 14 | **CTD** | CTCP Xây dựng Coteccons | Tổng thầu xây dựng dân dụng & công nghiệp | Tổng thầu thi công xây lắp công trình, biên ròng cực mỏng (1-2%), đọng vốn công nợ | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md#ctd) |
 | 15 | **CVT** | CTCP CMC | Sản xuất gạch ốp lát ceramic & granite | Sản xuất VLXD thông thường, không có mỏ đá độc quyền, cạnh tranh khốc liệt | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md#cvt) |
 | 16 | **DC4** | CTCP DICERA Holdings | Thi công xây lắp & BĐS căn hộ Vũng Tàu | Nhà thầu xây dựng và phát triển căn hộ chung cư, rủi ro chu kỳ thanh khoản | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md#dc4) |
+| 17 | `DIG` | Tổng CTCP Đầu tư Phát triển Xây dựng (DIC Corp) | HOSE | Bất động sản dân dụng & Phân lô bán nền | Đầu tư KĐT dân dụng Nam Vĩnh Yên, Long Tân, phụ thuộc chu kỳ sốt đất, đòn bẩy cao | 13/09/2026 |
+| 18 | `DLG` | CTCP Tập đoàn Đức Long Gia Lai | HOSE | Bất động sản & Xây dựng hạ tầng | Đầu tư dàn trải đa ngành kém hiệu quả, BĐS & BOT giao thông nợ đọng lớn | 13/09/2026 |
+| 19 | `DPG` | CTCP Tập đoàn Đạt Phương | HOSE | Xây lắp hạ tầng & BĐS dân dụng | Thi công xây lắp cầu đường biên mỏng, BĐS nghỉ dưỡng Hội An chu kỳ đóng băng | 13/09/2026 |
+| 20 | `DRH` | CTCP DRH Holdings | HOSE | Bất động sản dân dụng & Đầu tư tài chính | BĐS chung cư đình trệ, đầu cơ tài chính thua lỗ triền miên, kiểm toán nghi ngờ HĐLT | 13/09/2026 |
+

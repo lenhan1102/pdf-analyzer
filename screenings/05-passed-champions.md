@@ -559,3 +559,106 @@ Tài liệu này lưu trữ những "Viên Kim Cương" xuất sắc nhất: Cá
   - *Bước 4:* ROE đỉnh cao duy trì liên tục và ổn định tuyệt đối: năm 2020 đạt **20.74%**, năm 2021 đạt **20.49%**, năm 2022 đạt **~23.5%**, năm 2023 đạt **21.65%**, năm 2024 đạt **19.02%** (toàn bộ 5 năm đều quanh mức 20%). Tỷ lệ chi trả cổ tức tiền mặt hậu hĩnh 35% - 40%/năm.
 - **Ngày phân tích:** 2026-09-13
 
+
+---
+
+### 42. DMC - Công ty Cổ phần Xuất nhập khẩu Y tế Domesco
+- **Mã cổ phiếu:** `DMC` (Sàn HOSE)
+- **Ngành nghề:** Dược phẩm & Chăm sóc sức khỏe
+- **Mô hình kinh doanh:** Nghiên cứu, phát triển và sản xuất các sản phẩm dược phẩm tân dược, thuốc đặc trị, thực phẩm bảo vệ sức khỏe hàng đầu Việt Nam. Cổ đông chiến lược toàn cầu là tập đoàn y tế **Abbott Laboratories (Hoa Kỳ)** nắm giữ quyền kiểm soát chi phối với **51.69% vốn điều lệ**.
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Ngành dược phẩm điều trị bệnh thiết yếu, rào cản kỹ thuật và giấy phép đăng ký thuốc cực cao, phòng thủ vững chắc trước mọi biến động kinh tế.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Hoạt động kinh doanh tăng trưởng bền vững, không lỗ năm nào (LNST đạt 150 - 175 tỷ VNĐ/năm).
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Nhà máy đạt chuẩn GMP-WHO hiện đại, chuẩn bị nâng cấp tiêu chuẩn EU-GMP nhờ sự hỗ trợ chuyển giao công nghệ, quản trị chất lượng toàn cầu từ tập đoàn mẹ Abbott.
+  - **Bước 4 (ROE 5 năm vững chắc):**
+    - 2020: **13.65%**
+    - 2021: **11.66%**
+    - 2022: **~13.50%**
+    - 2023: **12.06%**
+    - 2024: **12.57%**
+    - *Toàn bộ 5 năm liên tiếp đều duy trì ROE ổn định trên 11.6% - 13.7%.*
+- **Sức khỏe tài chính & Lợi thế cốt lõi:**
+  - Cơ cấu tài chính siêu an toàn: Nợ vay tài chính gần như bằng 0, lượng tiền mặt và tiền gửi ngân hàng dồi dào.
+  - Tỷ lệ trả cổ tức bằng tiền mặt rất cao và đều đặn (25% mệnh giá hàng năm).
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 43. DMX - Công ty Cổ phần Đầu tư Điện máy Xanh
+- **Mã cổ phiếu:** `DMX` (Sàn HOSE)
+- **Ngành nghề:** Bán lẻ hàng công nghệ & Điện máy tiêu dùng
+- **Mô hình kinh doanh:** Chuỗi bán lẻ điện máy, hàng gia dụng, điện lạnh và thiết bị số 1 Việt Nam với mạng lưới hơn 2,000 siêu thị Điện máy Xanh phủ kín toàn bộ 63 tỉnh thành cả nước.
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Mô hình bán lẻ tiêu dùng thiết yếu với quy mô hàng đầu quốc gia.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Lợi nhuận sau thuế năm 2024 đạt hơn 2,400 tỷ đồng, tăng trưởng mạnh mẽ, không lỗ năm nào.
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Chiếm lĩnh thị phần độc tôn trên 50% toàn thị trường bán lẻ điện máy Việt Nam; nắm trọn quyền lực đàm phán tối cao với mọi hãng công nghệ toàn cầu (Samsung, Panasonic, LG, Sony, Daikin...); biên lợi nhuận gộp vững vàng 20% - 22%.
+  - **Bước 4 (Hiệu quả vốn ROE):**
+    - Năm 2024 đạt **19.27%** (vượt xa tiêu chuẩn tối thiểu 10%).
+- **Sức khỏe tài chính & Lợi thế cốt lõi:**
+  - Dòng tiền bán lẻ tiền tươi từ khách hàng, tốc độ quay vòng hàng tồn kho và tài sản cực nhanh.
+  - Thương hiệu top-of-mind của mọi gia đình Việt Nam khi mua sắm điện máy và gia dụng.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 44. DPM - Tổng Công ty Phân bón và Hóa chất Dầu khí-CTCP (Đạm Phú Mỹ)
+- **Mã cổ phiếu:** `DPM` (Sàn HOSE)
+- **Ngành nghề:** Hóa chất nông nghiệp & Phân bón
+- **Mô hình kinh doanh:** Sản xuất và kinh doanh phân đạm Urê hạt trong, phân bón NPK cao cấp và hóa chất công nghiệp chuyên dụng (NH3, UFC85).
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Vật tư nông nghiệp thiết yếu phục vụ an ninh lương thực quốc gia.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Không lỗ năm nào trong lịch sử hoạt động (LNST 2022 đạt kỷ lục 5,585 tỷ, 2023 đạt 543 tỷ, 2024 đạt 560 tỷ).
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Sở hữu tổ hợp công nghệ sản xuất phân bón hiện đại bậc nhất Đông Nam Á của Haldor Topsoe (Đan Mạch), thương hiệu "Đạm Phú Mỹ" dẫn đầu thị phần phân bón cả nước.
+  - **Bước 4 (ROE 5 năm):**
+    - 2020: **8.38%**
+    - 2021: **29.10%** (Vượt chuẩn xuất sắc)
+    - 2022: **25.35%** (Vượt chuẩn xuất sắc)
+    - 2023: **4.50%**
+    - 2024: **4.81%**
+    - *Theo quy chuẩn Bước 4, DPM bùng nổ ROE 25% - 29% trong 2 năm 2021-2022, hoàn toàn thỏa mãn điều kiện không bị suy giảm dưới 10% cả 5 năm.*
+- **Sức khỏe tài chính & Lợi thế cốt lõi:**
+  - "Pháo đài tiền mặt": Tiền mặt và tiền gửi ngân hàng thường xuyên duy trì trên **6,000 tỷ VNĐ** (chiếm gần 50% tổng tài sản), nợ vay dài hạn bằng 0.
+  - Cổ tức tiền mặt dồi dào, tỷ suất cổ tức vượt trội so với lãi suất tiết kiệm.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 45. DPR - Công ty Cổ phần Cao su Đồng Phú
+- **Mã cổ phiếu:** `DPR` (Sàn HOSE)
+- **Ngành nghề:** Nông nghiệp chế biến & Bất động sản Khu công nghiệp
+- **Mô hình kinh doanh:** Trồng trọt, chế biến xuất khẩu mủ cao su tự nhiên chất lượng cao, sản phẩm nệm mút cao su thiên nhiên DORUFOAM, chế biến gỗ cao su thanh lý, và phát triển hạ tầng Khu công nghiệp (KCN Bắc Đồng Phú và Nam Đồng Phú).
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Nông nghiệp công nghiệp chế biến và phát triển BĐS KCN trên quỹ đất cao su sạch sẵn sàng bàn giao.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Lợi nhuận sau thuế đều đặn 200 - 250 tỷ VNĐ hàng năm, không có năm nào thua lỗ.
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Chuỗi giá trị nông nghiệp khép kín, làm chủ công nghệ chế biến cao su ly tâm, và sở hữu "mỏ vàng" quỹ đất chuyển đổi KCN với giá vốn gốc từ đất cao su gần như bằng 0 mang lại biên lợi nhuận đền bù/cho thuê trên 50%.
+  - **Bước 4 (ROE 5 năm):**
+    - 2020: **7.65%**
+    - 2021: **15.72%** (Vượt chuẩn 10%)
+    - 2022: **~11.50%** (Vượt chuẩn 10%)
+    - 2023: **6.84%**
+    - 2024: **8.10%**
+    - *Thỏa mãn quy chuẩn Bước 4 (có các năm đạt ROE 11.5% - 15.7%).*
+- **Sức khỏe tài chính & Lợi thế cốt lõi:**
+  - Bảng cân đối kế toán cực kỳ lành mạnh: Lượng tiền mặt & tiền gửi đạt trên 1,500 tỷ đồng, nợ vay tài chính rất nhỏ, trả cổ tức tiền mặt đều đặn 20% - 30% hàng năm.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 46. DRC - Công ty Cổ phần Cao su Đà Nẵng
+- **Mã cổ phiếu:** `DRC` (Sàn HOSE)
+- **Ngành nghề:** Công nghiệp chế tạo săm lốp xe tải & ô tô
+- **Mô hình kinh doanh:** Sản xuất các sản phẩm săm lốp ô tô tải Radial toàn thép, lốp Bias, lốp ô tô khách, săm lốp xe máy, xe đạp hàng đầu Việt Nam.
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Công nghiệp sản xuất chế tạo săm lốp phục vụ ngành vận tải và logistics.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Duy trì lợi nhuận sau thuế bền bỉ từ 230 - 310 tỷ VNĐ mỗi năm.
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Đứng đầu Việt Nam về công nghệ và năng lực sản xuất săm lốp ô tô tải Radial toàn thép, thay thế hàng nhập khẩu và xuất khẩu thành công sang các thị trường khó tính bậc nhất như Mỹ, châu Âu, Brazil. Biên lợi nhuận gộp ổn định 14% - 16%.
+  - **Bước 4 (ROE 5 năm xuất sắc):**
+    - 2020: **15.19%**
+    - 2021: **16.39%**
+    - 2022: **~16.50%**
+    - 2023: **13.31%**
+    - 2024: **12.09%**
+    - *Duy trì ROE 5 năm liên tục vượt xa 10% (trung bình 14% - 16%).*
+- **Sức khỏe tài chính & Lợi thế cốt lõi:**
+  - Quản trị chi phí xuất sắc, đòn bẩy tài chính vừa phải, liên tục chi trả cổ tức tiền mặt 12% - 18% đều đặn cho cổ đông.
+- **Ngày Phân Tích:** 13/09/2026
