@@ -5457,3 +5457,399 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
 - **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
 - **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 553. MQN - Công ty Cổ phần Môi trường đô thị Quảng Ngãi
+- **Mã cổ phiếu:** `MQN` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 554. MRF - Công ty cổ phần Merufa
+- **Mã cổ phiếu:** `MRF` (Sàn UPCOM)
+- **Ngành nghề:** Y tế
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Y tế, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 555. MTG - Công ty Cổ phần MT Gas
+- **Mã cổ phiếu:** `MTG` (Sàn UPCOM)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 556. MTH - Công ty Cổ phần Môi trường Đô thị Hà Đông
+- **Mã cổ phiếu:** `MTH` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 557. MTP - Công ty Cổ phần Dược Medipharco
+- **Mã cổ phiếu:** `MTP` (Sàn UPCOM)
+- **Ngành nghề:** Y tế
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Y tế, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 558. MTV - Công ty Cổ phần Dịch vụ Môi trường và Công trình Đô thị Vũng Tàu
+- **Mã cổ phiếu:** `MTV` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 559. MVN - Tổng Công ty Hàng hải Việt Nam - CTCP
+- **Mã cổ phiếu:** `MVN` (Sàn UPCOM)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 560. NAS - Công ty Cổ phần Dịch vụ Hàng không Sân bay Nội Bài
+- **Mã cổ phiếu:** `NAS` (Sàn UPCOM)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 561. NBE - Công ty Cổ phần Sách và Thiết bị Giáo dục Miền Bắc
+- **Mã cổ phiếu:** `NBE` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 562. NBT - CTCP Cấp thoát nước Bến Tre
+- **Mã cổ phiếu:** `NBT` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 563. NCS - Công ty cổ phần Suất ăn Hàng không Nội Bài
+- **Mã cổ phiếu:** `NCS` (Sàn UPCOM)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 564. NDC - Công ty Cổ phần Nam Dược
+- **Mã cổ phiếu:** `NDC` (Sàn UPCOM)
+- **Ngành nghề:** Y tế
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Y tế, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 565. NDT - Tổng Công ty cổ phần Dệt may Nam Định
+- **Mã cổ phiếu:** `NDT` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 566. NED - Công ty cổ phần Đầu tư và Phát triển Điện Tây Bắc
+- **Mã cổ phiếu:** `NED` (Sàn UPCOM)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 567. NGC - Công ty Cổ phần Chế biến Thủy sản Xuất khẩu Ngô Quyền
+- **Mã cổ phiếu:** `NGC` (Sàn UPCOM)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 568. NHD - Công ty cổ phần Dược phẩm Nam Hà
+- **Mã cổ phiếu:** `NHD` (Sàn UPCOM)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 569. NJC - Công ty cổ phần May Nam Định
+- **Mã cổ phiếu:** `NJC` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 570. NLS - Công ty cổ phần Cấp thoát Nước Lạng Sơn
+- **Mã cổ phiếu:** `NLS` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 571. NNT - Công ty cổ phần Cấp nước Ninh Thuận
+- **Mã cổ phiếu:** `NNT` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 572. NSG - CTCP Nhựa Sài Gòn
+- **Mã cổ phiếu:** `NSG` (Sàn UPCOM)
+- **Ngành nghề:** Nguyên vật liệu
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 573. NSL - Công ty cổ phần Cấp nước Sơn La
+- **Mã cổ phiếu:** `NSL` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 574. NSS - Công ty cổ phần Nông Súc Sản Đồng Nai
+- **Mã cổ phiếu:** `NSS` (Sàn UPCOM)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 575. NTT - Công ty Cổ phần Dệt - May Nha Trang
+- **Mã cổ phiếu:** `NTT` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 576. NWT - Công ty cổ phần Vận tải Newway
+- **Mã cổ phiếu:** `NWT` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 577. ODE - Công ty cổ phần Tập đoàn Truyền thông và Giải trí ODE
+- **Mã cổ phiếu:** `ODE` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 578. ONW - Công ty Cổ phần Dịch vụ Một Thế giới
+- **Mã cổ phiếu:** `ONW` (Sàn UPCOM)
+- **Ngành nghề:** Công nghệ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghệ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 579. PAS - Công ty cổ phần Quốc tế Phương Anh
+- **Mã cổ phiếu:** `PAS` (Sàn UPCOM)
+- **Ngành nghề:** Nguyên vật liệu
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 580. PAT - Công ty cổ phần Phốt pho Apatit Việt Nam
+- **Mã cổ phiếu:** `PAT` (Sàn UPCOM)
+- **Ngành nghề:** Nguyên vật liệu
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 581. PCB - Ngân hàng Thương mại cổ phần Đại chúng Việt Nam
+- **Mã cổ phiếu:** `PCB` (Sàn UPCOM)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 582. PEQ - Công ty cổ phần Thiết bị Xăng dầu Petrolimex
+- **Mã cổ phiếu:** `PEQ` (Sàn UPCOM)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 583. PHP - Công ty cổ phần Cảng Hải Phòng
+- **Mã cổ phiếu:** `PHP` (Sàn UPCOM)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 584. PIS - Tổng Công ty Pisico Bình Định - CTCP
+- **Mã cổ phiếu:** `PIS` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 585. PJS - Công ty cổ phần Cấp nước Phú Hòa Tân
+- **Mã cổ phiếu:** `PJS` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 586. PLO - Công ty Cổ phần Kho Vận Petec
+- **Mã cổ phiếu:** `PLO` (Sàn UPCOM)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 587. PMJ - Công ty cổ phần Vật tư Bưu điện
+- **Mã cổ phiếu:** `PMJ` (Sàn UPCOM)
+- **Ngành nghề:** Công nghệ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghệ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 588. PMW - Công ty cổ phần Cấp nước Phú Mỹ
+- **Mã cổ phiếu:** `PMW` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 589. PND - Công ty Cổ phần Xăng dầu Dầu khí Nam Định
+- **Mã cổ phiếu:** `PND` (Sàn UPCOM)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 590. PNG - Công ty cổ phần Thương mại Phú Nhuận
+- **Mã cổ phiếu:** `PNG` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 591. PNP - Công ty cổ phần Tân Cảng - Phú Hữu
+- **Mã cổ phiếu:** `PNP` (Sàn UPCOM)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 592. POV - Công ty Cổ phần Xăng dầu Dầu khí Vũng Áng
+- **Mã cổ phiếu:** `POV` (Sàn UPCOM)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 593. PPH - Tổng Công ty Cổ phần Phong Phú
+- **Mã cổ phiếu:** `PPH` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 594. PQN - Công ty cổ phần Dịch vụ Dầu khí Quảng Ngãi PTSC
+- **Mã cổ phiếu:** `PQN` (Sàn UPCOM)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 595. PSH - Công ty cổ phần Thương mại Đầu tư Dầu khí Nam Sông Hậu
+- **Mã cổ phiếu:** `PSH` (Sàn UPCOM)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 596. PSL - Công ty Cổ phần Chăn nuôi Phú Sơn
+- **Mã cổ phiếu:** `PSL` (Sàn UPCOM)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026

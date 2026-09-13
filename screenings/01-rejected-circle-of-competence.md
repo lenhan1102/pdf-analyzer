@@ -2879,3 +2879,138 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 - **Lý do loại trừ tại Bước 1:**
   - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 315. MVC - Công ty Cổ phần Vật liệu và Xây dựng Bình Dương
+- **Mã cổ phiếu:** `MVC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 316. NAC - Công ty Cổ phần Tư vấn Xây dựng Tổng hợp
+- **Mã cổ phiếu:** `NAC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 317. ND2 - Công ty Cổ phần Đầu tư Phát triển điện Miền Bắc 2
+- **Mã cổ phiếu:** `ND2` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 318. NXT - CTCP Sản xuất và Cung ứng vật liệu xây dựng Kon Tum
+- **Mã cổ phiếu:** `NXT` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 319. PCC - Công ty Cổ phần Tập đoàn Xây lắp 1 - Petrolimex
+- **Mã cổ phiếu:** `PCC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 320. PCM - Công ty Cổ phần Vật liệu Xây dựng Bưu điện
+- **Mã cổ phiếu:** `PCM` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 321. PFL - Công ty cổ phần Dầu khí Đông Đô
+- **Mã cổ phiếu:** `PFL` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 322. PHH - Công ty Cổ phần Hồng Hà Việt Nam
+- **Mã cổ phiếu:** `PHH` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 323. PLA - Công ty cổ phần Đầu tư Dịch vụ Hạ tầng Xăng Dầu
+- **Mã cổ phiếu:** `PLA` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 324. PLE - CTCP Tư vấn Xây dựng Petrolimex
+- **Mã cổ phiếu:** `PLE` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 325. PNT - Công ty cổ phần Kỹ thuật Xây dựng Phú Nhuận
+- **Mã cổ phiếu:** `PNT` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 326. POS - Công ty Cổ phần Vận hành và Xây lắp PTSC
+- **Mã cổ phiếu:** `POS` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Năng lượng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 327. PPI - Công ty Cổ phần Đầu tư và Phát triển Dự án Hạ tầng Thái Bình Dương
+- **Mã cổ phiếu:** `PPI` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 328. PRT - Tổng công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+- **Mã cổ phiếu:** `PRT` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 329. PSG - Công ty Cổ phần Đầu tư và Xây lắp Dầu khí Sài Gòn
+- **Mã cổ phiếu:** `PSG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026

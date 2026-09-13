@@ -2578,3 +2578,372 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 - **Lý do loại trừ tại Bước 4:**
   - ROE trong suốt 5 năm gần nhất (-0.6%, -1.4%, -10.5%) đều nằm dưới ngưỡng tối thiểu 10%.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 268. MQB - Công ty Cổ phần Môi trường và phát triển Đô thị Quảng Bình
+- **Mã cổ phiếu:** `MQB` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (3.7%, 3.3%, 5.0%, 5.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 269. MSR - Công ty cổ phần Masan High-Tech Materials
+- **Mã cổ phiếu:** `MSR` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.3%, 1.4%, -11.6%, -13.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 270. MTA - Tổng Công ty Khoáng sản và Thương mại Hà Tĩnh - CTCP
+- **Mã cổ phiếu:** `MTA` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.0%, -0.4%, -2.2%, 3.9%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 271. MTB - CTCP Môi trường và Công trình Đô thị tỉnh Thái Bình
+- **Mã cổ phiếu:** `MTB` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (2.7%, 1.0%, -31.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 272. MTL - CTCP Dịch vụ Môi trường Đô thị Từ Liêm
+- **Mã cổ phiếu:** `MTL` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.5%, 0.3%, 1.4%, 1.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 273. MTS - Công ty cổ phần Vật tư - TKV
+- **Mã cổ phiếu:** `MTS` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (9.3%, 9.7%, 8.6%, 8.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 274. NAU - Công ty cổ phần Môi trường và Công trình đô thị Nghệ An
+- **Mã cổ phiếu:** `NAU` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.5%, 0.6%, 4.6%, 1.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 275. NAW - Công ty Cổ phần Cấp nước Nghệ An
+- **Mã cổ phiếu:** `NAW` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.2%, 0.3%, 0.7%, 0.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 276. NCG - Công ty Cổ phần Đầu tư Anova Agri
+- **Mã cổ phiếu:** `NCG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-48.0%, 4.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 277. NDP - Công ty Cổ phần Dược phẩm 2/9
+- **Mã cổ phiếu:** `NDP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (9.3%, 9.5%, 6.5%, 7.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 278. NDW - CTCP Cấp nước Nam Định
+- **Mã cổ phiếu:** `NDW` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (7.4%, 9.6%, 8.2%, 9.0%, 9.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 279. NEM - Công ty cổ phần Thiết bị điện miền Bắc
+- **Mã cổ phiếu:** `NEM` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-0.1%, -25.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 280. NHV - Công ty cổ phần Sức Khỏe Hồi Sinh Việt Nam
+- **Mã cổ phiếu:** `NHV` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.5%, 9.2%, -4.5%, 0.0%, 0.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 281. NNG - Công ty Cổ phần Công nghiệp - Dịch vụ - Thương Mại Ngọc Nghĩa
+- **Mã cổ phiếu:** `NNG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.7%, -4.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 282. NOS - Công ty Cổ phần Vận tải biển và Thương mại Phương Đông
+- **Mã cổ phiếu:** `NOS` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (5.7%, 2.6%, 6.2%, 5.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 283. NQB - Công ty cổ phần Cấp nước Quảng Bình
+- **Mã cổ phiếu:** `NQB` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.0%, 4.0%, 7.0%, 7.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 284. NQN - Công ty Cổ phần Nước sạch Quảng Ninh
+- **Mã cổ phiếu:** `NQN` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.9%, 7.0%, 8.2%, 8.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 285. NQT - Công ty Cổ phần Nước sạch Quảng Trị
+- **Mã cổ phiếu:** `NQT` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.2%, 6.9%, 7.8%, 8.9%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 286. NS2 - Công ty Cổ phần Nước sạch số 2 Hà Nội
+- **Mã cổ phiếu:** `NS2` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (2.3%, 2.8%, 2.6%, 3.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 287. NTF - Công ty cổ phần Dược - Vật tư Y tế Nghệ An
+- **Mã cổ phiếu:** `NTF` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Y tế
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (3.0%, 2.6%, 2.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 288. NTW - Công ty cổ phần Cấp nước Nhơn Trạch
+- **Mã cổ phiếu:** `NTW` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (7.1%, 8.8%, 5.4%, 6.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 289. NUE - Công ty Cổ phần Môi trường Đô thị Nha Trang
+- **Mã cổ phiếu:** `NUE` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Doanh nghiệp Upcom
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (8.6%, 8.6%, 8.9%, 8.9%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 290. NVP - Công ty Cổ phần Nước sạch Vĩnh Phúc
+- **Mã cổ phiếu:** `NVP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.6%, 2.1%, 3.9%, 6.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 291. OIL - Tổng Công ty Dầu Việt Nam - CTCP
+- **Mã cổ phiếu:** `OIL` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-1.1%, 5.4%, 5.8%, 4.9%, 3.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 292. PAI - CTCP Công nghệ thông tin, viễn thông và tự động hóa Dầu khí
+- **Mã cổ phiếu:** `PAI` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghệ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (7.2%, 7.7%, 9.8%, 8.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 293. PAP - Công ty cổ phần Dầu khí Đầu tư Khai thác Cảng Phước An
+- **Mã cổ phiếu:** `PAP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.3%, -0.1%, -0.3%, -0.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 294. PBC - CTCP Dược phẩm Trung ương I - Pharbaco
+- **Mã cổ phiếu:** `PBC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Y tế
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.7%, 2.3%, 3.1%, 1.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 295. PBT - Công ty cổ phần Nhà và Thương mại Dầu khí
+- **Mã cổ phiếu:** `PBT` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (7.6%, 8.3%, 8.7%, 9.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 296. PCF - Công ty cổ phần Cà Phê Petec
+- **Mã cổ phiếu:** `PCF` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.3%, 0.3%, 1.0%, 0.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 297. PCG - Công ty Cổ phần Đầu tư và Phát triển Gas Đô Thị
+- **Mã cổ phiếu:** `PCG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (2.4%, 2.3%, 0.6%, -5.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 298. PDC - Công ty cổ phần Du lịch Dầu khí Phương Đông
+- **Mã cổ phiếu:** `PDC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-6.1%, -11.7%, 4.9%, 2.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 299. PEG - Tổng Công ty Thương mại Kỹ thuật và Đầu tư - CTCP
+- **Mã cổ phiếu:** `PEG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-15.0%, 2.0%, -0.6%, -5.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 300. PGB - Ngân hàng TMCP Thịnh vượng và Phát triển
+- **Mã cổ phiếu:** `PGB` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.3%, 6.2%, 8.8%, 0.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 301. PHS - Công ty Cổ phần Chứng khoán Phú Hưng
+- **Mã cổ phiếu:** `PHS` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (2.8%, 0.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 302. PIV - Công ty Cổ phần PIV
+- **Mã cổ phiếu:** `PIV` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-0.9%, -0.8%, -201.0%, -57.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 303. PMT - Công ty cổ phần Viễn thông TELVINA Việt Nam
+- **Mã cổ phiếu:** `PMT` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghệ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (3.5%, 3.9%, 0.6%, -4.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 304. POB - Công ty Cổ phần Xăng dầu Dầu khí Thái Bình
+- **Mã cổ phiếu:** `POB` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-0.7%, 2.4%, 3.1%, 1.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 305. POM - Công ty Cổ phần Thép Pomina
+- **Mã cổ phiếu:** `POM` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.4%, 4.9%, -376.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 306. PRO - Công ty Cổ phần Procimex Việt Nam
+- **Mã cổ phiếu:** `PRO` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.4%, 4.0%, 2.4%, -7.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 307. PSB - Công ty cổ phần Đầu tư Dầu khí Sao Mai – Bến Đình
+- **Mã cổ phiếu:** `PSB` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.5%, 0.1%, 0.8%, 0.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 308. PSN - Công ty Cổ phần Dịch vụ Kỹ thuật PTSC Thanh Hóa
+- **Mã cổ phiếu:** `PSN` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.9%, 6.9%, 7.5%, 6.9%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
