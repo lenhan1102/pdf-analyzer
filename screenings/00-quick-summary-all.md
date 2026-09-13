@@ -1,21 +1,21 @@
-# ⚡ Bảng Tổng Hợp Siêu Tốc Toàn Bộ 80 Doanh Nghiệp (Master Quick Summary)
+# ⚡ Bảng Tổng Hợp Siêu Tốc Toàn Bộ 90 Doanh Nghiệp (Master Quick Summary)
 
-> **Mục đích:** File tóm tắt dạng Cheat-sheet giúp người dùng lướt qua nhanh toàn bộ 80 mã cổ phiếu đầu tiên, nắm bắt ngay trạng thái từng bước và lý do cốt tử (1 câu) mà không cần cuộn qua các bài phân tích dài dòng.
+> **Mục đích:** File tóm tắt dạng Cheat-sheet giúp người dùng lướt qua nhanh toàn bộ 90 mã cổ phiếu đầu tiên, nắm bắt ngay trạng thái từng bước và lý do cốt tử (1 câu) mà không cần cuộn qua các bài phân tích dài dòng.
 > 
 > 📁 **Hồ sơ chi tiết đầy đủ:** [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md)
 
 ---
 
-### 📊 Thống Kê Tổng Quan Phễu Lọc (80 Mã Đầu Tiên)
-- ❌ **Rớt Bước 1 (Ngành nghề & Vòng tròn năng lực):** **15** mã (18.8%) → [Bảng tóm tắt Bước 1](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md)
-- ❌ **Rớt Bước 2 (Lỗ 3 năm liên tiếp):** **1** mã (1.2%) → [Bảng tóm tắt Bước 2](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-02-consecutive-loss.md)
-- ❌ **Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5):** **13** mã (16.2%) → [Bảng tóm tắt Bước 3](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md)
-- ❌ **Rớt Bước 4 (ROE 5 năm < 10%):** **16** mã (20.0%) → [Bảng tóm tắt Bước 4](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md)
-- 🏆 **VƯỢT QUA TOÀN BỘ (File 5):** **35** mã (43.8%) → [Bảng tóm tắt File 5](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md)
+### 📊 Thống Kê Tổng Quan Phễu Lọc (90 Mã Đầu Tiên)
+- ❌ **Rớt Bước 1 (Ngành nghề & Vòng tròn năng lực):** **16** mã (17.8%) → [Bảng tóm tắt Bước 1](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md)
+- ❌ **Rớt Bước 2 (Lỗ 3 năm liên tiếp):** **1** mã (1.1%) → [Bảng tóm tắt Bước 2](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-02-consecutive-loss.md)
+- ❌ **Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5):** **14** mã (15.6%) → [Bảng tóm tắt Bước 3](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md)
+- ❌ **Rớt Bước 4 (ROE 5 năm < 10%):** **18** mã (20.0%) → [Bảng tóm tắt Bước 4](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md)
+- 🏆 **VƯỢT QUA TOÀN BỘ (File 5):** **41** mã (45.6%) → [Bảng tóm tắt File 5](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md)
 
 ---
 
-### 📋 Bảng Tra Cứu Nhanh 80 Cổ Phiếu
+### 📋 Bảng Tra Cứu Nhanh 90 Cổ Phiếu
 
 | STT | Mã CK | Tên Doanh Nghiệp | Ngành Hoạt Động | B1 | B2 | B3 | B4 | Kết Quả | Lý Do Cốt Tử / Luận Điểm Ngắn Gọn | Xem Chi Tiết |
 | :---: | :---: | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -99,3 +99,13 @@
 | 78 | **DAT** | ĐT Du lịch & PT Thủy sản | Sơ chế bột cá & mỡ cá nguyên liệu | ✅ | ✅ | ❌ | - | Dừng ở B3 | Sơ chế phụ phẩm thức ăn gia súc biên mỏng, không có hào kinh tế, P/B = 0.61 >= 0.5 | [Chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md#dat) |
 | 79 | **DBC** | Tập đoàn Dabaco Việt Nam | Nông nghiệp chuỗi khép kín 3F | ✅ | ✅ | ✅ | ✅ | 🏆 **File 5** | Chuỗi 3F khép kín quy mô số 1 miền Bắc, tự chủ vaccine dịch tả lợn châu Phi, ROE 2024 đạt 11.37% | [Chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md#dbc) |
 | 80 | **DBD** | Dược phẩm Bidiphar | Dược phẩm ung thư chuẩn GMP-EU | ✅ | ✅ | ✅ | ✅ | 🏆 **File 5** | Vua thuốc điều trị ung thư GMP-EU thay thế hàng ngoại, biên gộp 50%, ROE 16-19% suốt 5N | [Chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md#dbd) |
+| 81 | **DBT** | Dược phẩm Bến Tre (Bepharco) | Phân phối dược phẩm & y tế | ✅ | ✅ | ✅ | ❌ | Dừng ở B4 | Phân phối dược phẩm biên ròng mỏng (~1.2%), ROE 5 năm chỉ quanh 5-6% < 10% | [Chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md#dbt) |
+| 82 | **DC4** | DICERA Holdings (DIC Số 4) | Thi công xây lắp & BĐS căn hộ | ❌ | - | - | - | Dừng ở B1 | Nhà thầu xây dựng và phát triển căn hộ chung cư Vũng Tàu, rủi ro chu kỳ | [Chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md#dc4) |
+| 83 | **DCL** | Dược phẩm Cửu Long | Thuốc tân dược & nang Capsule | ✅ | ✅ | ✅ | ❌ | Dừng ở B4 | Chi phí bán hàng và lãi vay lớn, ROE 5 năm suy giảm liên tục chỉ 3.6% - 8.4% < 10% | [Chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md#dcl) |
+| 84 | **DCM** | Phân bón Đạm Cà Mau | Đạm Urê hạt đục & Phân bón NPK | ✅ | ✅ | ✅ | ✅ | 🏆 **File 5** | Độc quyền đạm hạt đục VN, nhà máy hết khấu hao, tiền mặt >10k tỷ, ROE 11-35% suốt 5 năm | [Chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md#dcm) |
+| 85 | **DGC** | Hóa chất Đức Giang | Phốt pho vàng P4 & Axit bán dẫn điện tử | ✅ | ✅ | ✅ | ✅ | 🏆 **File 5** | Vua phốt pho vàng thế giới, xuất khẩu bán dẫn sang Intel/Samsung, ROE 22-45% suốt 5N | [Chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md#dgc) |
+| 86 | **DGW** | Thế giới số (Digiworld) | Dịch vụ phát triển thị trường MES công nghệ | ✅ | ✅ | ✅ | ✅ | 🏆 **File 5** | Mô hình MES độc tôn phân phối Apple/Xiaomi/HP, vòng quay tài sản cao, ROE 15-37% suốt 5N | [Chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md#dgw) |
+| 87 | **DHA** | Hóa An | Khai thác mỏ đá xây dựng Tân Cang 3 | ⚠️ | ✅ | ✅ | ✅ | 🏆 **File 5** | Mỏ đá Tân Cang 3/Thạnh Phú 2 tâm điểm Sân bay Long Thành, biên gộp 35%, ROE 12-23% suốt 5N | [Chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md#dha) |
+| 88 | **DHC** | Đông Hải Bến Tre (Dohaco) | Giấy bao bì công nghiệp Kraft & Carton | ✅ | ✅ | ✅ | ✅ | 🏆 **File 5** | Nhà máy Giao Long 1&2 dẫn đầu ĐBSCL, chuỗi giá trị bao bì khép kín, ROE 12-28% suốt 5 năm | [Chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md#dhc) |
+| 89 | **DHG** | Dược Hậu Giang | Sản xuất dược phẩm số 1 Việt Nam | ✅ | ✅ | ✅ | ✅ | 🏆 **File 5** | Vua dược phẩm VN (Hapacol), cổ đông Taisho Nhật Bản, chuẩn Japan/EU-GMP, ROE 19-23.5% suốt 5N | [Chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md#dhg) |
+| 90 | **DHM** | TM&KT Khoáng sản Dương Hiếu | Thương mại khoáng sản & than cốc | ✅ | ✅ | ❌ | - | Dừng ở B3 | Thương mại trung gian biên ròng cực mỏng (<0.5%), không có mỏ độc quyền, P/B = 0.68 >= 0.5 | [Chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md#dhm) |

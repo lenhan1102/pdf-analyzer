@@ -26,6 +26,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ ba: 
 | 11 | **COM** | CTCP Vật tư - Xăng dầu (COMECO) | Bán lẻ xăng dầu qua chuỗi cửa hàng | **0.81** | ~5.0% - 6.0% (Biên ròng ~1.5%) | Phân phối bán lẻ xăng dầu đại trà, biên ròng mỏng, P/B = 0.81 >= 0.5 | 2026-09-13 |
 | 12 | **CTF** | CTCP City Auto | Đại lý phân phối xe ô tô Ford | **1.94** | ~6.5% - 7.0% (Biên ròng < 1.0%) | Đại lý thương mại phân phối xe hơi biên mỏng, không có hào kinh tế, P/B = 1.94 rất đắt | 2026-09-13 |
 | 13 | **DAT** | CTCP ĐT Du lịch & PT Thủy sản (Trisedaco) | Chế biến phụ phẩm bột cá & mỡ cá | **0.61** | ~7.0% - 8.0% (Biên ròng ~2.0%) | Sơ chế phụ phẩm thức ăn gia súc biên mỏng, không có hào kinh tế, P/B = 0.61 >= 0.5 | 2026-09-13 |
+| 14 | **DHM** | CTCP TM&KT Khoáng sản Dương Hiếu | Thương mại khoáng sản & vật liệu chịu lửa | **0.68** | ~3.5% - 4.5% (Biên ròng < 0.5%) | Thương mại trung gian vật liệu luyện kim biên mỏng, không có mỏ độc quyền, P/B = 0.68 >= 0.5 | 2026-09-13 |
 
 ---
 
@@ -136,5 +137,14 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ ba: 
   - *Vị trí chuỗi giá trị:* Nằm ở khâu sơ chế phụ phẩm nông sản thô ở đáy chuỗi giá trị. Sản phẩm bột cá và mỡ cá là hàng hóa tiêu chuẩn hóa đại trà, giá bán hoàn toàn phụ thuộc vào biến động giá thức ăn chăn nuôi thế giới.
   - *Biên lợi nhuận mỏng:* Biên lợi nhuận ròng thấp và suy giảm, chi phí tài chính và nguyên liệu biến động lớn.
   - *Định giá & Số liệu:* Thị giá ~7.94k VNĐ, BVPS ~13.01k VNĐ → **P/B = 0.61 lần** (Lớn hơn 0.5 nên không thỏa mãn điều kiện ngoại lệ tài sản Net-Net).
+- **Ngày sàng lọc:** 2026-09-13
+---
+
+### ❌ DHM - CTCP Thương mại và Khai thác Khoáng sản Dương Hiếu
+- **Lĩnh vực hoạt động:** Bán buôn thương mại khoáng sản, than cốc, vật liệu chịu lửa và thiết bị cơ khí phục vụ các nhà máy luyện thép, xi măng.
+- **Lý do bị loại:**
+  - *Vị trí chuỗi giá trị:* Khâu thương mại trung gian phân phối vật tư thô ở đáy chuỗi giá trị. Hoàn toàn không sở hữu mỏ khoáng sản độc quyền hay công nghệ tinh chế sâu, không có quyền định giá bán.
+  - *Biên lợi nhuận cực mỏng:* Biên lợi nhuận gộp chỉ 3-4%, biên lợi nhuận ròng cực kỳ mỏng (**dưới 0.5%**), lợi nhuận sau thuế teo tóp chỉ vài tỷ đồng/năm.
+  - *Định giá & Số liệu:* Thị giá ~6.98k VNĐ, BVPS ~10.29k VNĐ → **P/B = 0.68 lần** (Lớn hơn 0.5 nên không thỏa mãn điều kiện ngoại lệ tài sản Net-Net).
 - **Ngày sàng lọc:** 2026-09-13
 

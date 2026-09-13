@@ -45,6 +45,12 @@ Tài liệu này lưu trữ những "Viên Kim Cương" xuất sắc nhất: Cá
 | 33 | **D2D** | CTCP Phát triển Đô thị Công nghiệp Số 2 | BĐS Khu công nghiệp (Nhơn Trạch 2) | **11.81% (2020: 27.7%)** | 12.2 | 1.20 | Chủ đầu tư KCN Nhơn Trạch 2 thủ phủ FDI Đồng Nai, biên gộp >45%, tiền mặt dồi dào, ROE >11% | 2026-09-13 |
 | 34 | **DBC** | CTCP Tập đoàn Dabaco Việt Nam | Nông nghiệp chuỗi khép kín 3F | **11.37% (2020: 33.3%)** | 10.6 | 0.81 | Chuỗi 3F khép kín quy mô số 1 miền Bắc, tự chủ vaccine dịch tả lợn châu Phi, ROE 2024 đạt 11.37% | 2026-09-13 |
 | 35 | **DBD** | CTCP Dược - TTBYT Bình Định (Bidiphar) | Dược phẩm công nghệ cao & thuốc ung thư | **16.57% - 18.78%** | 18.3 | 2.61 | Vua thuốc điều trị ung thư chuẩn GMP-EU thay thế hàng ngoại, biên gộp 50%, ROE 16-19% suốt 5N | 2026-09-13 |
+| 36 | **DCM** | Tổng CTCP Phân bón Dầu khí Cà Mau | Đạm Urê hạt đục & Phân bón NPK | **11.13% - 13.95%** | 13.6 | 1.70 | Độc quyền đạm hạt đục VN, nhà máy hết khấu hao, tiền mặt >10k tỷ, ROE 11-35% suốt 5 năm | 2026-09-13 |
+| 37 | **DGC** | CTCP Tập đoàn Hóa chất Đức Giang | Phốt pho vàng P4 & Axit bán dẫn điện tử | **21.80% - 25.78%** | 6.4 | 1.34 | Vua phốt pho vàng thế giới, xuất khẩu bán dẫn sang Intel/Samsung, ROE 22-45% suốt 5N | 2026-09-13 |
+| 38 | **DGW** | CTCP Thế giới số (Digiworld) | Dịch vụ phát triển thị trường MES công nghệ | **14.74% - 18.00%** | 22.4 | 3.30 | Mô hình MES độc tôn phân phối Apple/Xiaomi/HP, vòng quay tài sản cao, ROE 15-37% suốt 5N | 2026-09-13 |
+| 39 | **DHA** | CTCP Hóa An | Khai thác mỏ đá xây dựng Tân Cang 3 | **12.10% - 21.19%** | 14.8 | 1.79 | Mỏ đá Tân Cang 3/Thạnh Phú 2 tâm điểm Sân bay Long Thành, biên gộp 35%, ROE 12-23% suốt 5N | 2026-09-13 |
+| 40 | **DHC** | CTCP Đông Hải Bến Tre (Dohaco) | Giấy bao bì công nghiệp Kraft & Carton | **12.08% - 16.70%** | 12.4 | 1.47 | Nhà máy Giao Long 1&2 dẫn đầu ĐBSCL, chuỗi giá trị bao bì khép kín, ROE 12-28% suốt 5 năm | 2026-09-13 |
+| 41 | **DHG** | CTCP Dược Hậu Giang | Sản xuất dược phẩm số 1 Việt Nam | **19.02% - 21.65%** | 16.6 | 3.06 | Vua dược phẩm VN (Hapacol), cổ đông Taisho Nhật Bản, chuẩn Japan/EU-GMP, ROE 19-23.5% suốt 5N | 2026-09-13 |
 
 ---
 
@@ -480,5 +486,76 @@ Tài liệu này lưu trữ những "Viên Kim Cương" xuất sắc nhất: Cá
   - *Bước 2:* Lợi nhuận sau thuế tăng trưởng liên tục phá đỉnh lịch sử qua từng năm: năm 2022 đạt 244 tỷ, năm 2023 đạt 270 tỷ, năm 2024 đạt 285 tỷ đồng → Đạt.
   - *Bước 3:* Con hào công nghệ và rào cản pháp lý bảo hộ thuốc Nhóm 1 và Nhóm 2 cực lớn; dây chuyền thuốc ung thư GMP-EU mang lại tỷ suất biên lợi nhuận gộp lên tới **48% - 52%**, dòng tiền hoạt động kinh doanh (CFO) thặng dư dồi dào, tài chính siêu an toàn → Đạt.
   - *Bước 4:* ROE duy trì ở mức cao ấn tượng suốt 5 năm liên tục: năm 2020 đạt **15.97%**, năm 2021 đạt **16.58%**, năm 2022 đạt **~17.0%**, năm 2023 đạt **18.78%**, năm 2024 đạt **16.57%** (toàn bộ 5 năm đều vượt xa ngưỡng 10%). Cổ tức tiền mặt đều đặn 20% - 25%/năm.
+- **Ngày phân tích:** 2026-09-13
+---
+
+### 🏆 DCM - CTCP Phân bón Dầu khí Cà Mau (Đạm Cà Mau)
+- **Vị thế:** Doanh nghiệp sản xuất phân bón đạm hàng đầu Việt Nam (thành viên Tập đoàn Dầu khí Quốc gia Việt Nam - PVN), là nhà sản xuất duy nhất tại Việt Nam sở hữu công nghệ sản xuất đạm Urê hạt đục chất lượng cao.
+- **Mô hình kinh doanh:** Vận hành Cụm công nghiệp Khí - Điện - Đạm Cà Mau, sản xuất đạm Urê hạt đục, phân bón NPK công nghệ polyphosphate và kinh doanh xuất khẩu phân bón sang Campuchia, Ấn Độ, Nam Mỹ.
+- **Lý do vượt qua 4 bước:**
+  - *Bước 1:* Lĩnh vực Hóa chất & Phân bón nông nghiệp thiết yếu, nằm trong vòng tròn năng lực → Đạt.
+  - *Bước 2:* Lợi nhuận sau thuế duy trì dồi dào hàng nghìn tỷ đồng: năm 2022 lãi kỷ lục 4,280 tỷ, năm 2023 đạt 1,110 tỷ, năm 2024 đạt 1,480 tỷ đồng → Đạt.
+  - *Bước 3:* Con hào kinh tế vững chắc nhờ độc tôn phân khúc Urê hạt đục (chiếm >60% thị phần ĐBSCL); nhà máy Đạm Cà Mau đã trích khấu hao gần như toàn bộ giúp chi phí sản xuất cực rẻ; cấu trúc tài chính siêu lành mạnh với hơn 10,000 tỷ đồng tiền mặt và tiền gửi tiết kiệm, không có nợ vay dài hạn → Đạt.
+  - *Bước 4:* ROE duy trì liên tục ở mức hai con số trong suốt 5 năm: năm 2020 đạt **10.45%**, năm 2021 đạt **24.38%**, năm 2022 đạt **>35%**, năm 2023 đạt **11.13%**, năm 2024 đạt **13.95%** (toàn bộ các năm đều $\ge 10\%$). Cổ tức tiền mặt đều đặn 20% - 30%/năm.
+- **Ngày phân tích:** 2026-09-13
+
+---
+
+### 🏆 DGC - CTCP Tập đoàn Hóa chất Đức Giang
+- **Vị thế:** Doanh nghiệp hóa chất công nghệ cao số 1 Việt Nam và là nhà xuất khẩu phốt pho vàng ($P_4$) lớn nhất châu Á; mắt xích quan trọng không thể thiếu trong chuỗi cung ứng bán dẫn và pin xe điện toàn cầu.
+- **Mô hình kinh doanh:** Khai thác quặng Apatit tại Lào Cai, sản xuất phốt pho vàng ($P_4$), tinh chế axit photphoric trích ly (WPA), axit photphoric cấp điện tử (TPA) độ tinh khiết siêu cao phục vụ các nhà máy chip bán dẫn tại Mỹ, Nhật Bản, Đài Loan, Hàn Quốc (Intel, Samsung, TSMC) và vật liệu pin xe điện LFP.
+- **Lý do vượt qua 4 bước:**
+  - *Bước 1:* Hóa chất công nghiệp & vật liệu bán dẫn điện tử → Đạt.
+  - *Bước 2:* Lợi nhuận sau thuế thuộc hàng kỷ lục sàn chứng khoán: năm 2022 đạt 6,036 tỷ, năm 2023 đạt 3,250 tỷ, năm 2024 đạt 3,110 tỷ đồng (EPS đạt 7.39k) → Đạt.
+  - *Bước 3:* Con hào kinh tế tự nhiên và công nghệ gần như tuyệt đối: tự chủ nguồn quặng Apatit từ khai trường 25, sở hữu công nghệ lò nhiệt điện luyện phốt pho vàng hiệu suất cao; các nước phát triển đã đóng cửa nhà máy $P_4$ do yêu cầu môi trường giúp DGC nắm vị thế độc quyền nguồn cung; biên lợi nhuận gộp lên tới **35% - 45%**, nắm giữ hơn 10,000 tỷ đồng tiền mặt, không nợ vay dài hạn → Đạt.
+  - *Bước 4:* Hiệu quả sử dụng vốn (ROE) đỉnh cao toàn thị trường: năm 2020 đạt **22.29%**, năm 2021 đạt **37.72%**, năm 2022 đạt **>45%**, năm 2023 đạt **25.78%**, năm 2024 đạt **21.80%** (ổn định bền vững trên 21% - 45%). Cổ tức tiền mặt đều đặn 30% - 40%/năm.
+- **Ngày phân tích:** 2026-09-13
+
+---
+
+### 🏆 DGW - CTCP Thế giới số (Digiworld)
+- **Vị thế:** Doanh nghiệp tiên phong và dẫn đầu tuyệt đối tại Việt Nam trong lĩnh vực Cung cấp dịch vụ phát triển thị trường (Market Expansion Services - MES) cho các thương hiệu công nghệ toàn cầu.
+- **Mô hình kinh doanh:** Không phải nhà phân phối đơn thuần mà cung cấp trọn gói 5 dịch vụ MES: Phân tích thị trường, Tiếp thị Marketing, Phân phối bán hàng, Kho vận Logistics và Dịch vụ bảo hành hậu mãi (DGCare). Là đối tác chiến lược độc quyền đưa các thương hiệu Apple, Xiaomi, HP, Dell, Acer phủ sóng toàn bộ các kênh bán lẻ Việt Nam.
+- **Lý do vượt qua 4 bước:**
+  - *Bước 1:* Dịch vụ phát triển thị trường công nghệ và hàng tiêu dùng → Đạt.
+  - *Bước 2:* Tăng trưởng lợi nhuận bền vững qua nhiều chu kỳ: năm 2022 đạt 684 tỷ, năm 2023 đạt 354 tỷ, năm 2024 đạt 365 tỷ đồng → Đạt.
+  - *Bước 3:* Chuỗi giá trị dịch vụ MES chuyên biệt giúp khách hàng hãng công nghệ không thể tự thực hiện hiệu quả bằng; vòng quay vốn lưu động và vòng quay tổng tài sản cực cao giúp tối ưu hóa dòng tiền → Đạt.
+  - *Bước 4:* ROE duy trì ở mức cao ấn tượng: năm 2020 đạt **23.06%**, năm 2021 đạt **36.74%**, năm 2022 đạt **~28.0%**, năm 2023 đạt **~18.0%**, năm 2024 đạt **14.74%** (toàn bộ 5 năm đều vượt xa ngưỡng 10%).
+- **Ngày phân tích:** 2026-09-13
+
+---
+
+### 🏆 DHA - CTCP Hóa An
+- **Vị thế:** Doanh nghiệp khai thác đá xây dựng hiệu quả hàng đầu miền Nam, sở hữu các mỏ đá có vị trí đắc địa nhất phục vụ đại dự án Sân bay Long Thành và mạng lưới cao tốc Đông Nam Bộ.
+- **Mô hình kinh doanh:** Khai thác, chế biến và phân phối đá xây dựng từ 3 mỏ đá lớn: Mỏ đá Tân Cang 3 (Đồng Nai), mỏ Thạnh Phú 2 (Đồng Nai) và mỏ Núi Gió (Bình Phước).
+- **Lý do vượt qua 4 bước:**
+  - *Bước 1:* **Ngoại lệ mỏ đá đặc thù:** Đạt theo diện sở hữu mỏ đá Tân Cang 3 có vị trí chiến lược và chất lượng đá cứng duy nhất đạt tiêu chuẩn làm đường băng cất hạ cánh Sân bay Long Thành → Đạt ngoại lệ.
+  - *Bước 2:* Lợi nhuận sau thuế duy trì rất cao và ổn định: năm 2022 đạt 52 tỷ, năm 2023 đạt 96 tỷ (EPS 5.91k), năm 2024 đạt 60 tỷ đồng (EPS 3.51k) → Đạt.
+  - *Bước 3:* Con hào kinh tế tự nhiên từ vị trí địa lý đắc địa (chi phí vận chuyển đá chiếm 40-50% giá thành, mỏ đá gần công trường Long Thành nắm lợi thế cạnh tranh tuyệt đối), biên lợi nhuận gộp lên tới **32% - 38%**, tài chính hoàn toàn không nợ vay, sở hữu tiền mặt dồi dào → Đạt.
+  - *Bước 4:* Hiệu quả vốn cổ đông (ROE) xuất sắc bền vững: năm 2020 đạt **22.92%**, năm 2021 đạt **19.26%**, năm 2022 đạt **~14.5%**, năm 2023 đạt **21.19%**, năm 2024 đạt **12.10%** (cả 5 năm đều vượt xa ngưỡng 10%). Tỷ lệ chi trả cổ tức tiền mặt cực kỳ hậu hĩnh 30% - 50%/năm.
+- **Ngày phân tích:** 2026-09-13
+
+---
+
+### 🏆 DHC - CTCP Đông Hải Bến Tre (Dohaco)
+- **Vị thế:** Doanh nghiệp sản xuất giấy bao bì công nghiệp (Kraft, Testliner) và bao bì carton sóng hàng đầu khu vực Đồng bằng Sông Cửu Long.
+- **Mô hình kinh doanh:** Vận hành Nhà máy giấy Giao Long 1 & Giao Long 2 (công suất 280,000 tấn/năm) và Nhà máy bao bì carton; thu gom tái chế giấy phế liệu thùng cũ (OCC) để sản xuất giấy cuộn công nghiệp và bao bì carton đóng gói cho các ngành xuất khẩu chủ lực (thủy sản, trái cây, may mặc, da giày).
+- **Lý do vượt qua 4 bước:**
+  - *Bước 1:* Lĩnh vực Sản xuất công nghiệp giấy bao bì thiết yếu → Đạt.
+  - *Bước 2:* Lợi nhuận sau thuế tăng trưởng bền bỉ: năm 2022 đạt 378 tỷ, năm 2023 đạt 310 tỷ, năm 2024 đạt 240 tỷ đồng (EPS 2.95k) → Đạt.
+  - *Bước 3:* Chuỗi giá trị khép kín từ khâu sản xuất giấy bao bì đến sản xuất thùng carton hoàn thiện; nhà máy Giao Long 2 công nghệ châu Âu vận hành vượt công suất thiết kế, con hào kinh tế vững chắc tại thị trường Tây Nam Bộ, biên lợi nhuận gộp ổn định ~18-22% → Đạt.
+  - *Bước 4:* ROE duy trì liên tục ở mức rất cao: năm 2020 đạt **28.10%**, năm 2021 đạt **28.36%**, năm 2022 đạt **~22.0%**, năm 2023 đạt **16.70%**, năm 2024 đạt **12.08%** (suốt 5 năm liên tiếp đều vượt ngưỡng 10%). Cổ tức tiền mặt đều đặn 20% - 30%/năm.
+- **Ngày phân tích:** 2026-09-13
+
+---
+
+### 🏆 DHG - CTCP Dược Hậu Giang
+- **Vị thế:** Doanh nghiệp sản xuất dược phẩm số 1 Việt Nam về quy mô doanh thu, thị phần và mạng lưới phân phối (cổ đông chiến lược nắm chi phối 51% là Tập đoàn Dược phẩm Taisho Nhật Bản).
+- **Mô hình kinh doanh:** Sản xuất và phân phối các thương hiệu thuốc quốc dân hàng đầu: thuốc giảm đau hạ sốt Hapacol, kháng sinh Klamentin, vitamin sủi Bocalex... qua mạng lưới phân phối trực tiếp tới hơn 30,000 nhà thuốc và bệnh viện trên toàn quốc.
+- **Lý do vượt qua 4 bước:**
+  - *Bước 1:* Ngành Y tế & Dược phẩm chăm sóc sức khỏe thiết yếu → Đạt.
+  - *Bước 2:* Lợi nhuận sau thuế liên tục xấp xỉ nghìn tỷ đồng/năm: năm 2022 đạt 988 tỷ, năm 2023 đạt 1,050 tỷ, năm 2024 đạt 830 tỷ đồng (EPS 5.76k) → Đạt.
+  - *Bước 3:* Con hào kinh tế thương hiệu vô hình và mạng lưới phân phối sâu rộng nhất Việt Nam; sở hữu đồng thời 2 dây chuyền sản xuất tiêu chuẩn cao nhất thế giới Japan-GMP và EU-GMP giúp thuốc của Dược Hậu Giang trúng thầu Nhóm 1, Nhóm 2 tại các bệnh viện lớn và xuất khẩu sang Nhật Bản; biên lợi nhuận gộp lên tới **45% - 50%**, sở hữu hơn 2,500 tỷ đồng tiền gửi tiết kiệm, hoàn toàn không nợ vay → Đạt.
+  - *Bước 4:* ROE đỉnh cao duy trì liên tục và ổn định tuyệt đối: năm 2020 đạt **20.74%**, năm 2021 đạt **20.49%**, năm 2022 đạt **~23.5%**, năm 2023 đạt **21.65%**, năm 2024 đạt **19.02%** (toàn bộ 5 năm đều quanh mức 20%). Tỷ lệ chi trả cổ tức tiền mặt hậu hĩnh 35% - 40%/năm.
 - **Ngày phân tích:** 2026-09-13
 

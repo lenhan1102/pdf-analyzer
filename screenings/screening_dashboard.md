@@ -7,20 +7,20 @@ Tài liệu này theo dõi toàn bộ trạng thái của các mã cổ phiếu 
 ## 1. Thống Kê Phễu Lọc (Funnel Metrics)
 
 ```mermaid
-pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (80 Mã Đầu Tiên)
-    "Rớt Bước 1 (Ngành & Vòng tròn năng lực)" : 15
+pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (90 Mã Đầu Tiên)
+    "Rớt Bước 1 (Ngành & Vòng tròn năng lực)" : 16
     "Rớt Bước 2 (Lỗ 3 năm)" : 1
-    "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 13
-    "Rớt Bước 4 (ROE 5 năm < 10%)" : 16
-    "🏆 Đạt Chuẩn File 5" : 35
+    "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 14
+    "Rớt Bước 4 (ROE 5 năm < 10%)" : 18
+    "🏆 Đạt Chuẩn File 5" : 41
 ```
 
-- **Tổng số mã đã kiểm tra:** **80** doanh nghiệp
-- **Số mã rớt tại Bước 1:** **15** mã (18.8%)
-- **Số mã rớt tại Bước 2:** **1** mã (1.2%)
-- **Số mã rớt tại Bước 3:** **13** mã (16.2%)
-- **Số mã rớt tại Bước 4:** **16** mã (20.0%)
-- **Số mã đạt chuẩn vào File 5:** **35** mã (43.8%)
+- **Tổng số mã đã kiểm tra:** **90** doanh nghiệp
+- **Số mã rớt tại Bước 1:** **16** mã (17.8%)
+- **Số mã rớt tại Bước 2:** **1** mã (1.1%)
+- **Số mã rớt tại Bước 3:** **14** mã (15.6%)
+- **Số mã rớt tại Bước 4:** **18** mã (20.0%)
+- **Số mã đạt chuẩn vào File 5:** **41** mã (45.6%)
 
 ---
 
@@ -30,12 +30,12 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (80 Mã Đầu Tiên)
 
 | STT | File Bảng Tóm Tắt Rút Gọn | Nội Dung Trọng Tâm | Số Lượng Mã | Bản Phân Tích Đầy Đủ |
 | :---: | :--- | :--- | :---: | :--- |
-| ⚡ | [00-quick-summary-all.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md) | **Bảng Tổng Hợp Siêu Tốc 50 Cổ Phiếu** (Cheat-sheet 1 trang) | 80 mã | Xem chi tiết từng mã |
-| 1 | [summary-01-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md) | Bảng tóm tắt các công ty rớt Bước 1 (Ngành nghề ngoài VTNL) | 15 mã | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| ⚡ | [00-quick-summary-all.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md) | **Bảng Tổng Hợp Siêu Tốc 50 Cổ Phiếu** (Cheat-sheet 1 trang) | 90 mã | Xem chi tiết từng mã |
+| 1 | [summary-01-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md) | Bảng tóm tắt các công ty rớt Bước 1 (Ngành nghề ngoài VTNL) | 16 mã | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 | 2 | [summary-02-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-02-consecutive-loss.md) | Bảng tóm tắt các công ty rớt Bước 2 (Lỗ 3 năm liên tiếp) | 1 mã | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
-| 3 | [summary-03-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md) | Bảng tóm tắt các công ty rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5) | 13 mã | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
-| 4 | [summary-04-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md) | Bảng tóm tắt các công ty rớt Bước 4 (ROE 5 năm < 10%) | 16 mã | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
-| 5 | [summary-05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md) | 🏆 **Bảng tóm tắt 22 Doanh Nghiệp Đạt Chuẩn (File 5)** | 35 mã | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 3 | [summary-03-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md) | Bảng tóm tắt các công ty rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5) | 14 mã | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
+| 4 | [summary-04-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md) | Bảng tóm tắt các công ty rớt Bước 4 (ROE 5 năm < 10%) | 18 mã | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
+| 5 | [summary-05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md) | 🏆 **Bảng tóm tắt 22 Doanh Nghiệp Đạt Chuẩn (File 5)** | 41 mã | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 
 
 ---
@@ -124,6 +124,16 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (80 Mã Đầu Tiên)
 | 78 | **DAT** | CTCP ĐT Du lịch & PT Thủy sản | Sơ chế bột cá & mỡ cá nguyên liệu | ✅ Pass | ✅ Pass | ❌ Loại (Sơ chế phụ phẩm biên ròng mỏng, P/B 0.61 >= 0.5) | - | Dừng ở Bước 3 | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
 | 79 | **DBC** | CTCP Tập đoàn Dabaco Việt Nam | Nông nghiệp chuỗi khép kín 3F | ✅ Pass | ✅ Pass | ✅ Pass (Chuỗi 3F số 1 miền Bắc, vaccine ASFV) | ✅ Pass (ROE 2024 đạt 11.37%, trước đó 17-33%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 | 80 | **DBD** | CTCP Dược - TTBYT Bình Định (Bidiphar) | Dược phẩm ung thư chuẩn GMP-EU | ✅ Pass | ✅ Pass | ✅ Pass (Vua thuốc ung thư GMP-EU, biên gộp 50%) | ✅ Pass (ROE 16% - 19% suốt 5 năm) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 81 | **DBT** | CTCP Dược phẩm Bến Tre (Bepharco) | Phân phối dược phẩm & y tế | ✅ Pass | ✅ Pass | ✅ Pass (Phân phối y tế thiết yếu) | ❌ Loại (Phân phối biên mỏng, ROE 5N chỉ 5-6%) | Dừng ở Bước 4 | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
+| 82 | **DC4** | CTCP DICERA Holdings (DIC Số 4) | Thi công xây lắp & BĐS căn hộ Vũng Tàu | ❌ Loại (Xây dựng & BĐS nhà ở dân dụng) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 83 | **DCL** | CTCP Dược phẩm Cửu Long | Sản xuất thuốc & nang rỗng Capsule | ✅ Pass | ✅ Pass | ✅ Pass (Nang rỗng Capsule độc đáo) | ❌ Loại (Chi phí cao, ROE 5N chỉ 3.6% - 8.4%) | Dừng ở Bước 4 | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
+| 84 | **DCM** | Tổng CTCP Phân bón Dầu khí Cà Mau | Đạm Urê hạt đục & Phân bón NPK | ✅ Pass | ✅ Pass | ✅ Pass (Độc quyền đạm hạt đục, tiền >10k tỷ) | ✅ Pass (ROE 11% - 35% suốt 5 năm) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 85 | **DGC** | CTCP Tập đoàn Hóa chất Đức Giang | Phốt pho vàng P4 & Axit bán dẫn điện tử | ✅ Pass | ✅ Pass | ✅ Pass (Vua phốt pho vàng thế giới, bán dẫn) | ✅ Pass (ROE 22% - 45% suốt 5N) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 86 | **DGW** | CTCP Thế giới số (Digiworld) | Dịch vụ phát triển thị trường MES công nghệ | ✅ Pass | ✅ Pass | ✅ Pass (Dịch vụ MES độc tôn Apple/Xiaomi/HP) | ✅ Pass (ROE 15% - 37% suốt 5N) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 87 | **DHA** | CTCP Hóa An | Khai thác mỏ đá xây dựng Tân Cang 3 | ⚠️ Pass (Mỏ đá Đồng Nai đặc thù) | ✅ Pass | ✅ Pass (Mỏ đá Tân Cang 3 Sân bay Long Thành) | ✅ Pass (ROE 12% - 23% suốt 5N) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 88 | **DHC** | CTCP Đông Hải Bến Tre (Dohaco) | Giấy bao bì công nghiệp Kraft & Carton | ✅ Pass | ✅ Pass | ✅ Pass (Nhà máy Giao Long 1&2 dẫn đầu ĐBSCL) | ✅ Pass (ROE 12% - 28% suốt 5 năm) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 89 | **DHG** | CTCP Dược Hậu Giang | Sản xuất dược phẩm số 1 Việt Nam | ✅ Pass | ✅ Pass | ✅ Pass (Vua dược phẩm VN, Japan/EU-GMP) | ✅ Pass (ROE 19% - 23.5% suốt 5N) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 90 | **DHM** | CTCP TM&KT Khoáng sản Dương Hiếu | Thương mại khoáng sản & than cốc | ✅ Pass | ✅ Pass | ❌ Loại (Thương mại trung gian biên ròng <0.5%, P/B 0.68 >= 0.5) | - | Dừng ở Bước 3 | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
 
 ---
 

@@ -26,6 +26,8 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 | 14 | **CSM** | CTCP Công nghiệp Cao su Miền Nam | Săm lốp xe Casumina | 7.1%, 3.3%, 5.0%, 4.6%, 5.3% | **~5.1%** | Thương hiệu săm lốp quốc gia | 2026-09-13 |
 | 15 | **CTI** | CTCP ĐT&PT Cường Thuận IDICO | Mỏ đá xây dựng & BOT giao thông | 7.2%, âm, 5.0%, 5.4%, 6.5% | **~5.5%** | Mỏ đá Xuân Hòa/Thiện Tân Đồng Nai | Nợ vay BOT lớn bào mòn lợi nhuận mỏ đá, ROE 5 năm chỉ 5.0% - 7.2% < 10% | 2026-09-13 |
 | 16 | **DAH** | CTCP Tập đoàn Khách sạn Đông Á | Khách sạn & dịch vụ nghỉ dưỡng | âm, 4.1%, 1.5%, 0.4%, 0.7% | **~1.3%** | Được giữ lại ở Bước 3 nhờ P/B = 0.20 < 0.5 | Khách sạn tỉnh lẻ kinh doanh kém, ROE 5 năm chưa từng vượt 4.1% | 2026-09-13 |
+| 17 | **DBT** | CTCP Dược phẩm Bến Tre (Bepharco) | Phân phối dược phẩm & vật tư y tế | 4.6%, 6.8%, 6.0%, 6.5%, 5.1% | **~5.8%** | Phân phối dược phẩm miền Tây | Thương mại phân phối biên mỏng, ROE 5 năm chưa từng chạm 7% < 10% | 2026-09-13 |
+| 18 | **DCL** | CTCP Dược phẩm Cửu Long | Sản xuất thuốc & nang rỗng Capsule | 6.8%, 8.4%, 5.0%, 4.3%, 3.6% | **~5.6%** | Vỏ nang rỗng Capsule | Chi phí bán hàng và tài chính cao, ROE 5 năm suy giảm liên tục < 8.5% | 2026-09-13 |
 
 ---
 
@@ -200,5 +202,26 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
   - *Bước 2:* Đạt (LNST dương nhẹ 3 năm gần nhất, không bị lỗ liên tục).
   - *Bước 3:* Thị giá 2.24k vs BVPS 10.94k → **P/B = 0.20 < 0.5** (định giá chỉ bằng 1/5 giá trị sổ sách), được cho qua Bước 3 theo diện ngoại lệ tài sản giá rẻ Net-Net.
   - *Bước 4:* **LOẠI BỎ.** Hiệu quả sử dụng vốn cổ đông cực kỳ kém cỏi. Cả 5 năm liên tiếp gần đây, ROE của DAH chưa từng vượt qua 4.1%: năm 2020 âm -10.09%, năm 2021 đạt 4.05%, năm 2022 đạt ~1.5%, năm 2023 đạt 0.41%, năm 2024 đạt 0.74% (**toàn bộ 5 năm đều < 5%**). Tài sản khách sạn lớn nhưng hiệu suất sinh lời gần như bằng 0.
+- **Ngày sàng lọc:** 2026-09-13
+---
+
+### ❌ DBT - CTCP Dược phẩm Bến Tre (Bepharco)
+- **Ngành nghề:** Phân phối dược phẩm, hóa chất và vật tư y tế qua mạng lưới đại lý tại khu vực Đồng bằng Sông Cửu Long và miền Nam.
+- **Hành trình qua phễu:**
+  - *Bước 1:* Đạt (Dược phẩm & Y tế).
+  - *Bước 2:* Đạt (LNST dương liên tục từ 12 - 16 tỷ đồng/năm).
+  - *Bước 3:* Đạt (Phân phối sản phẩm y tế thiết yếu).
+  - *Bước 4:* **LOẠI BỎ.** Dù doanh thu thương mại đạt hàng nghìn tỷ đồng, nhưng do bản chất là đại lý phân phối trung gian với biên lợi nhuận ròng cực mỏng (~1.2%), ROE của Bepharco suốt 5 năm liên tiếp (2020 - 2024) cực kỳ thấp: năm 2020 đạt 4.57%, năm 2021 đạt 6.83%, năm 2022 đạt ~6.0%, năm 2023 đạt 6.53%, năm 2024 đạt 5.13% (**chưa từng một năm nào chạm mốc 7%, thấp hơn xa ngưỡng 10%**).
+- **Ngày sàng lọc:** 2026-09-13
+
+---
+
+### ❌ DCL - CTCP Dược phẩm Cửu Long (Pharimexco)
+- **Ngành nghề:** Sản xuất tân dược, trang thiết bị y tế (bơm kim tiêm) và viên nang rỗng Capsule cứng (thành viên Tập đoàn FIT).
+- **Hành trình qua phễu:**
+  - *Bước 1:* Đạt (Sản xuất Dược phẩm).
+  - *Bước 2:* Đạt (LNST dương từ 40 - 70 tỷ đồng/năm).
+  - *Bước 3:* Đạt (Sở hữu nhà máy sản xuất viên nang rỗng độc đáo Vicancaps).
+  - *Bước 4:* **LOẠI BỎ.** Quy mô vốn chủ sở hữu lớn (>1,500 tỷ đồng) nhưng gánh nặng chi phí bán hàng, chi phí quản lý và chi phí tài chính cao khiến hiệu quả sinh lời trên vốn cổ đông rất thấp. Suốt 5 năm liên tiếp từ 2020 đến 2024, ROE của DCL chỉ dao động quanh 3.56% - 8.41% (**toàn bộ các năm đều dưới ngưỡng 10%**), hiệu quả sử dụng vốn không đạt chuẩn.
 - **Ngày sàng lọc:** 2026-09-13
 

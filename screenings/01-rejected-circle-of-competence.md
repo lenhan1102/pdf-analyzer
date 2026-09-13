@@ -28,6 +28,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 | 13 | **CRV** | CTCP Tập đoàn Bất động sản CRV | BĐS nhà ở dân dụng (chung cư TCH) | Chủ đầu tư phát triển BĐS nhà ở dân dụng, rủi ro chu kỳ tín dụng ngân hàng | 2026-09-13 |
 | 14 | **CTD** | CTCP Xây dựng Coteccons | Tổng thầu xây dựng dân dụng & công nghiệp | Nhà thầu xây lắp công trình xây dựng, biên lợi nhuận ròng mỏng (1-2%), đọng vốn công nợ | 2026-09-13 |
 | 15 | **CVT** | CTCP CMC | Sản xuất gạch ốp lát ceramic & granite | Sản xuất VLXD thông thường, không có mỏ khoáng sản độc quyền, phụ thuộc BĐS | 2026-09-13 |
+| 16 | **DC4** | CTCP DICERA Holdings | Thi công xây lắp & BĐS nhà ở (Vũng Tàu) | Nhà thầu xây dựng và phát triển BĐS nhà ở dân dụng, biên mỏng phụ thuộc chu kỳ | 2026-09-13 |
 
 ---
 
@@ -145,5 +146,12 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 - **Phân loại ngành:** Bất động sản và Xây dựng (Sản xuất và phân phối gạch ốp lát ceramic, gạch granite cao cấp tại Phú Thọ - thành viên DNP Holding).
 - **Lý do bị loại:** Nằm ngoài vòng tròn năng lực. Hoạt động sản xuất vật liệu xây dựng (gạch men ốp lát) thông thường, không sở hữu mỏ tài nguyên đặc biệt, ngành hàng có tính chu kỳ cao và chịu ảnh hưởng trực tiếp từ sự trầm lắng của thị trường xây dựng dân dụng, biên lợi nhuận bị ép bởi áp lực giá khí đốt đầu vào và cạnh tranh gạch giá rẻ.
 - **Xem xét yếu tố đặc thù:** Không sở hữu mỏ đá hay chuỗi TTTM độc quyền.
+- **Ngày sàng lọc:** 2026-09-13
+---
+
+### ❌ DC4 - CTCP DICERA Holdings (trước đây là Xây dựng DIC Số 4)
+- **Phân loại ngành:** Bất động sản và Xây dựng (Thi công xây lắp công trình xây dựng và đầu tư phát triển dự án nhà ở căn hộ: Chí Linh Center Vũng Tàu).
+- **Lý do bị loại:** Nằm ngoài vòng tròn năng lực. Hoạt động cốt lõi là thi công xây lắp công trình và kinh doanh bất động sản nhà ở dân dụng thương phẩm, phụ thuộc trực tiếp vào dòng tiền giải ngân của chủ đầu tư và chu kỳ thanh khoản thị trường căn hộ.
+- **Xem xét yếu tố đặc thù:** Không sở hữu mỏ tài nguyên độc quyền hay TTTM bán lẻ đặc thù.
 - **Ngày sàng lọc:** 2026-09-13
 
