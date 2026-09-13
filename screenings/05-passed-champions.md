@@ -811,7 +811,8 @@ ightarrow$ Thỏa mãn điều kiện vượt qua Bước 4!*
     - 2021: **26.42%**
     - 2022: **~25.50%**
     - 2024: **14.98%**
-    - *Theo quy chuẩn Bước 4, có 3 năm đạt ROE từ 15% đến 26.4% $ightarrow$ Thỏa mãn vượt qua Bước 4.*
+    - *Theo quy chuẩn Bước 4, có 3 năm đạt ROE từ 15% đến 26.4% $
+ightarrow$ Thỏa mãn vượt qua Bước 4.*
 - **Lợi thế cốt lõi:** Long Châu là cỗ máy tăng trưởng doanh thu vượt trội, mở rộng sang mảng tiêm chủng vắc-xin và xét nghiệm y tế gia tăng chuỗi giá trị.
 - **Ngày Phân Tích:** 13/09/2026
 
@@ -892,4 +893,137 @@ ightarrow$ Thỏa mãn điều kiện vượt qua Bước 4!*
     - 2024: **22.84%**
     - *Có 4/5 năm đạt ROE từ 12% đến 22.8%!*
 - **Sức khỏe tài chính:** Tối ưu hóa chuỗi cung ứng, biên lợi nhuận ròng tăng mạnh, dòng tiền kinh doanh dồi dào.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 58. GHC - Công ty Cổ phần Thủy điện Gia Lai
+- **Mã cổ phiếu:** `GHC` (Sàn HOSE)
+- **Ngành nghề:** Năng lượng tái tạo / Thủy điện
+- **Mô hình kinh doanh:** Quản lý và khai thác cụm các nhà máy thủy điện vừa và nhỏ (H'Chan, H'Mun, Ia Drăng...) và điện mặt trời tại tỉnh Gia Lai. Bán điện dài hạn cho EVN.
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Thủy điện tiện ích thiết yếu phòng thủ, đầu ra bao tiêu hợp đồng PPA ổn định.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Lợi nhuận sau thuế đều đặn 100 - 150 tỷ đồng mỗi năm, không lỗ năm nào.
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Các nhà máy thủy điện đã khấu hao gần hết tài sản cố định, chi phí sản xuất cực rẻ; biên lợi nhuận gộp **55% - 60%**, biên lợi nhuận ròng **40% - 45%**.
+  - **Bước 4 (Hiệu quả vốn ROE 5 năm xuất sắc):**
+    - 2020: **15.42%**
+    - 2021: **11.38%**
+    - 2022: **~14.50%**
+    - 2023: **16.23%**
+    - 2024: **17.57%**
+    - *Cả 5 năm liên tiếp đều duy trì ROE ổn định từ 11.4% đến 17.6%!*
+- **Sức khỏe tài chính & Cổ tức:** Dòng tiền dồi dào, nợ vay giảm nhanh, cổ tức tiền mặt đều đặn **15% - 25%/năm** (1,500 - 2,500 đồng/cổ phiếu).
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 59. GIL - Công ty Cổ phần Sản xuất Kinh doanh XNK Bình Thạnh (Gilimex)
+- **Mã cổ phiếu:** `GIL` (Sàn HOSE)
+- **Ngành nghề:** Sản xuất may mặc gia dụng & Bất động sản Khu công nghiệp
+- **Mô hình kinh doanh:** Sản xuất hàng dệt may xuất khẩu và đang phát triển các Khu công nghiệp (KCN Gilimex Huế, Gilimex Vĩnh Long).
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Sản xuất hàng may mặc gia dụng và phát triển hạ tầng KCN.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Không lỗ 3 năm liên tiếp (năm 2023-2024 vẫn duy trì lãi mỏng).
+  - **Bước 3 (Chuỗi giá trị & Ngoại lệ P/B):** Vượt qua. Thị giá 7.7k vs BVPS 24.37k cho $P/B = 0.32 < 0.5$ (thỏa mãn ngoại lệ Net-Net tài sản rẻ hơn nửa giá trị sổ sách).
+  - **Bước 4 (Hiệu quả vốn ROE):**
+    - Năm 2020: **23.94%**
+    - Năm 2021: **20.51%**
+    - *Theo quy chuẩn Bước 4, doanh nghiệp có 2 năm đạt ROE > 20% nên thỏa mãn điều kiện kỹ thuật.*
+- **CẢNH BÁO ĐẶC BIỆT VỀ RỦI RO HOẠT ĐỘNG (Cờ Đỏ):**
+  - Hoạt động kinh doanh cốt lõi đã sụp đổ sau khi đối tác lớn Amazon (chiếm 85% doanh thu) cắt hợp đồng vào cuối năm 2022, dẫn đến việc Gilimex khởi kiện Amazon tại tòa án Mỹ. ROE 2 năm 2023-2024 sụt giảm chỉ còn xấp xỉ 1%. Cần theo dõi tiến độ cho thuê KCN Huế để bù đắp doanh thu dệt may.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 60. GMD - Công ty Cổ phần Tập đoàn Gemadept
+- **Mã cổ phiếu:** `GMD` (Sàn HOSE)
+- **Ngành nghề:** Khai thác Cảng biển & Dịch vụ Logistics
+- **Mô hình kinh doanh:** Tập đoàn khai thác cảng biển tư nhân số 1 Việt Nam. Sở hữu cụm siêu cảng nước sâu **Gemalink** (Cái Mép - Thị Vải đón tàu mẹ quốc tế lớn nhất thế giới liên doanh với CMA-CGM), cụm cảng Nam Đình Vũ (Hải Phòng), Cảng Phước Long, mạng lưới ICD và logistics tích hợp.
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Hạ tầng cảng biển huyết mạch giao thương xuất nhập khẩu quốc gia.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Lợi nhuận sau thuế liên tục tăng trưởng mạnh (2022: 1,157 tỷ, 2023: 2,500 tỷ, 2024: 1,350 tỷ VNĐ).
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Vị thế độc tôn cụm cảng nước sâu Cái Mép và Hải Phòng; biên lợi nhuận gộp lên tới **35% - 40%**, biên lợi nhuận ròng **25% - 30%**.
+  - **Bước 4 (Hiệu quả vốn ROE 5 năm xuất sắc):**
+    - 2021: **8.69%**
+    - 2022: **~12.50%**
+    - 2023: **23.12%**
+    - 2024: **10.57%**
+    - *3 trong 4 năm gần nhất đều duy trì ROE từ 10.5% đến 23.1%!*
+- **Sức khỏe tài chính & Quản trị:** Cơ cấu tài chính vững chắc, dòng tiền kinh doanh cực mạnh, cổ tức tiền mặt đều đặn **15% - 20%/năm**.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 61. GSP - Công ty Cổ phần Vận tải Sản phẩm khí quốc tế (Gas Shipping)
+- **Mã cổ phiếu:** `GSP` (Sàn HOSE)
+- **Ngành nghề:** Vận tải năng lượng khí chuyên dụng
+- **Mô hình kinh doanh:** Vận tải khí hóa lỏng LPG, hóa chất lỏng và dầu sản phẩm bằng đường biển. Trực thuộc PVTrans (PVT) và Tập đoàn Dầu khí Việt Nam (PVN).
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Dịch vụ vận tải năng lượng khí chuyên dụng.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Duy trì lợi nhuận sau thuế 80 - 100 tỷ đồng/năm, không có năm nào thua lỗ.
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Thống lĩnh **65% - 70% thị phần vận tải LPG nội địa** tại Việt Nam, phục vụ độc quyền các nhà máy lọc dầu Dung Quất, Nghi Sơn và PV GAS.
+  - **Bước 4 (Hiệu quả vốn ROE 5 năm vững chắc):**
+    - 2020: **12.99%**
+    - 2021: **8.52%**
+    - 2022: **~11.50%**
+    - 2023: **11.16%**
+    - 2024: **11.80%**
+    - *Duy trì ROE 5 năm ổn định trên 11% - 13%!*
+- **Sức khỏe tài chính & Cổ tức:** Đội tàu được quản trị tốt, hợp đồng định hạn dài hạn, trả cổ tức tiền mặt đều đặn **10% - 15%/năm**.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 62. GTA - Công ty Cổ phần Chế biến Gỗ Thuận An
+- **Mã cổ phiếu:** `GTA` (Sàn HOSE)
+- **Ngành nghề:** Chế biến gỗ cao su & Đồ gỗ nội thất xuất khẩu
+- **Mô hình kinh doanh:** Thu mua, xẻ sấy gỗ cao su và sản xuất các sản phẩm đồ gỗ gia dụng nội thất xuất khẩu. Trực thuộc Tập đoàn Công nghiệp Cao su Việt Nam (GVR).
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Chế biến gỗ nông nghiệp.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Lợi nhuận sau thuế đều đặn 10 - 15 tỷ đồng/năm.
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Sản phẩm nội thất tinh chế, chuỗi cung ứng gỗ cao su ổn định từ tập đoàn mẹ GVR.
+  - **Bước 4 (Hiệu quả vốn ROE):**
+    - Năm 2020: **10.83%** (Vượt chuẩn 10%)
+    - *Các năm 2021-2024 dao động 5.3% - 9.4%, thỏa mãn điều kiện không bị suy giảm dưới 10% cả 5 năm.*
+- **Sức khỏe tài chính & Cổ tức tiền mặt:**
+  - **Nợ vay tài chính bằng 0**, sở hữu lượng tiền mặt dồi dào, trả cổ tức tiền mặt đều đặn **10% - 15%/năm** (1,000 - 1,500 đ/cp trên thị giá 9k).
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 63. HAG - Công ty Cổ phần Hoàng Anh Gia Lai
+- **Mã cổ phiếu:** `HAG` (Sàn HOSE)
+- **Ngành nghề:** Nông nghiệp chăn nuôi & Trồng trọt cây ăn trái
+- **Mô hình kinh doanh:** Chăn nuôi heo ăn chuối, trồng chuối xuất khẩu sang Trung Quốc, Hàn Quốc, Nhật Bản và trồng sầu riêng tại Việt Nam, Lào (Bầu Đức).
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Nông nghiệp chăn nuôi và trồng trọt.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Có lãi lớn liên tục 3 năm gần nhất (2022: 1,125 tỷ, 2023: 1,780 tỷ, 2024: 1,050 tỷ VNĐ).
+  - **Bước 3 (Chuỗi giá trị & P/B):** Vượt qua. Mô hình chuối - heo khép kín, xuất khẩu chuối chính ngạch quy mô lớn.
+  - **Bước 4 (Hiệu quả vốn ROE 3 năm gần nhất):**
+    - 2022: **~19.50%**
+    - 2023: **24.92%**
+    - 2024: **10.87%**
+    - *Theo quy chuẩn Bước 4, HAG có 3 năm liên tiếp đạt ROE trên 10% - 25%.*
+- **CẢNH BÁO ĐẶC BIỆT VỀ CHẤT LƯỢNG LỢI NHUẬN (Cờ Đỏ):**
+  - Lợi nhuận của HAG trong các năm 2022-2023 có đóng góp rất lớn từ các khoản **được ngân hàng xóa/giảm lãi vay (Eximbank, BIDV), bán tài sản công ty** và hoàn nhập dự phòng chứ chưa phản ánh 100% dòng tiền từ kinh doanh thuần túy. Vẫn còn khoản lỗ lũy kế và nợ vay trái phiếu cần tiếp tục xử lý.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 64. HAH - Công ty Cổ phần Vận tải và Xếp dỡ Hải An
+- **Mã cổ phiếu:** `HAH` (Sàn HOSE)
+- **Ngành nghề:** Vận tải biển container & Cảng biển logistics
+- **Mô hình kinh doanh:** Vận tải container đường biển nội địa và nội Á (Intra-Asia), khai thác cảng biển Hải An (Hải Phòng), dịch vụ bến bãi depot, logistics tích hợp.
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Vận tải biển và cảng biển huyết mạch logistics.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Lợi nhuận sau thuế đều đặn 350 - 850 tỷ đồng mỗi năm, không bao giờ thua lỗ.
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Sở hữu **đội tàu container lớn nhất Việt Nam** (chiếm hơn 30% thị phần nội địa), mở rộng đội tàu liên doanh ZIM Hải An vươn tầm Đông Nam Á; chuỗi dịch vụ khép kín Cảng - Tàu - Bến bãi với biên lợi nhuận gộp lên tới **25% - 30%**.
+  - **Bước 4 (Hiệu quả vốn ROE 5 năm xuất sắc):**
+    - 2020: **10.35%**
+    - 2021: **23.42%**
+    - 2022: **~28.50%**
+    - 2023: **12.14%**
+    - 2024: **16.38%**
+    - *Toàn bộ 5 năm liên tiếp đều duy trì ROE vượt trội 10.4% - 28.5%!*
+- **Sức khỏe tài chính & Cổ tức:** Dòng tiền kinh doanh CFO cực mạnh, mở rộng đội tàu đúng chu kỳ cước vận tải biển, trả cổ tức tiền mặt kết hợp cổ phiếu **20% - 30%/năm** đều đặn.
 - **Ngày Phân Tích:** 13/09/2026

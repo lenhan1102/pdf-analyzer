@@ -149,4 +149,14 @@
 | 128 | `GEE` | CTCP Điện lực GELEX | HOSE | Công nghiệp / Thiết bị điện | 🏆 Vượt B4 | Vua dây cáp điện CADIVI thị phần số 1 VN & THIBIDI, ROE bùng nổ 22.8% | [05-passed](05-passed-champions.md) |
 | 129 | `GEG` | CTCP Điện Gia Lai | HOSE | Năng lượng tái tạo | ❌ Rớt B4 | Đòn bẩy nợ mở rộng điện gió lớn, chi phí lãi vay cao, ROE 5 năm < 8% | [04-rejected](04-rejected-low-roe.md) |
 | 130 | `GEL` | CTCP Hạ tầng GELEX | HOSE | Công nghiệp / Hạ tầng KCN | ❌ Rớt B4 | Holding hạ tầng KCN Viglacera đòn bẩy nợ cao (~60%), ROE chỉ đạt 2.53% | [04-rejected](04-rejected-low-roe.md) |
+| 131 | `GEX` | CTCP Tập đoàn GELEX | HOSE | Công nghệ / Đa ngành | ❌ Rớt B4 | Chi phí M&A cao, lợi nhuận bị pha loãng bởi cổ đông thiểu số, ROE 5 năm < 9.8% | [04-rejected](04-rejected-low-roe.md) |
+| 132 | `GHC` | CTCP Thủy điện Gia Lai | HOSE | Năng lượng / Thủy điện | 🏆 Vượt B4 | Cụm thủy điện hết khấu hao, biên ròng 40-45%, ROE 11.4-17.6%, cổ tức 15-25% | [05-passed](05-passed-champions.md) |
+| 133 | `GIL` | CTCP SX-KD XNK Bình Thạnh | HOSE | Hàng tiêu dùng / May mặc | 🏆 Vượt B4 | P/B = 0.32 < 0.5 (Net-Net), ROE cũ >20%; CẢNH BÁO: Mất Amazon, KQKD suy sụp | [05-passed](05-passed-champions.md) |
+| 134 | `GMD` | CTCP Tập đoàn Gemadept | HOSE | Công nghiệp / Cảng biển | 🏆 Vượt B4 | Vua cảng biển tư nhân VN, siêu cảng Gemalink Cái Mép, ROE 10.5-23.1% | [05-passed](05-passed-champions.md) |
+| 135 | `GMH` | CTCP Minh Hưng Quảng Trị | HOSE | Nguyên vật liệu / VLXD | ❌ Rớt B1 | Sản xuất xi măng ngói đại trà địa phương, biên ròng mỏng, ROE < 7.3% | [01-rejected](01-rejected-circle-of-competence.md) |
+| 136 | `GSP` | CTCP Vận tải Sản phẩm khí quốc tế | HOSE | Năng lượng / Vận tải khí | 🏆 Vượt B4 | Chiếm 70% thị phần vận tải LPG nội địa, PVTrans, ROE 11-13%, cổ tức tiền mặt | [05-passed](05-passed-champions.md) |
+| 137 | `GTA` | CTCP Chế biến Gỗ Thuận An | HOSE | Hàng tiêu dùng / Gỗ nội thất | 🏆 Vượt B4 | Chế biến gỗ cao su, sạch nợ vay, ROE 2020 đạt 10.8%, cổ tức tiền mặt 10-15% | [05-passed](05-passed-champions.md) |
+| 138 | `GVR` | Tập đoàn Công nghiệp Cao su VN | HOSE | Nông nghiệp / Cao su & KCN | ❌ Rớt B4 | Vốn CSH lớn ~55,000 tỷ, nông nghiệp biên thấp, chuyển đổi KCN chậm, ROE < 8.1% | [04-rejected](04-rejected-low-roe.md) |
+| 139 | `HAG` | CTCP Hoàng Anh Gia Lai | HOSE | Tài chính / Nông nghiệp chuối | 🏆 Vượt B4 | Bầu Đức: Chuối & Heo, ROE >10%; CẢNH BÁO: Lợi nhuận chủ yếu từ xóa nợ ngân hàng | [05-passed](05-passed-champions.md) |
+| 140 | `HAH` | CTCP Vận tải và Xếp dỡ Hải An | HOSE | Công nghiệp / Vận tải biển | 🏆 Vượt B4 | Đội tàu container lớn nhất VN (>30% thị phần), chuỗi cảng-tàu khép kín, ROE 10.4-28.5% | [05-passed](05-passed-champions.md) |
 

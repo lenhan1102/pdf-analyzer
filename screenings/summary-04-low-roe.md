@@ -35,4 +35,6 @@
 | 25 | `EVF` | Công ty Tài chính CP Điện lực | HOSE | Tài chính tín dụng tiêu dùng | 6.23% | 8.30% | 8.44% | ~7.5% | ~8.1% | Chi phí huy động vốn cao hơn ngân hàng, trích lập dự phòng lớn, ROE < 8.5% | 13/09/2026 |
 | 26 | `GEG` | CTCP Điện Gia Lai | HOSE | Năng lượng tái tạo | 7.42% | 7.57% | ~7.8% | 2.38% | 1.99% | Đòn bẩy nợ mở rộng điện gió/mặt trời lớn, lãi vay bào mòn lợi nhuận, ROE < 8% | 13/09/2026 |
 | 27 | `GEL` | CTCP Hạ tầng GELEX | HOSE | Hạ tầng KCN & Nước sạch | - | - | - | - | 2.53% | Holding hạ tầng KCN Viglacera đòn bẩy nợ cao (~60%), ROE chỉ đạt 2.53% | 13/09/2026 |
+| 28 | `GEX` | CTCP Tập đoàn GELEX | HOSE | Đa ngành / Holding | 9.76% | 5.07% | ~4.5% | 1.56% | 7.01% | Chi phí vốn M&A cao, lợi nhuận bị pha loãng bởi cổ đông thiểu số, ROE < 9.8% | 13/09/2026 |
+| 29 | `GVR` | Tập đoàn CN Cao su Việt Nam | HOSE | Cao su & BĐS KCN | 7.33% | 8.01% | ~7.5% | 4.77% | 6.83% | Vốn CSH khổng lồ ~55,000 tỷ, nông nghiệp biên thấp, chuyển đổi KCN chậm, ROE < 8.1% | 13/09/2026 |
 

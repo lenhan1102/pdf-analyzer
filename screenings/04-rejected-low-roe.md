@@ -383,3 +383,38 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
   - Tuy nhiên tại Bước 4, GEL có **hiệu quả sử dụng vốn quá thấp với ROE chỉ đạt 2.53% (< 10%)**.
   - Là công ty holding sở hữu các mảng hạ tầng với quy mô tài sản lớn nhưng cơ cấu nợ vay cao (Nợ/Tổng tài sản xấp xỉ 60%), chi phí tài chính và lợi ích cổ đông thiểu số lớn khiến tỷ suất sinh lời thực tế trên vốn chủ sở hữu không đạt chuẩn tối thiểu 10%.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 28. GEX - Công ty Cổ phần Tập đoàn GELEX
+- **Mã cổ phiếu:** `GEX` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Công nghiệp / Tập đoàn đa ngành Holding
+- **Hoạt động kinh doanh chính:** Tập đoàn mẹ quản lý vốn đầu tư trong 2 mảng chính: Thiết bị điện (GEE - CADIVI, THIBIDI) và Hạ tầng (GEL - KCN Viglacera, nước sạch Sông Đà).
+- **Thống kê ROE qua các năm:**
+  - Năm 2020: ROE = **9.76%**
+  - Năm 2021: ROE = **5.07%**
+  - Năm 2022: ROE = **~4.50%**
+  - Năm 2023: ROE = **1.56%**
+  - Năm 2024: ROE = **7.01%**
+- **Lý do loại trừ tại Bước 4:**
+  - Vượt qua Bước 1, Bước 2 và Bước 3.
+  - Tuy nhiên tại Bước 4, GEX có **hiệu quả sử dụng vốn ROE hợp nhất suốt 5 năm liên tiếp đều nằm dưới 9.8% (< 10%)**. Dù sở hữu các mảng kinh doanh tốt ở công ty con, công ty mẹ GEX chịu gánh nặng chi phí tài chính M&A, quy mô vốn chủ sở hữu lớn sau các đợt phát hành tăng vốn và lợi nhuận bị pha loãng sâu bởi lợi ích cổ đông không kiểm soát.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 29. GVR - Tập đoàn Công nghiệp Cao su Việt Nam - CTCP
+- **Mã cổ phiếu:** `GVR` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Nông nghiệp / Cao su tự nhiên & Khu công nghiệp
+- **Hoạt động kinh doanh chính:** Quản lý hơn 400,000 ha cao su tự nhiên; chế biến mủ cao su và gỗ cao su; phát triển các đại dự án Khu công nghiệp trên quỹ đất chuyển đổi (Nam Tân Uyên, An Điền...).
+- **Thống kê ROE qua các năm:**
+  - Năm 2020: ROE = **7.33%**
+  - Năm 2021: ROE = **8.01%**
+  - Năm 2022: ROE = **~7.50%**
+  - Năm 2023: ROE = **4.77%**
+  - Năm 2024: ROE = **6.83%**
+  - *Giai đoạn trước đó (2018 - 2019): ROE chỉ đạt 3.97% và 6.42%*
+- **Lý do loại trừ tại Bước 4:**
+  - Hoàn thành Bước 1, Bước 2 và Bước 3 (sở hữu mỏ vàng quỹ đất KCN khổng lồ).
+  - Tuy nhiên tại Bước 4, GVR có **ROE hợp nhất suốt 5 năm liên tiếp (và cả 7 năm liền) chưa từng có năm nào vượt quá 8.1%, liên tục dưới chuẩn 10%**. Quy mô vốn chủ sở hữu quá lớn (~55,000 tỷ VNĐ) khiến mảng nông nghiệp cao su truyền thống không thể tạo ra tỷ suất sinh lời cao, trong khi tiến độ phê duyệt chuyển đổi đất sang KCN diễn ra chậm chạp theo thủ tục hành chính nhà nước.
+- **Ngày Phân Tích:** 13/09/2026

@@ -322,3 +322,14 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
   - Mô hình kinh doanh là **tập đoàn đầu tư tài chính đa ngành và bất động sản nghỉ dưỡng đầu cơ**, nằm ngoài Vòng tròn năng lực theo quy chuẩn hệ thống.
   - Hoạt động đầu tư dàn trải, hiệu quả phân bổ vốn rất yếu kém (ROE suốt 7 năm liền chưa từng vượt quá 3.5%, năm 2023 thua lỗ), cơ cấu tài chính tiềm ẩn nhiều rủi ro đầu tư ủy thác và pha loãng cổ phiếu.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 32. GMH - Công ty Cổ phần Minh Hưng Quảng Trị
+- **Mã cổ phiếu:** `GMH` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Nguyên vật liệu / Vật liệu xây dựng
+- **Hoạt động kinh doanh chính:** Sản xuất và kinh doanh xi măng, ngói xi măng màu, bao bì xi măng và vật liệu xây dựng phục vụ thị trường tỉnh Quảng Trị và lân cận.
+- **Lý do loại trừ tại Bước 1:**
+  - Doanh nghiệp sản xuất **vật liệu xây dựng (xi măng, ngói) đại trà quy mô địa phương**, nằm ngoài Vòng tròn năng lực theo quy chuẩn hệ thống.
+  - Công nghệ lò nung quy mô nhỏ, biên lợi nhuận ròng mỏng (<3%), không có lợi thế chi phí thấp so với các tập đoàn xi măng lớn, ROE các năm gần nhất chỉ đạt 3.3% - 7.3%.
+- **Ngày Phân Tích:** 13/09/2026

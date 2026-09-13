@@ -65,4 +65,11 @@
 | 55 | `GAS` | Tổng Công ty Khí Việt Nam (PV GAS) | HOSE | Năng lượng / Hạ tầng Khí | ~16.9% (5 năm: 16-24.5%) | ~3.29 | Độc quyền 100% hệ thống đường ống khí quốc gia, tiền gửi >35,000 tỷ, cổ tức 30-60% | 13/09/2026 |
 | 56 | `GDT` | CTCP Chế biến Gỗ Đức Thành | HOSE | Đồ gỗ gia dụng cao cấp | ~18.4% (5 năm: 12.5-29.5%) | ~1.26 | Đồ gỗ gia dụng xuất Nhật/Mỹ chuẩn an toàn cao, sạch bóng nợ vay, cổ tức 30-50% | 13/09/2026 |
 | 57 | `GEE` | CTCP Điện lực GELEX | HOSE | Thiết bị điện | ~22.8% (5 năm: 12-22.8%) | ~3.05 | Vua dây cáp CADIVI thị phần số 1 VN & máy biến áp THIBIDI, ROE đạt 22.8% | 13/09/2026 |
+| 58 | `GHC` | CTCP Thủy điện Gia Lai | HOSE | Thủy điện | ~17.6% (5 năm: 11.4-17.6%) | ~1.15 | Cụm thủy điện hết khấu hao, biên ròng 40-45%, nợ vay giảm nhanh, cổ tức 15-25% | 13/09/2026 |
+| 59 | `GIL` | CTCP SX-KD XNK Bình Thạnh (Gilimex) | HOSE | May mặc & BĐS KCN | 1.0% (2020-21: 20-24%) | ~0.32 | P/B = 0.32 < 0.5; CẢNH BÁO: Mất khách hàng Amazon, hoạt động dệt may suy sụp | 13/09/2026 |
+| 60 | `GMD` | CTCP Tập đoàn Gemadept | HOSE | Cảng biển & Logistics | ~10.6% (5 năm: 10.5-23.1%) | ~2.55 | Vua cảng biển tư nhân VN, siêu cảng Gemalink đón tàu mẹ thế giới, ROE 10.5-23% | 13/09/2026 |
+| 61 | `GSP` | CTCP Vận tải Sản phẩm khí quốc tế | HOSE | Vận tải khí LPG | ~11.8% (5 năm: 11-13%) | ~0.71 | Chiếm 70% thị phần vận tải LPG nội địa, PVTrans, dòng tiền bền bỉ, cổ tức 10-15% | 13/09/2026 |
+| 62 | `GTA` | CTCP Chế biến Gỗ Thuận An | HOSE | Đồ gỗ nội thất | ~5.3% (2020: 10.8%) | ~0.55 | Chế biến gỗ cao su, sạch nợ vay, ROE 2020 đạt 10.8%, cổ tức tiền mặt 10-15% | 13/09/2026 |
+| 63 | `HAG` | CTCP Hoàng Anh Gia Lai | HOSE | Nông nghiệp chuối & heo | ~10.9% (2022-23: 20-25%) | ~1.69 | Bầu Đức: Chuối & Heo; CẢNH BÁO: Lợi nhuận chủ yếu từ xóa nợ vay ngân hàng và bán tài sản | 13/09/2026 |
+| 64 | `HAH` | CTCP Vận tải và Xếp dỡ Hải An | HOSE | Vận tải biển container | ~16.4% (5 năm: 10.4-28.5%) | ~1.74 | Đội tàu container lớn nhất VN (>30% thị phần), chuỗi cảng-tàu khép kín, ROE 16-28% | 13/09/2026 |
 

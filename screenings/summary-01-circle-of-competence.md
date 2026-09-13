@@ -39,4 +39,5 @@
 | 29 | `FDC` | CTCP Ngoại thương & PTĐT TP.HCM (Fideco) | HOSE | Bất động sản & Đầu tư tài chính | BĐS dân dụng dự án chậm trễ, đầu tư tài chính biến động, từng lỗ nặng 2022, ROE 1.1% | 13/09/2026 |
 | 30 | `FIR` | CTCP Địa ốc First Real | HOSE | Bất động sản đất nền | Đất nền miền Trung đóng băng thanh khoản, nợ vay đọng, ROE năm 2024 chỉ 0.08% | 13/09/2026 |
 | 31 | `FIT` | CTCP Tập đoàn F.I.T | HOSE | Đầu tư tài chính & BĐS nghỉ dưỡng | Holding đầu tư tài chính dàn trải, BĐS nghỉ dưỡng đọng vốn, ROE 7 năm < 3.5% | 13/09/2026 |
+| 32 | `GMH` | CTCP Minh Hưng Quảng Trị | HOSE | VLXD xi măng ngói màu | Sản xuất xi măng ngói đại trà địa phương, biên ròng mỏng, ROE < 7.3% | 13/09/2026 |
 
