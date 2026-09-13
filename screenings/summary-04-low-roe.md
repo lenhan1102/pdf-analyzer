@@ -101,3 +101,15 @@
 | 90 | `CKV` | Công ty Cổ phần COKYVINA | HNX | Dịch vụ | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (0.5%, 2.5%, 3.1%, 3.6%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
 | 91 | `CMC` | Công ty Cổ phần Đầu tư CMC | HNX | Công nghiệp | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (0.7%, 5.4%, 1.1%, 0.2%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
 | 92 | `CMS` | Công ty cổ phần Tập đoàn CMH Việt Nam | HNX | Dịch vụ | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (-4.3%, 6.0%, 0.7%, 1.8%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 93 | `CTP` | Công ty cổ phần Tập đoàn CTP Group | HNX | Nông nghiệp | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (0.0%, 0.7%, 0.1%, 0.3%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 94 | `DHP` | Công ty Cổ phần Điện Cơ Hải Phòng | HNX | Năng lượng | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (7.3%, 7.5%, 7.5%, 7.6%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 95 | `DL1` | Công ty cổ phần Tập đoàn Alpha Seven | HNX | Tài chính | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (3.2%, 3.9%, 3.0%, 0.1%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 96 | `DS3` | Công ty Cổ phần DS3 | HNX | Dịch vụ | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (5.7%, 6.6%, 3.4%, 9.6%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 97 | `EVS` | Công ty cổ phần Chứng khoán EVS | HNX | Tài chính | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (1.7%, 5.4%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 98 | `FID` | Công ty Cổ phần Đầu tư và Phát triển Doanh nghiệp Việt Nam | HNX | Dịch vụ | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (-1.7%, 0.4%, -8.1%, 1.7%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 99 | `GMA` | Công ty Cổ phần G-AutoMobile | HNX | Công nghiệp | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (5.3%, 6.9%, 1.1%, 3.0%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 100 | `HMH` | Công ty Cổ phần Hải Minh | HNX | Công nghiệp | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (7.0%, 6.8%, 1.9%, 8.2%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 101 | `ITQ` | Công ty cổ phần Tập đoàn Thiên Quang | HNX | Công nghiệp | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (0.7%, 4.7%, 0.6%, 0.3%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 102 | `MST` | Công ty Cổ phần Đầu tư MST | HNX | Chưa phân loại | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (5.3%, 9.1%, 8.2%, 2.0%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 103 | `NAG` | Công ty cổ phần Tập đoàn Nagakawa | HNX | Hàng tiêu dùng | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (4.0%, 7.9%, 6.1%, 6.3%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 104 | `NAP` | Công ty cổ phần Cảng Nghệ Tĩnh | HNX | Công nghiệp | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (4.8%, 6.8%, 8.9%, 7.0%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
