@@ -863,3 +863,183 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 - **Lý do loại trừ tại Bước 1:**
   - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 91. TSA - Công ty Cổ phần Đầu tư và Xây lắp Trường Sơn
+- **Mã cổ phiếu:** `TSA` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Chưa phân loại), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 92. TTA - Công ty Cổ phần Đầu tư Xây dựng và Phát triển Trường Thành
+- **Mã cổ phiếu:** `TTA` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Năng lượng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 93. TV2 - Công ty Cổ phần Tư vấn Xây dựng Điện 2
+- **Mã cổ phiếu:** `TV2` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 94. UIC - Công ty Cổ phần Đầu tư Phát triển Nhà và Đô thị Idico
+- **Mã cổ phiếu:** `UIC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 95. VCG - Tổng Công ty Cổ phần Xuất nhập khẩu và Xây dựng Việt Nam
+- **Mã cổ phiếu:** `VCG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 96. VHM - Công ty cổ phần Vinhomes
+- **Mã cổ phiếu:** `VHM` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - BĐS dân dụng Vinhomes
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 97. VIC - Tập đoàn Vingroup - Công ty Cổ phần
+- **Mã cổ phiếu:** `VIC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Tập đoàn Vingroup (BĐS dân dụng Vinhomes và xe điện VinFast)
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 98. VPH - Công ty Cổ phần Vạn Phát Hưng
+- **Mã cổ phiếu:** `VPH` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - BĐS dân dụng Vạn Phát Hưng
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 99. VPI - Công ty cổ phần Phát triển Bất động sản Văn Phú
+- **Mã cổ phiếu:** `VPI` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - BĐS dân dụng Văn Phú Invest
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 100. VPL - Công ty Cổ phần Vinpearl
+- **Mã cổ phiếu:** `VPL` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 101. VRC - Công ty Cổ phần Bất động sản và Đầu tư VRC
+- **Mã cổ phiếu:** `VRC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 102. VSI - Công ty Cổ phần Đầu tư và Xây dựng Cấp thoát nước
+- **Mã cổ phiếu:** `VSI` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Dịch vụ), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 103. AME - Công ty Cổ phần Alphanam E&C
+- **Mã cổ phiếu:** `AME` (Sàn HNX)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 104. BAX - Công ty Cổ phần Thống Nhất
+- **Mã cổ phiếu:** `BAX` (Sàn HNX)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 105. BCC - Công ty Cổ phần Xi măng Bỉm Sơn
+- **Mã cổ phiếu:** `BCC` (Sàn HNX)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 106. BTS - Công ty cổ phần Xi măng Vicem Bút Sơn
+- **Mã cổ phiếu:** `BTS` (Sàn HNX)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 107. C69 - Công ty Cổ phần Xây dựng 1369
+- **Mã cổ phiếu:** `C69` (Sàn HNX)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 108. CEO - Công ty Cổ phần Tập đoàn C.E.O
+- **Mã cổ phiếu:** `CEO` (Sàn HNX)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 109. CET - Công ty cổ phần HTC Holding
+- **Mã cổ phiếu:** `CET` (Sàn HNX)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Công nghiệp), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 110. CLH - Công ty cổ phần Xi măng La Hiên VVMI
+- **Mã cổ phiếu:** `CLH` (Sàn HNX)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026

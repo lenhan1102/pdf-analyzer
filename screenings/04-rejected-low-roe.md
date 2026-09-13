@@ -769,3 +769,237 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 - **Lý do loại trừ tại Bước 4:**
   - ROE trong suốt 5 năm gần nhất (6.4%, 4.5%, -17.0%, 4.0%) đều nằm dưới ngưỡng tối thiểu 10%.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 67. TSC - Công ty Cổ phần Vật tư kỹ thuật Nông nghiệp Cần Thơ
+- **Mã cổ phiếu:** `TSC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.9%, 5.7%, -0.8%, 0.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 68. TTE - Công ty Cổ phần Đầu tư Năng lượng Trường Thịnh
+- **Mã cổ phiếu:** `TTE` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-11.9%, -0.6%, -6.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 69. TTF - Công ty Cổ phần Tập đoàn Kỹ nghệ Gỗ Trường Thành
+- **Mã cổ phiếu:** `TTF` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-5.2%, -1.9%, -50.0%, 1.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 70. VBB - Ngân hàng Thương mại cổ phần Việt Nam Thương Tín
+- **Mã cổ phiếu:** `VBB` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (5.7%, 8.8%, 8.3%, 0.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 71. VID - Công ty Cổ phần Đầu tư Phát triển Thương mại Viễn Đông
+- **Mã cổ phiếu:** `VID` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.1%, 3.3%, 1.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 72. VIP - Công ty Cổ phần Vận tải Xăng dầu VIPCO
+- **Mã cổ phiếu:** `VIP` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (5.8%, 1.0%, 6.8%, 7.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 73. VNG - Công ty Cổ phần Du lịch Thành Thành Công
+- **Mã cổ phiếu:** `VNG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.7%, 0.3%, 0.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 74. VPS - CTCP Thuốc sát trùng Việt Nam
+- **Mã cổ phiếu:** `VPS` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.1%, 4.0%, 4.1%, 7.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 75. VTB - Công ty Cổ phần Viettronics Tân Bình
+- **Mã cổ phiếu:** `VTB` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (9.3%, 5.8%, 6.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 76. YBM - Công ty Cổ phần YBM
+- **Mã cổ phiếu:** `YBM` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (7.7%, 5.6%, 7.4%, 7.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 77. YEG - Công ty Cổ phần Tập đoàn Yeah1
+- **Mã cổ phiếu:** `YEG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-20.6%, 1.2%, 1.9%, 8.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 78. ALT - Công ty Cổ phần Văn hóa Tân Bình
+- **Mã cổ phiếu:** `ALT` (Sàn HNX)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.9%, 2.5%, 0.0%, 1.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 79. APS - Công ty Cổ phần Chứng khoán Châu Á – Thái Bình Dương
+- **Mã cổ phiếu:** `APS` (Sàn HNX)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-23.0%, -80.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 80. ATS - Công ty cổ phần Tập đoàn Đầu tư ATS
+- **Mã cổ phiếu:** `ATS` (Sàn HNX)
+- **Ngành nghề niêm yết:** Y tế
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.3%, 5.3%, 0.5%, 0.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 81. BAB - Ngân hàng Thương mại cổ phần Bắc Á
+- **Mã cổ phiếu:** `BAB` (Sàn HNX)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (7.0%, 8.0%, 0.0%, 0.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 82. BBS - Công ty cổ phần VICEM Bao bì Bút Sơn
+- **Mã cổ phiếu:** `BBS` (Sàn HNX)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.3%, 9.2%, 5.3%, 5.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 83. BPC - Công ty cổ phần Vicem Bao bì Bỉm Sơn
+- **Mã cổ phiếu:** `BPC` (Sàn HNX)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (5.5%, 3.9%, 1.2%, 1.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 84. BSC - Công ty Cổ phần Dịch vụ Bến Thành
+- **Mã cổ phiếu:** `BSC` (Sàn HNX)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (2.4%, 0.3%, 6.9%, 5.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 85. BXH - Công ty cổ phần VICEM Bao bì Hải Phòng
+- **Mã cổ phiếu:** `BXH` (Sàn HNX)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.9%, 2.9%, 2.2%, 1.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 86. CAG - Công ty Cổ phần Cảng An Giang
+- **Mã cổ phiếu:** `CAG` (Sàn HNX)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (3.1%, 3.6%, 2.1%, -0.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 87. CAR - Công ty Cổ phần Tập đoàn Giáo dục Trí Việt
+- **Mã cổ phiếu:** `CAR` (Sàn HNX)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.7%, 8.4%, 6.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 88. CIA - Công ty Cổ phần Dịch vụ Sân bay Quốc tế Cam Ranh
+- **Mã cổ phiếu:** `CIA` (Sàn HNX)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-12.1%, -15.5%, 1.7%, 0.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 89. CJC - Công ty Cổ phần Cơ điện Miền Trung
+- **Mã cổ phiếu:** `CJC` (Sàn HNX)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.2%, -6.1%, 4.6%, 8.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 90. CKV - Công ty Cổ phần COKYVINA
+- **Mã cổ phiếu:** `CKV` (Sàn HNX)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.5%, 2.5%, 3.1%, 3.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 91. CMC - Công ty Cổ phần Đầu tư CMC
+- **Mã cổ phiếu:** `CMC` (Sàn HNX)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.7%, 5.4%, 1.1%, 0.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 92. CMS - Công ty cổ phần Tập đoàn CMH Việt Nam
+- **Mã cổ phiếu:** `CMS` (Sàn HNX)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-4.3%, 6.0%, 0.7%, 1.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
