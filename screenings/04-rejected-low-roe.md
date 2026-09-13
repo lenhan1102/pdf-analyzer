@@ -3415,3 +3415,237 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 - **Lý do loại trừ tại Bước 4:**
   - ROE trong suốt 5 năm gần nhất (-4.4%, -4.9%, 1.4%, 2.0%) đều nằm dưới ngưỡng tối thiểu 10%.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 361. VBH - Công ty Cổ phần Điện tử Bình Hòa
+- **Mã cổ phiếu:** `VBH` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.2%, 6.6%, 7.7%, 3.9%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 362. VDG - Công ty cổ phần Vạn Đạt Group
+- **Mã cổ phiếu:** `VDG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.0%, 4.6%, 2.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 363. VDN - Công ty Cổ phần Vinatex Đà Nẵng
+- **Mã cổ phiếu:** `VDN` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.6%, 2.8%, 5.4%, 8.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 364. VEC - Tổng Công ty cổ phần Điện tử và Tin học Việt Nam
+- **Mã cổ phiếu:** `VEC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghệ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-1.7%, -1.3%, -0.9%, -1.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 365. VFC - Công ty Cổ phần VINAFCO
+- **Mã cổ phiếu:** `VFC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.2%, 6.1%, 6.0%, 3.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 366. VGT - Tập đoàn Dệt may Việt Nam
+- **Mã cổ phiếu:** `VGT` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.1%, 1.8%, 3.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 367. VHG - Công ty Cổ phần Đầu tư Phát triển Việt Trung Nam
+- **Mã cổ phiếu:** `VHG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-31.1%, -29.9%, -0.5%, -1.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 368. VIR - Công ty cổ phần Du lịch Quốc tế Vũng Tàu
+- **Mã cổ phiếu:** `VIR` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-0.2%, -19.5%, -9.2%, 0.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 369. VIW - Tổng Công ty Đầu tư Nước và Môi trường Việt Nam - CTCP
+- **Mã cổ phiếu:** `VIW` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.3%, -0.2%, 0.5%, 0.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 370. VLS - Công ty cổ phần Sản xuất Thép Việt Long
+- **Mã cổ phiếu:** `VLS` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 371. VMA - Công ty cổ phần Công nghiệp Ô tô – Vinacomin
+- **Mã cổ phiếu:** `VMA` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (7.3%, 9.2%, 9.8%, 7.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 372. VMG - Công ty Cổ phần Thương mại và Dịch vụ Dầu khí Vũng Tàu
+- **Mã cổ phiếu:** `VMG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.5%, 2.8%, -48.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 373. VMT - Công ty cổ phần Giao nhận Vận tải miền Trung
+- **Mã cổ phiếu:** `VMT` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.1%, 0.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 374. VNB - CTCP Sách Việt Nam
+- **Mã cổ phiếu:** `VNB` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.2%, 3.6%, 6.7%, 6.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 375. VNZ - Công ty Cổ phần Tập đoàn VNG
+- **Mã cổ phiếu:** `VNZ` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghệ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-74.8%, -97.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 376. VPW - Công ty Cổ phần Cấp thoát nước số 1 Vĩnh Phúc
+- **Mã cổ phiếu:** `VPW` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.3%, 4.8%, 8.1%, 4.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 377. VSE - Công ty cổ phần Dịch vụ Đường cao tốc Việt Nam
+- **Mã cổ phiếu:** `VSE` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (5.1%, 3.4%, -2.9%, 1.9%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 378. VSF - Tổng Công ty Lương thực Miền Nam - Công ty cổ phần
+- **Mã cổ phiếu:** `VSF` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-8.6%, -14.0%, 0.9%, 0.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 379. VTE - Công ty cổ phần Viễn thông Điện tử Vinacap
+- **Mã cổ phiếu:** `VTE` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.3%, 1.7%, 0.7%, 0.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 380. VTG - Công ty cổ phần Du lịch tỉnh Bà Rịa - Vũng Tàu
+- **Mã cổ phiếu:** `VTG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-10.6%, -13.1%, -5.0%, 3.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 381. VTI - Công ty Cổ phần Sản xuất – Xuất nhập khẩu Dệt May
+- **Mã cổ phiếu:** `VTI` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-0.0%, 3.2%, -19.6%, -1.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 382. VTL - Công ty Cổ phần Vang Thăng Long
+- **Mã cổ phiếu:** `VTL` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-65.3%, 2.0%, -32.4%, -465.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 383. VTQ - Công ty Cổ phần Việt Trung Quảng Bình
+- **Mã cổ phiếu:** `VTQ` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (3.2%, -33.2%, 3.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 384. VTX - Công ty cổ phần Vận tải đa phương thức Vietranstimex
+- **Mã cổ phiếu:** `VTX` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.8%, 7.5%, -41.1%, -123.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 385. VUA - Công ty cổ phần Chứng khoán Stanley Brothers
+- **Mã cổ phiếu:** `VUA` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-10.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 386. VW3 - Công ty cổ phần Viwaseen3
+- **Mã cổ phiếu:** `VW3` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (3.1%, 5.3%, 6.3%, 4.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026

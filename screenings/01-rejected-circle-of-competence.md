@@ -3590,3 +3590,228 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 - **Lý do loại trừ tại Bước 1:**
   - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 394. USC - Công ty Cổ phần Khảo sát và Xây dựng - USCO
+- **Mã cổ phiếu:** `USC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 395. VBG - Công ty Cổ phần Địa chất Việt Bắc - TKV
+- **Mã cổ phiếu:** `VBG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 396. VCE - CTCP Xây lắp Môi trường - TKV
+- **Mã cổ phiếu:** `VCE` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Năng lượng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 397. VCP - Công ty Cổ phần Xây dựng và Năng lượng VCP
+- **Mã cổ phiếu:** `VCP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Năng lượng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 398. VCR - Công ty Cổ phần Đầu tư và Phát triển Du lịch Vinaconex
+- **Mã cổ phiếu:** `VCR` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 399. VCT - Công ty Cổ phần Tư vấn Xây dựng Vinaconex
+- **Mã cổ phiếu:** `VCT` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Dịch vụ), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 400. VCX - Công ty Cổ phần Xi măng Yên Bình
+- **Mã cổ phiếu:** `VCX` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 401. VE2 - Công ty cổ phần Xây dựng điện VNECO 2
+- **Mã cổ phiếu:** `VE2` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 402. VE8 - Công ty cổ phần Xây dựng điện VNECO 8
+- **Mã cổ phiếu:** `VE8` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 403. VE9 - Công ty Cổ phần Đầu tư và Xây dựng VNECO 9
+- **Mã cổ phiếu:** `VE9` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 404. VES - Công ty Cổ phần Tập đoàn VinaLiving
+- **Mã cổ phiếu:** `VES` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 405. VGV - Tổng Công ty Tư vấn Xây dựng Việt Nam - CTCP
+- **Mã cổ phiếu:** `VGV` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 406. VHD - Công ty Cổ phần Đầu tư Phát triển Nhà và Đô thị VINAHUD
+- **Mã cổ phiếu:** `VHD` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 407. VHF - Công ty Cổ phần Xây dựng và Chế biến lương thực Vĩnh Hà
+- **Mã cổ phiếu:** `VHF` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Hàng tiêu dùng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 408. VHH - Công ty cổ phần Đầu tư Kinh doanh nhà Thành Đạt
+- **Mã cổ phiếu:** `VHH` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 409. VIH - Công ty Cổ phần Viglacera Hà Nội
+- **Mã cổ phiếu:** `VIH` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 410. VKC - Công ty cổ phần VKC Holdings
+- **Mã cổ phiếu:** `VKC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Công nghiệp), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 411. VNE - Tổng công ty Cổ phần Xây dựng điện Việt Nam
+- **Mã cổ phiếu:** `VNE` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 412. VTA - Công ty Cổ phần Vitaly
+- **Mã cổ phiếu:** `VTA` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 413. VTD - Công ty cổ phần Vietourist Holdings
+- **Mã cổ phiếu:** `VTD` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Dịch vụ), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 414. VVN - Tổng Công ty cổ phần Xây dựng công nghiệp Việt Nam
+- **Mã cổ phiếu:** `VVN` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 415. VXB - Công ty Cổ phần Vật liệu xây dựng Bến Tre
+- **Mã cổ phiếu:** `VXB` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 416. X77 - Công ty Cổ phần Thành An 77
+- **Mã cổ phiếu:** `X77` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 417. XDH - Công ty cổ phần Đầu tư Xây dưng Dân dụng Hà Nội
+- **Mã cổ phiếu:** `XDH` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 418. XLV - Công ty Cổ phần Xây lắp và Dịch vụ Sông Đà
+- **Mã cổ phiếu:** `XLV` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026

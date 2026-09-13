@@ -6609,3 +6609,444 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
 - **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
 - **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 681. USD - Công ty cổ phần Công trình Đô thị Sóc Trăng
+- **Mã cổ phiếu:** `USD` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 682. UTT - Công ty cổ phần Môi trường Đô thị Thanh Trì
+- **Mã cổ phiếu:** `UTT` (Sàn UPCOM)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 683. UXC - CTCP Chế biến Thủy sản Út Xi
+- **Mã cổ phiếu:** `UXC` (Sàn UPCOM)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 684. V68 - Công ty cổ phần Đầu tư Sản xuất và Thương mại Tuấn Anh
+- **Mã cổ phiếu:** `V68` (Sàn UPCOM)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 685. VAF - Công ty cổ phần Phân lân nung chảy Văn Điển
+- **Mã cổ phiếu:** `VAF` (Sàn UPCOM)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 686. VAV - Công ty Cổ phần VIWACO
+- **Mã cổ phiếu:** `VAV` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 687. VBT - Công ty cổ phần Vận tải Bảo Thắng
+- **Mã cổ phiếu:** `VBT` (Sàn UPCOM)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 688. VDB - Công ty cổ phần Vận tải và Chế biến Than Đông Bắc
+- **Mã cổ phiếu:** `VDB` (Sàn UPCOM)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 689. VDT - Công ty cổ phần Lưới thép Bình Tây
+- **Mã cổ phiếu:** `VDT` (Sàn UPCOM)
+- **Ngành nghề:** Nguyên vật liệu
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 690. VEA - Tổng Công ty Máy động lực và máy nông nghiệp Việt Nam - CTCP
+- **Mã cổ phiếu:** `VEA` (Sàn UPCOM)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 691. VEF - Công ty cổ phần Trung tâm Hội chợ Triển lãm Việt Nam
+- **Mã cổ phiếu:** `VEF` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 692. VET - Công ty Cổ phần Thuốc thú y Trung ương Navetco
+- **Mã cổ phiếu:** `VET` (Sàn UPCOM)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 693. VFR - Công ty Cổ phần Vận tải và Thuê tàu
+- **Mã cổ phiếu:** `VFR` (Sàn UPCOM)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 694. VGG - Tổng Công ty cổ phần May Việt Tiến
+- **Mã cổ phiếu:** `VGG` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 695. VGI - Tổng Công ty cổ phần Đầu tư Quốc tế Viettel
+- **Mã cổ phiếu:** `VGI` (Sàn UPCOM)
+- **Ngành nghề:** Viễn thông
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Viễn thông, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 696. VGL - CTCP Mạ kẽm công nghiệp Vingal - Vnsteel
+- **Mã cổ phiếu:** `VGL` (Sàn UPCOM)
+- **Ngành nghề:** Nguyên vật liệu
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 697. VGR - Công ty Cổ phần Cảng Xanh VIP
+- **Mã cổ phiếu:** `VGR` (Sàn UPCOM)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 698. VIE - Công ty Cổ phần Công nghệ Viễn thông VITECO
+- **Mã cổ phiếu:** `VIE` (Sàn UPCOM)
+- **Ngành nghề:** Công nghệ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghệ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 699. VIM - Công ty Cổ phần Khoáng sản Viglacera
+- **Mã cổ phiếu:** `VIM` (Sàn UPCOM)
+- **Ngành nghề:** Nguyên vật liệu
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 700. VIN - CTCP Giao nhận Kho vận Ngoại thương Việt Nam
+- **Mã cổ phiếu:** `VIN` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 701. VLB - CTCP Xây dựng và Sản xuất Vật liệu Xây dựng Biên Hòa
+- **Mã cổ phiếu:** `VLB` (Sàn UPCOM)
+- **Ngành nghề:** Bất động sản và Xây dựng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Bất động sản và Xây dựng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 702. VLC - Tổng Công ty Chăn nuôi Việt Nam - CTCP
+- **Mã cổ phiếu:** `VLC` (Sàn UPCOM)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 703. VLG - CTCP Vinalines Logistics - Việt Nam
+- **Mã cổ phiếu:** `VLG` (Sàn UPCOM)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 704. VLP - Công ty Cổ phần Công trình công cộng Vĩnh Long
+- **Mã cổ phiếu:** `VLP` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 705. VLW - Công ty Cổ phần Cấp nước Vĩnh Long
+- **Mã cổ phiếu:** `VLW` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 706. VMK - Công ty cổ phần Vimarko
+- **Mã cổ phiếu:** `VMK` (Sàn UPCOM)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 707. VNA - Công ty Cổ phần Vận tải Biển Vinaship
+- **Mã cổ phiếu:** `VNA` (Sàn UPCOM)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 708. VNH - Công ty Cổ phần Đầu tư Việt Việt Nhật
+- **Mã cổ phiếu:** `VNH` (Sàn UPCOM)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 709. VNP - Công ty cổ phần Nhựa Việt Nam
+- **Mã cổ phiếu:** `VNP` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 710. VNX - Công ty Cổ phần Quảng cáo và Hội chợ Thương mại
+- **Mã cổ phiếu:** `VNX` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 711. VNY - Công ty Cổ phần Thuốc Thú y Trung ương I
+- **Mã cổ phiếu:** `VNY` (Sàn UPCOM)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 712. VPA - CTCP Vận tải Hóa dầu VP
+- **Mã cổ phiếu:** `VPA` (Sàn UPCOM)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 713. VPC - Công ty Cổ phần Đầu tư và Phát triển Năng lượng Việt Nam
+- **Mã cổ phiếu:** `VPC` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 714. VPR - Công ty cổ phần VINAPRINT
+- **Mã cổ phiếu:** `VPR` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 715. VQC - Công ty Cổ phần Giám định Vinacomin
+- **Mã cổ phiếu:** `VQC` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 716. VRG - CTCP Phát triển đô thị và Khu công nghiệp Cao su Việt Nam
+- **Mã cổ phiếu:** `VRG` (Sàn UPCOM)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 717. VSG - Công ty Cổ phần Container Phía Nam
+- **Mã cổ phiếu:** `VSG` (Sàn UPCOM)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 718. VSN - Công ty cổ phần Việt Nam Kỹ nghệ Súc sản
+- **Mã cổ phiếu:** `VSN` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 719. VST - Công ty Cổ phần Vận tải và Thuê tàu biển Việt Nam
+- **Mã cổ phiếu:** `VST` (Sàn UPCOM)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 720. VTK - Công ty cổ phần Tư vấn Thiết kế Viettel
+- **Mã cổ phiếu:** `VTK` (Sàn UPCOM)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 721. VTM - CTCP Vận tải và Đưa đón thợ mỏ - Vinacomin
+- **Mã cổ phiếu:** `VTM` (Sàn UPCOM)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 722. VTR - Công ty cổ phần Du lịch Vietravel
+- **Mã cổ phiếu:** `VTR` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 723. VWS - Công ty Cổ phần Nước và Môi trường Việt Nam
+- **Mã cổ phiếu:** `VWS` (Sàn UPCOM)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 724. VXP - Công ty cổ phần Thuốc Thú y Trung ương VETVACO
+- **Mã cổ phiếu:** `VXP` (Sàn UPCOM)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 725. VXT - CTCP Kho vận và Dịch vụ Thương mại
+- **Mã cổ phiếu:** `VXT` (Sàn UPCOM)
+- **Ngành nghề:** Nguyên vật liệu
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 726. WSB - Công ty Cổ phần Bia Sài Gòn - Miền Tây
+- **Mã cổ phiếu:** `WSB` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 727. WTC - CTCP Vận tải thủy - Vinacomin
+- **Mã cổ phiếu:** `WTC` (Sàn UPCOM)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 728. X26 - Công ty cổ phần 26
+- **Mã cổ phiếu:** `X26` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 729. XHC - Công ty cổ phần Xuân Hòa Việt Nam
+- **Mã cổ phiếu:** `XHC` (Sàn UPCOM)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
