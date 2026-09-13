@@ -30,4 +30,7 @@
 | 20 | `DSC` | CTCP Chứng khoán DSC | HOSE | Dịch vụ chứng khoán | ~1.5% | ~3.5% | ~3.8% | 5.37% | 7.36% | Tăng vốn nhanh hơn tăng trưởng lợi nhuận, ROE 5 năm < 8% | 13/09/2026 |
 | 21 | `DSE` | CTCP Chứng khoán DNSE | HOSE | Chứng khoán số | 1.30% | ~2.5% | 3.70% | 6.93% | 4.51% | Cạnh tranh Zero-fee xói mòn biên ròng, chi phí marketing cao, ROE < 7% | 13/09/2026 |
 | 22 | `DTT` | CTCP Kỹ nghệ Đô Thành | HOSE | Nhựa & Bao bì công nghiệp | 7.00% | 2.86% | ~5.5% | 6.53% | 8.51% | Bao bì nhựa biên mỏng, giá hạt nhựa biến động, ROE 5 năm liên tục < 9% | 13/09/2026 |
+| 23 | `ELC` | CTCP Công nghệ - Viễn thông ELCOM | HOSE | Giải pháp phần mềm & ITS | 3.73% | 5.54% | ~5.8% | 6.74% | 7.64% | Dự án công nghệ vòng quay vốn chậm, chi phí triển khai cao, ROE 5 năm < 8% | 13/09/2026 |
+| 24 | `EVE` | CTCP Everpia | HOSE | Chăn ga gối đệm Everon | 4.45% | 6.19% | ~8.5% | 1.78% | -3.18% | Cạnh tranh đệm giá rẻ, nhà máy mới dư thừa công suất, ROE < 8.5% và lỗ 2024 | 13/09/2026 |
+| 25 | `EVF` | Công ty Tài chính CP Điện lực | HOSE | Tài chính tín dụng tiêu dùng | 6.23% | 8.30% | 8.44% | ~7.5% | ~8.1% | Chi phí huy động vốn cao hơn ngân hàng, trích lập dự phòng lớn, ROE < 8.5% | 13/09/2026 |
 

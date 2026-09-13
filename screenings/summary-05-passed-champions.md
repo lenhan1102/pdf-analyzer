@@ -57,4 +57,5 @@
 | 47 | `DRL` | CTCP Thủy điện – Điện lực 3 | HOSE | Thủy điện | ~39.5% (5 năm: 39-51%) | ~3.48 | Đrây H'linh 2 hết khấu hao, biên ròng >45%, nợ vay 0đ, ROE 39-51%, cổ tức 40-60% tiền mặt | 13/09/2026 |
 | 48 | `DSN` | CTCP Công viên nước Đầm Sen | HOSE | Vui chơi giải trí nội đô | ~29.3% (5 năm: 19-36%) | ~1.40 | Độc quyền công viên nước nội đô TP.HCM, nợ vay 0đ, tiền gửi chiếm 60% TS, cổ tức 40-60% | 13/09/2026 |
 | 49 | `DVP` | CTCP Đầu tư và Phát triển Cảng Đình Vũ | HOSE | Cảng biển container | ~22.6% (5 năm: 18.5-24%) | ~1.98 | Cảng container cửa ngõ Hải Phòng, biên ròng 45-50%, tiền gửi >1,200 tỷ (70% TS), cổ tức 50-70% | 13/09/2026 |
+| 50 | `EIB` | Ngân hàng TMCP Xuất nhập khẩu Việt Nam (Eximbank) | HOSE | Ngân hàng thương mại | ~9.0% (2022: 14.4%) | ~0.96 | Ngân hàng TMCP quy mô lớn, thế mạnh tài trợ XNK; cần chú ý rủi ro quản trị nhóm cổ đông | 13/09/2026 |
 

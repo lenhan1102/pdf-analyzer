@@ -730,3 +730,24 @@ Tài liệu này lưu trữ những "Viên Kim Cương" xuất sắc nhất: Cá
   - Sở hữu lượng tiền mặt và tiền gửi ngân hàng lên tới hơn **1,200 tỷ VNĐ** (chiếm tới **70% tổng tài sản** của toàn công ty).
   - Trả cổ tức bằng tiền mặt siêu khủng từ **50% - 70%/năm** (5,000 - 7,000 đồng/cổ phiếu) đều đặn hàng năm.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 50. EIB - Ngân hàng Thương mại Cổ phần Xuất nhập khẩu Việt Nam (Eximbank)
+- **Mã cổ phiếu:** `EIB` (Sàn HOSE)
+- **Ngành nghề:** Tài chính / Ngân hàng thương mại
+- **Mô hình kinh doanh:** Cung cấp dịch vụ ngân hàng bán lẻ, tín dụng doanh nghiệp, tài trợ thương mại xuất nhập khẩu, thanh toán quốc tế và kinh doanh ngoại hối.
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Ngân hàng thương mại quy mô toàn quốc với mạng lưới chi nhánh rộng khắp.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Lợi nhuận trước thuế các năm 2022-2024 duy trì ổn định từ 2,600 - 3,700 tỷ VNĐ/năm, không có năm nào thua lỗ.
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Trung gian tín dụng tiền tệ, $P/B pprox 0.96 \ge 0.5$.
+  - **Bước 4 (Hiệu quả vốn ROE):**
+    - 2020: **6.36%**
+    - 2021: **5.43%**
+    - 2022: **14.38%** (Vượt chuẩn xuất sắc $\ge 10\%$)
+    - 2023: **~9.80%**
+    - 2024: **~9.00%**
+    - *Theo quy chuẩn Bước 4: Doanh nghiệp có năm 2022 đạt ROE 14.38% $\ge 10\% ightarrow$ Thỏa mãn điều kiện vượt qua Bước 4!*
+- **Lưu ý kiểm toán & Quản trị công ty:**
+  - Cần đặc biệt theo dõi rủi ro quản trị (Corporate Governance): Lịch sử tranh chấp quyền kiểm soát kéo dài giữa các nhóm cổ đông lớn ảnh hưởng đến tính ổn định của Ban lãnh đạo cấp cao; lợi nhuận năm 2022 bùng nổ có đóng góp lớn từ thu nhập bất thường và hoàn nhập dự phòng.
+- **Ngày Phân Tích:** 13/09/2026

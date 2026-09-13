@@ -1,52 +1,52 @@
 {
   "project": "Vietnamese Stock Market Multi-Stage Screening Funnel",
   "total_universe": 1642,
-  "screened_count": 110,
-  "remaining_count": 1532,
-  "progress_percentage": 6.7,
+  "screened_count": 120,
+  "remaining_count": 1522,
+  "progress_percentage": 7.31,
   "current_batch": {
-    "batch_number": 11,
-    "range": "101-110",
+    "batch_number": 12,
+    "range": "111-120",
     "tickers": [
-      "DRL",
-      "DSC",
-      "DSE",
-      "DSN",
-      "DTA",
-      "DTL",
-      "DTT",
-      "DVP",
-      "DXG",
-      "DXS"
+      "DXV",
+      "EIB",
+      "ELC",
+      "EVE",
+      "EVF",
+      "EVG",
+      "FCM",
+      "FCN",
+      "FDC",
+      "FIR"
     ],
     "status": "completed",
     "results": {
       "step_1_rejected": [
-        "DTA",
-        "DTL",
-        "DXG",
-        "DXS"
+        "DXV",
+        "EVG",
+        "FCM",
+        "FCN",
+        "FDC",
+        "FIR"
       ],
       "step_2_rejected": [],
       "step_3_rejected": [],
       "step_4_rejected": [
-        "DSC",
-        "DSE",
-        "DTT"
+        "ELC",
+        "EVE",
+        "EVF"
       ],
       "passed_file_5": [
-        "DRL",
-        "DSN",
-        "DVP"
+        "EIB"
       ]
     }
   },
   "summary_metrics": {
-    "step_1_rejected_circle_of_competence": 24,
+    "step_1_rejected_circle_of_competence": 30,
     "step_2_rejected_consecutive_loss": 1,
     "step_3_rejected_low_value_chain": 14,
-    "step_4_rejected_low_roe": 22,
-    "step_5_passed_champions": 49
+    "step_4_rejected_low_roe": 25,
+    "step_5_passed_champions": 50
   },
   "batches_history": [
     {
@@ -279,6 +279,27 @@
       "step_3": 0,
       "step_4": 3,
       "passed": 3
+    },
+    {
+      "batch": 12,
+      "range": "111-120",
+      "tickers": [
+        "DXV",
+        "EIB",
+        "ELC",
+        "EVE",
+        "EVF",
+        "EVG",
+        "FCM",
+        "FCN",
+        "FDC",
+        "FIR"
+      ],
+      "step_1": 6,
+      "step_2": 0,
+      "step_3": 0,
+      "step_4": 3,
+      "passed": 1
     }
   ],
   "last_updated": "2026-09-13T11:20:00+07:00"

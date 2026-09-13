@@ -32,4 +32,10 @@
 | 22 | `DTL` | CTCP Đại Thiên Lộc | HOSE | Thép & Tôn mạ xây dựng | VLXD tôn mạ đại trà, cạnh tranh gay gắt, chu kỳ thép biến động âm nặng | 13/09/2026 |
 | 23 | `DXG` | CTCP Tập đoàn Đất Xanh | HOSE | Bất động sản dân dụng | Dự án Gem Sky World tắc pháp lý, đòn bẩy nợ cao, dòng tiền âm, ROE 1% | 13/09/2026 |
 | 24 | `DXS` | CTCP Dịch vụ Bất động sản Đất Xanh | HOSE | Môi giới Bất động sản | Môi giới BĐS dân dụng phụ thuộc thanh khoản đất nền, nợ hoa hồng, ROE suy kiệt | 13/09/2026 |
+| 25 | `DXV` | CTCP VICEM Vật liệu Xây dựng Đà Nẵng | HOSE | Thương mại VLXD xi măng | Phân phối xi măng đại trà biên mỏng, phụ thuộc chu kỳ xây dựng, lỗ 2 năm liên tiếp | 13/09/2026 |
+| 26 | `EVG` | CTCP Tập đoàn EVERLAND | HOSE | BĐS nghỉ dưỡng & Xây lắp | Dự án BĐS nghỉ dưỡng Vân Đồn đọng vốn ngàn tỷ, dòng tiền âm, ROE 1% | 13/09/2026 |
+| 27 | `FCM` | CTCP Bê tông Phan Vũ Hà Nam | HOSE | VLXD bê tông cọc móng | Sản xuất cọc bê tông ly tâm đại trà, cạnh tranh giá gay gắt, biên ròng <0.5%, ROE 0.3% | 13/09/2026 |
+| 28 | `FCN` | CTCP FECON | HOSE | Xây lắp nền móng & Hạ tầng | Nhà thầu xây lắp công trình hạ tầng, nợ đọng lớn, biên ròng mỏng, ROE 0.3% | 13/09/2026 |
+| 29 | `FDC` | CTCP Ngoại thương & PTĐT TP.HCM (Fideco) | HOSE | Bất động sản & Đầu tư tài chính | BĐS dân dụng dự án chậm trễ, đầu tư tài chính biến động, từng lỗ nặng 2022, ROE 1.1% | 13/09/2026 |
+| 30 | `FIR` | CTCP Địa ốc First Real | HOSE | Bất động sản đất nền | Đất nền miền Trung đóng băng thanh khoản, nợ vay đọng, ROE năm 2024 chỉ 0.08% | 13/09/2026 |
 

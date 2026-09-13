@@ -245,3 +245,69 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
   - Hoạt động kinh doanh gắn chặt 100% với **thị trường môi giới bất động sản dân dụng**, nằm ngoài Vòng tròn năng lực.
   - Mô hình kinh doanh phụ thuộc vào tính thanh khoản của thị trường bất động sản; khi thị trường đóng băng, doanh thu sụt giảm mạnh, công nợ phí môi giới khó thu hồi, năm 2023 thua lỗ (-2.07%) và năm 2024 ROE chỉ đạt 1.69%.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 25. DXV - Công ty Cổ phần VICEM Vật liệu Xây dựng Đà Nẵng
+- **Mã cổ phiếu:** `DXV` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Vật liệu xây dựng
+- **Hoạt động kinh doanh chính:** Kinh doanh thương mại phân phối xi măng Vicem, clinker, gạch ngói, tấm lợp fibro xi măng tại miền Trung và Tây Nguyên.
+- **Lý do loại trừ tại Bước 1:**
+  - Hoạt động kinh doanh là **thương mại phân phối vật liệu xây dựng (xi măng, tấm lợp) đại trà**, nằm ngoài Vòng tròn năng lực theo quy chuẩn hệ thống.
+  - Phụ thuộc hoàn toàn vào chu kỳ xây dựng dân dụng, không có lợi thế cạnh tranh độc quyền, biên lợi nhuận mỏng và kinh doanh thua lỗ liên tiếp 2 năm gần nhất 2023-2024 (ROE -8.1% và -5.8%).
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 26. EVG - Công ty Cổ phần Tập đoàn EVERLAND
+- **Mã cổ phiếu:** `EVG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Hoạt động kinh doanh chính:** Đầu tư phát triển các dự án bất động sản nghỉ dưỡng đô thị (dự án Crystal Holidays Harbour Vân Đồn - Quảng Ninh), thi công xây lắp và du lịch dịch vụ.
+- **Lý do loại trừ tại Bước 1:**
+  - Hoạt động cốt lõi là **đầu tư bất động sản nghỉ dưỡng dân dụng và xây lắp**, nằm ngoài Vòng tròn năng lực.
+  - Đại dự án quy mô ngàn tỷ tại Vân Đồn làm đọng vốn lớn, dòng tiền kinh doanh âm kéo dài, hiệu quả sử dụng vốn rất thấp (ROE nhiều năm chỉ quanh quẩn 1% - 2%).
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 27. FCM - Công ty Cổ phần Bê tông Phan Vũ Hà Nam
+- **Mã cổ phiếu:** `FCM` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Nguyên vật liệu / Vật liệu xây dựng
+- **Hoạt động kinh doanh chính:** Sản xuất cọc bê tông ly tâm dự ứng lực, cấu kiện bê tông đúc sẵn phục vụ thi công nền móng công trình xây dựng.
+- **Lý do loại trừ tại Bước 1:**
+  - Doanh nghiệp sản xuất **vật liệu xây dựng (bê tông, cọc móng) đại trà**, nằm ngoài Vòng tròn năng lực theo quy chuẩn loại trừ VLXD thông thường.
+  - Chịu sự cạnh tranh gay gắt về giá, biên lợi nhuận ròng cực mỏng (<0.5%), chịu rủi ro công nợ đọng từ các nhà thầu xây dựng; ROE năm 2024 chỉ đạt **0.29%**, năm 2023 đạt **2.92%**.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 28. FCN - Công ty Cổ phần FECON
+- **Mã cổ phiếu:** `FCN` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Công nghiệp / Xây dựng công trình kỹ thuật dân dụng
+- **Hoạt động kinh doanh chính:** Thi công xây lắp nền móng và công trình ngầm, xây dựng hạ tầng giao thông, khu công nghiệp và hạ tầng năng lượng.
+- **Lý do loại trừ tại Bước 1:**
+  - Doanh nghiệp **nhà thầu thi công xây lắp công trình hạ tầng**, nằm ngoài Vòng tròn năng lực theo quy chuẩn loại trừ ngành xây dựng xây lắp.
+  - Ngành xây lắp chịu áp lực đọng vốn công nợ khách hàng, chi phí lãi vay cao, biên lợi nhuận ròng mỏng manh; năm 2023 thua lỗ (ROE = -0.95%), năm 2024 ROE chỉ đạt **0.28%** (lãi tượng trưng vài tỷ trên vốn điều lệ hơn 1,500 tỷ).
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 29. FDC - Công ty Cổ phần Ngoại thương và Phát triển Đầu tư TP.HCM (Fideco)
+- **Mã cổ phiếu:** `FDC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Dịch vụ / Bất động sản và Đầu tư tài chính
+- **Hoạt động kinh doanh chính:** Đầu tư phát triển bất động sản (tòa nhà Fideco Riverview Thảo Điền, KDC Cần Giờ), cho thuê văn phòng và hoạt động đầu tư tài chính.
+- **Lý do loại trừ tại Bước 1:**
+  - Doanh nghiệp **bất động sản dân dụng và đầu tư tài chính**, nằm ngoài Vòng tròn năng lực theo quy chuẩn hệ thống.
+  - Lịch sử kinh doanh nhiều biến động, dự án chậm triển khai, từng thua lỗ nặng năm 2022 (-198 tỷ đồng, ROE = -44.41%), năm 2024 ROE chỉ đạt 1.12%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 30. FIR - Công ty Cổ phần Địa ốc First Real
+- **Mã cổ phiếu:** `FIR` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Hoạt động kinh doanh chính:** Đầu tư phát triển và môi giới phân phối bất động sản đất nền, khu đô thị tại miền Trung (Đà Nẵng, Quảng Nam, Quảng Bình).
+- **Lý do loại trừ tại Bước 1:**
+  - Hoạt động cốt lõi là **đầu tư phát triển và môi giới đất nền bất động sản dân dụng**, nằm ngoài Vòng tròn năng lực theo quy chuẩn hệ thống.
+  - Phụ thuộc vào các đợt sốt đất nền miền Trung; khi thị trường đóng băng thanh khoản, lợi nhuận sụt giảm nghiêm trọng, năm 2024 LNST chỉ đạt vài trăm triệu đồng, ROE chỉ đạt **0.08%**.
+- **Ngày Phân Tích:** 13/09/2026

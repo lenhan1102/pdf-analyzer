@@ -129,4 +129,14 @@
 | 108 | `DVP` | CTCP Đầu tư và Phát triển Cảng Đình Vũ | HOSE | Công nghiệp / Cảng biển | 🏆 Vượt B4 | Cảng biển nước sâu Hải Phòng, biên ròng 45-50%, tiền gửi >1,200 tỷ, cổ tức 50-70% | [05-passed](05-passed-champions.md) |
 | 109 | `DXG` | CTCP Tập đoàn Đất Xanh | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | BĐS dân dụng Gem Sky World tắc pháp lý, đòn bẩy nợ cao, dòng tiền âm | [01-rejected](01-rejected-circle-of-competence.md) |
 | 110 | `DXS` | CTCP Dịch vụ Bất động sản Đất Xanh | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Môi giới BĐS dân dụng phụ thuộc thanh khoản đất nền, nợ hoa hồng, ROE suy kiệt | [01-rejected](01-rejected-circle-of-competence.md) |
+| 111 | `DXV` | CTCP VICEM Vật liệu Xây dựng Đà Nẵng | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Phân phối xi măng đại trà biên mỏng, phụ thuộc chu kỳ XD, lỗ 2 năm liền | [01-rejected](01-rejected-circle-of-competence.md) |
+| 112 | `EIB` | Ngân hàng TMCP Xuất nhập khẩu Việt Nam | HOSE | Tài chính / Ngân hàng | 🏆 Vượt B4 | Ngân hàng TMCP lớn, ROE 2022 đạt 14.4%, P/B ~0.96; cần theo dõi quản trị HĐQT | [05-passed](05-passed-champions.md) |
+| 113 | `ELC` | CTCP Công nghệ - Viễn thông ELCOM | HOSE | Công nghệ / Phần mềm & ITS | ❌ Rớt B4 | Giải pháp ITS & viễn thông vòng quay vốn chậm, ROE 5 năm liên tục < 8% | [04-rejected](04-rejected-low-roe.md) |
+| 114 | `EVE` | CTCP Everpia | HOSE | Hàng tiêu dùng / Dệt may | ❌ Rớt B4 | Chăn ga gối Everon cạnh tranh khốc liệt, ROE 5 năm < 8.5% và lỗ năm 2024 | [04-rejected](04-rejected-low-roe.md) |
+| 115 | `EVF` | Công ty Tài chính cổ phần Điện lực | HOSE | Tài chính / Tín dụng | ❌ Rớt B4 | Chi phí vốn cao hơn ngân hàng, trích lập dự phòng lớn, ROE 5 năm < 8.5% | [04-rejected](04-rejected-low-roe.md) |
+| 116 | `EVG` | CTCP Tập đoàn EVERLAND | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | BĐS nghỉ dưỡng Vân Đồn đọng vốn ngàn tỷ, dòng tiền âm, ROE chỉ 1% | [01-rejected](01-rejected-circle-of-competence.md) |
+| 117 | `FCM` | CTCP Bê tông Phan Vũ Hà Nam | HOSE | Nguyên vật liệu / Bê tông | ❌ Rớt B1 | VLXD cọc bê tông ly tâm đại trà, cạnh tranh giá, biên ròng <0.5%, ROE 0.3% | [01-rejected](01-rejected-circle-of-competence.md) |
+| 118 | `FCN` | CTCP FECON | HOSE | Công nghiệp / Xây lắp nền móng | ❌ Rớt B1 | Nhà thầu thi công hạ tầng, công nợ đọng lớn, biên ròng mỏng, ROE 0.3% | [01-rejected](01-rejected-circle-of-competence.md) |
+| 119 | `FDC` | CTCP Ngoại thương & PTĐT TP.HCM (Fideco) | HOSE | Dịch vụ / Bất động sản | ❌ Rớt B1 | BĐS dân dụng dự án chậm trễ, từng lỗ nặng năm 2022, ROE năm 2024 chỉ 1.1% | [01-rejected](01-rejected-circle-of-competence.md) |
+| 120 | `FIR` | CTCP Địa ốc First Real | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Đất nền miền Trung đóng băng thanh khoản, lợi nhuận teo tóp, ROE 2024 chỉ 0.08% | [01-rejected](01-rejected-circle-of-competence.md) |
 

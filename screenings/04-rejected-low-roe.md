@@ -296,3 +296,57 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
   - Doanh nghiệp hoàn thành 3 bước đầu tiên (không lỗ, sản xuất bao bì nhựa kỹ thuật).
   - Tuy nhiên tại Bước 4, DTT có **hiệu quả sử dụng vốn ROE suốt 5 năm liên tục (và cả 7 năm liền) chưa từng có năm nào đạt ngưỡng 10%**. Biên lợi nhuận ròng mỏng, áp lực chi phí hạt nhựa đầu vào và cạnh tranh ngành nhựa bao bì khiến tỷ suất sinh lời trên vốn teo tóp.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 23. ELC - Công ty Cổ phần Công nghệ - Viễn thông ELCOM
+- **Mã cổ phiếu:** `ELC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Công nghệ / Viễn thông & Giao thông thông minh (ITS)
+- **Hoạt động kinh doanh chính:** Cung cấp giải pháp phần mềm viễn thông, hệ thống giám sát giao thông thông minh ITS cho cao tốc, an ninh quốc phòng và giải pháp IoT.
+- **Thống kê ROE qua các năm:**
+  - Năm 2020: ROE = **3.73%**
+  - Năm 2021: ROE = **5.54%**
+  - Năm 2022: ROE = **~5.80%**
+  - Năm 2023: ROE = **6.74%**
+  - Năm 2024: ROE = **7.64%**
+  - *Giai đoạn trước đó (2018 - 2019): ROE chỉ đạt 1.18% và 3.63%*
+- **Lý do loại trừ tại Bước 4:**
+  - Doanh nghiệp hoàn thành Bước 1, Bước 2 và Bước 3 (cung cấp giải pháp công nghệ giá trị cao).
+  - Tuy nhiên tại Bước 4, ELC có **hiệu quả sử dụng vốn liên tục dưới 10% trong suốt 5 năm gần nhất (dao động từ 3.7% đến 7.6%)**. Biên lợi nhuận ròng của các gói thầu tích hợp công nghệ bị ảnh hưởng bởi chi phí triển khai, vòng quay vốn chậm, chưa tạo ra tỷ suất sinh lời vượt trội trên vốn chủ sở hữu.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 24. EVE - Công ty Cổ phần Everpia
+- **Mã cổ phiếu:** `EVE` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng / Dệt may & Chăn ga gối đệm
+- **Hoạt động kinh doanh chính:** Sản xuất và phân phối chăn ga gối đệm mang thương hiệu Everon; sản xuất bông tấm (Padding) phục vụ ngành may mặc.
+- **Thống kê ROE qua các năm:**
+  - Năm 2020: ROE = **4.45%**
+  - Năm 2021: ROE = **6.19%**
+  - Năm 2022: ROE = **~8.50%**
+  - Năm 2023: ROE = **1.78%**
+  - Năm 2024: ROE = **-3.18%** (Thua lỗ)
+  - *Giai đoạn trước đó (2018 - 2019): ROE chỉ đạt 8.38% và 7.66%*
+- **Lý do loại trừ tại Bước 4:**
+  - Vượt qua Bước 1, Bước 2 (chưa lỗ 3 năm liên tiếp) và Bước 3 (thị giá 8.33k vs BVPS 22.3k cho $P/B = 0.37 < 0.5$).
+  - Tại Bước 4, EVE có **hiệu quả sử dụng vốn yếu kém với ROE suốt 5 năm liên tiếp (và cả 7 năm liền) đều nằm dưới 8.5%, thậm chí rơi vào thua lỗ trong năm 2024**. Thương hiệu đệm Everon chịu sự cạnh tranh khốc liệt từ các sản phẩm giá rẻ và kênh thương mại điện tử, nhà máy mới vận hành dưới công suất khiến lợi nhuận sụt giảm sâu.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 25. EVF - Công ty Tài chính Cổ phần Điện lực (EVN Finance)
+- **Mã cổ phiếu:** `EVF` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Tài chính / Tín dụng phi ngân hàng
+- **Hoạt động kinh doanh chính:** Cung cấp dịch vụ tài chính, thu xếp vốn cho các dự án ngành điện và năng lượng tái tạo, cho vay khách hàng cá nhân và doanh nghiệp.
+- **Thống kê ROE qua các năm:**
+  - Năm 2020: ROE = **6.23%**
+  - Năm 2021: ROE = **8.30%**
+  - Năm 2022: ROE = **8.44%**
+  - Năm 2023: ROE = **~7.50%**
+  - Năm 2024: ROE = **~8.10%**
+  - *Giai đoạn trước đó (2018 - 2019): ROE chỉ đạt 6.30% và 6.65%*
+- **Lý do loại trừ tại Bước 4:**
+  - Vượt qua 3 bước đầu tiên.
+  - Tuy nhiên tại Bước 4, EVF có **ROE 5 năm liên tục nằm dưới mức 8.5% (chưa từng có năm nào chạm mốc 10%)**. Là tổ chức tín dụng phi ngân hàng, EVF chịu chi phí huy động vốn cao hơn đáng kể so với các ngân hàng thương mại, rủi ro nợ xấu và trích lập dự phòng lớn khiến tỷ suất sinh lời trên vốn chủ sở hữu không thể bứt phá lên mức 10%.
+- **Ngày Phân Tích:** 13/09/2026
