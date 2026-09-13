@@ -969,3 +969,103 @@
 | 948 | `EME` | Công ty Cổ phần Điện cơ | UPCOM | Công nghệ | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (2.1%, 7.8%, 5.2%, 6.0%) đều n... | [04-rejected](04-rejected-low-roe.md) |
 | 949 | `EMG` | Công ty Cổ phần Thiết bị Phụ tùng Cơ điện | UPCOM | Doanh nghiệp Upcom | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Doanh nghiệp Upcom, hi... | [05-passed](05-passed-champions.md) |
 | 950 | `EMS` | Tổng Công ty Chuyển phát nhanh Bưu Điện - CTCP | UPCOM | Dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh... | [05-passed](05-passed-champions.md) |
+| 951 | `F88` | Công ty cổ phần Đầu tư F88 | UPCOM | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 952 | `FBC` | Công ty cổ phần Cơ khí Phổ Yên | UPCOM | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 953 | `FCC` | Công ty cổ phần Bất động sản Ramond | UPCOM | Hàng tiêu dùng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 954 | `FCS` | Công ty Cổ phần Lương thực Thành phố Hồ Chí Minh | UPCOM | Nông nghiệp | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (-45.4%, -32.2%, 1.6%, -2.4%) ... | [04-rejected](04-rejected-low-roe.md) |
+| 955 | `FGL` | Công ty cổ phần Cà phê Gia Lai | UPCOM | Nông nghiệp | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (-30.4%, 0.4%, -20.8%, -94.2%)... | [04-rejected](04-rejected-low-roe.md) |
+| 956 | `FHN` | Công Ty Cổ phần Xuất Nhập Khẩu Lương Thực - Thực Phẩm Hà Nội | UPCOM | Nông nghiệp | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (3.3%, 0.5%, 2.0%, 2.1%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 957 | `FHS` | Công ty cổ phần Phát hành sách T.P Hồ Chí Minh | UPCOM | Dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh... | [05-passed](05-passed-champions.md) |
+| 958 | `FIC` | Tổng Công ty Vật liệu Xây dựng số 1 - CTCP | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 959 | `FOC` | Công ty cổ phần Dịch vụ Trực tuyến FPT | UPCOM | Công nghệ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghệ, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 960 | `FOX` | Công ty Cổ phần Viễn thông FPT | UPCOM | Công nghệ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghệ, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 961 | `FRC` | Công ty cổ phần Lâm đặc sản Xuất khẩu Quảng Nam | UPCOM | Nguyên vật liệu | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu ... | [05-passed](05-passed-champions.md) |
+| 962 | `FRM` | Công ty cổ phần Lâm nghiệp Sài Gòn | UPCOM | Nguyên vật liệu | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (6.3%, 3.4%, 8.2%, 3.9%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 963 | `FSO` | Công ty Cổ phần Cơ khí đóng tàu thủy sản Việt Nam | UPCOM | Công nghiệp | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (-6.1%, 1.5%, -1.5%, 2.3%) đều... | [04-rejected](04-rejected-low-roe.md) |
+| 964 | `FT1` | Công ty Cổ phần Phụ tùng máy số 1 | UPCOM | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 965 | `FTI` | Công ty Cổ phần Công nghiệp - Thương mại Hữu Nghị | UPCOM | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 966 | `FTM` | Công ty Cổ phần Đầu tư và Phát triển Đức Quân | UPCOM | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 967 | `G20` | Công ty cổ phần Đầu tư Dệt may G.Home | UPCOM | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 968 | `G36` | Tổng Công ty 36 - CTCP | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 969 | `GCB` | Công ty Cổ Phần Petec Bình Định | UPCOM | Năng lượng | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (1.7%, 5.5%, 8.7%, -1.8%) đều ... | [04-rejected](04-rejected-low-roe.md) |
+| 970 | `GCF` | Công ty cổ phần Thực phẩm G.C | UPCOM | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 971 | `GDA` | Công ty Cổ phần Tôn Đông Á | UPCOM | Nguyên vật liệu | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (7.8%, 9.0%) đều nằm dưới ngưỡ... | [04-rejected](04-rejected-low-roe.md) |
+| 972 | `GDH` | Công ty cổ phần Tập đoàn GDC | UPCOM | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 973 | `GER` | Công ty Cổ phần Thể thao Ngôi sao Geru | UPCOM | Nguyên vật liệu | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (1.7%, 3.4%, 5.2%, -17.8%) đều... | [04-rejected](04-rejected-low-roe.md) |
+| 974 | `GGG` | Công ty cổ phần Ô tô Giải Phóng | UPCOM | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 975 | `GH3` | CTCP Công trình Giao thông Hà Nội | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 976 | `GLC` | Công ty cổ phần Vàng Lào Cai | UPCOM | Nguyên vật liệu | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu ... | [05-passed](05-passed-champions.md) |
+| 977 | `GLW` | Công ty Cổ phần Cấp thoát nước Gia Lai | UPCOM | Dịch vụ | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (4.8%, 2.3%, 2.3%, 6.3%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 978 | `GMC` | Công ty Cổ phần Garmex Sài Gòn | UPCOM | Hàng tiêu dùng | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (7.0%, 6.2%, -13.2%, -8.2%) đề... | [04-rejected](04-rejected-low-roe.md) |
+| 979 | `GND` | Công ty Cổ phần Gạch ngói Đồng Nai | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 980 | `GPC` | CTCP Tập đoàn Green+ | UPCOM | Hàng tiêu dùng | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (-0.3%, 0.7%) đều nằm dưới ngư... | [04-rejected](04-rejected-low-roe.md) |
+| 981 | `GSM` | Công ty cổ phần Thủy điện Hương Sơn | UPCOM | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 982 | `GTD` | Công ty Cổ phần Giầy Thượng Đình | UPCOM | Hàng tiêu dùng | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (-30.6%, -1.8%, -12.8%, -49.3%... | [04-rejected](04-rejected-low-roe.md) |
+| 983 | `GTS` | Công ty cổ phần Công trình Giao thông Sài Gòn | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 984 | `GTT` | Công ty Cổ phần Thuận Thảo | UPCOM | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 985 | `GTX` | Công ty cổ phần Global Tanker | UPCOM | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 986 | `GVT` | Công ty Cổ phần Giấy Việt Trì | UPCOM | Nguyên vật liệu | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu ... | [05-passed](05-passed-champions.md) |
+| 987 | `H11` | Công ty Cổ phần Xây dựng HUD101 | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 988 | `HAC` | Công ty Cổ phần Chứng khoán Hải Phòng | UPCOM | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 989 | `HAF` | Công ty Cổ phần Thực phẩm Hà Nội | UPCOM | Hàng tiêu dùng | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (-5.3%, -4.0%, -13.9%, -9.9%) ... | [04-rejected](04-rejected-low-roe.md) |
+| 990 | `HAM` | Công ty Cổ phần Vật tư Hậu Giang | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 991 | `HAN` | Tổng công ty Xây dựng Hà Nội - CTCP | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 992 | `HAV` | Công ty Cổ phần rượu Hapro | UPCOM | Hàng tiêu dùng | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (-6.3%, -4.0%, -73.1%) đều nằm... | [04-rejected](04-rejected-low-roe.md) |
+| 993 | `HBC` | Công ty cổ phần Tập đoàn Xây dựng Hoà Bình | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 994 | `HBD` | Công ty Cổ phần Bao bì PP Bình Dương | UPCOM | Nguyên vật liệu | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu ... | [05-passed](05-passed-champions.md) |
+| 995 | `HBH` | Công ty Cổ phần Habeco - Hải Phòng | UPCOM | Hàng tiêu dùng | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (8.5%, 9.3%, 0.6%, 0.1%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 996 | `HC1` | CTCP Xây dựng số 1 Hà Nội | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 997 | `HC3` | Công ty Cổ phần Xây dựng Số 3 Hải Phòng | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 998 | `HCI` | Công ty Cổ phần Đầu tư - Xây dựng Hà Nội | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 999 | `HD2` | Công ty cổ phần Đầu tư Phát triển nhà HUD2 | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 1000 | `HD6` | Công ty cổ phần Đầu tư và Phát triển nhà số 6 Hà Nội | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 1001 | `HD8` | CTCP Đầu tư Phát triển Nhà và Đô thị HUD8 | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 1002 | `HDM` | Công ty Cổ phần Dệt May Huế | UPCOM | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1003 | `HDP` | Công ty Cổ phần Dược Hà Tĩnh | UPCOM | Y tế | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Y tế, hiệu quả sinh lờ... | [05-passed](05-passed-champions.md) |
+| 1004 | `HDW` | Công ty cổ phần Kinh doanh nước sạch Hải Dương | UPCOM | Dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh... | [05-passed](05-passed-champions.md) |
+| 1005 | `HEC` | Công ty Cổ phần Tư vấn Xây dựng Thủy lợi II | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 1006 | `HEJ` | Tổng Công ty Tư vấn Xây dựng Thủy lợi Việt Nam-CTCP | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 1007 | `HEP` | Công ty Cổ phần Môi trường và Công trình Đô thị Huế | UPCOM | Dịch vụ | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (1.7%, 1.8%, 2.2%, 5.8%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 1008 | `HES` | Công ty Cổ phần Dịch vụ Giải trí Hà Nội | UPCOM | Dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh... | [05-passed](05-passed-champions.md) |
+| 1009 | `HFB` | Công ty Cổ phần Công trình Cầu phà Thành phố Hồ Chí Minh | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 1010 | `HFC` | Công ty Cổ phần Xăng dầu HFC | UPCOM | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 1011 | `HFX` | Công ty cổ phần Sản xuất - Xuất nhập khẩu Thanh Hà | UPCOM | Nông nghiệp | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (2.4%, 2.2%, 6.5%, 4.0%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 1012 | `HGT` | Công ty cổ phần Du lịch Hương Giang | UPCOM | Dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh... | [05-passed](05-passed-champions.md) |
+| 1013 | `HHB` | Công ty cổ phần Bia Hà Nội - Hồng Hà | UPCOM | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1014 | `HHG` | Công ty Cổ phần Hoàng Hà | UPCOM | Công nghiệp | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (-22.9%, -31.1%, -36.2%, -38.6... | [04-rejected](04-rejected-low-roe.md) |
+| 1015 | `HHN` | Công ty Cổ Phần Vận tải và Dịch vụ Hàng hóa Hà Nội | UPCOM | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 1016 | `HIO` | Công ty cổ phần Helio Energy | UPCOM | Chưa phân loại | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (4.3%, 8.3%) đều nằm dưới ngưỡ... | [04-rejected](04-rejected-low-roe.md) |
+| 1017 | `HJC` | Công ty Cổ phần Hòa Việt | UPCOM | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1018 | `HKB` | Công ty Cổ phần Nông nghiệp và Thực phẩm Hà Nội - Kinh Bắc | UPCOM | Nông nghiệp | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (-20.0%, -22.1%, -39.6%, -67.1... | [04-rejected](04-rejected-low-roe.md) |
+| 1019 | `HLA` | Công ty Cổ phần Hữu Liên Á Châu | UPCOM | Nguyên vật liệu | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu ... | [05-passed](05-passed-champions.md) |
+| 1020 | `HLB` | Công ty Cổ phần Bia và Nước giải khát Hạ Long | UPCOM | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1021 | `HLO` | Công ty Cổ phần Công nghệ Ha Lô | UPCOM | Chưa phân loại | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (6.2%) đều nằm dưới ngưỡng tối... | [04-rejected](04-rejected-low-roe.md) |
+| 1022 | `HLS` | Công ty Cổ phần Sứ kỹ thuật Hoàng Liên Sơn | UPCOM | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 1023 | `HLT` | CTCP Dệt may Hoàng Thị Loan | UPCOM | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1024 | `HLY` | Công ty Cổ phần Gốm Xây dựng Hưng Yên | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 1025 | `HMD` | Công ty Cổ phần Hóa chất Minh Đức | UPCOM | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1026 | `HMG` | CTCP Kim khí Hà Nội - VNSTEEL | UPCOM | Nguyên vật liệu | ❌ Rớt B3 | Doanh nghiệp thương mại gia công trung gian đáy chuỗi giá tr... | [03-rejected](03-rejected-low-value-chain.md) |
+| 1027 | `HMS` | Công ty Cổ phần Xây dựng bảo tàng Hồ Chí Minh | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 1028 | `HNB` | Công ty cổ phần Bến xe Hà Nội | UPCOM | Công nghiệp | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (9.5%, 0.1%, 7.7%, 8.5%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 1029 | `HND` | CTCP Nhiệt điện Hải Phòng | UPCOM | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 1030 | `HNF` | Công ty cổ phần Thực phẩm Hữu Nghị | UPCOM | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1031 | `HNG` | Công ty cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai | UPCOM | Nông nghiệp | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (0.2%, -18.7%, -48.7%, -78.4%)... | [04-rejected](04-rejected-low-roe.md) |
+| 1032 | `HNI` | Công ty Cổ phần May Hữu Nghị | UPCOM | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1033 | `HNM` | Công ty Cổ phần Sữa Hà Nội | UPCOM | Hàng tiêu dùng | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (7.5%, 6.2%) đều nằm dưới ngưỡ... | [04-rejected](04-rejected-low-roe.md) |
+| 1034 | `HNP` | Công ty Cổ phần Hanel Xốp nhựa | UPCOM | Nguyên vật liệu | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (9.3%, 4.7%, 2.4%, 4.8%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 1035 | `HNR` | Công ty cổ phần Rượu và Nước giải khát Hà Nội | UPCOM | Hàng tiêu dùng | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (-8.4%, -7.7%, -2.8%, -2.4%) đ... | [04-rejected](04-rejected-low-roe.md) |
+| 1036 | `HOT` | Công ty cổ phần Du lịch - Dịch vụ Hội An | UPCOM | Dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh... | [05-passed](05-passed-champions.md) |
+| 1037 | `HPB` | Công ty Cổ phần Bao bì PP | UPCOM | Nguyên vật liệu | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu ... | [05-passed](05-passed-champions.md) |
+| 1038 | `HPD` | Công ty Công ty Cổ phần Thủy điện Đăk Đoa | UPCOM | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 1039 | `HPH` | Công ty Cổ phần Hóa chất Hưng Phát Hà Bắc | UPCOM | Nguyên vật liệu | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (1.6%, -3.9%, 6.2%, -5.0%) đều... | [04-rejected](04-rejected-low-roe.md) |
+| 1040 | `HPI` | Công ty Cổ phần Khu công nghiệp Hiệp Phước | UPCOM | Dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh... | [05-passed](05-passed-champions.md) |
+| 1041 | `HPO` | Công ty cổ phần Công nghiệp Hapulico | UPCOM | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1042 | `HPP` | Công ty Cổ phần Sơn Hải Phòng | UPCOM | Nguyên vật liệu | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu ... | [05-passed](05-passed-champions.md) |
+| 1043 | `HPT` | Công ty Cổ phần Dịch vụ Công nghệ Tin học HPT | UPCOM | Công nghệ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghệ, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1044 | `HPW` | Công ty Cổ phần Cấp nước Hải Phòng | UPCOM | Dịch vụ | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (8.6%, 8.5%, 8.8%, 9.4%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 1045 | `HRB` | Công ty Cổ phần Harec Đầu tư và Thương mại | UPCOM | Dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh... | [05-passed](05-passed-champions.md) |
+| 1046 | `HSA` | Công ty Cổ phần HESTIA | UPCOM | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1047 | `HSM` | Tổng Công ty cổ phần Dệt may Hà Nội | UPCOM | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1048 | `HSP` | CTCP Sơn Tổng hợp Hà Nội | UPCOM | Nguyên vật liệu | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu ... | [05-passed](05-passed-champions.md) |
+| 1049 | `HSV` | Công ty cổ phần Tập đoàn HSV Việt Nam | UPCOM | Nguyên vật liệu | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (4.6%, 4.9%, 2.1%, 2.3%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 1050 | `HTE` | Công ty Cổ phần Đầu tư Kinh doanh Điện lực Thành phố Hồ Chí Minh | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (0.1%, -2.1%, 0.6%, -3.1%) đều... | [04-rejected](04-rejected-low-roe.md) |

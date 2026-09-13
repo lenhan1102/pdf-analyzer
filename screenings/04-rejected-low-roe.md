@@ -2074,3 +2074,273 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 - **Lý do loại trừ tại Bước 4:**
   - ROE trong suốt 5 năm gần nhất (2.1%, 7.8%, 5.2%, 6.0%) đều nằm dưới ngưỡng tối thiểu 10%.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 212. FCS - Công ty Cổ phần Lương thực Thành phố Hồ Chí Minh
+- **Mã cổ phiếu:** `FCS` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-45.4%, -32.2%, 1.6%, -2.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 213. FGL - Công ty cổ phần Cà phê Gia Lai
+- **Mã cổ phiếu:** `FGL` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-30.4%, 0.4%, -20.8%, -94.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 214. FHN - Công Ty Cổ phần Xuất Nhập Khẩu Lương Thực - Thực Phẩm Hà Nội
+- **Mã cổ phiếu:** `FHN` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (3.3%, 0.5%, 2.0%, 2.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 215. FRM - Công ty cổ phần Lâm nghiệp Sài Gòn
+- **Mã cổ phiếu:** `FRM` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.3%, 3.4%, 8.2%, 3.9%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 216. FSO - Công ty Cổ phần Cơ khí đóng tàu thủy sản Việt Nam
+- **Mã cổ phiếu:** `FSO` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-6.1%, 1.5%, -1.5%, 2.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 217. GCB - Công ty Cổ Phần Petec Bình Định
+- **Mã cổ phiếu:** `GCB` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.7%, 5.5%, 8.7%, -1.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 218. GDA - Công ty Cổ phần Tôn Đông Á
+- **Mã cổ phiếu:** `GDA` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (7.8%, 9.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 219. GER - Công ty Cổ phần Thể thao Ngôi sao Geru
+- **Mã cổ phiếu:** `GER` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.7%, 3.4%, 5.2%, -17.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 220. GLW - Công ty Cổ phần Cấp thoát nước Gia Lai
+- **Mã cổ phiếu:** `GLW` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.8%, 2.3%, 2.3%, 6.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 221. GMC - Công ty Cổ phần Garmex Sài Gòn
+- **Mã cổ phiếu:** `GMC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (7.0%, 6.2%, -13.2%, -8.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 222. GPC - CTCP Tập đoàn Green+
+- **Mã cổ phiếu:** `GPC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-0.3%, 0.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 223. GTD - Công ty Cổ phần Giầy Thượng Đình
+- **Mã cổ phiếu:** `GTD` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-30.6%, -1.8%, -12.8%, -49.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 224. HAF - Công ty Cổ phần Thực phẩm Hà Nội
+- **Mã cổ phiếu:** `HAF` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-5.3%, -4.0%, -13.9%, -9.9%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 225. HAV - Công ty Cổ phần rượu Hapro
+- **Mã cổ phiếu:** `HAV` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-6.3%, -4.0%, -73.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 226. HBH - Công ty Cổ phần Habeco - Hải Phòng
+- **Mã cổ phiếu:** `HBH` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (8.5%, 9.3%, 0.6%, 0.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 227. HEP - Công ty Cổ phần Môi trường và Công trình Đô thị Huế
+- **Mã cổ phiếu:** `HEP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.7%, 1.8%, 2.2%, 5.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 228. HFX - Công ty cổ phần Sản xuất - Xuất nhập khẩu Thanh Hà
+- **Mã cổ phiếu:** `HFX` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (2.4%, 2.2%, 6.5%, 4.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 229. HHG - Công ty Cổ phần Hoàng Hà
+- **Mã cổ phiếu:** `HHG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-22.9%, -31.1%, -36.2%, -38.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 230. HIO - Công ty cổ phần Helio Energy
+- **Mã cổ phiếu:** `HIO` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.3%, 8.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 231. HKB - Công ty Cổ phần Nông nghiệp và Thực phẩm Hà Nội - Kinh Bắc
+- **Mã cổ phiếu:** `HKB` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-20.0%, -22.1%, -39.6%, -67.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 232. HLO - Công ty Cổ phần Công nghệ Ha Lô
+- **Mã cổ phiếu:** `HLO` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 233. HNB - Công ty cổ phần Bến xe Hà Nội
+- **Mã cổ phiếu:** `HNB` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (9.5%, 0.1%, 7.7%, 8.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 234. HNG - Công ty cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+- **Mã cổ phiếu:** `HNG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.2%, -18.7%, -48.7%, -78.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 235. HNM - Công ty Cổ phần Sữa Hà Nội
+- **Mã cổ phiếu:** `HNM` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (7.5%, 6.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 236. HNP - Công ty Cổ phần Hanel Xốp nhựa
+- **Mã cổ phiếu:** `HNP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (9.3%, 4.7%, 2.4%, 4.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 237. HNR - Công ty cổ phần Rượu và Nước giải khát Hà Nội
+- **Mã cổ phiếu:** `HNR` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-8.4%, -7.7%, -2.8%, -2.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 238. HPH - Công ty Cổ phần Hóa chất Hưng Phát Hà Bắc
+- **Mã cổ phiếu:** `HPH` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.6%, -3.9%, 6.2%, -5.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 239. HPW - Công ty Cổ phần Cấp nước Hải Phòng
+- **Mã cổ phiếu:** `HPW` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (8.6%, 8.5%, 8.8%, 9.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 240. HSV - Công ty cổ phần Tập đoàn HSV Việt Nam
+- **Mã cổ phiếu:** `HSV` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.6%, 4.9%, 2.1%, 2.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 241. HTE - Công ty Cổ phần Đầu tư Kinh doanh Điện lực Thành phố Hồ Chí Minh
+- **Mã cổ phiếu:** `HTE` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.1%, -2.1%, 0.6%, -3.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026

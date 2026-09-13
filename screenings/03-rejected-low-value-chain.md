@@ -148,3 +148,12 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ ba: 
   - *Định giá & Số liệu:* Thị giá ~6.98k VNĐ, BVPS ~10.29k VNĐ → **P/B = 0.68 lần** (Lớn hơn 0.5 nên không thỏa mãn điều kiện ngoại lệ tài sản Net-Net).
 - **Ngày sàng lọc:** 2026-09-13
 
+
+---
+
+### 15. HMG - CTCP Kim khí Hà Nội - VNSTEEL
+- **Mã cổ phiếu:** `HMG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 3:**
+  - Doanh nghiệp thương mại gia công trung gian đáy chuỗi giá trị biên mỏng, P/B (0.55) >= 0.5.
+- **Ngày Phân Tích:** 13/09/2026
