@@ -12,7 +12,7 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (90 Mã Đầu Tiên)
     "Rớt Bước 2 (Lỗ 3 năm)" : 1
     "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 14
     "Rớt Bước 4 (ROE 5 năm < 10%)" : 18
-    "🏆 Đạt Chuẩn File 5" : 139
+    "🏆 Đạt Chuẩn File 5" : 179
 ```
 
 - **Tổng số mã đã kiểm tra:** **90** doanh nghiệp
@@ -150,3 +150,4 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (90 Mã Đầu Tiên)
 | Đợt 15 | 141 - 150 | HAP, HAR, HAS, HAX, HCD, HCM, HDB, HDC, HDG, HHP | 4 (HAR, HAS, HDC, HDG) | 0 | 0 | 2 (HAP, HHP) | 4 (HAX, HCD, HCM, HDB) | 13/09/2026 |
 | Đợt 16 | 151 - 200 | HHS, HHV, HID, HII, HMC... | 22 | 0 | 0 | 6 | 22 | 13/09/2026 |
 | Đợt 17 | 201 - 275 | LM8, LPB, LPS, LSS, MBB... | 16 | 0 | 0 | 10 | 49 | 13/09/2026 |
+| Đợt 18 | 276 - 350 | SBA, SBG, SBT, SBV, SC5... | 16 | 0 | 0 | 19 | 40 | 13/09/2026 |

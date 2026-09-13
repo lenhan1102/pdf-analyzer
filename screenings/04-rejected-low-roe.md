@@ -598,3 +598,174 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 - **Lý do loại trừ tại Bước 4:**
   - ROE trong suốt 5 năm gần nhất (3.4%, -9.9%, 9.2%, 5.5%) đều nằm dưới ngưỡng tối thiểu 10%.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 48. SBG - Công ty Cổ phần Tập đoàn Cơ khí Công nghệ cao SIBA
+- **Mã cổ phiếu:** `SBG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (7.5%, 7.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 49. SBT - Công ty cổ phần Thành Thành Công - Biên Hòa
+- **Mã cổ phiếu:** `SBT` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (7.8%, 6.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 50. SFG - Công ty Cổ phần Phân bón Miền Nam
+- **Mã cổ phiếu:** `SFG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.5%, 6.3%, 8.7%, 4.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 51. SGT - Công ty Cổ phần Công nghệ Viễn thông Sài Gòn
+- **Mã cổ phiếu:** `SGT` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Công nghệ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.4%, 6.5%, 2.0%, 6.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 52. SHA - Công ty Cổ phần Sơn Hà Sài Gòn
+- **Mã cổ phiếu:** `SHA` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.6%, 4.5%, 3.0%, 3.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 53. SHI - Công ty cổ phần Quốc tế Sơn Hà
+- **Mã cổ phiếu:** `SHI` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (3.3%, 6.5%, 0.8%, 3.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 54. SKG - Công ty Cổ phần Tàu cao tốc Superdong – Kiên Giang
+- **Mã cổ phiếu:** `SKG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (2.6%, -4.8%, 7.9%, 3.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 55. SPM - Công ty Cổ phần S.P.M
+- **Mã cổ phiếu:** `SPM` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Y tế
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.1%, 2.6%, 1.5%, 0.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 56. SRF - Công ty Cổ phần SEAREFICO
+- **Mã cổ phiếu:** `SRF` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (7.4%, 5.1%, 0.7%, 0.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 57. ST8 - Công ty Cổ phần Tập đoàn ST8
+- **Mã cổ phiếu:** `ST8` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.7%, 4.7%, 1.4%, 7.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 58. SVC - Công ty Cổ phần Dịch vụ tổng hợp Sài Gòn
+- **Mã cổ phiếu:** `SVC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (8.8%, 7.8%, 1.2%, 4.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 59. SVD - Công ty Cổ phần Đầu tư và Thương mại Vũ Đăng
+- **Mã cổ phiếu:** `SVD` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (3.3%, 7.5%, -14.8%, 5.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 60. TCI - Công ty cổ phần Chứng khoán Thành Công
+- **Mã cổ phiếu:** `TCI` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.4%, 4.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 61. TCT - Công ty Cổ phần Cáp treo Núi Bà Tây Ninh
+- **Mã cổ phiếu:** `TCT` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.1%, 0.6%, 5.5%, 3.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 62. TDG - Công ty Cổ phần Đầu tư TDG Global
+- **Mã cổ phiếu:** `TDG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.3%, 1.3%, 2.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 63. TEG - Công ty Cổ phần Trường Thành Energy Group
+- **Mã cổ phiếu:** `TEG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.7%, 5.0%, 7.0%, 0.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 64. TMT - Công ty Cổ phần Ô tô TMT
+- **Mã cổ phiếu:** `TMT` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.4%, 9.0%, 0.7%, -289.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 65. TNT - Công ty Cổ phần Tập đoàn TNT
+- **Mã cổ phiếu:** `TNT` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-1.0%, 2.3%, 0.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 66. TPC - Công ty Cổ phần Nhựa Tân Đại Hưng
+- **Mã cổ phiếu:** `TPC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.4%, 4.5%, -17.0%, 4.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
