@@ -40,4 +40,8 @@
 | 30 | `FIR` | CTCP Địa ốc First Real | HOSE | Bất động sản đất nền | Đất nền miền Trung đóng băng thanh khoản, nợ vay đọng, ROE năm 2024 chỉ 0.08% | 13/09/2026 |
 | 31 | `FIT` | CTCP Tập đoàn F.I.T | HOSE | Đầu tư tài chính & BĐS nghỉ dưỡng | Holding đầu tư tài chính dàn trải, BĐS nghỉ dưỡng đọng vốn, ROE 7 năm < 3.5% | 13/09/2026 |
 | 32 | `GMH` | CTCP Minh Hưng Quảng Trị | HOSE | VLXD xi măng ngói màu | Sản xuất xi măng ngói đại trà địa phương, biên ròng mỏng, ROE < 7.3% | 13/09/2026 |
+| 33 | `HAR` | CTCP BĐS An Dương Thảo Điền | HOSE | BĐS dân dụng & Cho thuê | BĐS đầu cơ, dòng tiền teo tóp, hiệu quả vốn bết bát, ROE 5 năm < 3.5% | 13/09/2026 |
+| 34 | `HAS` | CTCP HACISCO | HOSE | Xây lắp công trình viễn thông | Nhà thầu xây lắp viễn thông biên mỏng, nợ đọng, năm 2024 thua lỗ nặng (-8.4%) | 13/09/2026 |
+| 35 | `HDC` | CTCP Phát triển nhà Bà Rịa-Vũng Tàu | HOSE | Bất động sản dân dụng | Dự án KĐT Vũng Tàu phụ thuộc sốt đất nền, thanh khoản đóng băng, ROE rơi về 2.9% | 13/09/2026 |
+| 36 | `HDG` | CTCP Tập đoàn Hà Đô | HOSE | Bất động sản dân dụng & Điện | BĐS dân dụng vướng pháp lý dự án mới, điện mặt trời thanh tra FIT, ROE rơi về 4.7% | 13/09/2026 |
 

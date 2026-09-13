@@ -159,4 +159,14 @@
 | 138 | `GVR` | Tập đoàn Công nghiệp Cao su VN | HOSE | Nông nghiệp / Cao su & KCN | ❌ Rớt B4 | Vốn CSH lớn ~55,000 tỷ, nông nghiệp biên thấp, chuyển đổi KCN chậm, ROE < 8.1% | [04-rejected](04-rejected-low-roe.md) |
 | 139 | `HAG` | CTCP Hoàng Anh Gia Lai | HOSE | Tài chính / Nông nghiệp chuối | 🏆 Vượt B4 | Bầu Đức: Chuối & Heo, ROE >10%; CẢNH BÁO: Lợi nhuận chủ yếu từ xóa nợ ngân hàng | [05-passed](05-passed-champions.md) |
 | 140 | `HAH` | CTCP Vận tải và Xếp dỡ Hải An | HOSE | Công nghiệp / Vận tải biển | 🏆 Vượt B4 | Đội tàu container lớn nhất VN (>30% thị phần), chuỗi cảng-tàu khép kín, ROE 10.4-28.5% | [05-passed](05-passed-champions.md) |
+| 141 | `HAP` | CTCP Tập đoàn Hapaco | HOSE | Nguyên vật liệu / Giấy | ❌ Rớt B4 | Giấy vàng mã biên thấp, đầu tư dàn trải, ROE 5 năm liên tục < 7.1% | [04-rejected](04-rejected-low-roe.md) |
+| 142 | `HAR` | CTCP BĐS An Dương Thảo Điền | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | BĐS đầu cơ, dòng tiền teo tóp, hiệu quả vốn bết bát, ROE 5 năm < 3.5% | [01-rejected](01-rejected-circle-of-competence.md) |
+| 143 | `HAS` | CTCP HACISCO | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Nhà thầu xây lắp viễn thông biên mỏng, nợ đọng, năm 2024 thua lỗ nặng | [01-rejected](01-rejected-circle-of-competence.md) |
+| 144 | `HAX` | CTCP Dịch vụ Ô tô Hàng Xanh | HOSE | Dịch vụ / Phân phối ô tô | 🏆 Vượt B4 | Đại lý Mercedes-Benz số 1 VN (~40% thị phần), ROE chu kỳ đạt 22-26%, cổ tức đều | [05-passed](05-passed-champions.md) |
+| 145 | `HCD` | CTCP Đầu tư SX & TM HCD | HOSE | Nguyên vật liệu / Hạt nhựa | 🏆 Vượt B4 | P/B = 0.48 < 0.5 (Net-Net), ROE 3 năm đạt 11-12.5%, phân phối hạt nhựa | [05-passed](05-passed-champions.md) |
+| 146 | `HCM` | CTCP Chứng khoán TP.HCM (HSC) | HOSE | Tài chính / Chứng khoán | 🏆 Vượt B4 | Top 3 CTCK lớn nhất VN, số 1 mảng tổ chức ngoại (Dragon Capital), ROE 12.5-24.5% | [05-passed](05-passed-champions.md) |
+| 147 | `HDB` | Ngân hàng TMCP Phát triển TP.HCM | HOSE | Tài chính / Ngân hàng | 🏆 Vượt B4 | Top 3 ngân hàng sinh lời cao nhất VN, hệ sinh thái HD SAISON, ROE >20% suốt 5 năm | [05-passed](05-passed-champions.md) |
+| 148 | `HDC` | CTCP Phát triển nhà Bà Rịa-Vũng Tàu | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | BĐS dân dụng Vũng Tàu phụ thuộc sốt đất nền, thanh khoản đóng băng, ROE rơi về 2.9% | [01-rejected](01-rejected-circle-of-competence.md) |
+| 149 | `HDG` | CTCP Tập đoàn Hà Đô | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | BĐS dân dụng vướng pháp lý dự án mới, điện mặt trời thanh tra FIT, ROE rơi về 4.7% | [01-rejected](01-rejected-circle-of-competence.md) |
+| 150 | `HHP` | CTCP Giấy Hoàng Hà Hải Phòng | HOSE | Nguyên vật liệu / Giấy | ❌ Rớt B4 | Giấy bao bì Kraft đại trà cạnh tranh gay gắt, biên mỏng, ROE 5 năm < 9.4% | [04-rejected](04-rejected-low-roe.md) |
 

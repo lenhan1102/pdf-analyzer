@@ -418,3 +418,39 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
   - Hoàn thành Bước 1, Bước 2 và Bước 3 (sở hữu mỏ vàng quỹ đất KCN khổng lồ).
   - Tuy nhiên tại Bước 4, GVR có **ROE hợp nhất suốt 5 năm liên tiếp (và cả 7 năm liền) chưa từng có năm nào vượt quá 8.1%, liên tục dưới chuẩn 10%**. Quy mô vốn chủ sở hữu quá lớn (~55,000 tỷ VNĐ) khiến mảng nông nghiệp cao su truyền thống không thể tạo ra tỷ suất sinh lời cao, trong khi tiến độ phê duyệt chuyển đổi đất sang KCN diễn ra chậm chạp theo thủ tục hành chính nhà nước.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 30. HAP - Công ty Cổ phần Tập đoàn Hapaco
+- **Mã cổ phiếu:** `HAP` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Nguyên vật liệu / Giấy & Bao bì
+- **Hoạt động kinh doanh chính:** Sản xuất giấy xuất khẩu (giấy đế, vàng mã sang Đài Loan), dịch vụ bệnh viện quốc tế Green Hải Phòng và đầu tư tài chính.
+- **Thống kê ROE qua các năm:**
+  - Năm 2020: ROE = **5.63%**
+  - Năm 2021: ROE = **5.53%**
+  - Năm 2022: ROE = **~4.50%**
+  - Năm 2023: ROE = **1.47%**
+  - Năm 2024: ROE = **7.02%**
+  - *Giai đoạn trước đó (2018 - 2019): ROE chỉ đạt 4.65% và 2.86%*
+- **Lý do loại trừ tại Bước 4:**
+  - Vượt qua 3 bước đầu tiên.
+  - Tuy nhiên tại Bước 4, HAP có **hiệu quả sử dụng vốn ROE liên tục nằm dưới 7.1% trong suốt 5 năm gần nhất (và cả 7 năm liền)**. Mảng sản xuất giấy vàng mã gia công có giá trị gia tăng thấp, trong khi các dự án đầu tư mở rộng bệnh viện và đầu tư tài chính chưa mang lại tỷ suất sinh lời vượt trội trên vốn chủ sở hữu.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 31. HHP - Công ty Cổ phần Giấy Hoàng Hà Hải Phòng
+- **Mã cổ phiếu:** `HHP` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Nguyên vật liệu / Giấy bao bì carton
+- **Hoạt động kinh doanh chính:** Sản xuất giấy bao bì công nghiệp (Kraft, sóng carton) và phát triển cụm công nghiệp tại Hải Phòng.
+- **Thống kê ROE qua các năm:**
+  - Năm 2020: ROE = **9.33%**
+  - Năm 2021: ROE = **8.80%**
+  - Năm 2022: ROE = **~6.50%**
+  - Năm 2023: ROE = **2.74%**
+  - Năm 2024: ROE = **~3.50%**
+  - *Giai đoạn trước đó (2018 - 2019): ROE chỉ đạt 7.79% và 6.89%*
+- **Lý do loại trừ tại Bước 4:**
+  - Hoàn thành Bước 1, Bước 2 và Bước 3.
+  - Tại Bước 4, HHP có **ROE suốt 5 năm liên tiếp (và cả 7 năm liền) chưa từng có năm nào vượt quá 9.4%, liên tục dưới chuẩn 10%**. Ngành giấy bao bì carton đại trà cạnh tranh gay gắt, chi phí nguyên liệu bột giấy và giấy phế liệu tái chế biến động làm xói mòn biên lợi nhuận ròng.
+- **Ngày Phân Tích:** 13/09/2026

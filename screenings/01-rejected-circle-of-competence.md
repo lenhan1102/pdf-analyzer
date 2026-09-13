@@ -333,3 +333,47 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
   - Doanh nghiệp sản xuất **vật liệu xây dựng (xi măng, ngói) đại trà quy mô địa phương**, nằm ngoài Vòng tròn năng lực theo quy chuẩn hệ thống.
   - Công nghệ lò nung quy mô nhỏ, biên lợi nhuận ròng mỏng (<3%), không có lợi thế chi phí thấp so với các tập đoàn xi măng lớn, ROE các năm gần nhất chỉ đạt 3.3% - 7.3%.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 33. HAR - Công ty Cổ phần Đầu tư Thương mại Bất động sản An Dương Thảo Điền
+- **Mã cổ phiếu:** `HAR` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Hoạt động kinh doanh chính:** Đầu tư phát triển bất động sản dân dụng nhà ở, căn hộ dịch vụ và cho thuê mặt bằng tại Thảo Điền (TP. Thủ Đức).
+- **Lý do loại trừ tại Bước 1:**
+  - Hoạt động kinh doanh cốt lõi là **đầu tư bất động sản dân dụng đầu cơ**, nằm ngoài Vòng tròn năng lực theo quy chuẩn hệ thống.
+  - Dự án chậm triển khai, dòng tiền kinh doanh teo tóp, hiệu quả sử dụng vốn cực kỳ bết bát (ROE suốt 5 năm liền dưới 3.5%, năm 2024 chỉ đạt 0.92%).
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 34. HAS - Công ty Cổ phần HACISCO
+- **Mã cổ phiếu:** `HAS` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Xây lắp công trình
+- **Hoạt động kinh doanh chính:** Thi công xây lắp công trình bưu chính viễn thông, hạ tầng mạng cáp và xây dựng dân dụng công nghiệp.
+- **Lý do loại trừ tại Bước 1:**
+  - Doanh nghiệp **nhà thầu thi công xây lắp**, nằm ngoài Vòng tròn năng lực theo quy chuẩn loại trừ ngành xây dựng xây lắp.
+  - Ngành xây lắp viễn thông cạnh tranh giá gay gắt, biên lợi nhuận ròng mỏng manh, công nợ khó thu hồi, hiệu quả vốn teo tóp (ROE các năm trước chỉ 0.2% - 3.8%) và năm 2024 thua lỗ nặng (-8.41%).
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 35. HDC - Công ty Cổ phần Phát triển nhà Bà Rịa-Vũng Tàu (HODECO)
+- **Mã cổ phiếu:** `HDC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Hoạt động kinh doanh chính:** Đầu tư phát triển các dự án bất động sản nhà ở dân dụng, khu đô thị, biệt thự nghỉ dưỡng tại Vũng Tàu (The Light City, Ngọc Tước 2, Ecotown Phú Mỹ).
+- **Lý do loại trừ tại Bước 1:**
+  - Hoạt động cốt lõi là **đầu tư phát triển bất động sản dân dụng và phân lô đất nền**, nằm ngoài Vòng tròn năng lực.
+  - Phụ thuộc hoàn toàn vào chu kỳ thanh khoản đất nền địa phương; khi thị trường bất động sản đóng băng, doanh số bán hàng tắc nghẽn, áp lực chi phí lãi vay lớn khiến ROE sụt giảm nghiêm trọng từ mức trên 20% (năm 2020-2021) xuống chỉ còn 2.91% vào năm 2024.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 36. HDG - Công ty Cổ phần Tập đoàn Hà Đô
+- **Mã cổ phiếu:** `HDG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Hoạt động kinh doanh chính:** Đầu tư phát triển các dự án bất động sản nhà ở dân dụng (Hà Đô Centrosa Garden, Hado Charm Villas) kết hợp vận hành các nhà máy năng lượng tái tạo (thủy điện, điện mặt trời, điện gió).
+- **Lý do loại trừ tại Bước 1:**
+  - Hoạt động kinh doanh mang tính quyết định của Hà Đô qua các chu kỳ là **đầu tư phát triển bất động sản dân dụng**, nằm ngoài Vòng tròn năng lực theo quy chuẩn hệ thống.
+  - Sau khi hoàn thành bàn giao dự án lớn Centrosa Garden, mảng bất động sản đối mặt với nút thắt pháp lý phê duyệt quy hoạch tại các dự án mới, trong khi mảng điện mặt trời vướng thanh tra cơ chế giá FIT; lợi nhuận suy giảm sâu, ROE năm 2023 chỉ đạt 9.2% và năm 2024 rơi xuống 4.72%.
+- **Ngày Phân Tích:** 13/09/2026

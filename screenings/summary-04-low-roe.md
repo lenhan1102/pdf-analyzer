@@ -37,4 +37,6 @@
 | 27 | `GEL` | CTCP Hạ tầng GELEX | HOSE | Hạ tầng KCN & Nước sạch | - | - | - | - | 2.53% | Holding hạ tầng KCN Viglacera đòn bẩy nợ cao (~60%), ROE chỉ đạt 2.53% | 13/09/2026 |
 | 28 | `GEX` | CTCP Tập đoàn GELEX | HOSE | Đa ngành / Holding | 9.76% | 5.07% | ~4.5% | 1.56% | 7.01% | Chi phí vốn M&A cao, lợi nhuận bị pha loãng bởi cổ đông thiểu số, ROE < 9.8% | 13/09/2026 |
 | 29 | `GVR` | Tập đoàn CN Cao su Việt Nam | HOSE | Cao su & BĐS KCN | 7.33% | 8.01% | ~7.5% | 4.77% | 6.83% | Vốn CSH khổng lồ ~55,000 tỷ, nông nghiệp biên thấp, chuyển đổi KCN chậm, ROE < 8.1% | 13/09/2026 |
+| 30 | `HAP` | CTCP Tập đoàn Hapaco | HOSE | Giấy vàng mã & Dịch vụ y tế | 5.63% | 5.53% | ~4.5% | 1.47% | 7.02% | Giấy vàng mã biên thấp, đầu tư dàn trải, ROE 5 năm liên tục < 7.1% | 13/09/2026 |
+| 31 | `HHP` | CTCP Giấy Hoàng Hà Hải Phòng | HOSE | Giấy bao bì carton | 9.33% | 8.80% | ~6.5% | 2.74% | ~3.5% | Giấy bao bì Kraft đại trà cạnh tranh gay gắt, biên mỏng, ROE 5 năm < 9.4% | 13/09/2026 |
 

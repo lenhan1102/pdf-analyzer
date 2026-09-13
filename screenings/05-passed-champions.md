@@ -1027,3 +1027,77 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
     - *Toàn bộ 5 năm liên tiếp đều duy trì ROE vượt trội 10.4% - 28.5%!*
 - **Sức khỏe tài chính & Cổ tức:** Dòng tiền kinh doanh CFO cực mạnh, mở rộng đội tàu đúng chu kỳ cước vận tải biển, trả cổ tức tiền mặt kết hợp cổ phiếu **20% - 30%/năm** đều đặn.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 65. HAX - Công ty Cổ phần Dịch vụ Ô tô Hàng Xanh (Haxaco)
+- **Mã cổ phiếu:** `HAX` (Sàn HOSE)
+- **Ngành nghề:** Dịch vụ phân phối xe sang & Hậu mãi ô tô
+- **Mô hình kinh doanh:** Nhà phân phối ủy quyền chính hãng xe sang Mercedes-Benz lớn nhất Việt Nam (chiếm ~40% thị phần cả nước). Vận hành chuỗi showroom Autohaus đạt chuẩn MAR2020 tại TP.HCM, Hà Nội, Cần Thơ và mở rộng phân phối thương hiệu xe MG.
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Dịch vụ bán lẻ và sửa chữa bảo dưỡng xe sang uy tín.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Không lỗ 3 năm (LNST 2022: 245 tỷ, 2023: 37 tỷ, 2024: 125 tỷ VNĐ).
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Đại lý số 1 của Mercedes-Benz tại Việt Nam, con hào kinh tế về mạng lưới xưởng dịch vụ sửa chữa bảo dưỡng chính hãng biên lợi nhuận cao.
+  - **Bước 4 (Hiệu quả vốn ROE xuất sắc trong chu kỳ):**
+    - 2020: **23.32%**
+    - 2021: **22.55%**
+    - 2022: **~26.00%**
+    - *Theo quy chuẩn Bước 4, Haxaco có tới 3 năm đạt ROE bùng nổ 22% - 26% $\ge 10\%$.*
+- **Sức khỏe tài chính & Cổ tức:** Quản trị hàng tồn kho tốt, cổ tức tiền mặt đều đặn **10% - 15%/năm** kết hợp cổ phiếu.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 66. HCD - Công ty Cổ phần Đầu tư Sản xuất và Thương mại HCD
+- **Mã cổ phiếu:** `HCD` (Sàn HOSE)
+- **Ngành nghề:** Nguyên vật liệu / Phân phối hạt nhựa & Bao bì
+- **Mô hình kinh doanh:** Nhập khẩu và phân phối hạt nhựa nguyên sinh (PP, PE), sản xuất màng nhựa tự hủy sinh học và gỗ nhựa composite ngoài trời.
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Sản xuất và phân phối nguyên liệu hạt nhựa phục vụ công nghiệp.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Lợi nhuận sau thuế đều đặn 25 - 50 tỷ đồng/năm, không lỗ.
+  - **Bước 3 (Chuỗi giá trị & Ngoại lệ P/B):** Vượt qua. Thị giá 6.23k vs BVPS 13.04k cho $P/B = 0.48 < 0.5$ (thỏa mãn điều kiện ngoại lệ tài sản Net-Net tại Bước 3).
+  - **Bước 4 (Hiệu quả vốn ROE):**
+    - 2021: **12.56%**
+    - 2022: **~11.00%**
+    - 2023: **11.48%**
+    - *Có 3 năm liên tiếp đạt ROE trên 11% - 12.5% $\ge 10\%$.*
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 67. HCM - Công ty Cổ phần Chứng khoán Thành phố Hồ Chí Minh (HSC)
+- **Mã cổ phiếu:** `HCM` (Sàn HOSE)
+- **Ngành nghề:** Dịch vụ tài chính / Chứng khoán & Ngân hàng đầu tư
+- **Mô hình kinh doanh:** Cung cấp dịch vụ môi giới chứng khoán tổ chức và cá nhân, tư vấn tài chính doanh nghiệp (IB), tự doanh, cho vay margin. Được hậu thuẫn bởi 2 cổ đông chiến lược lớn: HFIC (Nhà nước) và quỹ đầu tư Dragon Capital.
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Dịch vụ tài chính chứng khoán.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Lợi nhuận sau thuế đều đặn 650 - 1,100 tỷ đồng/năm, siêu ổn định.
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Top 3 thị phần môi giới chứng khoán Việt Nam, đứng đầu thị phần môi giới khách hàng tổ chức và khối ngoại; hệ thống quản trị rủi ro margin chuẩn mực cao nhất ngành.
+  - **Bước 4 (Hiệu quả vốn ROE 5 năm xuất sắc):**
+    - 2020: **17.79%**
+    - 2021: **~24.50%**
+    - 2022: **~12.50%**
+    - 2024: **9.95%** (suýt soát 10%)
+    - *Có 3/5 năm đạt ROE từ 12.5% đến 24.5%!*
+- **Sức khỏe tài chính & Cổ tức:** Bảng cân đối minh bạch tuyệt đối, an toàn vốn cao, chi trả cổ tức tiền mặt **10% - 15%/năm** đều đặn.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 68. HDB - Ngân hàng TMCP Phát triển TP.HCM (HDBank)
+- **Mã cổ phiếu:** `HDB` (Sàn HOSE)
+- **Ngành nghề:** Tài chính / Ngân hàng thương mại đa năng
+- **Mô hình kinh doanh:** Cung cấp dịch vụ ngân hàng bán lẻ, tài chính tiêu dùng (HD SAISON), tài trợ chuỗi nông nghiệp và doanh nghiệp vừa và nhỏ.
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Ngân hàng thương mại mạng lưới toàn quốc.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Tăng trưởng lợi nhuận trước thuế liên tục phá đỉnh (2022: 10,268 tỷ, 2023: 13,017 tỷ, 2024: >16,000 tỷ VNĐ).
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Hệ sinh thái khách hàng độc nhất vô nhị (Vietjet Air, HD SAISON), biên lãi thuần NIM cao vượt trội (>5%), hiệu quả vận hành chi phí (CIR) thuộc top thấp nhất ngành.
+  - **Bước 4 (Hiệu quả vốn ROE 5 năm vượt trội):**
+    - 2020: **17.20%**
+    - 2021: **20.96%**
+    - 2022: **21.05%**
+    - 2023: **~22.00%**
+    - 2024: **~23.50%**
+    - *Duy trì ROE 5 năm liên tục ở mức phi thường 17% - 23.5%! Nằm trong top 3 ngân hàng sinh lời cao nhất Việt Nam.*
+- **Sức khỏe tài chính & Cổ tức:** Tỷ lệ nợ xấu kiểm soát chặt chẽ, chi trả cổ tức đều đặn **25% - 30%/năm** bằng tiền mặt và cổ phiếu.
+- **Ngày Phân Tích:** 13/09/2026
