@@ -1,0 +1,223 @@
+{
+  "project": "Vietnamese Stock Market Multi-Stage Screening Funnel",
+  "total_universe": 1642,
+  "screened_count": 80,
+  "remaining_count": 1562,
+  "progress_percentage": 4.87,
+  "current_batch": {
+    "batch_number": 8,
+    "range": "71-80",
+    "tickers": [
+      "CTG",
+      "CTI",
+      "CTR",
+      "CTS",
+      "CVT",
+      "D2D",
+      "DAH",
+      "DAT",
+      "DBC",
+      "DBD"
+    ],
+    "status": "completed",
+    "results": {
+      "step_1_rejected": [
+        "CVT"
+      ],
+      "step_2_rejected": [],
+      "step_3_rejected": [
+        "DAT"
+      ],
+      "step_4_rejected": [
+        "CTI",
+        "DAH"
+      ],
+      "passed_file_5": [
+        "CTG",
+        "CTR",
+        "CTS",
+        "D2D",
+        "DBC",
+        "DBD"
+      ]
+    }
+  },
+  "summary_metrics": {
+    "step_1_rejected_circle_of_competence": 15,
+    "step_2_rejected_consecutive_loss": 1,
+    "step_3_rejected_low_value_chain": 13,
+    "step_4_rejected_low_roe": 16,
+    "step_5_passed_champions": 35
+  },
+  "batches_history": [
+    {
+      "batch": 1,
+      "range": "1-10",
+      "tickers": [
+        "AAA",
+        "AAM",
+        "AAN",
+        "AAT",
+        "ABR",
+        "ABS",
+        "ABT",
+        "ACB",
+        "ACC",
+        "ACG"
+      ],
+      "step_1": 1,
+      "step_2": 1,
+      "step_3": 2,
+      "step_4": 3,
+      "passed": 3
+    },
+    {
+      "batch": 2,
+      "range": "11-20",
+      "tickers": [
+        "ACL",
+        "ADG",
+        "ADP",
+        "ADS",
+        "AFX",
+        "AGG",
+        "AGR",
+        "ANT",
+        "ANV",
+        "APG"
+      ],
+      "step_1": 1,
+      "step_2": 0,
+      "step_3": 4,
+      "step_4": 1,
+      "passed": 4
+    },
+    {
+      "batch": 3,
+      "range": "21-30",
+      "tickers": [
+        "APH",
+        "ASG",
+        "ASM",
+        "ASP",
+        "AST",
+        "BAF",
+        "BBC",
+        "BCE",
+        "BCM",
+        "BFC"
+      ],
+      "step_1": 2,
+      "step_2": 0,
+      "step_3": 3,
+      "step_4": 2,
+      "passed": 3
+    },
+    {
+      "batch": 4,
+      "range": "31-40",
+      "tickers": [
+        "BHN",
+        "BIC",
+        "BID",
+        "BKG",
+        "BMC",
+        "BMI",
+        "BMP",
+        "BRC",
+        "BSI",
+        "BSR"
+      ],
+      "step_1": 0,
+      "step_2": 0,
+      "step_3": 0,
+      "step_4": 2,
+      "passed": 8
+    },
+    {
+      "batch": 5,
+      "range": "41-50",
+      "tickers": [
+        "BTP",
+        "BTT",
+        "BVB",
+        "BVH",
+        "BWE",
+        "C32",
+        "C47",
+        "CCC",
+        "CCI",
+        "CCL"
+      ],
+      "step_1": 3,
+      "step_2": 0,
+      "step_3": 0,
+      "step_4": 3,
+      "passed": 4
+    },
+    {
+      "batch": 6,
+      "range": "51-60",
+      "tickers": [
+        "CDC",
+        "CHP",
+        "CIG",
+        "CII",
+        "CKG",
+        "CLC",
+        "CLL",
+        "CLW",
+        "CMG",
+        "CMV"
+      ],
+      "step_1": 4,
+      "step_2": 0,
+      "step_3": 1,
+      "step_4": 0,
+      "passed": 5
+    },
+    {
+      "batch": 7,
+      "range": "61-70",
+      "tickers": [
+        "CMX",
+        "CNG",
+        "COM",
+        "CRC",
+        "CRE",
+        "CRV",
+        "CSM",
+        "CSV",
+        "CTD",
+        "CTF"
+      ],
+      "step_1": 3,
+      "step_2": 0,
+      "step_3": 2,
+      "step_4": 3,
+      "passed": 2
+    },
+    {
+      "batch": 8,
+      "range": "71-80",
+      "tickers": [
+        "CTG",
+        "CTI",
+        "CTR",
+        "CTS",
+        "CVT",
+        "D2D",
+        "DAH",
+        "DAT",
+        "DBC",
+        "DBD"
+      ],
+      "step_1": 1,
+      "step_2": 0,
+      "step_3": 1,
+      "step_4": 2,
+      "passed": 6
+    }
+  ],
+  "last_updated": "2026-09-13T11:15:00+07:00"
+}

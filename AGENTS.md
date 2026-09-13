@@ -1,10 +1,11 @@
 # AGENTS.md - Quy Chuẩn & Quy Tắc Vận Hành Hệ Thống Phân Tích Doanh Nghiệp & Bộ Tiêu Chuẩn Đầu Tư
 
 Tài liệu này là quy chuẩn chỉ đạo tối cao dành cho **AI Agent** trong repository. 
-Hệ thống vận hành **2 Nhiệm Vụ Cốt Lõi** tương hỗ lẫn nhau:
+Hệ thống vận hành **3 Nhiệm Vụ Cốt Lõi** tương hỗ lẫn nhau:
 
 1. **Nhiệm Vụ 1 (10k-analyzer):** Tiếp nhận Báo Cáo Thường Niên (Annual Report) và Báo Cáo Tài Chính (Financial Statements) dưới dạng PDF, sau đó bóc tách thành 8 trụ cột trọng yếu theo chuẩn 10-K của SEC kết hợp kiểm toán tính minh bạch & khoảng trống thông tin theo chuẩn Warren Buffett.
 2. **Nhiệm Vụ 2 (criteria-extractor):** Tiếp nhận các tài liệu đúc kết tri thức (bài nói chuyện, bài viết, sách, tài liệu phân tích định tính dạng PDF/MD), trích xuất thành **Bộ Tiêu Chuẩn Doanh Nghiệp Tốt** (gồm cả định lượng BCTC và định tính: con hào kinh tế, quan hệ chính phủ/thể chế), từ đó làm thước đo đối chiếu chấm điểm (`scorecard`) cho các doanh nghiệp ở Nhiệm vụ 1.
+3. **Nhiệm Vụ 3 (company-screener):** Phễu Lọc Doanh Nghiệp Đa Tầng (Multi-Stage Investment Funnel) - Tiếp nhận từng mã cổ phiếu, kiểm tra tuần tự qua 4 bước sàng lọc loại trừ khắt khe (Vòng tròn năng lực & Ngành nghề, Lỗ 3 năm liên tiếp, Chuỗi giá trị thấp & P/B >= 0.5, ROE 5 năm < 10%) và phân loại vào 5 file lưu trữ tương ứng trong `screenings/`.
 
 ---
 
@@ -17,7 +18,25 @@ pdf-analyzer/
 ├── requirements.txt           # Thư viện xử lý PDF và dữ liệu
 ├── .agents/skills/            # Kỹ năng định nghĩa cho AI Agent
 │   ├── 10k-analyzer/          # Kỹ năng phân tích doanh nghiệp theo chuẩn 10-K
-│   └── criteria-extractor/    # Kỹ năng trích xuất tiêu chuẩn doanh nghiệp tốt
+│   ├── criteria-extractor/    # Kỹ năng trích xuất tiêu chuẩn doanh nghiệp tốt
+│   ├── company-screener/      # [Nhiệm vụ 3] Điều phối phễu lọc đa tầng
+│   ├── screener-step1-industry/       # Bước 1: Vòng tròn năng lực & Ngành nghề
+│   ├── screener-step2-profitability/  # Bước 2: Lợi nhuận 3 năm liên tiếp
+│   ├── screener-step3-value-chain-pb/ # Bước 3: Chuỗi giá trị & Ngoại lệ P/B
+│   └── screener-step4-roe/            # Bước 4: Hiệu quả vốn ROE 5 năm
+├── screenings/                # [Nhiệm vụ 3] Hệ thống file kết quả & bảng tóm tắt phễu lọc
+│   ├── 00-quick-summary-all.md             # ⚡ Bảng tổng hợp siêu tốc toàn bộ 50 mã (Cheat-sheet)
+│   ├── summary-01-circle-of-competence.md  # 📋 Bảng tóm tắt nhanh rớt Bước 1
+│   ├── summary-02-consecutive-loss.md      # 📋 Bảng tóm tắt nhanh rớt Bước 2
+│   ├── summary-03-low-value-chain.md       # 📋 Bảng tóm tắt nhanh rớt Bước 3
+│   ├── summary-04-low-roe.md               # 📋 Bảng tóm tắt nhanh rớt Bước 4
+│   ├── summary-05-passed-champions.md      # 🏆 Bảng tóm tắt nhanh 22 viên kim cương (File 5)
+│   ├── 01-rejected-circle-of-competence.md # Hồ sơ chi tiết rớt Bước 1 (Ngành nghề)
+│   ├── 02-rejected-consecutive-loss.md     # Hồ sơ chi tiết rớt Bước 2 (Lỗ 3 năm)
+│   ├── 03-rejected-low-value-chain.md      # Hồ sơ chi tiết rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)
+│   ├── 04-rejected-low-roe.md              # Hồ sơ chi tiết rớt Bước 4 (ROE 5 năm < 10%)
+│   ├── 05-passed-champions.md              # 🏆 File 5: Hồ sơ chi tiết doanh nghiệp vượt qua toàn bộ 4 bước
+│   └── screening_dashboard.md              # Bảng Dashboard tổng quan phễu lọc
 ├── frameworks/                # [Nhiệm vụ 2] Kho tri thức tiêu chuẩn & triết lý đầu tư
 │   ├── sources/               # Tài liệu nguồn (bài viết, bài phát biểu PDF/MD)
 │   └── criteria/              # Các bộ tiêu chuẩn đã được module hóa
