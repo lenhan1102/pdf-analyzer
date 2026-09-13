@@ -1300,3 +1300,264 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 - **Lý do loại trừ tại Bước 4:**
   - ROE trong suốt 5 năm gần nhất (9.2%, 7.8%, 4.9%, 5.3%) đều nằm dưới ngưỡng tối thiểu 10%.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 126. THB - Công ty cổ phần Bia Hà Nội - Thanh Hóa
+- **Mã cổ phiếu:** `THB` (Sàn HNX)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (2.1%, 3.8%, 3.4%, 2.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 127. TIG - Công ty Cổ phần Tập đoàn Đầu tư Thăng Long
+- **Mã cổ phiếu:** `TIG` (Sàn HNX)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (5.6%, 8.6%, 8.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 128. TMC - Công ty Cổ phần Thương mại - Xuất nhập khẩu Thủ Đức
+- **Mã cổ phiếu:** `TMC` (Sàn HNX)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (3.9%, 7.0%, 6.1%, 5.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 129. TPH - Công ty Cổ phần In Sách giáo khoa tại T.P Hà Nội
+- **Mã cổ phiếu:** `TPH` (Sàn HNX)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.4%, 6.2%, 6.5%, 5.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 130. TPP - Công ty Cổ phần Tân Phú Việt Nam
+- **Mã cổ phiếu:** `TPP` (Sàn HNX)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (3.9%, 2.5%, 3.9%, 7.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 131. TSB - Công ty Cổ phần Ắc quy Tia sáng
+- **Mã cổ phiếu:** `TSB` (Sàn HNX)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (5.7%, 5.8%, 5.3%, 6.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 132. TTH - Công ty cổ phần Thương mại và Dịch vụ Tiến Thành
+- **Mã cổ phiếu:** `TTH` (Sàn HNX)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-3.2%, 0.2%, 4.5%, -3.9%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 133. TTT - Công ty Cổ phần Du lịch – Thương mại Tây Ninh
+- **Mã cổ phiếu:** `TTT` (Sàn HNX)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.6%, 1.4%, 5.7%, 4.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 134. UNI - Công ty Cổ phần Đầu tư và phát triển Sao Mai Việt
+- **Mã cổ phiếu:** `UNI` (Sàn HNX)
+- **Ngành nghề niêm yết:** Công nghệ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.4%, 0.0%, -30.6%, 0.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 135. VDL - Công ty Cổ phần Thực phẩm Lâm Đồng
+- **Mã cổ phiếu:** `VDL` (Sàn HNX)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (5.6%, 1.6%, -11.2%, 0.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 136. VGP - Công ty Cổ phần Cảng Rau quả
+- **Mã cổ phiếu:** `VGP` (Sàn HNX)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (8.8%, 8.7%, 7.7%, 7.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 137. VHE - Công ty Cổ phần Dược liệu và Thực phẩm Việt Nam
+- **Mã cổ phiếu:** `VHE` (Sàn HNX)
+- **Ngành nghề niêm yết:** Y tế
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.5%, 0.7%, 0.5%, 0.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 138. VIF - Tổng Công ty Lâm nghiệp Việt Nam - CTCP
+- **Mã cổ phiếu:** `VIF` (Sàn HNX)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.0%, 5.7%, 5.9%, 7.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 139. VIG - Công ty Cổ phần Chứng khoán Đầu tư Tài chính Việt Nam
+- **Mã cổ phiếu:** `VIG` (Sàn HNX)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (9.2%, -22.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 140. VNF - Công ty cổ phần Vinafreight
+- **Mã cổ phiếu:** `VNF` (Sàn HNX)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.9%, 1.0%, 9.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 141. VNT - Công ty cổ phần Giao nhận Vận tải Ngoại thương
+- **Mã cổ phiếu:** `VNT` (Sàn HNX)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-5.2%, 5.6%, -8.2%, 0.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 142. VTH - Công ty Cổ phần Tập đoàn Việt Thái
+- **Mã cổ phiếu:** `VTH` (Sàn HNX)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.1%, 5.1%, 7.5%, 9.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 143. VTJ - Công ty cổ phần Thương mại và Đầu tư Vinataba
+- **Mã cổ phiếu:** `VTJ` (Sàn HNX)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-26.7%, 4.0%, 0.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 144. VTT - 
+- **Mã cổ phiếu:** `VTT` (Sàn HNX)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 145. AAH - Công ty cổ phần Hợp Nhất
+- **Mã cổ phiếu:** `AAH` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.0%, 0.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 146. AAS - Công ty cổ phần Chứng khoán SmartInvest
+- **Mã cổ phiếu:** `AAS` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (3.6%, 3.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 147. ABW - CTCP Chứng khoán An Bình
+- **Mã cổ phiếu:** `ABW` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (5.5%, 7.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 148. ACM - Công ty cổ phần Tập đoàn Khoáng sản Á Cường
+- **Mã cổ phiếu:** `ACM` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-14.3%, -3.6%, -2.9%, -2.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 149. AIC - Tổng Công ty cổ phần Bảo hiểm Hàng không
+- **Mã cổ phiếu:** `AIC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (2.2%, 1.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 150. AMP - Công ty Cổ phần Armephaco
+- **Mã cổ phiếu:** `AMP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Y tế
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (3.4%, 2.7%, 2.1%, 1.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 151. APC - Công ty Cổ phần Chiếu xạ An Phú
+- **Mã cổ phiếu:** `APC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (7.1%, -0.2%, -6.0%, -3.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 152. APP - Công ty Cổ phần Phát triển Phụ gia và Sản phẩm Dầu mỏ
+- **Mã cổ phiếu:** `APP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.0%, 6.1%, -9.9%, -5.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 153. ART - Công ty Cổ phần Chứng khoán Artex
+- **Mã cổ phiếu:** `ART` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-15.9%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 154. ATA - Công ty Cổ phần NTACO
+- **Mã cổ phiếu:** `ATA` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.1%, 0.1%, 0.0%, 0.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026

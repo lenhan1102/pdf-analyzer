@@ -669,3 +669,103 @@
 | 648 | `TDN` | Công ty Cổ phần Than Đèo Nai - Vinacomin | HNX | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
 | 649 | `TDT` | Công ty cổ phần Đầu tư và Phát triển TDT | HNX | Hàng tiêu dùng | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (9.2%, 7.8%, 4.9%, 5.3%) đều n... | [04-rejected](04-rejected-low-roe.md) |
 | 650 | `TET` | Công ty cổ phần Bất động sản Pristie | HNX | Nguyên vật liệu | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 651 | `TFC` | Công ty Cổ phần Trang | HNX | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 652 | `THB` | Công ty cổ phần Bia Hà Nội - Thanh Hóa | HNX | Hàng tiêu dùng | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (2.1%, 3.8%, 3.4%, 2.6%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 653 | `THD` | Công ty Cổ phần Thaiholdings | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 654 | `THS` | Công ty cổ phần Thanh Hoa - Sông Đà | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 655 | `THT` | Công ty cổ phần Than Hà Tu - Vinacomin | HNX | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 656 | `TIG` | Công ty Cổ phần Tập đoàn Đầu tư Thăng Long | HNX | Tài chính | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (5.6%, 8.6%, 8.4%) đều nằm dướ... | [04-rejected](04-rejected-low-roe.md) |
+| 657 | `TJC` | Công ty cổ phần Dịch vụ Vận tải và Thương mại | HNX | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 658 | `TKU` | Công ty Cổ phần Công nghiệp Tung Kuang | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 659 | `TMB` | Công ty Cổ phần Kinh doanh than Miền Bắc - Vinacomin | HNX | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 660 | `TMC` | Công ty Cổ phần Thương mại - Xuất nhập khẩu Thủ Đức | HNX | Dịch vụ | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (3.9%, 7.0%, 6.1%, 5.2%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 661 | `TMX` | Công ty cổ phần VICEM Thương mại Xi măng | HNX | Dịch vụ | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 662 | `TNG` | Công ty Cổ phần Đầu tư và Thương mại TNG | HNX | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 663 | `TOT` | Công ty Cổ phần Transimex Logistics | HNX | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 664 | `TPH` | Công ty Cổ phần In Sách giáo khoa tại T.P Hà Nội | HNX | Dịch vụ | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (6.4%, 6.2%, 6.5%, 5.5%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 665 | `TPP` | Công ty Cổ phần Tân Phú Việt Nam | HNX | Nguyên vật liệu | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (3.9%, 2.5%, 3.9%, 7.5%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 666 | `TSB` | Công ty Cổ phần Ắc quy Tia sáng | HNX | Công nghiệp | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (5.7%, 5.8%, 5.3%, 6.5%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 667 | `TTC` | Công ty Cổ phần Gạch men Thanh Thanh | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 668 | `TTH` | Công ty cổ phần Thương mại và Dịch vụ Tiến Thành | HNX | Hàng tiêu dùng | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (-3.2%, 0.2%, 4.5%, -3.9%) đều... | [04-rejected](04-rejected-low-roe.md) |
+| 669 | `TTL` | Tổng Công ty Thăng Long - CTCP | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 670 | `TTT` | Công ty Cổ phần Du lịch – Thương mại Tây Ninh | HNX | Dịch vụ | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (0.6%, 1.4%, 5.7%, 4.7%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 671 | `TV3` | Công ty Cổ phần Tư vấn Xây dựng Điện 3 | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 672 | `TV4` | Công ty Cổ phần Tư vấn Xây dựng Điện 4 | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 673 | `TVC` | Công ty cổ phần Tập đoàn Quản lý Tài sản T-Corp | HNX | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 674 | `TVD` | Công ty cổ phần Than Vàng Danh - Vinacomin | HNX | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 675 | `TXM` | Công ty cổ phần VICEM Thạch cao Xi măng | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 676 | `UNI` | Công ty Cổ phần Đầu tư và phát triển Sao Mai Việt | HNX | Công nghệ | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (0.4%, 0.0%, -30.6%, 0.0%) đều... | [04-rejected](04-rejected-low-roe.md) |
+| 677 | `V12` | Công ty Cổ phần Xây dựng số 12 | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 678 | `V21` | Công ty Cổ phần VINACONEX 21 | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 679 | `VBC` | Công ty Cổ phần Nhựa Bao bì Vinh | HNX | Nguyên vật liệu | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu ... | [05-passed](05-passed-champions.md) |
+| 680 | `VC1` | Công ty Cổ phần Xây dựng số 1 | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 681 | `VC2` | Công ty Cổ phần Đầu tư và Xây dựng Vina2 | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 682 | `VC3` | Công ty Cổ phần Tập đoàn Nam Mê Kông | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 683 | `VC6` | Công ty Cổ phần Xây dựng và Đầu tư Visicons | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 684 | `VC7` | Công ty Cổ phần Tập đoàn BGI | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 685 | `VC9` | Công ty Cổ phần Xây dựng số 9 - VC9 | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 686 | `VCC` | Công ty Cổ phần Vinaconex 25 | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 687 | `VCM` | Công ty cổ phần BV Life | HNX | Dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh... | [05-passed](05-passed-champions.md) |
+| 688 | `VCS` | Công ty cổ phần VICOSTONE | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 689 | `VDL` | Công ty Cổ phần Thực phẩm Lâm Đồng | HNX | Hàng tiêu dùng | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (5.6%, 1.6%, -11.2%, 0.3%) đều... | [04-rejected](04-rejected-low-roe.md) |
+| 690 | `VE1` | Công ty Cổ phần Xây dựng điện VNECO 1 | HNX | Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 691 | `VE3` | Công ty cổ phần Xây dựng điện VNECO 3 | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 692 | `VE4` | Công ty Cổ phần Xây dựng điện VNECO4 | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 693 | `VFS` | Công ty Cổ phần Chứng khoán Nhất Việt | HNX | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 694 | `VGP` | Công ty Cổ phần Cảng Rau quả | HNX | Công nghiệp | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (8.8%, 8.7%, 7.7%, 7.2%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 695 | `VGS` | Công ty Cổ phần Ống thép Việt Đức VG PIPE | HNX | Nguyên vật liệu | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu ... | [05-passed](05-passed-champions.md) |
+| 696 | `VHE` | Công ty Cổ phần Dược liệu và Thực phẩm Việt Nam | HNX | Y tế | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (0.5%, 0.7%, 0.5%, 0.5%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 697 | `VHL` | Công ty cổ phần Viglacera Hạ Long | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 698 | `VIF` | Tổng Công ty Lâm nghiệp Việt Nam - CTCP | HNX | Nguyên vật liệu | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (6.0%, 5.7%, 5.9%, 7.2%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 699 | `VIG` | Công ty Cổ phần Chứng khoán Đầu tư Tài chính Việt Nam | HNX | Tài chính | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (9.2%, -22.0%) đều nằm dưới ng... | [04-rejected](04-rejected-low-roe.md) |
+| 700 | `VIT` | Công ty Cổ phần Viglacera Tiên Sơn | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 701 | `VLA` | Công ty Cổ phần Đầu tư và Phát triển Công nghệ Văn  Lang | HNX | Dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh... | [05-passed](05-passed-champions.md) |
+| 702 | `VMC` | Công ty Cổ phần Vimeco | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 703 | `VMS` | Công ty cổ phần Phát triển Hàng hải | HNX | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 704 | `VNC` | Công ty Cổ phần Tập đoàn Vinacontrol | HNX | Dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh... | [05-passed](05-passed-champions.md) |
+| 705 | `VNF` | Công ty cổ phần Vinafreight | HNX | Công nghiệp | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (1.9%, 1.0%, 9.6%) đều nằm dướ... | [04-rejected](04-rejected-low-roe.md) |
+| 706 | `VNR` | Tổng Công ty Cổ phần Tái bảo hiểm quốc gia Việt Nam | HNX | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 707 | `VNT` | Công ty cổ phần Giao nhận Vận tải Ngoại thương | HNX | Công nghiệp | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (-5.2%, 5.6%, -8.2%, 0.1%) đều... | [04-rejected](04-rejected-low-roe.md) |
+| 708 | `VSA` | Công ty cổ phần Đại lý Hàng hải Việt Nam | HNX | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 709 | `VSM` | Công ty Cổ phần Container Miền Trung | HNX | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 710 | `VTC` | Công ty Cổ phần Viễn thông VTC | HNX | Công nghệ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghệ, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 711 | `VTH` | Công ty Cổ phần Tập đoàn Việt Thái | HNX | Dịch vụ | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (0.1%, 5.1%, 7.5%, 9.4%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 712 | `VTJ` | Công ty cổ phần Thương mại và Đầu tư Vinataba | HNX | Hàng tiêu dùng | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (-26.7%, 4.0%, 0.3%) đều nằm d... | [04-rejected](04-rejected-low-roe.md) |
+| 713 | `VTT` |  | HNX | Chưa phân loại | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (6.1%) đều nằm dưới ngưỡng tối... | [04-rejected](04-rejected-low-roe.md) |
+| 714 | `VTV` | Công ty Cổ phần Năng lượng và Môi trường VICEM | HNX | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 715 | `VTZ` | Công ty Cổ phần Sản xuất và Thương mại Nhựa Việt Thành | HNX | Nguyên vật liệu | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu ... | [05-passed](05-passed-champions.md) |
+| 716 | `WCS` | Công ty Cổ phần Bến xe Miền Tây | HNX | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 717 | `WSS` | Công ty Cổ phần Chứng khoán Phố Wall | HNX | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 718 | `X20` | Công ty Cổ phần X20 | HNX | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 719 | `A32` | Công ty cổ phần 32 | UPCOM | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 720 | `AAH` | Công ty cổ phần Hợp Nhất | UPCOM | Chưa phân loại | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (1.0%, 0.5%) đều nằm dưới ngưỡ... | [04-rejected](04-rejected-low-roe.md) |
+| 721 | `AAS` | Công ty cổ phần Chứng khoán SmartInvest | UPCOM | Tài chính | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (3.6%, 3.0%) đều nằm dưới ngưỡ... | [04-rejected](04-rejected-low-roe.md) |
+| 722 | `AAV` | Công ty Cổ phần AAV Group | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 723 | `ABB` | Ngân hàng Thương mại cổ phần An Bình | UPCOM | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 724 | `ABC` | Công ty cổ phần Truyền thông VMG | UPCOM | Viễn thông | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Viễn thông, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 725 | `ABI` | Công ty Cổ phần Bảo hiểm Ngân hàng Nông nghiệp | UPCOM | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 726 | `ABW` | CTCP Chứng khoán An Bình | UPCOM | Chưa phân loại | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (5.5%, 7.2%) đều nằm dưới ngưỡ... | [04-rejected](04-rejected-low-roe.md) |
+| 727 | `ACE` | Công ty Cổ phần Bê tông ly tâm An Giang | UPCOM | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 728 | `ACM` | Công ty cổ phần Tập đoàn Khoáng sản Á Cường | UPCOM | Nguyên vật liệu | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (-14.3%, -3.6%, -2.9%, -2.6%) ... | [04-rejected](04-rejected-low-roe.md) |
+| 729 | `ACS` | Công ty Cổ phần Xây lắp Thương mại 2 | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 730 | `ACV` | Tổng công ty Cảng hàng không Việt Nam - CTCP | UPCOM | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 731 | `AG1` | Công ty Cổ phần 28.1 | UPCOM | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 732 | `AGF` | Công ty Cổ phần Xuất nhập khẩu Thủy sản An Giang | UPCOM | Nông nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 733 | `AGM` | Công ty cổ phần Xuất nhập khẩu An Giang | UPCOM | Nông nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 734 | `AGP` | Công ty cổ phần Dược phẩm Agimexpharm | UPCOM | Y tế | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Y tế, hiệu quả sinh lờ... | [05-passed](05-passed-champions.md) |
+| 735 | `AGX` | Công ty cổ phần Thực phẩm Nông sản Xuất khẩu Sài Gòn | UPCOM | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 736 | `AIC` | Tổng Công ty cổ phần Bảo hiểm Hàng không | UPCOM | Tài chính | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (2.2%, 1.0%) đều nằm dưới ngưỡ... | [04-rejected](04-rejected-low-roe.md) |
+| 737 | `AIG` | Công ty Cổ phần Nguyên liệu Á Châu AIG | UPCOM | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 738 | `ALC` | Công ty cổ phần Âu Lạc | UPCOM | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 739 | `ALV` | Công ty Cổ phần Tập Đoàn MCST | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 740 | `AMP` | Công ty Cổ phần Armephaco | UPCOM | Y tế | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (3.4%, 2.7%, 2.1%, 1.8%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 741 | `AMS` | Công ty Cổ phần Cơ khí xây dựng AMECC | UPCOM | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 742 | `ANI` | Công ty cổ phần ANI | UPCOM | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 743 | `APC` | Công ty Cổ phần Chiếu xạ An Phú | UPCOM | Nông nghiệp | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (7.1%, -0.2%, -6.0%, -3.7%) đề... | [04-rejected](04-rejected-low-roe.md) |
+| 744 | `APF` | Công ty Cổ phần Nông sản thực phẩm Quảng Ngãi | UPCOM | Nông nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 745 | `APL` | CTCP Cơ khí và Thiết bị áp lực - VVMI | UPCOM | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 746 | `APP` | Công ty Cổ phần Phát triển Phụ gia và Sản phẩm Dầu mỏ | UPCOM | Nguyên vật liệu | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (0.0%, 6.1%, -9.9%, -5.6%) đều... | [04-rejected](04-rejected-low-roe.md) |
+| 747 | `APT` | CTCP Kinh doanh Thủy Hải Sản Sài Gòn | UPCOM | Nông nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 748 | `ART` | Công ty Cổ phần Chứng khoán Artex | UPCOM | Tài chính | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (-15.9%) đều nằm dưới ngưỡng t... | [04-rejected](04-rejected-low-roe.md) |
+| 749 | `ATA` | Công ty Cổ phần NTACO | UPCOM | Nông nghiệp | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (1.1%, 0.1%, 0.0%, 0.0%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 750 | `ATG` | Công ty Cổ phần An Trường An | UPCOM | Nguyên vật liệu | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu ... | [05-passed](05-passed-champions.md) |
