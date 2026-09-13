@@ -219,3 +219,78 @@
 | 198 | `LGL` | Công ty cổ phần Đầu tư và Phát triển Đô thị Long Giang | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | BĐS dân dụng Long Giang Land | [01-rejected](01-rejected-circle-of-competence.md) |
 | 199 | `LHG` | Công ty Cổ phần Long Hậu | HOSE | Bất động sản và Xây dựng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Bất động sản và Xây dự... | [05-passed](05-passed-champions.md) |
 | 200 | `LIX` | Công ty Cổ phần LIX | HOSE | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 201 | `LM8` | Công ty Cổ phần Lilama 18 | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 202 | `LPB` | Ngân hàng Thương mại cổ phần Lộc Phát Việt Nam | HOSE | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 203 | `LPS` | Công ty cổ phần Chứng khoán LPBank | HOSE | Chưa phân loại | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (2.0%) đều nằm dưới ngưỡng tối... | [04-rejected](04-rejected-low-roe.md) |
+| 204 | `LSS` | Công ty Cổ phần Mía đường Lam Sơn | HOSE | Nông nghiệp | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (6.7%, 6.3%) đều nằm dưới ngưỡ... | [04-rejected](04-rejected-low-roe.md) |
+| 205 | `MBB` | Ngân hàng Thương mại cổ phần Quân đội | HOSE | Tài chính | 🏆 Vượt B4 | Ngân hàng TMCP hàng đầu VN, CASA top đầu, ROE >20% suốt nhiề... | [05-passed](05-passed-champions.md) |
+| 206 | `MCH` | Công ty Cổ phần Hàng tiêu dùng Masan | HOSE | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 207 | `MCM` | Công ty cổ phần Giống bò sữa Mộc Châu | HOSE | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 208 | `MCP` | Công ty cổ phần In và Bao bì Mỹ Châu | HOSE | Nguyên vật liệu | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu ... | [05-passed](05-passed-champions.md) |
+| 209 | `MDG` | Công ty Cổ phần miền Đông | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 210 | `MHC` | Công ty Cổ phần MHC | HOSE | Công nghiệp | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (-0.2%, 8.5%, 4.7%, 2.1%) đều ... | [04-rejected](04-rejected-low-roe.md) |
+| 211 | `MIG` | Tổng Công ty cổ phần Bảo hiểm Quân đội | HOSE | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 212 | `MSB` | Ngân hàng Thương mại cổ phần Hàng hải Việt Nam | HOSE | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 213 | `MSH` | Công ty cổ phần May Sông Hồng | HOSE | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 214 | `MSN` | Công ty Cổ phần Tập đoàn MaSan | HOSE | Tài chính | 🏆 Vượt B4 | Vua hàng tiêu dùng & bán lẻ nhu yếu phẩm WinCommerce/Masan C... | [05-passed](05-passed-champions.md) |
+| 215 | `MWG` | Công ty cổ phần Đầu tư Thế giới Di động | HOSE | Công nghệ | 🏆 Vượt B4 | Gã khổng lồ bán lẻ VN, chuỗi Bách Hóa Xanh & TGDĐ, ROE bền b... | [05-passed](05-passed-champions.md) |
+| 216 | `MZG` | Công ty cổ phần Miza | HOSE | Chưa phân loại | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (5.8%) đều nằm dưới ngưỡng tối... | [04-rejected](04-rejected-low-roe.md) |
+| 217 | `NAB` | Ngân hàng Thương mại cổ phần Nam Á | HOSE | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 218 | `NAF` | Công ty Cổ phần Nafoods Group | HOSE | Nông nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 219 | `NAV` | Công ty Cổ phần Nam Việt | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 220 | `NBB` | Công ty Cổ phần Đầu tư Năm Bảy Bảy | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | BĐS dân dụng Năm Bảy Bảy | [01-rejected](01-rejected-circle-of-competence.md) |
+| 221 | `NCT` | Công ty Cổ phần Dịch vụ Hàng hóa Nội Bài | HOSE | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 222 | `NHA` | Tổng Công ty Đầu tư Phát triển Nhà và Đô thị Nam Hà Nội | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 223 | `NHH` | Công ty Cổ phần Nhựa Hà Nội | HOSE | Nguyên vật liệu | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu ... | [05-passed](05-passed-champions.md) |
+| 224 | `NHT` | Công ty Cổ phần Sản xuất và Thương mại Nam Hoa | HOSE | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 225 | `NKG` | Công ty Cổ phần Thép Nam Kim | HOSE | Nguyên vật liệu | 🏆 Vượt B4 | Top 2 xuất khẩu tôn mạ Việt Nam sang EU/Mỹ, ROE chu kỳ bùng ... | [05-passed](05-passed-champions.md) |
+| 226 | `NLG` | Công ty cổ phần Đầu tư Nam Long | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | BĐS dân dụng Nam Long Group | [01-rejected](01-rejected-circle-of-competence.md) |
+| 227 | `NNC` | Công ty Cổ phần Đá Núi Nhỏ | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 228 | `NO1` | Công ty Cổ phần Tập đoàn 911 | HOSE | Công nghiệp | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (5.5%, 5.7%) đều nằm dưới ngưỡ... | [04-rejected](04-rejected-low-roe.md) |
+| 229 | `NSC` | Công ty cổ phần Tập đoàn Giống cây trồng Việt Nam | HOSE | Nông nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 230 | `NT2` | Công ty Cổ phần Điện lực Dầu khí Nhơn Trạch 2 | HOSE | Năng lượng | 🏆 Vượt B4 | Nhà máy điện khí chu trình hỗn hợp 750MW, PV Power, hết khấu... | [05-passed](05-passed-champions.md) |
+| 231 | `NTC` | Công ty Cổ phần Khu Công nghiệp Nam Tân Uyên | HOSE | Bất động sản và Xây dựng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Bất động sản và Xây dự... | [05-passed](05-passed-champions.md) |
+| 232 | `NTL` | Công ty Cổ phần Phát triển Đô thị Từ Liêm | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 233 | `NVL` | Công ty cổ phần Tập đoàn Đầu tư Địa ốc No Va | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Đại gia BĐS dân dụng Novaland ngập trong khủng hoảng nợ trái... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 234 | `NVT` | Công ty Cổ phần Bất động sản Du lịch Ninh Vân Bay | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 235 | `OCB` | Ngân hàng Thương mại cổ phần Phương Đông | HOSE | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 236 | `OGC` | Công ty Cổ phần Tập đoàn Đại Dương | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 237 | `OPC` | Công ty cổ phần Dược phẩm OPC | HOSE | Y tế | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Y tế, hiệu quả sinh lờ... | [05-passed](05-passed-champions.md) |
+| 238 | `ORS` | Công ty Cổ phần Chứng khoán Tiên Phong | HOSE | Tài chính | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (9.0%, 9.7%) đều nằm dưới ngưỡ... | [04-rejected](04-rejected-low-roe.md) |
+| 239 | `PAC` | Công ty Cổ phần Pin Ắc quy Miền Nam | HOSE | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 240 | `PAN` | Công ty Cổ phần Tập đoàn PAN | HOSE | Nông nghiệp | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (3.0%, 3.9%, 4.9%, 6.9%) đều n... | [04-rejected](04-rejected-low-roe.md) |
+| 241 | `PC1` | Công ty Cổ phần Tập đoàn PC1 | HOSE | Bất động sản và Xây dựng | 🏆 Vượt B4 | Xây lắp điện số 1 VN kết hợp mỏ Niken phòng thủ và BĐS KCN, ... | [05-passed](05-passed-champions.md) |
+| 242 | `PDN` | Công ty Cổ phần Cảng Đồng Nai | HOSE | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 243 | `PDR` | Công ty cổ phần Phát triển Bất động sản Phát Đạt | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | BĐS dân dụng Phát Đạt | [01-rejected](01-rejected-circle-of-competence.md) |
+| 244 | `PDV` | Công ty Cổ phần Vận tải và Tiếp vận Phương Đông Việt | HOSE | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 245 | `PET` | Tổng Công ty Cổ phần Dịch vụ Tổng hợp Dầu khí | HOSE | Dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh... | [05-passed](05-passed-champions.md) |
+| 246 | `PGC` | Tổng Công ty Gas Petrolimex-CTCP | HOSE | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 247 | `PGD` | Công ty Cổ phần Phân phối Khí thấp áp Dầu khí Việt Nam | HOSE | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 248 | `PGI` | Tổng Công ty cổ phần Bảo hiểm Petrolimex | HOSE | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 249 | `PGV` | Tổng Công ty Phát điện 3 - Công ty cổ phần | HOSE | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 250 | `PHC` | Công ty cổ phần Xây dựng Phục Hưng Holdings | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 251 | `PHR` | Công ty cổ phần Cao su Phước Hòa | HOSE | Bất động sản và Xây dựng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Bất động sản và Xây dự... | [05-passed](05-passed-champions.md) |
+| 252 | `PIT` | Công ty Cổ phần Xuất nhập khẩu Petrolimex | HOSE | Dịch vụ | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (1.5%, -4.9%, -8.2%, 2.5%) đều... | [04-rejected](04-rejected-low-roe.md) |
+| 253 | `PJT` | Công ty Cổ phần Vận tải Xăng dầu Đường thủy Petrolimex | HOSE | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 254 | `PLP` | Công ty Cổ phần Sản xuất và Công nghệ Nhựa Pha Lê | HOSE | Nguyên vật liệu | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu ... | [05-passed](05-passed-champions.md) |
+| 255 | `PLX` | Tập đoàn Xăng dầu Việt Nam | HOSE | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 256 | `PMG` | Công ty Cổ phần Đầu tư và Sản xuất Petro Miền Trung | HOSE | Năng lượng | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (0.6%, -9.4%, 0.4%, 3.7%) đều ... | [04-rejected](04-rejected-low-roe.md) |
+| 257 | `PNC` | Công ty Cổ phần Văn hóa Phương Nam | HOSE | Dịch vụ | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (3.4%, -9.9%, 9.2%, 5.5%) đều ... | [04-rejected](04-rejected-low-roe.md) |
+| 258 | `PNJ` | Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận | HOSE | Dịch vụ | 🏆 Vượt B4 | Vua trang sức bán lẻ số 1 VN với chuỗi >400 cửa hàng, ROE 20... | [05-passed](05-passed-champions.md) |
+| 259 | `POW` | Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP | HOSE | Năng lượng | 🏆 Vượt B4 | Nhà sản xuất điện lớn thứ 2 VN sau EVN, hạ tầng điện khí the... | [05-passed](05-passed-champions.md) |
+| 260 | `PPC` | Công ty Cổ phần Nhiệt điện Phả Lại | HOSE | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 261 | `PTB` | Công ty Cổ phần Phú Tài | HOSE | Dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh... | [05-passed](05-passed-champions.md) |
+| 262 | `PTC` | Công ty Cổ phần Đầu tư ICapital | HOSE | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 263 | `PTL` | Công ty Cổ phần Victory Group | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 264 | `PVD` | Tổng Công ty Cổ phần Khoan và Dịch vụ Khoan Dầu khí | HOSE | Năng lượng | 🏆 Vượt B4 | Độc quyền đội giàn khoan dầu khí biển VN, hợp đồng quốc tế k... | [05-passed](05-passed-champions.md) |
+| 265 | `PVP` | Công ty Cổ phần Vận tải dầu khí Thái Bình Dương | HOSE | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 266 | `PVT` | Tổng công ty Cổ phần Vận tải Dầu khí | HOSE | Năng lượng | 🏆 Vượt B4 | Đội tàu vận tải dầu khí lớn nhất VN, mở rộng quốc tế, ROE 14... | [05-passed](05-passed-champions.md) |
+| 267 | `QCG` | Công ty Cổ phần Quốc Cường Gia Lai | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 268 | `QNP` | Công ty Cổ phần Cảng Quy Nhơn | HOSE | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 269 | `RAL` | Công ty Cổ phần Bóng đèn Phích nước Rạng Đông | HOSE | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 270 | `REE` | Công ty Cổ phần Cơ điện lạnh | HOSE | Bất động sản và Xây dựng | 🏆 Vượt B4 | Đế chế tiện ích: Văn phòng cho thuê hạng A, thủy điện, nước ... | [05-passed](05-passed-champions.md) |
+| 271 | `RYG` | Công ty cổ phần Sản xuất và Đầu tư Hoàng Gia | HOSE | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 272 | `S4A` | Công ty Cổ phần Thủy điện Sê San 4A | HOSE | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 273 | `SAB` | Tổng CTCP Bia - Rượu - Nước giải khát Sài Gòn | HOSE | Hàng tiêu dùng | 🏆 Vượt B4 | Vua bia Việt Nam với mạng lưới phân phối vô đối, ROE 20-25% | [05-passed](05-passed-champions.md) |
+| 274 | `SAM` | Công ty Cổ phần SAM Holdings | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 275 | `SAV` | Công ty Cổ phần Hợp tác kinh tế và Xuất nhập khẩu SAVIMEX | HOSE | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |

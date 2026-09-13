@@ -46,3 +46,13 @@
 | 35 | `IDI` | Công ty Cổ phần Đầu tư và Phát triển Đa Quốc Gia I.D.I | HOSE | Nông nghiệp | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (3.2%, 4.3%, 1.7%, 1.7%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
 | 36 | `KHP` | Công ty Cổ phần Điện lực Khánh Hòa | HOSE | Năng lượng | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (6.8%, 7.1%, 7.8%, 8.2%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
 | 37 | `KMR` | Công ty Cổ phần Mirae | HOSE | Hàng tiêu dùng | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (0.0%, 2.9%, 1.5%, 1.1%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 38 | `LPS` | Công ty cổ phần Chứng khoán LPBank | HOSE | Chưa phân loại | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (2.0%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 39 | `LSS` | Công ty Cổ phần Mía đường Lam Sơn | HOSE | Nông nghiệp | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (6.7%, 6.3%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 40 | `MHC` | Công ty Cổ phần MHC | HOSE | Công nghiệp | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (-0.2%, 8.5%, 4.7%, 2.1%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 41 | `MZG` | Công ty cổ phần Miza | HOSE | Chưa phân loại | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (5.8%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 42 | `NO1` | Công ty Cổ phần Tập đoàn 911 | HOSE | Công nghiệp | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (5.5%, 5.7%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 43 | `ORS` | Công ty Cổ phần Chứng khoán Tiên Phong | HOSE | Tài chính | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (9.0%, 9.7%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 44 | `PAN` | Công ty Cổ phần Tập đoàn PAN | HOSE | Nông nghiệp | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (3.0%, 3.9%, 4.9%, 6.9%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 45 | `PIT` | Công ty Cổ phần Xuất nhập khẩu Petrolimex | HOSE | Dịch vụ | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (1.5%, -4.9%, -8.2%, 2.5%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 46 | `PMG` | Công ty Cổ phần Đầu tư và Sản xuất Petro Miền Trung | HOSE | Năng lượng | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (0.6%, -9.4%, 0.4%, 3.7%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 47 | `PNC` | Công ty Cổ phần Văn hóa Phương Nam | HOSE | Dịch vụ | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (3.4%, -9.9%, 9.2%, 5.5%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |

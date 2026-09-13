@@ -575,3 +575,147 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 - **Lý do loại trừ tại Bước 1:**
   - BĐS dân dụng Long Giang Land
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 59. LM8 - Công ty Cổ phần Lilama 18
+- **Mã cổ phiếu:** `LM8` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 60. MDG - Công ty Cổ phần miền Đông
+- **Mã cổ phiếu:** `MDG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 61. NAV - Công ty Cổ phần Nam Việt
+- **Mã cổ phiếu:** `NAV` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 62. NBB - Công ty Cổ phần Đầu tư Năm Bảy Bảy
+- **Mã cổ phiếu:** `NBB` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - BĐS dân dụng Năm Bảy Bảy
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 63. NHA - Tổng Công ty Đầu tư Phát triển Nhà và Đô thị Nam Hà Nội
+- **Mã cổ phiếu:** `NHA` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 64. NLG - Công ty cổ phần Đầu tư Nam Long
+- **Mã cổ phiếu:** `NLG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - BĐS dân dụng Nam Long Group
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 65. NNC - Công ty Cổ phần Đá Núi Nhỏ
+- **Mã cổ phiếu:** `NNC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 66. NTL - Công ty Cổ phần Phát triển Đô thị Từ Liêm
+- **Mã cổ phiếu:** `NTL` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 67. NVL - Công ty cổ phần Tập đoàn Đầu tư Địa ốc No Va
+- **Mã cổ phiếu:** `NVL` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Đại gia BĐS dân dụng Novaland ngập trong khủng hoảng nợ trái phiếu
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 68. NVT - Công ty Cổ phần Bất động sản Du lịch Ninh Vân Bay
+- **Mã cổ phiếu:** `NVT` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 69. OGC - Công ty Cổ phần Tập đoàn Đại Dương
+- **Mã cổ phiếu:** `OGC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 70. PDR - Công ty cổ phần Phát triển Bất động sản Phát Đạt
+- **Mã cổ phiếu:** `PDR` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - BĐS dân dụng Phát Đạt
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 71. PHC - Công ty cổ phần Xây dựng Phục Hưng Holdings
+- **Mã cổ phiếu:** `PHC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 72. PTL - Công ty Cổ phần Victory Group
+- **Mã cổ phiếu:** `PTL` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 73. QCG - Công ty Cổ phần Quốc Cường Gia Lai
+- **Mã cổ phiếu:** `QCG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 74. SAM - Công ty Cổ phần SAM Holdings
+- **Mã cổ phiếu:** `SAM` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026

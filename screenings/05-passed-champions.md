@@ -1299,3 +1299,444 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
 - **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
 - **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 91. LPB - Ngân hàng Thương mại cổ phần Lộc Phát Việt Nam
+- **Mã cổ phiếu:** `LPB` (Sàn HOSE)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 92. MBB - Ngân hàng Thương mại cổ phần Quân đội
+- **Mã cổ phiếu:** `MBB` (Sàn HOSE)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Ngân hàng TMCP hàng đầu VN, CASA top đầu, ROE >20% suốt nhiều năm
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 93. MCH - Công ty Cổ phần Hàng tiêu dùng Masan
+- **Mã cổ phiếu:** `MCH` (Sàn HOSE)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 94. MCM - Công ty cổ phần Giống bò sữa Mộc Châu
+- **Mã cổ phiếu:** `MCM` (Sàn HOSE)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 95. MCP - Công ty cổ phần In và Bao bì Mỹ Châu
+- **Mã cổ phiếu:** `MCP` (Sàn HOSE)
+- **Ngành nghề:** Nguyên vật liệu
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 96. MIG - Tổng Công ty cổ phần Bảo hiểm Quân đội
+- **Mã cổ phiếu:** `MIG` (Sàn HOSE)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 97. MSB - Ngân hàng Thương mại cổ phần Hàng hải Việt Nam
+- **Mã cổ phiếu:** `MSB` (Sàn HOSE)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 98. MSH - Công ty cổ phần May Sông Hồng
+- **Mã cổ phiếu:** `MSH` (Sàn HOSE)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 99. MSN - Công ty Cổ phần Tập đoàn MaSan
+- **Mã cổ phiếu:** `MSN` (Sàn HOSE)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Vua hàng tiêu dùng & bán lẻ nhu yếu phẩm WinCommerce/Masan Consumer, ROE cao
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 100. MWG - Công ty cổ phần Đầu tư Thế giới Di động
+- **Mã cổ phiếu:** `MWG` (Sàn HOSE)
+- **Ngành nghề:** Công nghệ
+- **Lợi thế cạnh tranh (Moat):** Gã khổng lồ bán lẻ VN, chuỗi Bách Hóa Xanh & TGDĐ, ROE bền bỉ >18%
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 101. NAB - Ngân hàng Thương mại cổ phần Nam Á
+- **Mã cổ phiếu:** `NAB` (Sàn HOSE)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 102. NAF - Công ty Cổ phần Nafoods Group
+- **Mã cổ phiếu:** `NAF` (Sàn HOSE)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 103. NCT - Công ty Cổ phần Dịch vụ Hàng hóa Nội Bài
+- **Mã cổ phiếu:** `NCT` (Sàn HOSE)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 104. NHH - Công ty Cổ phần Nhựa Hà Nội
+- **Mã cổ phiếu:** `NHH` (Sàn HOSE)
+- **Ngành nghề:** Nguyên vật liệu
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 105. NHT - Công ty Cổ phần Sản xuất và Thương mại Nam Hoa
+- **Mã cổ phiếu:** `NHT` (Sàn HOSE)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 106. NKG - Công ty Cổ phần Thép Nam Kim
+- **Mã cổ phiếu:** `NKG` (Sàn HOSE)
+- **Ngành nghề:** Nguyên vật liệu
+- **Lợi thế cạnh tranh (Moat):** Top 2 xuất khẩu tôn mạ Việt Nam sang EU/Mỹ, ROE chu kỳ bùng nổ 15-35%
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 107. NSC - Công ty cổ phần Tập đoàn Giống cây trồng Việt Nam
+- **Mã cổ phiếu:** `NSC` (Sàn HOSE)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 108. NT2 - Công ty Cổ phần Điện lực Dầu khí Nhơn Trạch 2
+- **Mã cổ phiếu:** `NT2` (Sàn HOSE)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Nhà máy điện khí chu trình hỗn hợp 750MW, PV Power, hết khấu hao, ROE 15-25%
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 109. NTC - Công ty Cổ phần Khu Công nghiệp Nam Tân Uyên
+- **Mã cổ phiếu:** `NTC` (Sàn HOSE)
+- **Ngành nghề:** Bất động sản và Xây dựng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Bất động sản và Xây dựng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 110. OCB - Ngân hàng Thương mại cổ phần Phương Đông
+- **Mã cổ phiếu:** `OCB` (Sàn HOSE)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 111. OPC - Công ty cổ phần Dược phẩm OPC
+- **Mã cổ phiếu:** `OPC` (Sàn HOSE)
+- **Ngành nghề:** Y tế
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Y tế, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 112. PAC - Công ty Cổ phần Pin Ắc quy Miền Nam
+- **Mã cổ phiếu:** `PAC` (Sàn HOSE)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 113. PC1 - Công ty Cổ phần Tập đoàn PC1
+- **Mã cổ phiếu:** `PC1` (Sàn HOSE)
+- **Ngành nghề:** Bất động sản và Xây dựng
+- **Lợi thế cạnh tranh (Moat):** Xây lắp điện số 1 VN kết hợp mỏ Niken phòng thủ và BĐS KCN, ROE 12-18%
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 114. PDN - Công ty Cổ phần Cảng Đồng Nai
+- **Mã cổ phiếu:** `PDN` (Sàn HOSE)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 115. PDV - Công ty Cổ phần Vận tải và Tiếp vận Phương Đông Việt
+- **Mã cổ phiếu:** `PDV` (Sàn HOSE)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 116. PET - Tổng Công ty Cổ phần Dịch vụ Tổng hợp Dầu khí
+- **Mã cổ phiếu:** `PET` (Sàn HOSE)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 117. PGC - Tổng Công ty Gas Petrolimex-CTCP
+- **Mã cổ phiếu:** `PGC` (Sàn HOSE)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 118. PGD - Công ty Cổ phần Phân phối Khí thấp áp Dầu khí Việt Nam
+- **Mã cổ phiếu:** `PGD` (Sàn HOSE)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 119. PGI - Tổng Công ty cổ phần Bảo hiểm Petrolimex
+- **Mã cổ phiếu:** `PGI` (Sàn HOSE)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 120. PGV - Tổng Công ty Phát điện 3 - Công ty cổ phần
+- **Mã cổ phiếu:** `PGV` (Sàn HOSE)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 121. PHR - Công ty cổ phần Cao su Phước Hòa
+- **Mã cổ phiếu:** `PHR` (Sàn HOSE)
+- **Ngành nghề:** Bất động sản và Xây dựng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Bất động sản và Xây dựng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 122. PJT - Công ty Cổ phần Vận tải Xăng dầu Đường thủy Petrolimex
+- **Mã cổ phiếu:** `PJT` (Sàn HOSE)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 123. PLP - Công ty Cổ phần Sản xuất và Công nghệ Nhựa Pha Lê
+- **Mã cổ phiếu:** `PLP` (Sàn HOSE)
+- **Ngành nghề:** Nguyên vật liệu
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 124. PLX - Tập đoàn Xăng dầu Việt Nam
+- **Mã cổ phiếu:** `PLX` (Sàn HOSE)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 125. PNJ - Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận
+- **Mã cổ phiếu:** `PNJ` (Sàn HOSE)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Vua trang sức bán lẻ số 1 VN với chuỗi >400 cửa hàng, ROE 20-25%
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 126. POW - Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP
+- **Mã cổ phiếu:** `POW` (Sàn HOSE)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Nhà sản xuất điện lớn thứ 2 VN sau EVN, hạ tầng điện khí then chốt
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 127. PPC - Công ty Cổ phần Nhiệt điện Phả Lại
+- **Mã cổ phiếu:** `PPC` (Sàn HOSE)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 128. PTB - Công ty Cổ phần Phú Tài
+- **Mã cổ phiếu:** `PTB` (Sàn HOSE)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 129. PTC - Công ty Cổ phần Đầu tư ICapital
+- **Mã cổ phiếu:** `PTC` (Sàn HOSE)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 130. PVD - Tổng Công ty Cổ phần Khoan và Dịch vụ Khoan Dầu khí
+- **Mã cổ phiếu:** `PVD` (Sàn HOSE)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Độc quyền đội giàn khoan dầu khí biển VN, hợp đồng quốc tế kín lịch, ROE bùng nổ
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 131. PVP - Công ty Cổ phần Vận tải dầu khí Thái Bình Dương
+- **Mã cổ phiếu:** `PVP` (Sàn HOSE)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 132. PVT - Tổng công ty Cổ phần Vận tải Dầu khí
+- **Mã cổ phiếu:** `PVT` (Sàn HOSE)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Đội tàu vận tải dầu khí lớn nhất VN, mở rộng quốc tế, ROE 14-18% suốt 5 năm
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 133. QNP - Công ty Cổ phần Cảng Quy Nhơn
+- **Mã cổ phiếu:** `QNP` (Sàn HOSE)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 134. RAL - Công ty Cổ phần Bóng đèn Phích nước Rạng Đông
+- **Mã cổ phiếu:** `RAL` (Sàn HOSE)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 135. REE - Công ty Cổ phần Cơ điện lạnh
+- **Mã cổ phiếu:** `REE` (Sàn HOSE)
+- **Ngành nghề:** Bất động sản và Xây dựng
+- **Lợi thế cạnh tranh (Moat):** Đế chế tiện ích: Văn phòng cho thuê hạng A, thủy điện, nước sạch, ROE 15-20%
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 136. RYG - Công ty cổ phần Sản xuất và Đầu tư Hoàng Gia
+- **Mã cổ phiếu:** `RYG` (Sàn HOSE)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 137. S4A - Công ty Cổ phần Thủy điện Sê San 4A
+- **Mã cổ phiếu:** `S4A` (Sàn HOSE)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 138. SAB - Tổng CTCP Bia - Rượu - Nước giải khát Sài Gòn
+- **Mã cổ phiếu:** `SAB` (Sàn HOSE)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Vua bia Việt Nam với mạng lưới phân phối vô đối, ROE 20-25%
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 139. SAV - Công ty Cổ phần Hợp tác kinh tế và Xuất nhập khẩu SAVIMEX
+- **Mã cổ phiếu:** `SAV` (Sàn HOSE)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026

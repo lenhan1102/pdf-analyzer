@@ -67,3 +67,19 @@
 | 56 | `LDG` | Công ty Cổ phần Đầu tư LDG | HOSE | Bất động sản và Xây dựng | BĐS dân dụng LDG vướng lao lý dự án trái phép | 13/09/2026 |
 | 57 | `LGC` | Công ty Cổ phần Đầu tư Cầu đường CII | HOSE | Công nghiệp | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Công nghiệp), ngoài Vòng tròn năng lực. | 13/09/2026 |
 | 58 | `LGL` | Công ty cổ phần Đầu tư và Phát triển Đô thị Long Giang | HOSE | Bất động sản và Xây dựng | BĐS dân dụng Long Giang Land | 13/09/2026 |
+| 59 | `LM8` | Công ty Cổ phần Lilama 18 | HOSE | Bất động sản và Xây dựng | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực. | 13/09/2026 |
+| 60 | `MDG` | Công ty Cổ phần miền Đông | HOSE | Bất động sản và Xây dựng | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực. | 13/09/2026 |
+| 61 | `NAV` | Công ty Cổ phần Nam Việt | HOSE | Bất động sản và Xây dựng | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực. | 13/09/2026 |
+| 62 | `NBB` | Công ty Cổ phần Đầu tư Năm Bảy Bảy | HOSE | Bất động sản và Xây dựng | BĐS dân dụng Năm Bảy Bảy | 13/09/2026 |
+| 63 | `NHA` | Tổng Công ty Đầu tư Phát triển Nhà và Đô thị Nam Hà Nội | HOSE | Bất động sản và Xây dựng | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực. | 13/09/2026 |
+| 64 | `NLG` | Công ty cổ phần Đầu tư Nam Long | HOSE | Bất động sản và Xây dựng | BĐS dân dụng Nam Long Group | 13/09/2026 |
+| 65 | `NNC` | Công ty Cổ phần Đá Núi Nhỏ | HOSE | Bất động sản và Xây dựng | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực. | 13/09/2026 |
+| 66 | `NTL` | Công ty Cổ phần Phát triển Đô thị Từ Liêm | HOSE | Bất động sản và Xây dựng | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực. | 13/09/2026 |
+| 67 | `NVL` | Công ty cổ phần Tập đoàn Đầu tư Địa ốc No Va | HOSE | Bất động sản và Xây dựng | Đại gia BĐS dân dụng Novaland ngập trong khủng hoảng nợ trái phiếu | 13/09/2026 |
+| 68 | `NVT` | Công ty Cổ phần Bất động sản Du lịch Ninh Vân Bay | HOSE | Bất động sản và Xây dựng | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực. | 13/09/2026 |
+| 69 | `OGC` | Công ty Cổ phần Tập đoàn Đại Dương | HOSE | Bất động sản và Xây dựng | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực. | 13/09/2026 |
+| 70 | `PDR` | Công ty cổ phần Phát triển Bất động sản Phát Đạt | HOSE | Bất động sản và Xây dựng | BĐS dân dụng Phát Đạt | 13/09/2026 |
+| 71 | `PHC` | Công ty cổ phần Xây dựng Phục Hưng Holdings | HOSE | Bất động sản và Xây dựng | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực. | 13/09/2026 |
+| 72 | `PTL` | Công ty Cổ phần Victory Group | HOSE | Bất động sản và Xây dựng | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực. | 13/09/2026 |
+| 73 | `QCG` | Công ty Cổ phần Quốc Cường Gia Lai | HOSE | Bất động sản và Xây dựng | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực. | 13/09/2026 |
+| 74 | `SAM` | Công ty Cổ phần SAM Holdings | HOSE | Bất động sản và Xây dựng | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực. | 13/09/2026 |
