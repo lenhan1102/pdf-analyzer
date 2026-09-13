@@ -12,7 +12,7 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (90 Mã Đầu Tiên)
     "Rớt Bước 2 (Lỗ 3 năm)" : 1
     "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 14
     "Rớt Bước 4 (ROE 5 năm < 10%)" : 18
-    "🏆 Đạt Chuẩn File 5" : 46
+    "🏆 Đạt Chuẩn File 5" : 49
 ```
 
 - **Tổng số mã đã kiểm tra:** **90** doanh nghiệp
@@ -143,3 +143,4 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (90 Mã Đầu Tiên)
 - ⚠️ **Pass (Ngoại lệ):** Đạt chuẩn theo diện ngoại lệ đặc thù (mỏ đá độc quyền, TTTM vị trí kim cương, BĐS KCN quỹ đất sạch sẵn sàng cho thuê, mỏ khoáng sản titan đặc thù, hoặc hàng gia công nhưng định giá $P/B < 0.5$).
 - 🏆 **Đạt chuẩn:** Vượt qua toàn bộ 4 bước, lưu vào file thứ 5 (`05-passed-champions.md`).
 | Đợt 10 | 91 - 100 | DIG, DLG, DMC, DMX, DPG, DPM, DPR, DQC, DRC, DRH | 4 (DIG, DLG, DPG, DRH) | 0 | 0 | 1 (DQC) | 5 (DMC, DMX, DPM, DPR, DRC) | 13/09/2026 |
+| Đợt 11 | 101 - 110 | DRL, DSC, DSE, DSN, DTA, DTL, DTT, DVP, DXG, DXS | 4 (DTA, DTL, DXG, DXS) | 0 | 0 | 3 (DSC, DSE, DTT) | 3 (DRL, DSN, DVP) | 13/09/2026 |

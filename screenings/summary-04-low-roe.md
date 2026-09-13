@@ -27,4 +27,7 @@
 | 17 | **DBT** | CTCP Dược phẩm Bến Tre | Phân phối dược phẩm miền Tây | 4.6%, 6.8%, 6.0%, 6.5%, 5.1% | **~5.8%** | Phân phối trung gian | Phân phối dược phẩm biên ròng mỏng (~1.2%), ROE 5 năm chỉ quanh 5-6% < 10% | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md#dbt) |
 | 18 | **DCL** | CTCP Dược phẩm Cửu Long | Thuốc tân dược & nang Capsule | 6.8%, 8.4%, 5.0%, 4.3%, 3.6% | **~5.6%** | Nang rỗng Capsule | Chi phí bán hàng và lãi vay lớn, ROE 5 năm suy giảm liên tục < 8.5% | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md#dcl) |
 | 19 | `DQC` | CTCP Bóng đèn Điện Quang | HOSE | Hàng tiêu dùng / Thiết bị điện | 1.71% | 2.30% | ~1.8% | -3.82% | -15.74% | Cạnh tranh khốc liệt thiết bị LED, biên ròng âm, ROE 5 năm < 3% và lỗ nặng | 13/09/2026 |
+| 20 | `DSC` | CTCP Chứng khoán DSC | HOSE | Dịch vụ chứng khoán | ~1.5% | ~3.5% | ~3.8% | 5.37% | 7.36% | Tăng vốn nhanh hơn tăng trưởng lợi nhuận, ROE 5 năm < 8% | 13/09/2026 |
+| 21 | `DSE` | CTCP Chứng khoán DNSE | HOSE | Chứng khoán số | 1.30% | ~2.5% | 3.70% | 6.93% | 4.51% | Cạnh tranh Zero-fee xói mòn biên ròng, chi phí marketing cao, ROE < 7% | 13/09/2026 |
+| 22 | `DTT` | CTCP Kỹ nghệ Đô Thành | HOSE | Nhựa & Bao bì công nghiệp | 7.00% | 2.86% | ~5.5% | 6.53% | 8.51% | Bao bì nhựa biên mỏng, giá hạt nhựa biến động, ROE 5 năm liên tục < 9% | 13/09/2026 |
 

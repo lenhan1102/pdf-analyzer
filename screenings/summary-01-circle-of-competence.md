@@ -28,4 +28,8 @@
 | 18 | `DLG` | CTCP Tập đoàn Đức Long Gia Lai | HOSE | Bất động sản & Xây dựng hạ tầng | Đầu tư dàn trải đa ngành kém hiệu quả, BĐS & BOT giao thông nợ đọng lớn | 13/09/2026 |
 | 19 | `DPG` | CTCP Tập đoàn Đạt Phương | HOSE | Xây lắp hạ tầng & BĐS dân dụng | Thi công xây lắp cầu đường biên mỏng, BĐS nghỉ dưỡng Hội An chu kỳ đóng băng | 13/09/2026 |
 | 20 | `DRH` | CTCP DRH Holdings | HOSE | Bất động sản dân dụng & Đầu tư tài chính | BĐS chung cư đình trệ, đầu cơ tài chính thua lỗ triền miên, kiểm toán nghi ngờ HĐLT | 13/09/2026 |
+| 21 | `DTA` | CTCP Đệ Tam | HOSE | Bất động sản dân dụng | Dự án KĐT Nhơn Trạch vướng pháp lý, đóng băng thanh khoản, ROE < 1% | 13/09/2026 |
+| 22 | `DTL` | CTCP Đại Thiên Lộc | HOSE | Thép & Tôn mạ xây dựng | VLXD tôn mạ đại trà, cạnh tranh gay gắt, chu kỳ thép biến động âm nặng | 13/09/2026 |
+| 23 | `DXG` | CTCP Tập đoàn Đất Xanh | HOSE | Bất động sản dân dụng | Dự án Gem Sky World tắc pháp lý, đòn bẩy nợ cao, dòng tiền âm, ROE 1% | 13/09/2026 |
+| 24 | `DXS` | CTCP Dịch vụ Bất động sản Đất Xanh | HOSE | Môi giới Bất động sản | Môi giới BĐS dân dụng phụ thuộc thanh khoản đất nền, nợ hoa hồng, ROE suy kiệt | 13/09/2026 |
 

@@ -201,3 +201,47 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
   - Doanh nghiệp **bất động sản dân dụng đầu cơ**, nằm ngoài Vòng tròn năng lực.
   - Tình hình tài chính sa sút nghiêm trọng: Dòng tiền kinh doanh tắc nghẽn, các dự án chung cư vướng mắc bàn giao, doanh thu teo tóp chỉ vài tỷ đồng trong khi gánh nặng chi phí lãi vay đẩy công ty thua lỗ nặng nề 2 năm liên tiếp 2023-2024 (lỗ hàng trăm tỷ đồng), đơn vị kiểm toán đưa ra nghi ngờ về khả năng hoạt động liên tục.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 21. DTA - Công ty Cổ phần Đệ Tam
+- **Mã cổ phiếu:** `DTA` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Hoạt động kinh doanh chính:** Đầu tư phát triển các dự án bất động sản nhà ở dân dụng, khu đô thị (KĐT Detaco Nhơn Trạch - Đồng Nai, chung cư Happy Home).
+- **Lý do loại trừ tại Bước 1:**
+  - Hoạt động kinh doanh cốt lõi là **đầu tư phát triển bất động sản dân dụng và phân lô đất nền**, nằm ngoài Vòng tròn năng lực theo quy chuẩn hệ thống.
+  - Quỹ đất tập trung tại vùng phụ cận sốt đất ảo (Nhơn Trạch), vướng mắc pháp lý và thanh khoản đóng băng nhiều năm khiến doanh thu teo tóp, dòng tiền kiệt quệ, ROE nhiều năm liền dưới 1%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 22. DTL - Công ty Cổ phần Đại Thiên Lộc
+- **Mã cổ phiếu:** `DTL` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Nguyên vật liệu / Thép & Tôn mạ
+- **Hoạt động kinh doanh chính:** Sản xuất tôn mạ kẽm, tôn mạ màu, thép ống, xà gồ thép phục vụ ngành xây dựng.
+- **Lý do loại trừ tại Bước 1:**
+  - Doanh nghiệp sản xuất **vật liệu xây dựng kim loại (tôn mạ thép) đại trà**, nằm ngoài Vòng tròn năng lực theo quy chuẩn loại trừ VLXD thông thường.
+  - Hoạt động kinh doanh mang tính chu kỳ cao, chịu cạnh tranh dữ dội từ các ông lớn đầu ngành (Hoa Sen, Tôn Đông Á, Nam Kim) và thép giá rẻ nhập khẩu, biên lợi nhuận ròng mỏng và biến động thất thường (năm 2023 lỗ nặng -20.67% ROE).
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 23. DXG - Công ty Cổ phần Tập đoàn Đất Xanh
+- **Mã cổ phiếu:** `DXG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Hoạt động kinh doanh chính:** Đầu tư phát triển các dự án bất động sản nhà ở dân dụng, căn hộ chung cư (Gem Sky World Long Thành, Opal Skyline, DatxanhHomes Riverside) và phân phối môi giới bất động sản.
+- **Lý do loại trừ tại Bước 1:**
+  - Hoạt động cốt lõi là **phát triển bất động sản nhà ở dân dụng và phân lô đất nền**, nằm ngoài Vòng tròn năng lực.
+  - Phụ thuộc nặng nề vào đòn bẩy tài chính nợ vay/trái phiếu, các đại dự án gặp vướng mắc thanh tra pháp lý kéo dài (Gem Sky World), dòng tiền kinh doanh âm, hiệu quả sinh lời trên vốn sụt giảm nghiêm trọng (ROE 2023-2024 chỉ đạt 1.2% - 1.7%).
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 24. DXS - Công ty Cổ phần Dịch vụ Bất động sản Đất Xanh
+- **Mã cổ phiếu:** `DXS` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Hoạt động kinh doanh chính:** Cung cấp dịch vụ môi giới, tiếp thị và phân phối các dự án bất động sản dân dụng sơ cấp và thứ cấp trên toàn quốc (Dat Xanh Services).
+- **Lý do loại trừ tại Bước 1:**
+  - Hoạt động kinh doanh gắn chặt 100% với **thị trường môi giới bất động sản dân dụng**, nằm ngoài Vòng tròn năng lực.
+  - Mô hình kinh doanh phụ thuộc vào tính thanh khoản của thị trường bất động sản; khi thị trường đóng băng, doanh thu sụt giảm mạnh, công nợ phí môi giới khó thu hồi, năm 2023 thua lỗ (-2.07%) và năm 2024 ROE chỉ đạt 1.69%.
+- **Ngày Phân Tích:** 13/09/2026

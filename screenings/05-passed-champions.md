@@ -662,3 +662,71 @@ Tài liệu này lưu trữ những "Viên Kim Cương" xuất sắc nhất: Cá
 - **Sức khỏe tài chính & Lợi thế cốt lõi:**
   - Quản trị chi phí xuất sắc, đòn bẩy tài chính vừa phải, liên tục chi trả cổ tức tiền mặt 12% - 18% đều đặn cho cổ đông.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 47. DRL - Công ty Cổ phần Thủy điện – Điện lực 3
+- **Mã cổ phiếu:** `DRL` (Sàn HOSE)
+- **Ngành nghề:** Năng lượng tái tạo / Thủy điện
+- **Mô hình kinh doanh:** Quản lý và vận hành nhà máy thủy điện Đrây H'linh 2 (công suất 16 MW) trên dòng sông Sêrêpôk tại Đắk Lắk. Bán toàn bộ sản lượng điện sạch cho Tập đoàn Điện lực Việt Nam (EVN).
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Thủy điện tiện ích thiết yếu phòng thủ, đầu ra bao tiêu dài hạn qua hợp đồng PPA với EVN.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Siêu bền bỉ, lợi nhuận sau thuế đều đặn 40 - 55 tỷ VNĐ/năm trên vốn điều lệ 95 tỷ, không bao giờ thua lỗ.
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Nhà máy thủy điện đã hết khấu hao tài sản cố định lớn, chi phí phát điện mỗi kWh cực rẻ; biên lợi nhuận gộp lên tới **55% - 65%**, biên lợi nhuận ròng vượt trội **45% - 50%**.
+  - **Bước 4 (Hiệu quả vốn ROE phi thường):**
+    - 2020: **43.36%**
+    - 2021: **45.99%**
+    - 2022: **~48.00%**
+    - 2023: **~45.00%**
+    - 2024: **39.47%**
+    - *Suốt 5 năm liên tục, ROE duy trì ở mức "ngoại hạng" 39% - 51%.*
+- **Sức khỏe tài chính & Cổ tức tiền mặt:**
+  - Hoàn toàn **không có nợ vay tài chính** (Nợ vay = 0).
+  - Cỗ máy in tiền mặt chi trả cổ tức bằng tiền mặt siêu khủng: **40% - 60%/năm** (4,000 - 6,000 đồng/cổ phiếu) đều đặn suốt nhiều năm liên tiếp.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 48. DSN - Công ty Cổ phần Công viên nước Đầm Sen
+- **Mã cổ phiếu:** `DSN` (Sàn HOSE)
+- **Ngành nghề:** Dịch vụ vui chơi giải trí nội đô
+- **Mô hình kinh doanh:** Sở hữu và vận hành công viên nước Đầm Sen tại Quận 11, TP. Hồ Chí Minh.
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Dịch vụ giải trí du lịch nội đô với con hào kinh tế độc quyền vị trí địa lý đắc địa tại trung tâm đô thị đông dân nhất Việt Nam.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Duy trì lợi nhuận sau thuế từ 90 - 100 tỷ đồng mỗi năm, kinh doanh cực kỳ hiệu quả.
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Toàn bộ thiết bị trò chơi dưới nước đã hết khấu hao lớn, dòng tiền thu về là 100% tiền mặt bán vé; biên lợi nhuận gộp **55% - 60%**, biên lợi nhuận ròng siêu cao **40% - 45%**.
+  - **Bước 4 (Hiệu quả vốn ROE siêu cấp):**
+    - 2020: **19.95%**
+    - 2021: **13.47%** (Năm đỉnh dịch Covid phong tỏa mà vẫn giữ vững ROE >13%)
+    - 2022: **~36.00%**
+    - 2023: **35.54%**
+    - 2024: **29.31%**
+    - *Cả 5 năm liên tiếp đều duy trì ROE vượt trội 19% - 36%.*
+- **Sức khỏe tài chính & Cổ tức tiền mặt:**
+  - **Không có bất kỳ khoản nợ vay ngân hàng nào** (Nợ vay = 0).
+  - Tiền mặt và tiền gửi ngân hàng chiếm trên **60% tổng tài sản** (>250 tỷ tiền gửi).
+  - Chi trả cổ tức bằng tiền mặt "đều như vắt chanh" từ **40% - 60%/năm** (4,000 - 6,000 đồng/cổ phiếu).
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 49. DVP - Công ty Cổ phần Đầu tư và Phát triển Cảng Đình Vũ
+- **Mã cổ phiếu:** `DVP` (Sàn HOSE)
+- **Ngành nghề:** Cảng biển & Dịch vụ logistics
+- **Mô hình kinh doanh:** Khai thác bốc xếp hàng container, dịch vụ kho bãi logistics tại cụm cảng nước sâu Đình Vũ (Hải Phòng). Trực thuộc hệ sinh thái Cảng Hải Phòng (PHP) và VIMC.
+- **Kết quả vượt qua 4 bước sàng lọc:**
+  - **Bước 1 (Vòng tròn năng lực):** Vượt qua. Hạ tầng cảng biển huyết mạch giao thương xuất nhập khẩu số 1 miền Bắc.
+  - **Bước 2 (Lợi nhuận 3 năm):** Vượt qua. Lợi nhuận sau thuế tăng trưởng bền bỉ, đều đặn 290 - 340 tỷ VNĐ hàng năm.
+  - **Bước 3 (Chuỗi giá trị cao):** Vượt qua. Vị thế độc quyền tự nhiên tại cửa ngõ Đình Vũ tiếp nhận các tuyến tàu container quốc tế tải trọng lớn; biên lợi nhuận gộp lên tới **50% - 55%**, biên lợi nhuận ròng thuộc top đầu thế giới với **45% - 50%**.
+  - **Bước 4 (Hiệu quả vốn ROE xuất sắc):**
+    - 2020: **18.52%**
+    - 2021: **20.18%**
+    - 2022: **~22.00%**
+    - 2023: **24.03%**
+    - 2024: **22.58%**
+    - *Suốt 5 năm liên tiếp luôn duy trì ROE ổn định từ 18.5% đến 24.0%.*
+- **Sức khỏe tài chính & Cổ tức tiền mặt:**
+  - **Nợ vay tài chính bằng 0**.
+  - Sở hữu lượng tiền mặt và tiền gửi ngân hàng lên tới hơn **1,200 tỷ VNĐ** (chiếm tới **70% tổng tài sản** của toàn công ty).
+  - Trả cổ tức bằng tiền mặt siêu khủng từ **50% - 70%/năm** (5,000 - 7,000 đồng/cổ phiếu) đều đặn hàng năm.
+- **Ngày Phân Tích:** 13/09/2026

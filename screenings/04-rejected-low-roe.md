@@ -244,3 +244,55 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
   - Tuy nhiên tại Bước 4, DQC có **hiệu quả sử dụng vốn cực kỳ yếu kém với ROE 5 năm liên tiếp từ 2020 đến 2024 đều nằm dưới 3%, thậm chí thua lỗ âm nặng trong 2 năm gần nhất**.
   - Doanh nghiệp bị cạnh tranh khốc liệt bởi các sản phẩm đèn LED giá rẻ của Trung Quốc và đối thủ lớn Rạng Đông (RAL), thị phần suy giảm, không duy trì được tỷ suất sinh lời tối thiểu 10%.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 20. DSC - Công ty Cổ phần Chứng khoán DSC
+- **Mã cổ phiếu:** `DSC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Tài chính / Chứng khoán & Đầu tư
+- **Hoạt động kinh doanh chính:** Dịch vụ môi giới chứng khoán, tư vấn đầu tư tài chính, cho vay giao dịch ký quỹ (margin).
+- **Thống kê ROE qua các năm:**
+  - Năm 2020: ROE = **~1.50%**
+  - Năm 2021: ROE = **~3.50%**
+  - Năm 2022: ROE = **~3.80%**
+  - Năm 2023: ROE = **5.37%**
+  - Năm 2024: ROE = **7.36%**
+- **Lý do loại trừ tại Bước 4:**
+  - Doanh nghiệp hoàn thành Bước 1, Bước 2 và Bước 3.
+  - Tuy nhiên tại Bước 4, DSC có **hiệu quả sử dụng vốn liên tục dưới 10% trong suốt 5 năm gần nhất**. Mặc dù có sự tham gia của Tập đoàn Thành Công (TC Group) tái cấu trúc và tăng vốn điều lệ, tốc độ mở rộng vốn nhanh hơn tốc độ tăng trưởng lợi nhuận khiến ROE chỉ dao động từ 1.5% đến 7.4%, chưa đạt chuẩn hiệu quả vốn tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 21. DSE - Công ty Cổ phần Chứng khoán DNSE
+- **Mã cổ phiếu:** `DSE` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Tài chính / Chứng khoán công nghệ
+- **Hoạt động kinh doanh chính:** Môi giới chứng khoán trên nền tảng số Entrade X, cho vay ký quỹ margin theo từng lệnh (Margin Deal), tư vấn tài chính.
+- **Thống kê ROE qua các năm:**
+  - Năm 2020: ROE = **1.30%**
+  - Năm 2021: ROE = **~2.50%**
+  - Năm 2022: ROE = **3.70%**
+  - Năm 2023: ROE = **6.93%**
+  - Năm 2024: ROE = **4.51%**
+- **Lý do loại trừ tại Bước 4:**
+  - Vượt qua Bước 1, Bước 2 và Bước 3.
+  - Tại Bước 4, DNSE có **ROE 5 năm liên tục nằm dưới mức 7% (dao động từ 1.3% đến 6.9% < 10%)**. Chiến lược cạnh tranh miễn phí giao dịch (Zero-fee) làm xói mòn biên lợi nhuận mảng môi giới, trong khi chi phí công nghệ và tiếp thị số lớn khiến tỷ suất sinh lời trên vốn chủ sở hữu không thể chạm mốc 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 22. DTT - Công ty Cổ phần Kỹ nghệ Đô Thành
+- **Mã cổ phiếu:** `DTT` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Nguyên vật liệu / Nhựa & Bao bì
+- **Hoạt động kinh doanh chính:** Sản xuất kinh doanh các sản phẩm bao bì nhựa, chai nhựa, nắp nút, ống nhựa định hình kỹ thuật.
+- **Thống kê ROE qua các năm:**
+  - Năm 2020: ROE = **7.00%**
+  - Năm 2021: ROE = **2.86%**
+  - Năm 2022: ROE = **~5.50%**
+  - Năm 2023: ROE = **6.53%**
+  - Năm 2024: ROE = **8.51%**
+  - *Giai đoạn trước đó (2018 - 2019): ROE chỉ đạt 4.21% và 6.07%*
+- **Lý do loại trừ tại Bước 4:**
+  - Doanh nghiệp hoàn thành 3 bước đầu tiên (không lỗ, sản xuất bao bì nhựa kỹ thuật).
+  - Tuy nhiên tại Bước 4, DTT có **hiệu quả sử dụng vốn ROE suốt 5 năm liên tục (và cả 7 năm liền) chưa từng có năm nào đạt ngưỡng 10%**. Biên lợi nhuận ròng mỏng, áp lực chi phí hạt nhựa đầu vào và cạnh tranh ngành nhựa bao bì khiến tỷ suất sinh lời trên vốn teo tóp.
+- **Ngày Phân Tích:** 13/09/2026

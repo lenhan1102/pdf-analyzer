@@ -54,4 +54,7 @@
 | 44 | `DPM` | Tổng CTCP Phân bón và Hóa chất Dầu khí (Đạm Phú Mỹ) | HOSE | Phân bón & Hóa chất | 4.8% (2021-22: 25-29%) | ~0.80 | Vua phân đạm Việt Nam, sở hữu >6,000 tỷ tiền mặt, nợ dài hạn bằng 0, cổ tức tiền mặt cao | 13/09/2026 |
 | 45 | `DPR` | CTCP Cao su Đồng Phú | HOSE | Cao su & BĐS KCN | 8.1% (2021: 15.7%) | ~1.35 | Chuỗi cao su khép kín + quỹ đất chuyển đổi KCN giá vốn 0đ, >1,500 tỷ tiền mặt, cổ tức 20-30% | 13/09/2026 |
 | 46 | `DRC` | CTCP Cao su Đà Nẵng | HOSE | Săm lốp xe tải ô tô | ~12.1% (5 năm: 12-16.5%) | ~0.62 | Vua lốp Radial xe tải VN xuất khẩu Mỹ/Brazil, ROE 5 năm luôn >12%, cổ tức tiền mặt bền vững | 13/09/2026 |
+| 47 | `DRL` | CTCP Thủy điện – Điện lực 3 | HOSE | Thủy điện | ~39.5% (5 năm: 39-51%) | ~3.48 | Đrây H'linh 2 hết khấu hao, biên ròng >45%, nợ vay 0đ, ROE 39-51%, cổ tức 40-60% tiền mặt | 13/09/2026 |
+| 48 | `DSN` | CTCP Công viên nước Đầm Sen | HOSE | Vui chơi giải trí nội đô | ~29.3% (5 năm: 19-36%) | ~1.40 | Độc quyền công viên nước nội đô TP.HCM, nợ vay 0đ, tiền gửi chiếm 60% TS, cổ tức 40-60% | 13/09/2026 |
+| 49 | `DVP` | CTCP Đầu tư và Phát triển Cảng Đình Vũ | HOSE | Cảng biển container | ~22.6% (5 năm: 18.5-24%) | ~1.98 | Cảng container cửa ngõ Hải Phòng, biên ròng 45-50%, tiền gửi >1,200 tỷ (70% TS), cổ tức 50-70% | 13/09/2026 |
 

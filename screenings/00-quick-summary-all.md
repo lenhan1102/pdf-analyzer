@@ -119,4 +119,14 @@
 | 98 | `DQC` | CTCP Bóng đèn Điện Quang | HOSE | Hàng tiêu dùng / Thiết bị điện | ❌ Rớt B4 | Cạnh tranh khốc liệt thiết bị LED Trung Quốc, ROE 5 năm <3% & lỗ nặng | [04-rejected](04-rejected-low-roe.md) |
 | 99 | `DRC` | CTCP Cao su Đà Nẵng | HOSE | Công nghiệp / Săm lốp | 🏆 Vượt B4 | Vua lốp Radial xe tải VN xuất khẩu Mỹ/Brazil, ROE 12-16.5% suốt 5 năm | [05-passed](05-passed-champions.md) |
 | 100 | `DRH` | CTCP DRH Holdings | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | BĐS dân dụng đình trệ, đầu cơ tài chính lỗ triền miên, nguy cơ phá sản | [01-rejected](01-rejected-circle-of-competence.md) |
+| 101 | `DRL` | CTCP Thủy điện – Điện lực 3 | HOSE | Năng lượng / Thủy điện | 🏆 Vượt B4 | Nhà máy hết khấu hao, biên ròng 45%, sạch nợ, ROE 39-51%, cổ tức 40-60% | [05-passed](05-passed-champions.md) |
+| 102 | `DSC` | CTCP Chứng khoán DSC | HOSE | Tài chính / Chứng khoán | ❌ Rớt B4 | Tăng vốn nhanh hơn lợi nhuận, ROE 5 năm chỉ 1.5% - 7.4% < 10% | [04-rejected](04-rejected-low-roe.md) |
+| 103 | `DSE` | CTCP Chứng khoán DNSE | HOSE | Tài chính / Chứng khoán số | ❌ Rớt B4 | Cạnh tranh Zero-fee xói mòn biên ròng, marketing cao, ROE 5 năm < 7% | [04-rejected](04-rejected-low-roe.md) |
+| 104 | `DSN` | CTCP Công viên nước Đầm Sen | HOSE | Dịch vụ giải trí | 🏆 Vượt B4 | Độc quyền công viên nước trung tâm TP.HCM, sạch nợ, ROE 19-36%, cổ tức 40-60% | [05-passed](05-passed-champions.md) |
+| 105 | `DTA` | CTCP Đệ Tam | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Dự án KĐT Nhơn Trạch vướng pháp lý, đóng băng thanh khoản, ROE < 1% | [01-rejected](01-rejected-circle-of-competence.md) |
+| 106 | `DTL` | CTCP Đại Thiên Lộc | HOSE | Nguyên vật liệu / Thép | ❌ Rớt B1 | VLXD tôn mạ đại trà, chu kỳ thép khốc liệt, năm 2023 thua lỗ nặng | [01-rejected](01-rejected-circle-of-competence.md) |
+| 107 | `DTT` | CTCP Kỹ nghệ Đô Thành | HOSE | Nguyên vật liệu / Nhựa bao bì | ❌ Rớt B4 | Bao bì chai nhựa biên mỏng, giá hạt nhựa biến động, ROE 5 năm < 9% | [04-rejected](04-rejected-low-roe.md) |
+| 108 | `DVP` | CTCP Đầu tư và Phát triển Cảng Đình Vũ | HOSE | Công nghiệp / Cảng biển | 🏆 Vượt B4 | Cảng biển nước sâu Hải Phòng, biên ròng 45-50%, tiền gửi >1,200 tỷ, cổ tức 50-70% | [05-passed](05-passed-champions.md) |
+| 109 | `DXG` | CTCP Tập đoàn Đất Xanh | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | BĐS dân dụng Gem Sky World tắc pháp lý, đòn bẩy nợ cao, dòng tiền âm | [01-rejected](01-rejected-circle-of-competence.md) |
+| 110 | `DXS` | CTCP Dịch vụ Bất động sản Đất Xanh | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Môi giới BĐS dân dụng phụ thuộc thanh khoản đất nền, nợ hoa hồng, ROE suy kiệt | [01-rejected](01-rejected-circle-of-competence.md) |
 
