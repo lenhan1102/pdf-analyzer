@@ -2344,3 +2344,237 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 - **Lý do loại trừ tại Bước 4:**
   - ROE trong suốt 5 năm gần nhất (0.1%, -2.1%, 0.6%, -3.1%) đều nằm dưới ngưỡng tối thiểu 10%.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 242. HTM - Tổng Công ty Thương mại Hà Nội - CTCP
+- **Mã cổ phiếu:** `HTM` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.1%, 0.0%, -1.4%, -1.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 243. HTP - Công ty Cổ phần In sách giáo khoa Hòa Phát
+- **Mã cổ phiếu:** `HTP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.8%, 2.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 244. HVA - Công ty cổ phần Đầu tư HVA
+- **Mã cổ phiếu:** `HVA` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (5.3%, 5.9%, 3.9%, 0.4%, 5.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 245. ICF - Công ty Cổ phần Đầu tư Thương mại Thủy Sản
+- **Mã cổ phiếu:** `ICF` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-5.9%, -1.1%, 0.3%, 0.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 246. ILA - Công ty Cổ phần ILA
+- **Mã cổ phiếu:** `ILA` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (5.7%, 5.7%, 2.7%, -1.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 247. ILS - Công ty Cổ phần Đầu tư Thương mại và Dịch vụ Quốc tế
+- **Mã cổ phiếu:** `ILS` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-0.8%, 0.9%, 4.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 248. IRC - Công ty Cổ phần Cao su Công nghiệp
+- **Mã cổ phiếu:** `IRC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (8.2%, 7.1%, 3.5%, 7.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 249. ITS - Công ty cổ phần Đầu tư, Thương mại và Dịch vụ - Vinacomin
+- **Mã cổ phiếu:** `ITS` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (3.8%, 4.2%, 1.5%, 1.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 250. KCE - Công ty Cổ phần Bê tông Ly tâm Điện lực Khánh Hòa
+- **Mã cổ phiếu:** `KCE` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (8.5%, 3.5%, 6.2%, 9.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 251. KGM - Công ty Cổ phần Xuất nhập khẩu Kiên Giang
+- **Mã cổ phiếu:** `KGM` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (8.5%, 5.1%, 4.6%, 2.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 252. KIP - Công ty Cổ phần K.I.P Việt Nam
+- **Mã cổ phiếu:** `KIP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.0%, 4.6%, 3.5%, 5.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 253. KLF - Công ty Cổ phần Đầu tư Thương mại và Xuất nhập khẩu CFS
+- **Mã cổ phiếu:** `KLF` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.1%, 0.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 254. KSQ - Công ty cổ phần CNC Capital Việt Nam
+- **Mã cổ phiếu:** `KSQ` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (2.1%, 1.2%, 3.0%, -1.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 255. KTC - Công ty Cổ phần Thương mại Kiên Giang
+- **Mã cổ phiếu:** `KTC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (9.5%, 6.3%, 6.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 256. KVC - CTCP Sản xuất Xuất nhập khẩu Inox Kim Vĩ
+- **Mã cổ phiếu:** `KVC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-7.8%, -6.8%, -3.0%, -0.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 257. LCM - Công ty Cổ phần Khai thác và Chế biến Khoáng sản Lào Cai
+- **Mã cổ phiếu:** `LCM` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-0.5%, 2.6%, 1.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 258. LEC - Công ty Cổ phần Bất động sản Điện lực Miền Trung
+- **Mã cổ phiếu:** `LEC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.0%, 0.6%, -5.4%, -11.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 259. LLM - Tổng Công ty Lắp máy Việt Nam - CTCP
+- **Mã cổ phiếu:** `LLM` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (5.3%, 1.4%, 0.5%, 9.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 260. LNC - Công ty cổ phần Lệ Ninh
+- **Mã cổ phiếu:** `LNC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.9%, 1.0%, 1.0%, 1.4%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 261. LTC - Công ty cổ phần Điện nhẹ Viễn thông
+- **Mã cổ phiếu:** `LTC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-11.8%, -9.7%, 1.3%, -6.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 262. MBN - Công ty cổ phần Môi trường và Công trình Đô thị Bắc Ninh
+- **Mã cổ phiếu:** `MBN` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.2%, 3.3%, 0.9%, -3.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 263. MES - Công ty cổ phần Cơ điện Công trình
+- **Mã cổ phiếu:** `MES` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-4.9%, -0.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 264. MGC - Công ty cổ phần Địa chất mỏ - TKV
+- **Mã cổ phiếu:** `MGC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.7%, 2.4%, 5.0%, 2.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 265. MIE - Tổng Công ty Máy và Thiết bị Công nghiệp - CTCP
+- **Mã cổ phiếu:** `MIE` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.4%, 0.0%, 0.5%, 0.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 266. MKP - Công ty Cổ phần Hóa - Dược phẩm Mekophar
+- **Mã cổ phiếu:** `MKP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Y tế
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (3.1%, 1.3%, 2.0%, 3.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 267. MPT - Công ty cổ phần Tập đoàn Trường Tiền
+- **Mã cổ phiếu:** `MPT` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-0.6%, -1.4%, -10.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026

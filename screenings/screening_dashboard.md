@@ -12,7 +12,7 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (90 Mã Đầu Tiên)
     "Rớt Bước 2 (Lỗ 3 năm)" : 1
     "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 14
     "Rớt Bước 4 (ROE 5 năm < 10%)" : 18
-    "🏆 Đạt Chuẩn File 5" : 515
+    "🏆 Đạt Chuẩn File 5" : 552
 ```
 
 - **Tổng số mã đã kiểm tra:** **90** doanh nghiệp
@@ -158,3 +158,4 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (90 Mã Đầu Tiên)
 | Đợt 23 | 751 - 850 | AVC, AVG, BAL, BBH, BBM... | 27 | 0 | 0 | 27 | 46 | 13/09/2026 |
 | Đợt 24 | 851 - 950 | CMK, CMM, CMN, CMP, CMW... | 28 | 0 | 0 | 30 | 42 | 13/09/2026 |
 | Đợt 25 | 951 - 1050 | F88, FBC, FCC, FCS, FGL... | 21 | 0 | 1 | 30 | 48 | 13/09/2026 |
+| Đợt 26 | 1051 - 1150 | HTM, HTP, HTT, HU3, HU4... | 36 | 0 | 1 | 26 | 37 | 13/09/2026 |

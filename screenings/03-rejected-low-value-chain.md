@@ -157,3 +157,12 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ ba: 
 - **Lý do loại trừ tại Bước 3:**
   - Doanh nghiệp thương mại gia công trung gian đáy chuỗi giá trị biên mỏng, P/B (0.55) >= 0.5.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 16. KTL - CTCP Kim khí Thăng Long
+- **Mã cổ phiếu:** `KTL` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 3:**
+  - Doanh nghiệp thương mại gia công trung gian đáy chuỗi giá trị biên mỏng, P/B (0.97) >= 0.5.
+- **Ngày Phân Tích:** 13/09/2026
