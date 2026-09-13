@@ -2947,3 +2947,237 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 - **Lý do loại trừ tại Bước 4:**
   - ROE trong suốt 5 năm gần nhất (6.9%, 6.9%, 7.5%, 6.9%) đều nằm dưới ngưỡng tối thiểu 10%.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 309. PSP - Công ty Cổ phần Cảng dịch vụ Dầu khí Đình Vũ
+- **Mã cổ phiếu:** `PSP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.3%, 2.0%, 1.9%, 1.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 310. PTH - Công ty Cổ phần Vận tải và Dịch vụ Petrolimex Hà Tây
+- **Mã cổ phiếu:** `PTH` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (7.3%, 9.1%, 6.2%, 8.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 311. PTP - Công ty Cổ phần Dịch vụ Viễn thông và In Bưu điện
+- **Mã cổ phiếu:** `PTP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (6.4%, 4.2%, 3.5%, 4.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 312. PTV - Công ty cổ phần Thương mại Dầu khí
+- **Mã cổ phiếu:** `PTV` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-0.6%, -0.1%, -0.9%, 0.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 313. PVO - CTCP Dầu nhờn PV Oil
+- **Mã cổ phiếu:** `PVO` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.4%, 0.2%, 1.3%, 1.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 314. PWS - Công ty Cổ phần Cấp thoát nước Phú Yên
+- **Mã cổ phiếu:** `PWS` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.9%, 7.0%, 8.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 315. PXL - Tổng Công ty cổ phần Đầu tư và Phát triển KCN Dầu khí-Long Sơn
+- **Mã cổ phiếu:** `PXL` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.0%, 1.8%, 0.1%, 0.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 316. QBS - Công ty Cổ phần Xuất nhập khẩu Quảng Bình
+- **Mã cổ phiếu:** `QBS` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-15.7%, 0.1%, -9.2%, -46.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 317. RAT - CTCP Vận tải và Thương mại Đường sắt
+- **Mã cổ phiếu:** `RAT` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (2.4%, 8.8%, -12.6%, 5.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 318. RBC - CTCP Công nghiệp và Xuất nhập khẩu Cao Su
+- **Mã cổ phiếu:** `RBC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.9%, 1.8%, 2.2%, 2.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 319. RIC - Công ty Cổ phần Quốc tế Hoàng Gia
+- **Mã cổ phiếu:** `RIC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-10.2%, -15.0%, -18.2%, -4.9%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 320. SAC - Công ty Cổ phần Xếp dỡ và Dịch vụ Cảng Sài Gòn
+- **Mã cổ phiếu:** `SAC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.8%, 8.4%, 5.2%, 9.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 321. SAL - Công ty Cổ phần Trục vớt cứu hộ Việt Nam
+- **Mã cổ phiếu:** `SAL` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (5.2%, 6.9%, 4.9%, 5.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 322. SAP - Công ty Cổ phần In Sách giáo khoa tại Tp.Hồ Chí Minh
+- **Mã cổ phiếu:** `SAP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-8.8%, -8.4%, 2.6%, -63.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 323. SB1 - Công ty cổ phần Bia Sài Gòn - Nghệ Tĩnh
+- **Mã cổ phiếu:** `SB1` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (2.0%, -7.8%, 8.2%, 8.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 324. SBB - Công ty cổ phần Tập đoàn Bia Sài Gòn Bình Tây
+- **Mã cổ phiếu:** `SBB` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-8.6%, -27.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 325. SBD - Công ty Cổ phần Công nghệ Sao Bắc Đẩu
+- **Mã cổ phiếu:** `SBD` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghệ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (8.5%, 7.7%, 7.3%, 4.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 326. SBL - Công ty Cổ phần Bia Sài Gòn - Bạc Liêu
+- **Mã cổ phiếu:** `SBL` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (1.4%, 0.1%, 2.6%, 1.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 327. SBR - Công ty cổ phần Cao su Sông Bé
+- **Mã cổ phiếu:** `SBR` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.2%, 7.3%, 6.8%, -0.7%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 328. SBS - Công ty Cổ phần Chứng khoán SBS
+- **Mã cổ phiếu:** `SBS` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-7.5%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 329. SCO - Công ty Cổ phần Công nghiệp Thủy sản
+- **Mã cổ phiếu:** `SCO` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.2%, -1.6%, -11.0%, -2.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 330. SEA - Tổng công ty Thủy sản Việt Nam – CTCP
+- **Mã cổ phiếu:** `SEA` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (9.2%, 6.6%, 9.9%, 7.1%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 331. SGB - Ngân hàng TMCP Sài Gòn Công thương
+- **Mã cổ phiếu:** `SGB` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (2.7%, 3.3%, 4.9%, 0.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 332. SID - Công ty Cổ phần Đầu tư Phát triển Sài Gòn Co.op
+- **Mã cổ phiếu:** `SID` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (3.0%, 1.4%, 0.1%, 2.8%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 333. SJF - CTCP Đầu tư Sao Thái Dương
+- **Mã cổ phiếu:** `SJF` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-3.3%, 2.1%, -65.1%, -2.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 334. SKN - CTCP Nước giải khát Sanna Khánh Hòa
+- **Mã cổ phiếu:** `SKN` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (4.5%, 2.6%, 4.8%, 6.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
