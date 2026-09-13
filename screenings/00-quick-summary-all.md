@@ -1569,3 +1569,95 @@
 | 1548 | `XDH` | Công ty cổ phần Đầu tư Xây dưng Dân dụng Hà Nội | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
 | 1549 | `XHC` | Công ty cổ phần Xuân Hòa Việt Nam | UPCOM | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
 | 1550 | `XLV` | Công ty Cổ phần Xây lắp và Dịch vụ Sông Đà | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 1551 | `XMC` | Công ty cổ phần Đầu tư và Xây dựng Xuân Mai | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 1552 | `XMD` | Công ty cổ phần Xuân Mai - Đạo Tú | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 1553 | `XMP` | CTCP Thủy điện Xuân Minh | UPCOM | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 1554 | `XPH` | Công ty Cổ phần Xà phòng Hà Nội | UPCOM | Hàng tiêu dùng | ❌ Rớt B2 | Thua lỗ liên tiếp trong cả 3 năm tài chính gần nhất (2022-20... | [02-rejected](02-rejected-consecutive-loss.md) |
+| 1555 | `YBC` | Công ty Cổ phần Xi măng và Khoáng sản Yên Bái | UPCOM | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 1556 | `YTC` | Công ty Cổ phần Xuất nhập khẩu Y tế Thành phố Hồ Chí Minh | UPCOM | Y tế | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Y tế, hiệu quả sinh lờ... | [05-passed](05-passed-champions.md) |
+| 1557 | `24H` | CTCP Quảng cáo trực tuyến 24H | OTC | Phần mềm và dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Phần mềm và dịch vụ, h... | [05-passed](05-passed-champions.md) |
+| 1558 | `ABA` |  | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1559 | `ABF` | Công ty cổ phần Quản lý quỹ đầu tư Chứng khoán An Bình | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1560 | `AFM` | Công ty Cổ phần Quản lý quỹ AIC | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1561 | `AMY` | Công ty Cổ phần Công nghiệp Á Mỹ | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1562 | `ASC` | Công ty Cổ phần Chứng khoán ASC | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1563 | `BFI` | Công ty cổ phần Đầu tư tài chính BIDV | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1564 | `BJC` | Công Ty Cổ Phần VRG - Bảo Lộc | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1565 | `BLW` | Công ty cổ phần Cấp nước Bạc Liêu | OTC | Dịch vụ | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (7.2%, 6.7%, 8.9%) đều nằm dướ... | [04-rejected](04-rejected-low-roe.md) |
+| 1566 | `BNC` | Công ty cổ phần Dịch vụ Cáp treo Bà Nà | OTC | Dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh... | [05-passed](05-passed-champions.md) |
+| 1567 | `BTA` | CTCP Bất động sản Bình Thiên An | OTC | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 1568 | `BTJ` | CTCP Vàng bạc đá quý Bến Thành | OTC | Dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh... | [05-passed](05-passed-champions.md) |
+| 1569 | `BTL` | Công ty Cổ phần Đầu tư Địa ốc Bến Thành | OTC | Chưa phân loại | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 1570 | `BVF` | Công ty TNHH Quản lý Quỹ Bảo Việt | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1571 | `CNS` | Tổng Công ty Công nghiệp Sài Gòn - TNHH Một thành viên | OTC | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 1572 | `DAF` | Ngân hàng Thương mại cổ phần Đông Á | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1573 | `DDS` | Công ty Cổ phần Chứng khoán AIS | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1574 | `DJL` | Công ty TNHH Đầu tư Bất động sản Doji Land | OTC | Chưa phân loại | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 1575 | `DNV` | CTCP Thương mại Dịch vụ VDA Đà Nẵng | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1576 | `DTS` | CTCP Dịch Vụ Du Lịch Đà Lạt | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1577 | `DVS` | Công ty Cổ phần Thép Đình Vũ | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1578 | `DVV` | CTCP Tập đoàn truyền thông đa phương tiện Đất Việt | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1579 | `ECC` | Công ty Cổ phần Chứng khoán EUROCAPITAL | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1580 | `EPS` | Công ty Cổ Phần Chứng khoán Gia Quyền | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1581 | `EVN` | Tập đoàn Điện lực Việt Nam - Công ty TNHH MTV | OTC | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 1582 | `EWH` | CTCP EuroWindow Holding | OTC | Tài chính | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 1583 | `FHH` | CTCP Đầu tư Kinh doanh Phát triển Bất Động Sản FLCHOMES | OTC | Chưa phân loại | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 1584 | `FIS` | Công ty Cổ phần Hệ thống Thông tin FPT | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1585 | `FNS` | Công ty cổ phần Chứng khoán FUNAN | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1586 | `FTG` | Công ty cổ phần Thương mại FPT | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1587 | `GCC` | CTCP Văn hóa Tổng hợp Bến Thành | OTC | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1588 | `GDC` | CTCP Xuất Nhập khẩu Gia Định | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1589 | `GLS` | Công ty Cổ phần Chứng khoán Sen Vàng | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1590 | `GMS` | CTCP Thiết kế và gia công phần mền GMS888 | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1591 | `GSC` | Công ty cổ phần Thủy điện Geruco Sông Côn | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1592 | `HIS` | Công ty cổ phần Đầu tư phát triển thương mại tổng hợp Sơn Hà | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1593 | `HRS` | CTCP Chứng khoán Việt Nam Gateway | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1594 | `HVS` | CTCP Chứng khoán HVS Việt Nam | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1595 | `ICA` | Công ty Cổ phần Công nghệ Sinh học - Dược phẩm ICA | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1596 | `IRS` | Công ty Cổ phần Chứng khoán Quốc tế Hoàng Gia | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1597 | `ISC` | Công ty Cổ phần Chứng khoán Công Nghiệp Việt Nam | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1598 | `IVB` | Ngân hàng TNHH Indovina | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1599 | `JPA` | Công ty CP Hàng không Jetstar Pacific Airlines | OTC | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 1600 | `JSI` | Công ty cổ phần Chứng khoán Nhật Bản | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1601 | `KAL` | Công ty cổ phần Nhôm Khánh Hoà | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1602 | `KHV` | Công ty TNHH Kim Hà Việt | OTC | Nông nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 1603 | `KIS` | Công ty Cổ phần Chứng khoán KIS Việt Nam | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1604 | `KVS` | Công ty Cổ phần Chứng khoán KENANGA Việt Nam | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1605 | `LNS` | Công ty cổ phần Mía đường La Ngà | OTC | Nông nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 1606 | `LVS` | Công ty cổ phần Chứng khoán LPBank | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1607 | `MCD` | Công ty cổ phần Môi trường và Công trình đô thị Đông Hà | OTC | Dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh... | [05-passed](05-passed-champions.md) |
+| 1608 | `MHB` | Ngân hàng TMCP Phát triển nhà đồng bằng sông Cửu Long | OTC | Tài chính | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 1609 | `MLG` | Công ty Cổ phần Tập đoàn Mai Linh | OTC | Chưa phân loại | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (0.6%) đều nằm dưới ngưỡng tối... | [04-rejected](04-rejected-low-roe.md) |
+| 1610 | `MSG` | Công ty Chứng khoán JB Việt Nam | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1611 | `MSI` | Công ty Cổ phần Chứng khoán KB Việt Nam | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1612 | `MSM` | Công ty TNHH Truyền thông Megastar | OTC | Dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh... | [05-passed](05-passed-champions.md) |
+| 1613 | `NPM` | Công ty TNHH Khai thác Chế biến Khoáng sản Núi Pháo | OTC | Chưa phân loại | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (2.6%) đều nằm dưới ngưỡng tối... | [04-rejected](04-rejected-low-roe.md) |
+| 1614 | `NSI` | Công ty Cổ phần Chứng khoán Quốc gia | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1615 | `NVS` | Công ty cổ phần Chứng khoán NAVIBANK | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1616 | `OCS` | Công ty Cổ phần Chứng khoán Đại Dương | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1617 | `OMC` | Công ty Cổ phần Quản lý quỹ đầu tư Chứng khoán Phương Đông | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1618 | `OSC` | Công ty Cổ phần Chứng khoán ĐẠI TÂY DƯƠNG | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1619 | `PFI` | Công ty Cổ phần Đầu tư Tài chính Công đoàn Dầu khí | OTC | Chưa phân loại | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (-7.4%, -2.0%) đều nằm dưới ng... | [04-rejected](04-rejected-low-roe.md) |
+| 1620 | `PQG` | CTCP Đầu tư vàng Phú Quý | OTC | Dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh... | [05-passed](05-passed-champions.md) |
+| 1621 | `PVN` | Tập đoàn Công nghiệp-Năng lượng Quốc gia Việt Nam | OTC | Năng lượng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả s... | [05-passed](05-passed-champions.md) |
+| 1622 | `RTD` | CTCP Phát triển công nghệ nông thôn | OTC | Nông nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 1623 | `SBF` | Công ty Cổ phần Quản lý quỹ Sabeco | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1624 | `SCB` | Ngân hàng Thương mại Cổ phần Sài Gòn | OTC | Tài chính | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (3.2%) đều nằm dưới ngưỡng tối... | [04-rejected](04-rejected-low-roe.md) |
+| 1625 | `SEV` | Công ty TNHH Samsung Electronics Việt Nam | OTC | Công nghệ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghệ, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1626 | `SHF` | Công ty cổ phần Quản lý quỹ Đầu tư Sài Gòn - Hà Nội | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1627 | `SNP` | Công ty TNHH MTV - Tổng Công ty Tân Cảng Sài Gòn | OTC | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 1628 | `SPT` | Công ty cổ phần Dịch vụ Bưu chính Viễn thông Sài Gòn | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1629 | `STJ` | Công ty Cổ phần Vận tải Sonadezi | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1630 | `SVJ` | CTCP Santomas Việt Nam | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1631 | `TDL` | CTCP Da Tây Đô | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1632 | `THA` | CÔNG TY CỔ PHẦN TẬP ĐOÀN TRƯỜNG HẢI | OTC | Công nghiệp | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả ... | [05-passed](05-passed-champions.md) |
+| 1633 | `TKR` | Công ty Cổ phần Cao su Tân Biên - Kampong Thom | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1634 | `TSH` | Công ty Cổ phần Tiên Sơn Thanh Hóa | OTC | Hàng tiêu dùng | ❌ Rớt B4 | ROE trong suốt 5 năm gần nhất (3.3%) đều nằm dưới ngưỡng tối... | [04-rejected](04-rejected-low-roe.md) |
+| 1635 | `TSS` | Công ty Cổ phần Chứng khoán TRƯỜNG SƠN | OTC | Tài chính | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1636 | `VBL` | Công ty TNHH Nhà máy Bia Việt Nam | OTC | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1637 | `VED` | Công ty cổ phần Phát triển Thể thao Điện tử Việt Nam | OTC | Công nghệ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Công nghệ, hiệu quả si... | [05-passed](05-passed-champions.md) |
+| 1638 | `VFM` | Công ty Cổ phần Quản lý quỹ Đầu tư Việt Nam | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1639 | `VFW` | Công ty Cổ phần Quản lý quỹ Lộc Việt | OTC | Chưa phân loại | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1640 | `VHW` | CTCP Nước Khoáng Vĩnh Hảo | OTC | Hàng tiêu dùng | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu q... | [05-passed](05-passed-champions.md) |
+| 1641 | `VLD` | Công ty Cổ phần Bất Động Sản Viettronics | OTC | Chưa phân loại | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
+| 1642 | `YAN` | CTCP Công nghệ và Tầm nhìn Yêu âm nhạc | OTC | Dịch vụ | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh... | [05-passed](05-passed-champions.md) |

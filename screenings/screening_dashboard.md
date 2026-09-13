@@ -9,10 +9,10 @@ Tài liệu này theo dõi toàn bộ trạng thái của các mã cổ phiếu 
 ```mermaid
 pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (90 Mã Đầu Tiên)
     "Rớt Bước 1 (Ngành & Vòng tròn năng lực)" : 16
-    "Rớt Bước 2 (Lỗ 3 năm)" : 1
+    "Rớt Bước 2 (Lỗ 3 năm)" : 2
     "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 14
     "Rớt Bước 4 (ROE 5 năm < 10%)" : 18
-    "🏆 Đạt Chuẩn File 5" : 729
+    "🏆 Đạt Chuẩn File 5" : 804
 ```
 
 - **Tổng số mã đã kiểm tra:** **90** doanh nghiệp
@@ -163,3 +163,4 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (90 Mã Đầu Tiên)
 | Đợt 28 | 1251 - 1350 | PSP, PTE, PTG, PTH, PTM... | 43 | 0 | 0 | 26 | 31 | 13/09/2026 |
 | Đợt 29 | 1351 - 1450 | SPD, SPH, SPI, SPV, SRB... | 21 | 0 | 0 | 26 | 53 | 13/09/2026 |
 | Đợt 30 | 1451 - 1550 | USC, USD, UTT, UXC, V68... | 25 | 0 | 0 | 26 | 49 | 13/09/2026 |
+| Đợt 31 | 1551 - 1642 | XMC, XMD, XMP, XPH, YBC... | 10 | 1 | 0 | 6 | 75 | 13/09/2026 |

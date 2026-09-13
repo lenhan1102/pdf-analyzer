@@ -3815,3 +3815,93 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 - **Lý do loại trừ tại Bước 1:**
   - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 419. XMC - Công ty cổ phần Đầu tư và Xây dựng Xuân Mai
+- **Mã cổ phiếu:** `XMC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 420. XMD - Công ty cổ phần Xuân Mai - Đạo Tú
+- **Mã cổ phiếu:** `XMD` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 421. YBC - Công ty Cổ phần Xi măng và Khoáng sản Yên Bái
+- **Mã cổ phiếu:** `YBC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 422. BTA - CTCP Bất động sản Bình Thiên An
+- **Mã cổ phiếu:** `BTA` (Sàn OTC)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 423. BTL - Công ty Cổ phần Đầu tư Địa ốc Bến Thành
+- **Mã cổ phiếu:** `BTL` (Sàn OTC)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Chưa phân loại), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 424. DJL - Công ty TNHH Đầu tư Bất động sản Doji Land
+- **Mã cổ phiếu:** `DJL` (Sàn OTC)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Chưa phân loại), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 425. EWH - CTCP EuroWindow Holding
+- **Mã cổ phiếu:** `EWH` (Sàn OTC)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Tài chính), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 426. FHH - CTCP Đầu tư Kinh doanh Phát triển Bất Động Sản FLCHOMES
+- **Mã cổ phiếu:** `FHH` (Sàn OTC)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Chưa phân loại), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 427. MHB - Ngân hàng TMCP Phát triển nhà đồng bằng sông Cửu Long
+- **Mã cổ phiếu:** `MHB` (Sàn OTC)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Tài chính), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 428. VLD - Công ty Cổ phần Bất Động Sản Viettronics
+- **Mã cổ phiếu:** `VLD` (Sàn OTC)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 1:**
+  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Chưa phân loại), ngoài Vòng tròn năng lực.
+- **Ngày Phân Tích:** 13/09/2026

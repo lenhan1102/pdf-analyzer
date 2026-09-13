@@ -7050,3 +7050,678 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
 - **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
 - **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 730. XMP - CTCP Thủy điện Xuân Minh
+- **Mã cổ phiếu:** `XMP` (Sàn UPCOM)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 731. YTC - Công ty Cổ phần Xuất nhập khẩu Y tế Thành phố Hồ Chí Minh
+- **Mã cổ phiếu:** `YTC` (Sàn UPCOM)
+- **Ngành nghề:** Y tế
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Y tế, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 732. 24H - CTCP Quảng cáo trực tuyến 24H
+- **Mã cổ phiếu:** `24H` (Sàn OTC)
+- **Ngành nghề:** Phần mềm và dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Phần mềm và dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 733. ABA - 
+- **Mã cổ phiếu:** `ABA` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 734. ABF - Công ty cổ phần Quản lý quỹ đầu tư Chứng khoán An Bình
+- **Mã cổ phiếu:** `ABF` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 735. AFM - Công ty Cổ phần Quản lý quỹ AIC
+- **Mã cổ phiếu:** `AFM` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 736. AMY - Công ty Cổ phần Công nghiệp Á Mỹ
+- **Mã cổ phiếu:** `AMY` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 737. ASC - Công ty Cổ phần Chứng khoán ASC
+- **Mã cổ phiếu:** `ASC` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 738. BFI - Công ty cổ phần Đầu tư tài chính BIDV
+- **Mã cổ phiếu:** `BFI` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 739. BJC - Công Ty Cổ Phần VRG - Bảo Lộc
+- **Mã cổ phiếu:** `BJC` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 740. BNC - Công ty cổ phần Dịch vụ Cáp treo Bà Nà
+- **Mã cổ phiếu:** `BNC` (Sàn OTC)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 741. BTJ - CTCP Vàng bạc đá quý Bến Thành
+- **Mã cổ phiếu:** `BTJ` (Sàn OTC)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 742. BVF - Công ty TNHH Quản lý Quỹ Bảo Việt
+- **Mã cổ phiếu:** `BVF` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 743. CNS - Tổng Công ty Công nghiệp Sài Gòn - TNHH Một thành viên
+- **Mã cổ phiếu:** `CNS` (Sàn OTC)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 744. DAF - Ngân hàng Thương mại cổ phần Đông Á
+- **Mã cổ phiếu:** `DAF` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 745. DDS - Công ty Cổ phần Chứng khoán AIS
+- **Mã cổ phiếu:** `DDS` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 746. DNV - CTCP Thương mại Dịch vụ VDA Đà Nẵng
+- **Mã cổ phiếu:** `DNV` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 747. DTS - CTCP Dịch Vụ Du Lịch Đà Lạt
+- **Mã cổ phiếu:** `DTS` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 748. DVS - Công ty Cổ phần Thép Đình Vũ
+- **Mã cổ phiếu:** `DVS` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 749. DVV - CTCP Tập đoàn truyền thông đa phương tiện Đất Việt
+- **Mã cổ phiếu:** `DVV` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 750. ECC - Công ty Cổ phần Chứng khoán EUROCAPITAL
+- **Mã cổ phiếu:** `ECC` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 751. EPS - Công ty Cổ Phần Chứng khoán Gia Quyền
+- **Mã cổ phiếu:** `EPS` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 752. EVN - Tập đoàn Điện lực Việt Nam - Công ty TNHH MTV
+- **Mã cổ phiếu:** `EVN` (Sàn OTC)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 753. FIS - Công ty Cổ phần Hệ thống Thông tin FPT
+- **Mã cổ phiếu:** `FIS` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 754. FNS - Công ty cổ phần Chứng khoán FUNAN
+- **Mã cổ phiếu:** `FNS` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 755. FTG - Công ty cổ phần Thương mại FPT
+- **Mã cổ phiếu:** `FTG` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 756. GCC - CTCP Văn hóa Tổng hợp Bến Thành
+- **Mã cổ phiếu:** `GCC` (Sàn OTC)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 757. GDC - CTCP Xuất Nhập khẩu Gia Định
+- **Mã cổ phiếu:** `GDC` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 758. GLS - Công ty Cổ phần Chứng khoán Sen Vàng
+- **Mã cổ phiếu:** `GLS` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 759. GMS - CTCP Thiết kế và gia công phần mền GMS888
+- **Mã cổ phiếu:** `GMS` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 760. GSC - Công ty cổ phần Thủy điện Geruco Sông Côn
+- **Mã cổ phiếu:** `GSC` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 761. HIS - Công ty cổ phần Đầu tư phát triển thương mại tổng hợp Sơn Hà
+- **Mã cổ phiếu:** `HIS` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 762. HRS - CTCP Chứng khoán Việt Nam Gateway
+- **Mã cổ phiếu:** `HRS` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 763. HVS - CTCP Chứng khoán HVS Việt Nam
+- **Mã cổ phiếu:** `HVS` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 764. ICA - Công ty Cổ phần Công nghệ Sinh học - Dược phẩm ICA
+- **Mã cổ phiếu:** `ICA` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 765. IRS - Công ty Cổ phần Chứng khoán Quốc tế Hoàng Gia
+- **Mã cổ phiếu:** `IRS` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 766. ISC - Công ty Cổ phần Chứng khoán Công Nghiệp Việt Nam
+- **Mã cổ phiếu:** `ISC` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 767. IVB - Ngân hàng TNHH Indovina
+- **Mã cổ phiếu:** `IVB` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 768. JPA - Công ty CP Hàng không Jetstar Pacific Airlines
+- **Mã cổ phiếu:** `JPA` (Sàn OTC)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 769. JSI - Công ty cổ phần Chứng khoán Nhật Bản
+- **Mã cổ phiếu:** `JSI` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 770. KAL - Công ty cổ phần Nhôm Khánh Hoà
+- **Mã cổ phiếu:** `KAL` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 771. KHV - Công ty TNHH Kim Hà Việt
+- **Mã cổ phiếu:** `KHV` (Sàn OTC)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 772. KIS - Công ty Cổ phần Chứng khoán KIS Việt Nam
+- **Mã cổ phiếu:** `KIS` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 773. KVS - Công ty Cổ phần Chứng khoán KENANGA Việt Nam
+- **Mã cổ phiếu:** `KVS` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 774. LNS - Công ty cổ phần Mía đường La Ngà
+- **Mã cổ phiếu:** `LNS` (Sàn OTC)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 775. LVS - Công ty cổ phần Chứng khoán LPBank
+- **Mã cổ phiếu:** `LVS` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 776. MCD - Công ty cổ phần Môi trường và Công trình đô thị Đông Hà
+- **Mã cổ phiếu:** `MCD` (Sàn OTC)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 777. MSG - Công ty Chứng khoán JB Việt Nam
+- **Mã cổ phiếu:** `MSG` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 778. MSI - Công ty Cổ phần Chứng khoán KB Việt Nam
+- **Mã cổ phiếu:** `MSI` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 779. MSM - Công ty TNHH Truyền thông Megastar
+- **Mã cổ phiếu:** `MSM` (Sàn OTC)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 780. NSI - Công ty Cổ phần Chứng khoán Quốc gia
+- **Mã cổ phiếu:** `NSI` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 781. NVS - Công ty cổ phần Chứng khoán NAVIBANK
+- **Mã cổ phiếu:** `NVS` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 782. OCS - Công ty Cổ phần Chứng khoán Đại Dương
+- **Mã cổ phiếu:** `OCS` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 783. OMC - Công ty Cổ phần Quản lý quỹ đầu tư Chứng khoán Phương Đông
+- **Mã cổ phiếu:** `OMC` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 784. OSC - Công ty Cổ phần Chứng khoán ĐẠI TÂY DƯƠNG
+- **Mã cổ phiếu:** `OSC` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 785. PQG - CTCP Đầu tư vàng Phú Quý
+- **Mã cổ phiếu:** `PQG` (Sàn OTC)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 786. PVN - Tập đoàn Công nghiệp-Năng lượng Quốc gia Việt Nam
+- **Mã cổ phiếu:** `PVN` (Sàn OTC)
+- **Ngành nghề:** Năng lượng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Năng lượng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 787. RTD - CTCP Phát triển công nghệ nông thôn
+- **Mã cổ phiếu:** `RTD` (Sàn OTC)
+- **Ngành nghề:** Nông nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Nông nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 788. SBF - Công ty Cổ phần Quản lý quỹ Sabeco
+- **Mã cổ phiếu:** `SBF` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 789. SEV - Công ty TNHH Samsung Electronics Việt Nam
+- **Mã cổ phiếu:** `SEV` (Sàn OTC)
+- **Ngành nghề:** Công nghệ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghệ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 790. SHF - Công ty cổ phần Quản lý quỹ Đầu tư Sài Gòn - Hà Nội
+- **Mã cổ phiếu:** `SHF` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 791. SNP - Công ty TNHH MTV - Tổng Công ty Tân Cảng Sài Gòn
+- **Mã cổ phiếu:** `SNP` (Sàn OTC)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 792. SPT - Công ty cổ phần Dịch vụ Bưu chính Viễn thông Sài Gòn
+- **Mã cổ phiếu:** `SPT` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 793. STJ - Công ty Cổ phần Vận tải Sonadezi
+- **Mã cổ phiếu:** `STJ` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 794. SVJ - CTCP Santomas Việt Nam
+- **Mã cổ phiếu:** `SVJ` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 795. TDL - CTCP Da Tây Đô
+- **Mã cổ phiếu:** `TDL` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 796. THA - CÔNG TY CỔ PHẦN TẬP ĐOÀN TRƯỜNG HẢI
+- **Mã cổ phiếu:** `THA` (Sàn OTC)
+- **Ngành nghề:** Công nghiệp
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghiệp, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 797. TKR - Công ty Cổ phần Cao su Tân Biên - Kampong Thom
+- **Mã cổ phiếu:** `TKR` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 798. TSS - Công ty Cổ phần Chứng khoán TRƯỜNG SƠN
+- **Mã cổ phiếu:** `TSS` (Sàn OTC)
+- **Ngành nghề:** Tài chính
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Tài chính, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 799. VBL - Công ty TNHH Nhà máy Bia Việt Nam
+- **Mã cổ phiếu:** `VBL` (Sàn OTC)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 800. VED - Công ty cổ phần Phát triển Thể thao Điện tử Việt Nam
+- **Mã cổ phiếu:** `VED` (Sàn OTC)
+- **Ngành nghề:** Công nghệ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Công nghệ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 801. VFM - Công ty Cổ phần Quản lý quỹ Đầu tư Việt Nam
+- **Mã cổ phiếu:** `VFM` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 802. VFW - Công ty Cổ phần Quản lý quỹ Lộc Việt
+- **Mã cổ phiếu:** `VFW` (Sàn OTC)
+- **Ngành nghề:** Chưa phân loại
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 803. VHW - CTCP Nước Khoáng Vĩnh Hảo
+- **Mã cổ phiếu:** `VHW` (Sàn OTC)
+- **Ngành nghề:** Hàng tiêu dùng
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 804. YAN - CTCP Công nghệ và Tầm nhìn Yêu âm nhạc
+- **Mã cổ phiếu:** `YAN` (Sàn OTC)
+- **Ngành nghề:** Dịch vụ
+- **Lợi thế cạnh tranh (Moat):** Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh.
+- **Kết quả:** Vượt qua cả 4 bước sàng lọc khắt khe.
+- **Ngày Phân Tích:** 13/09/2026

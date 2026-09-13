@@ -395,3 +395,9 @@
 | 384 | `VTX` | Công ty cổ phần Vận tải đa phương thức Vietranstimex | UPCOM | Công nghiệp | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (1.8%, 7.5%, -41.1%, -123.2%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
 | 385 | `VUA` | Công ty cổ phần Chứng khoán Stanley Brothers | UPCOM | Tài chính | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (-10.7%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
 | 386 | `VW3` | Công ty cổ phần Viwaseen3 | UPCOM | Công nghiệp | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (3.1%, 5.3%, 6.3%, 4.0%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 387 | `BLW` | Công ty cổ phần Cấp nước Bạc Liêu | OTC | Dịch vụ | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (7.2%, 6.7%, 8.9%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 388 | `MLG` | Công ty Cổ phần Tập đoàn Mai Linh | OTC | Chưa phân loại | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (0.6%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 389 | `NPM` | Công ty TNHH Khai thác Chế biến Khoáng sản Núi Pháo | OTC | Chưa phân loại | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (2.6%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 390 | `PFI` | Công ty Cổ phần Đầu tư Tài chính Công đoàn Dầu khí | OTC | Chưa phân loại | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (-7.4%, -2.0%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 391 | `SCB` | Ngân hàng Thương mại Cổ phần Sài Gòn | OTC | Tài chính | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (3.2%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |
+| 392 | `TSH` | Công ty Cổ phần Tiên Sơn Thanh Hóa | OTC | Hàng tiêu dùng | <10% | <10% | <10% | <10% | <10% | ROE trong suốt 5 năm gần nhất (3.3%) đều nằm dưới ngưỡng tối thiểu 10%. | 13/09/2026 |

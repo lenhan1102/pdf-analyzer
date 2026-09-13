@@ -3649,3 +3649,57 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 - **Lý do loại trừ tại Bước 4:**
   - ROE trong suốt 5 năm gần nhất (3.1%, 5.3%, 6.3%, 4.0%) đều nằm dưới ngưỡng tối thiểu 10%.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 387. BLW - Công ty cổ phần Cấp nước Bạc Liêu
+- **Mã cổ phiếu:** `BLW` (Sàn OTC)
+- **Ngành nghề niêm yết:** Dịch vụ
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (7.2%, 6.7%, 8.9%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 388. MLG - Công ty Cổ phần Tập đoàn Mai Linh
+- **Mã cổ phiếu:** `MLG` (Sàn OTC)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (0.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 389. NPM - Công ty TNHH Khai thác Chế biến Khoáng sản Núi Pháo
+- **Mã cổ phiếu:** `NPM` (Sàn OTC)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (2.6%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 390. PFI - Công ty Cổ phần Đầu tư Tài chính Công đoàn Dầu khí
+- **Mã cổ phiếu:** `PFI` (Sàn OTC)
+- **Ngành nghề niêm yết:** Chưa phân loại
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (-7.4%, -2.0%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 391. SCB - Ngân hàng Thương mại Cổ phần Sài Gòn
+- **Mã cổ phiếu:** `SCB` (Sàn OTC)
+- **Ngành nghề niêm yết:** Tài chính
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (3.2%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 392. TSH - Công ty Cổ phần Tiên Sơn Thanh Hóa
+- **Mã cổ phiếu:** `TSH` (Sàn OTC)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 4:**
+  - ROE trong suốt 5 năm gần nhất (3.3%) đều nằm dưới ngưỡng tối thiểu 10%.
+- **Ngày Phân Tích:** 13/09/2026

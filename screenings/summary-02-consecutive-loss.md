@@ -9,3 +9,4 @@
 | STT | Mã CK | Tên Doanh Nghiệp | Ngành Hoạt Động | KQKD 3 Năm Gần Nhất | Lý Do Cốt Tử Bị Loại (1 Câu) | Xem Hồ Sơ Chi Tiết |
 | :---: | :---: | :--- | :--- | :--- | :--- | :---: |
 | 1 | **ABS** | CTCP Dịch vụ Nông nghiệp Bình Thuận | Phân phối vật tư phân bón & xăng dầu | Lỗ nặng, dòng tiền CFO âm nặng, bị đưa vào diện kiểm soát | Lỗ lớn liên tiếp, dòng tiền kinh doanh âm nặng và bị HoSE đưa vào diện cảnh báo/kiểm soát | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md#abs) |
+| 2 | `XPH` | Công ty Cổ phần Xà phòng Hà Nội | UPCOM | Hàng tiêu dùng | Thua lỗ liên tiếp trong cả 3 năm tài chính gần nhất (2022-2024). | [Chi tiết](02-rejected-consecutive-loss.md#xph) |

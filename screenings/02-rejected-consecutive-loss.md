@@ -21,3 +21,12 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
 - **Lý do bị loại:** Hoạt động kinh doanh cốt lõi suy kiệt nghiêm trọng, ghi nhận các khoản lỗ lớn kéo dài do phải trích lập dự phòng phải thu khó đòi khổng lồ. Cổ phiếu bị Sở GDCK TP.HCM (HOSE) đưa vào diện kiểm soát/cảnh báo, kiểm toán có ý kiến ngoại trừ.
 - **Số liệu minh chứng:** LNST âm liên tiếp trong các kỳ gần đây (6 tháng 2026 tiếp tục lỗ âm 5.2 tỷ VNĐ), biên an toàn vốn bị ăn mòn nghiêm trọng.
 - **Ngày sàng lọc:** 2026-09-11
+
+---
+
+### 2. XPH - Công ty Cổ phần Xà phòng Hà Nội
+- **Mã cổ phiếu:** `XPH` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Lý do loại trừ tại Bước 2:**
+  - Thua lỗ liên tiếp trong cả 3 năm tài chính gần nhất (2022-2024).
+- **Ngày Phân Tích:** 13/09/2026
