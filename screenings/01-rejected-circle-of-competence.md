@@ -3905,3 +3905,41 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 - **Lý do loại trừ tại Bước 1:**
   - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Chưa phân loại), ngoài Vòng tròn năng lực.
 - **Ngày Phân Tích:** 13/09/2026
+
+---
+
+### 429. DIG - Tổng Công ty Cổ phần Đầu tư Phát triển Xây dựng (DIC Group)
+- **Mã cổ phiếu:** `DIG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Hoạt động kinh doanh chính:** Đầu tư phát triển các khu đô thị mới quy mô lớn (Khu đô thị du lịch sinh thái Đại Phước - Nhơn Trạch, Khu đô thị Chí Linh - Vũng Tàu), phát triển BĐS nhà ở/thương mại, khách sạn & resort 5 sao, sân golf, xây lắp công trình dân dụng & công nghiệp, và sản xuất vật liệu xây dựng.
+- **Lý do loại trừ tại Bước 1:**
+  - **Cốt lõi là BĐS nhà ở dân dụng đại trà:** Doanh thu của DIG chủ yếu đến từ bán nền đất, biệt thự và căn hộ tại các khu đô thị lớn (Khu Đại Phước, Chí Linh...). Đây là mô hình BĐS nhà ở dân dụng chu kỳ điển hình, không phải BĐS khu công nghiệp (cho thuê đất) hay TTTM bán lẻ độc quyền.
+  - **Không có lợi thế tài nguyên đặc thù** (không phải mỏ đá độc quyền, không phải BĐS KCN cho thuê dài hạn ổn định, không phải TTTM vị trí kim cương).
+  - **Biên lợi nhuận cực kỳ biến động** theo tiến độ ghi nhận doanh thu BĐS: LNST năm 2020 đạt 722 tỷ, năm 2021 đạt 990 tỷ, nhưng năm 2022 sụp giảm về 191 tỷ, năm 2023 chỉ còn 112 tỷ và năm 2024 tiếp tục thấp ở mức 102 tỷ. Đây là đặc trưng của mô hình BĐS nhà ở chu kỳ cao, rủi ro cao trong giai đoạn siết tín dụng.
+  - **Đòn bẩy nợ vay lớn:** Vốn chủ sở hữu ~8.000-10.000 tỷ nhưng tổng tài sản và nợ vay từ phát triển dự án BĐS quy mô lớn tạo rủi ro tài chính cao.
+- **Ngày Phân Tích:** 2026-09-22
+
+---
+
+### 430. DLG - Công ty Cổ phần Tập đoàn Đức Long Gia Lai
+- **Mã cổ phiếu:** `DLG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Hoạt động kinh doanh chính:** Tập đoàn đa ngành gồm xây lắp công trình, đầu tư phát triển BĐS (khu đô thị, căn hộ), điện gió & điện mặt trời tái tạo, và vận hành cao tốc BOT. Trụ sở tại Gia Lai.
+- **Lý do loại trừ tại Bước 1:**
+  - **Hoạt động cốt lõi là Xây lắp & BĐS dân dụng:** Lịch sử DLG gắn liền với mảng thi công xây dựng và phát triển BĐS nhà ở/khu đô thị, là lĩnh vực nằm ngoài vòng tròn năng lực.
+  - **Tình trạng tài chính cực kỳ nghiêm trọng:** DLG bị lỗ nặng trong nhiều năm liên tiếp: 2020 lỗ -861 tỷ, 2022 lỗ -1.184 tỷ (lỗ kỷ lục), 2023 lỗ -562 tỷ. Lợi nhuận chưa phân phối lũy kế tại 31/12/2024 vẫn âm -2.456 tỷ đồng. Cổ phiếu DLG **đang bị cảnh báo trên HOSE** do lợi nhuận chưa phân phối âm liên tục nhiều kỳ.
+  - **Không có yếu tố đặc thù nào đủ để vượt qua ngoại lệ:** Mảng điện tái tạo và BOT đang gánh nặng nợ vay lớn, thua lỗ kéo dài, không mang lại lợi thế tài nguyên độc quyền rõ ràng để được xét ngoại lệ.
+- **Ngày Phân Tích:** 2026-09-22
+
+---
+
+### 431. DPG - Công ty Cổ phần Tập đoàn Đạt Phương
+- **Mã cổ phiếu:** `DPG` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Hoạt động kinh doanh chính:** Tập đoàn đa ngành: (1) Xây lắp công trình hạ tầng giao thông trọng điểm (đây là mảng truyền thống cốt lõi); (2) Phát triển BĐS nghỉ dưỡng & đô thị (chuỗi Casamia Hội An, Sông Bung); (3) Thủy điện (Sông Bung 6, Sơn Trà 1A/1B/1C); (4) Sản xuất kính hoa siêu trắng.
+- **Lý do loại trừ tại Bước 1:**
+  - **Mảng cốt lõi là Xây lắp hạ tầng giao thông:** Thi công công trình hạ tầng là nền tảng lịch sử của DPG, với biên lợi nhuận ròng xây lắp điển hình (1-5%), phụ thuộc hoàn toàn vào đấu thầu nhà nước và tiến độ giải ngân vốn công.
+  - **Mảng BĐS là nhà ở nghỉ dưỡng:** Dự án Casamia Hội An, Casamia Calm... là BĐS du lịch nghỉ dưỡng dân dụng, thu nhập ghi nhận theo tiến độ bàn giao — chu kỳ, khó dự phóng, phụ thuộc tín dụng và tâm lý thị trường BĐS.
+  - **Không có lợi thế tài nguyên độc quyền đặc thù:** Mảng thủy điện có lợi nhuận ổn định nhưng nhỏ so với quy mô tổng thể tập đoàn. Không có mỏ khoáng sản độc quyền, không có TTTM vị trí kim cương, không có BĐS KCN cho thuê dài hạn ổn định.
+  - **Tổ hợp rủi ro nhiều mảng:** Sự pha trộn giữa xây lắp biên mỏng, BĐS chu kỳ và thủy điện vốn lớn khiến mô hình kinh doanh khó hiểu và rủi ro khó lượng hóa.
+- **Ngày Phân Tích:** 2026-09-22

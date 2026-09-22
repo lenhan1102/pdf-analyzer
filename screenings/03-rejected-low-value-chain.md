@@ -166,3 +166,18 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ ba: 
 - **Lý do loại trừ tại Bước 3:**
   - Doanh nghiệp thương mại gia công trung gian đáy chuỗi giá trị biên mỏng, P/B (0.97) >= 0.5.
 - **Ngày Phân Tích:** 13/09/2026
+
+### ❌ HMC - Công ty Cổ phần Kim khí Thành phố Hồ Chí Minh - Vnsteel
+- **Mã cổ phiếu:** `HMC` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Phân phối và thương mại thép (phân loại là Bất động sản và Xây dựng trên DB nhưng thực chất là Thương mại kim loại)
+- **Vị thế chuỗi giá trị:** Phân phối thép thương phẩm đại trà (commodity) — thép tấm, thép lá, thép hình, phôi thép nhập khẩu và nội địa. Không có thương hiệu sản phẩm riêng, không có công nghệ lõi, không có quyền lực định giá. Thuần túy là trung gian phân phối (trading house) trong chuỗi cung ứng thép.
+- **Biên lợi nhuận gộp (Gross Margin):** Cực mỏng, đặc trưng doanh nghiệp thương mại thép (ước tính ~2% - 4%), biên lợi nhuận ròng dưới 1%. Chu kỳ kinh doanh phụ thuộc hoàn toàn vào giá thép toàn cầu và tình trạng dư cung thép Trung Quốc.
+- **Kết quả kinh doanh 3 năm gần nhất (đạt Bước 2):**
+  | Năm | Doanh thu thuần (Tỷ VNĐ) | LNST (Tỷ VNĐ) | Trạng thái |
+  | :---: | :---: | :---: | :---: |
+  | 2022 | ~14.000 | ~142 | Lãi |
+  | 2023 | ~9.000 | ~27 | Lãi |
+  | 2024 | ~9.500 | ~31 | Lãi |
+- **Định giá P/B thực tế:** ~0.70 lần (Điều kiện ngoại lệ giữ lại: phải < 0.5)
+- **Lý do bị loại:** HMC là doanh nghiệp phân phối thép thuần túy — sản phẩm là hàng hóa commodity không có tính khác biệt, biên lợi nhuận ròng cực mỏng (< 1%), hoàn toàn phụ thuộc vào biến động giá thép thế giới và tình trạng dư cung thép giá rẻ từ Trung Quốc. Không có quyền lực định giá, không có rào cản cạnh tranh bền vững. Mặc dù định giá P/B ~0.70 đã thấp hơn giá trị sổ sách, nhưng chưa đủ ngưỡng chiết khấu sâu để tạo biên an toàn tài sản (yêu cầu P/B < 0.5).
+- **Ngày sàng lọc:** 2026-09-21

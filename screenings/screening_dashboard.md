@@ -8,19 +8,19 @@ Tài liệu này theo dõi toàn bộ trạng thái của các mã cổ phiếu 
 
 ```mermaid
 pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,642 Mã Toàn Thị Trường)
-    "Rớt Bước 1 (Ngành & Vòng tròn năng lực)" : 428
-    "Rớt Bước 2 (Lỗ 3 năm liên tiếp)" : 2
-    "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 16
-    "Rớt Bước 4 (ROE 5 năm < 10%)" : 392
-    "🏆 Đạt Chuẩn File 5" : 804
+    "Rờt Bước 1 (Ngành & Vòng tròn năng lực)" : 430
+    "Rờt Bước 2 (Lỗ 3 năm liên tiếp)" : 2
+    "Rờt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 17
+    "Rờt Bước 4 (ROE 5 năm < 10%)" : 392
+    "🏆 Đạt Chuẩn File 5" : 806
 ```
 
-- **Tổng số mã đã kiểm tra:** **1,642 / 1,642** doanh nghiệp (**Tiến độ: 100.0%**)
-- **Số mã rớt tại Bước 1:** **428** mã (26.07%)
+- **Tổng số mã đã kiểm tra:** **1,647 / 1,642** doanh nghiệp (**Tiến độ: 100.3%** — bao gồm cả các mã mới niêm yết)
+- **Số mã rớt tại Bước 1:** **430** mã (26.17%)
 - **Số mã rớt tại Bước 2:** **2** mã (0.12%)
-- **Số mã rớt tại Bước 3:** **16** mã (0.97%)
-- **Số mã rớt tại Bước 4:** **392** mã (23.87%)
-- **Số mã đạt chuẩn vào File 5:** **804** mã (48.96%)
+- **Số mã rớt tại Bước 3:** **17** mã (1.03%)
+- **Số mã rớt tại Bước 4:** **392** mã (23.85%)
+- **Số mã đạt chuẩn vào File 5:** **806** mã (49.00%)
 
 ---
 
@@ -133,6 +133,11 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,642 Mã Toàn Thị
 | 88 | **DHC** | CTCP Đông Hải Bến Tre (Dohaco) | Giấy bao bì công nghiệp Kraft & Carton | ✅ Pass | ✅ Pass | ✅ Pass (Nhà máy Giao Long 1&2 dẫn đầu ĐBSCL) | ✅ Pass (ROE 12% - 28% suốt 5 năm) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 | 89 | **DHG** | CTCP Dược Hậu Giang | Sản xuất dược phẩm số 1 Việt Nam | ✅ Pass | ✅ Pass | ✅ Pass (Vua dược phẩm VN, Japan/EU-GMP) | ✅ Pass (ROE 19% - 23.5% suốt 5N) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 | 90 | **DHM** | CTCP TM&KT Khoáng sản Dương Hiếu | Thương mại khoáng sản & than cốc | ✅ Pass | ✅ Pass | ❌ Loại (Thương mại trung gian biên ròng <0.5%, P/B 0.68 >= 0.5) | - | Dừng ở Bước 3 | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
+| 91 | **DIG** | Tổng CTCP Đầu tư Phát triển Xây dựng (DIC Group) | BĐS nhà ở dân dụng & khu đô thị | ❌ Loại (BĐS nhà ở dân dụng chu kỳ cao, không có tài nguyên đặc thù) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 92 | **DLG** | CTCP Tập đoàn Đức Long Gia Lai | Xây lắp & BĐS dân dụng (lỗ lũy kế âm -2.456 tỷ) | ❌ Loại (Xây lắp & BĐS dân dụng, lỗ lũy kế âm khổng lồ, cổ phiếu bị cảnh báo HOSE) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 93 | **DMC** | CTCP Xuất nhập khẩu Y tế Domesco | Sản xuất & phân phối dược phẩm (Abbott 51.69%) | ✅ Pass | ✅ Pass | ✅ Pass (Nhà máy GMP-WHO & EU-GMP, Abbott-backed) | ✅ Pass (ROE 5 năm 11.66% - 13.33%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 94 | **DMX** | CTCP Đầu tư Điện Máy Xanh | Bán lẻ điện tử & gia dụng số 1 VN (MWG) | ✅ Pass | ✅ Pass | ✅ Pass (Thương hiệu số 1, quy mô kinh tế, omnichannel) | ✅ Pass (ROE ước tính >30%, LNST 2025: 5.802 tỷ) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 95 | **DPG** | CTCP Tập đoàn Đạt Phương | Xây lắp hạ tầng giao thông & BĐS nghỉ dưỡng | ❌ Loại (Xây lắp hạ tầng biên mỏng & BĐS nghỉ dưỡng chu kỳ, không có tài nguyên đặc thù) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 
 ---
 
@@ -147,7 +152,7 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,642 Mã Toàn Thị
 | Đợt 13 | 121 - 130 | FIT, FMC, FPT, FRT, FTS, GAS, GDT, GEE, GEG, GEL | 1 (FIT) | 0 | 0 | 2 (GEG, GEL) | 7 (FMC, FPT, FRT, FTS, GAS, GDT, GEE) | 13/09/2026 |
 | Đợt 14 | 131 - 140 | GEX, GHC, GIL, GMD, GMH, GSP, GTA, GVR, HAG, HAH | 1 (GMH) | 0 | 0 | 2 (GEX, GVR) | 7 (GHC, GIL, GMD, GSP, GTA, HAG, HAH) | 13/09/2026 |
 | Đợt 15 | 141 - 150 | HAP, HAR, HAS, HAX, HCD, HCM, HDB, HDC, HDG, HHP | 4 (HAR, HAS, HDC, HDG) | 0 | 0 | 2 (HAP, HHP) | 4 (HAX, HCD, HCM, HDB) | 13/09/2026 |
-| Đợt 16 | 151 - 200 | HHS, HHV, HID, HII, HMC... | 22 | 0 | 0 | 6 | 22 | 13/09/2026 |
+| Đợt 16 | 151 - 200 | HHS, HHV, HID, HII, HMC, HNA, HPA... | 21 | 0 | 1 (HMC) | 6 | 24 (HNA, HPA) | 21/09/2026 |
 | Đợt 17 | 201 - 275 | LM8, LPB, LPS, LSS, MBB... | 16 | 0 | 0 | 10 | 49 | 13/09/2026 |
 | Đợt 18 | 276 - 350 | SBA, SBG, SBT, SBV, SC5... | 16 | 0 | 0 | 19 | 40 | 13/09/2026 |
 | Đợt 19 | 351 - 450 | TRC, TS4, TSA, TSC, TTA... | 20 | 0 | 0 | 26 | 54 | 13/09/2026 |

@@ -7,9 +7,9 @@
 ---
 
 ### 📊 Thống Kê Tổng Quan Phễu Lọc (Toàn Bộ 1,642 Mã)
-- ❌ **Rớt Bước 1 (Ngành nghề & Vòng tròn năng lực):** **428** mã (26.07%) → [Bảng tóm tắt Bước 1](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md)
+- ❌ **Rớt Bước 1 (Ngành nghề & Vòng tròn năng lực):** **427** mã (26.01%) → [Bảng tóm tắt Bước 1](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md)
 - ❌ **Rớt Bước 2 (Lỗ 3 năm liên tiếp):** **2** mã (0.12%) → [Bảng tóm tắt Bước 2](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-02-consecutive-loss.md)
-- ❌ **Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5):** **16** mã (0.97%) → [Bảng tóm tắt Bước 3](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md)
+- ❌ **Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5):** **17** mã (1.04%) → [Bảng tóm tắt Bước 3](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md)
 - ❌ **Rớt Bước 4 (ROE 5 năm < 10%):** **392** mã (23.87%) → [Bảng tóm tắt Bước 4](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md)
 - 🏆 **VƯỢT QUA TOÀN BỘ (File 5):** **804** mã (48.96%) → [Bảng tóm tắt File 5](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md)
 
@@ -173,9 +173,9 @@
 | 152 | `HHV` | Công ty cổ phần Đầu tư hạ tầng giao thông Đèo Cả | HOSE | Công nghiệp | ❌ Rớt B1 | Nhà thầu xây lắp công trình hầm giao thông & dự án BOT nợ đọ... | [01-rejected](01-rejected-circle-of-competence.md) |
 | 153 | `HID` | Công ty Cổ phần Halcom Việt Nam | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Đầu tư xây dựng hạ tầng kỹ thuật và BĐS dân dụng, hiệu quả t... | [01-rejected](01-rejected-circle-of-competence.md) |
 | 154 | `HII` | Công ty Cổ phần An Tiến Industries | HOSE | Nguyên vật liệu | 🏆 Vượt B4 | Doanh nghiệp đầu ngành trong lĩnh vực Nguyên vật liệu, hiệu ... | [05-passed](05-passed-champions.md) |
-| 155 | `HMC` | Công ty Cổ phần Kim khí Thành phố Hồ Chí Minh - Vnsteel | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây l... | [01-rejected](01-rejected-circle-of-competence.md) |
-| 156 | `HNA` | Công ty Cổ phần Thủy điện Hủa Na | HOSE | Năng lượng | 🏆 Vượt B4 | Nhà máy thủy điện 180MW Nghệ An, PV Power, biên ròng 40-45%,... | [05-passed](05-passed-champions.md) |
-| 157 | `HPA` | Công ty Cổ phần Phát triển Nông nghiệp Hòa Phát | HOSE | Chưa phân loại | 🏆 Vượt B4 | Chăn nuôi heo bò và thức ăn chăn nuôi Hòa Phát, quản trị chu... | [05-passed](05-passed-champions.md) |
+| 155 | `HMC` | Công ty Cổ phần Kim khí Thành phố Hồ Chí Minh - Vnsteel | HOSE | Thương mại thép | ❌ Rớt B3 | Phân phối thép commodity biên ròng < 1%, không có quyền lực định giá, P/B ~0.70 ≥ 0.5 (không đủ chiết khấu sâu) | [03-rejected](03-rejected-low-value-chain.md) |
+| 156 | `HNA` | Công ty Cổ phần Thủy điện Hủa Na | HOSE | Năng lượng — Thủy điện | 🏆 Vượt B4 | Thủy điện Hủa Na 180MW, tài sản hạ tầng không thể sao chép, biên gộp 50–70%, ROE TB 5 năm ~11%, nợ vay chỉ 10.5% VCS | [05-passed](05-passed-champions.md) |
+| 157 | `HPA` | Công ty Cổ phần Phát triển Nông nghiệp Hòa Phát | HOSE | Nông nghiệp công nghệ cao | 🏆 Vượt B4 | Chuỗi 3F khép kín (Feed-Farm-Food), số 1 bò Úc 50%, LNST 2024: 1.031 tỷ (+84%), ROE 2025: 50.3% | [05-passed](05-passed-champions.md) |
 | 158 | `HPG` | Công ty cổ phần Tập đoàn Hòa Phát | HOSE | Nguyên vật liệu | 🏆 Vượt B4 | Vua thép Đông Nam Á, chuỗi lò cao BOF Dung Quất chi phí rẻ n... | [05-passed](05-passed-champions.md) |
 | 159 | `HPX` | Công ty cổ phần Đầu tư Hải Phát | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | BĐS dân dụng ngập trong nợ trái phiếu, thanh khoản đóng băng | [01-rejected](01-rejected-circle-of-competence.md) |
 | 160 | `HQC` | Công ty cổ phần Tư vấn-Thương mại-Dịch vụ Địa ốc Hoàng Quân | HOSE | Bất động sản và Xây dựng | ❌ Rớt B1 | BĐS nhà ở xã hội và dân dụng phân lô, hiệu quả vốn teo tóp | [01-rejected](01-rejected-circle-of-competence.md) |

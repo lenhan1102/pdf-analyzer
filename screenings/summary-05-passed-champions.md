@@ -1,6 +1,6 @@
-# 🏆 Bảng Tóm Tắt Nhanh: 804 Doanh Nghiệp Đạt Chuẩn File 5 Vượt Qua Toàn Bộ Phễu Lọc
+# 🏆 Bảng Tóm Tắt Nhanh: 806 Doanh Nghiệp Đạt Chuẩn File 5 Vượt Qua Toàn Bộ Phễu Lọc
 
-> **Mục đích:** Bảng tổng hợp rút gọn 804 doanh nghiệp xuất sắc nhất đã vượt qua toàn bộ 4 bước sàng lọc khắt khe, chứng minh con hào kinh tế vững mạnh, chuỗi giá trị cao và hiệu quả sinh lời trên vốn vượt trội.
+> **Mục đích:** Bảng tổng hợp rút gọn 806 doanh nghiệp xuất sắc nhất đã vượt qua toàn bộ 4 bước sàng lọc khắt khe, chứng minh con hào kinh tế vững mạnh, chuỗi giá trị cao và hiệu quả sinh lời trên vốn vượt trội.
 > 
 > 📁 **Hồ sơ phân tích chi tiết đầy đủ:** [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) | ⚡ **Quay lại:** [Bảng Tổng Hợp Siêu Tốc 1,642 Mã](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md)
 
@@ -813,3 +813,5 @@
 | 802 | `VFW` | Công ty Cổ phần Quản lý quỹ Lộc Việt | OTC | Chưa phân loại | >10% | Hợp lý | Doanh nghiệp đầu ngành trong lĩnh vực Chưa phân loại, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh. | 13/09/2026 |
 | 803 | `VHW` | CTCP Nước Khoáng Vĩnh Hảo | OTC | Hàng tiêu dùng | >10% | Hợp lý | Doanh nghiệp đầu ngành trong lĩnh vực Hàng tiêu dùng, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh. | 13/09/2026 |
 | 804 | `YAN` | CTCP Công nghệ và Tầm nhìn Yêu âm nhạc | OTC | Dịch vụ | >10% | Hợp lý | Doanh nghiệp đầu ngành trong lĩnh vực Dịch vụ, hiệu quả sinh lời trên vốn CSH (ROE) duy trì trên 10%, tài chính lành mạnh. | 13/09/2026 |
+| 805 | **DMC** | CTCP Xuất nhập khẩu Y tế Domesco | HOSE | Dược phẩm sản xuất | **13.33%** | P/E 8.4-10.7x | P/B 1.15-1.20x | Nhà máy GMP-WHO & EU-GMP hậu thuẫn Abbott (51.69%), ROE 5 năm ổn định 11.66% - 13.33%, cổ tức 25%/năm đều đặn | 2026-09-22 |
+| 806 | **DMX** | CTCP Đầu tư Điện Máy Xanh | HOSE | Bán lẻ điện tử & gia dụng | **>30% (ước tính)** | N/A (mới niêm yết 8/2026) | N/A | Chuỗi bán lẻ điện tử số 1 VN (85% MWG), LNST 2025: 5.802 tỷ (+56%), ROE ước tính >30%, thương hiệu nhận biết cao nhất ngành | 2026-09-22 |
