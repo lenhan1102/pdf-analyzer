@@ -271,3 +271,20 @@ Khi người dùng đặt câu hỏi giải thích thêm hoặc đào sâu về 
   - Báo cáo tóm tắt điều hành: `companies/<TICKER>/<YEAR>/<PERIOD>/summary.md`
   - Toàn văn báo cáo tổng hợp: `companies/<TICKER>/<YEAR>/<PERIOD>/README.md`
   ```
+
+---
+
+## 5. Quy Chuẩn Vận Hành Nhiệm Vụ 3 (company-screener) & Quy Tắc Tuần Tự Bắt Buộc
+
+> [!IMPORTANT]
+> **QUY TẮC BẮT BUỘC KHI SÀNG LỌC CÁC MÃ TIẾP THEO (MANDATORY SEQUENTIAL SCREENING RULE):**
+> 1. **Nguồn danh sách gốc:** BẮT BUỘC lấy danh sách và thứ tự tuần tự tuyệt đối từ file [companies/listed_companies.json](file:///Users/nhan/Personal/code/pdf-analyzer/companies/listed_companies.json).
+> 2. **Tuyệt đối không chỉ chọn các công ty đạt chuẩn (File 5):** Khi người dùng yêu cầu *"tiếp tục với 5 mã tiếp theo"* (hoặc X mã tiếp theo), AI **KHÔNG ĐƯỢC CHỈ LỌC HOẶC CHỈ LẤY CÁC CÔNG TY ĐẠT CHUẨN**, mà BẮT BUỘC phải lấy đúng X công ty tiếp theo theo thứ tự trong `companies/listed_companies.json` tính từ mã cuối cùng đã hoàn tất trong Bảng Theo Dõi Chi Tiết Toàn Bộ Cổ Phiếu của [screenings/screening_dashboard.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/screening_dashboard.md).
+> 3. **Chạy qua đầy đủ 4 bước phễu lọc cho từng mã:**
+>    - **Bước 1 (Ngành & Vòng tròn năng lực):** BĐS dân dụng, xây dựng, VLXD đại trà không có tài nguyên/TTTM độc quyền 👉 **LOẠI** ➔ Ghi vào `screenings/01-rejected-circle-of-competence.md`, kết thúc mã đó.
+>    - **Bước 2 (Lợi nhuận 3 năm liên tiếp):** Lỗ cả 3 năm tài chính gần nhất 👉 **LOẠI** ➔ Ghi vào `screenings/02-rejected-consecutive-loss.md`, kết thúc mã đó.
+>    - **Bước 3 (Chuỗi giá trị & Ngoại lệ P/B):** Gia công/đại trà ở đáy chuỗi giá trị và $P/B \ge 0.5$ 👉 **LOẠI** ➔ Ghi vào `screenings/03-rejected-low-value-chain.md`, kết thúc mã đó.
+>    - **Bước 4 (Hiệu quả vốn ROE 5 năm):** ROE $< 10\%$ trong cả 5 năm liên tục 👉 **LOẠI** ➔ Ghi vào `screenings/04-rejected-low-roe.md`, kết thúc mã đó.
+>    - **Vượt qua cả 4 bước:** 👉 **ĐẠT CHUẨN** ➔ Ghi vào `screenings/05-passed-champions.md`.
+> 4. **Cập nhật đồng bộ Dashboard:** Luôn bổ sung các mã vừa phân tích vào Bảng Theo Dõi Chi Tiết Toàn Bộ Cổ Phiếu trong [screenings/screening_dashboard.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/screening_dashboard.md) và cập nhật bảng tóm tắt nhanh tương ứng.
+> 5. **Luôn lấy P/B và P/E cho các công ty lọt qua hết các vòng lọc (File 5):** Với tất cả các công ty xuất sắc vượt qua toàn bộ 4 bước để vào File 5 (`screenings/05-passed-champions.md`), AI **BẮT BUỘC LUÔN THU THẬP VÀ GHI RÕ ĐẦY ĐỦ HAI CHỈ SỐ ĐỊNH GIÁ THỊ TRƯỜNG LÀ $P/B$ VÀ $P/E$** tại thời điểm sàng lọc vào phần thông tin chung của hồ sơ chi tiết và cột Định giá của bảng tóm tắt nhanh [screenings/summary-05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md).

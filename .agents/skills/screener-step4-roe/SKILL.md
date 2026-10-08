@@ -18,8 +18,10 @@ Kỹ năng này hướng dẫn AI Agent thực hiện **Bước 4** trong phễu
 
 ### B. Điều Kiện Vượt Qua Cả Phễu Lọc (Tốt Nghiệp Vào File Thứ 5)
 - Doanh nghiệp có **ROE $\ge 10\%$ ở một hoặc nhiều năm** trong chu kỳ 5 năm (lý tưởng nhất là duy trì bền vững $> 15\% - 20\%$).
+- > [!IMPORTANT]
+  > **BẮT BUỘC LUÔN LẤY CHỈ SỐ ĐỊNH GIÁ P/B VÀ P/E:** Đối với tất cả các công ty tốt nghiệp vượt qua toàn bộ 4 vòng để vào File 5, AI **BẮT BUỘC PHẢI THU THẬP VÀ GHI RÕ ĐẦY ĐỦ 2 CHỈ SỐ ĐỊNH GIÁ: $P/B$ VÀ $P/E$** tại thời điểm hiện tại/báo cáo mới nhất (kèm BVPS nếu có) vào hồ sơ chi tiết của công ty và bảng tóm tắt nhanh `summary-05-passed-champions.md`.
 - **👉 HÀNH ĐỘNG: Ghi danh vào `screenings/05-passed-champions.md`.**  
-  Tổng hợp bản giải trình nêu rõ lý do tại sao công ty vượt qua từng bước trong cả 4 bước.
+  Tổng hợp bản giải trình nêu rõ lý do tại sao công ty vượt qua từng bước trong cả 4 bước kèm định giá $P/E$, $P/B$.
 
 ---
 
@@ -32,11 +34,13 @@ Kỹ năng này hướng dẫn AI Agent thực hiện **Bước 4** trong phễu
    - Kiểm tra xem có năm nào $\ge 10\%$ hay không.
 3. **Kết luận & Xử lý:**
    - **Nếu cả 5 năm đều < 10%:** Ghi vào `screenings/04-rejected-low-roe.md`.
-   - **Nếu vượt qua:** Ghi vào `screenings/05-passed-champions.md` kèm tóm tắt 4 trụ cột chiến thắng:
-     * *Vòng 1:* Ngành nghề dễ hiểu / Lợi thế tài nguyên đặc thù.
-     * *Vòng 2:* Lợi nhuận dương vững chắc, không lỗ 3 năm.
-     * *Vòng 3:* Sản phẩm độc đáo, giá trị gia tăng cao (hoặc P/B < 0.5).
-     * *Vòng 4:* ROE sinh lời hiệu quả trên vốn.
+   - **Nếu vượt qua:** 
+     * **Thu thập ngay chỉ số $P/E$ và $P/B$** của doanh nghiệp.
+     * Ghi vào `screenings/05-passed-champions.md` kèm chỉ số định giá $P/E, P/B$ và tóm tắt 4 trụ cột chiến thắng:
+       * *Vòng 1:* Ngành nghề dễ hiểu / Lợi thế tài nguyên đặc thù.
+       * *Vòng 2:* Lợi nhuận dương vững chắc, không lỗ 3 năm.
+       * *Vòng 3:* Sản phẩm độc đáo, giá trị gia tăng cao (hoặc P/B < 0.5).
+       * *Vòng 4:* ROE sinh lời hiệu quả trên vốn.
 
 ---
 

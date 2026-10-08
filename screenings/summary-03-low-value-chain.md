@@ -1,6 +1,6 @@
 # 📋 Bảng Tóm Tắt Nhanh: Doanh Nghiệp Rớt Bước 3 (Chuỗi Giá Trị Thấp & P/B $\ge$ 0.5)
 
-> **Mục đích:** Bảng tổng hợp rút gọn 16 doanh nghiệp bị loại do sản phẩm đại trà, sơ chế thô, gia công ở đáy chuỗi giá trị và định giá thị trường không đủ rẻ ($P/B \ge 0.5$).
+> **Mục đích:** Bảng tổng hợp rút gọn 19 doanh nghiệp bị loại do sản phẩm đại trà, sơ chế thô, gia công ở đáy chuỗi giá trị và định giá thị trường không đủ rẻ ($P/B \ge 0.5$).
 > 
 > 📁 **Hồ sơ phân tích chi tiết đầy đủ:** [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) | ⚡ **Quay lại:** [Bảng Tổng Hợp Siêu Tốc 1,642 Mã](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md)
 
@@ -24,3 +24,7 @@
 | 14 | **DHM** | CTCP TM&KT Khoáng sản Dương Hiếu | Thương mại khoáng sản & than cốc | **0.68** | ~4.0% (Biên ròng 0.3%) | Thương mại trung gian biên ròng cực mỏng, không có mỏ độc quyền, P/B = 0.68 >= 0.5 | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md#dhm) |
 | 15 | `HMG` | CTCP Kim khí Hà Nội - VNSTEEL | Nguyên vật liệu | >=0.5 | Biên mỏng | Doanh nghiệp thương mại gia công trung gian đáy chuỗi giá trị biên mỏng, P/B (0.55) >= 0.5. | [Chi tiết](03-rejected-low-value-chain.md#hmg) |
 | 16 | `KTL` | CTCP Kim khí Thăng Long | Công nghiệp | >=0.5 | Biên mỏng | Doanh nghiệp thương mại gia công trung gian đáy chuỗi giá trị biên mỏng, P/B (0.97) >= 0.5. | [Chi tiết](03-rejected-low-value-chain.md#ktl) |
+| 17 | `HMC` | Công ty Cổ phần Kim khí Thành phố Hồ Chí Minh - Vnsteel | Thương mại phân phối thép | **0.70** | ~3.0% (Biên ròng <1%) | Phân phối thép thương phẩm đại trà biên cực mỏng, không có hào kinh tế, P/B = 0.70 >= 0.5 | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md#hmc) |
+| 18 | `VOS` | Công ty Cổ phần Vận tải biển Việt Nam | Vận tải biển hàng rời & Dầu sản phẩm | **0.95** | Biến động mạnh (Biên mỏng) | Vận tải hàng rời đại trà đáy chuỗi logistics, giá cước phụ thuộc chỉ số BDI, đội tàu già cỗi, P/B = 0.95 >= 0.5 | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md#vos) |
+| 19 | `MCF` | CTCP Xây lắp Cơ khí và Lương thực Thực phẩm | Chế biến xay xát xuất khẩu gạo & Bao bì | **0.66** | ~5.2% (Biên ròng 1.5%) | Xuất khẩu gạo thô đại trà đáy chuỗi giá trị nông sản, biên ròng mỏng 1.5%, P/B = 0.66 >= 0.5 | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md#mcf) |
+

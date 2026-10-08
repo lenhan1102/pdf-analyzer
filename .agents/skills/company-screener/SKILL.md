@@ -9,11 +9,17 @@ Kỹ năng này đóng vai trò **Bộ Điều Phối Trung Tâm (Orchestrator)*
 
 ---
 
-## 1. Các Trường Hợp Kích Hoạt
+## 1. Các Trường Hợp Kích Hoạt & Quy Tắc Tuần Tự Bắt Buộc
 
 - Người dùng yêu cầu: *"Hãy lọc công ty [TICKER] qua các bước tiêu chuẩn của tôi"*.
 - Người dùng cung cấp một danh sách: *"Hãy sàng lọc các mã VNM, HPG, NVL, FPT, VRE, DXG, STK qua phễu lọc"*.
-- Người dùng yêu cầu: *"Kiểm tra xem công ty [TICKER] có vượt qua bộ lọc 4 bước không và sắp nó vào file tương ứng"*.
+- Người dùng yêu cầu: *"Hãy tiếp tục với 5 mã tiếp theo"* (hoặc X mã tiếp theo):
+  > [!IMPORTANT]
+  > **QUY TẮC BẮT BUỘC VỀ THỨ TỰ LẤY MÃ (MANDATORY SEQUENTIAL SCREENING RULE):**
+  > 1. **Nguồn danh sách gốc:** BẮT BUỘC lấy danh sách và thứ tự tuần tự tuyệt đối từ file [companies/listed_companies.json](file:///Users/nhan/Personal/code/pdf-analyzer/companies/listed_companies.json).
+  > 2. **Tuyệt đối không chỉ chọn các công ty đạt chuẩn (File 5):** Khi người dùng nói "tiếp tục với X mã tiếp theo", AI **KHÔNG ĐƯỢC CHỈ LẤY CÔNG TY ĐẠT CHUẨN**, mà BẮT BUỘC phải lấy X công ty tiếp theo theo đúng thứ tự trong `companies/listed_companies.json` tính từ mã cuối cùng đã hoàn tất trong Bảng chi tiết của [screenings/screening_dashboard.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/screening_dashboard.md).
+  > 3. **Chạy qua đầy đủ 4 bước phễu lọc cho từng mã:** Với mỗi mã trong danh sách, phải kiểm tra tuần tự qua Bước 1 ➔ Bước 2 ➔ Bước 3 ➔ Bước 4 và phân loại chính xác vào đúng 1 trong 5 file tương ứng trong `screenings/` (`01-rejected...`, `02-rejected...`, `03-rejected...`, `04-rejected...`, hoặc `05-passed-champions.md`).
+  > 4. **Cập nhật đồng bộ Dashboard:** Luôn bổ sung các mã vừa phân tích vào Bảng Theo Dõi Chi Tiết Toàn Bộ Cổ Phiếu trong [screenings/screening_dashboard.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/screening_dashboard.md).
 
 ---
 
@@ -81,6 +87,8 @@ Với mỗi mã cổ phiếu `<TICKER>`:
 - **Nếu ROE có năm $\ge 10\%$ hoặc trung bình tốt:** 👉 **CHIẾN THẮNG BỘ LỌC!**
 
 ### Bước 5: Đưa vào File 5 & Hoàn Tất
+- > [!IMPORTANT]
+  > **BẮT BUỘC LUÔN LẤY CHỈ SỐ ĐỊNH GIÁ P/B VÀ P/E:** Với tất cả các công ty lọt qua hết các vòng lọc để vào File 5, AI **BẮT BUỘC LUÔN THU THẬP VÀ GHI RÕ CHỈ SỐ ĐỊNH GIÁ $P/E$ VÀ $P/B$** tại thời điểm sàng lọc vào phần thông tin chung của hồ sơ trong `screenings/05-passed-champions.md` cũng như cột Định giá tại `screenings/summary-05-passed-champions.md`.
 - Ghi danh vào `screenings/05-passed-champions.md` với bản giải trình đầy đủ lý do vượt qua cả 4 bước.
 - Cập nhật Dashboard: Đổi trạng thái mã thành **"✅ ĐẠT CHUẨN (Vượt qua 4/4 bước)"**.
 

@@ -181,3 +181,46 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ ba: 
 - **Định giá P/B thực tế:** ~0.70 lần (Điều kiện ngoại lệ giữ lại: phải < 0.5)
 - **Lý do bị loại:** HMC là doanh nghiệp phân phối thép thuần túy — sản phẩm là hàng hóa commodity không có tính khác biệt, biên lợi nhuận ròng cực mỏng (< 1%), hoàn toàn phụ thuộc vào biến động giá thép thế giới và tình trạng dư cung thép giá rẻ từ Trung Quốc. Không có quyền lực định giá, không có rào cản cạnh tranh bền vững. Mặc dù định giá P/B ~0.70 đã thấp hơn giá trị sổ sách, nhưng chưa đủ ngưỡng chiết khấu sâu để tạo biên an toàn tài sản (yêu cầu P/B < 0.5).
 - **Ngày sàng lọc:** 2026-09-21
+
+---
+
+<a id="vos"></a>
+### 18. VOS - Công ty Cổ phần Vận tải biển Việt Nam
+- **Mã cổ phiếu:** `VOS` (Sàn HOSE)
+- **Ngành nghề niêm yết:** Vận tải & Kho bãi / Vận tải Biển Hàng rời & Dầu sản phẩm
+- **Vị thế chuỗi giá trị:** Cung cấp dịch vụ vận tải biển hàng khô rời (than đá, quặng sắt, xi măng, nông sản) và dầu sản phẩm nội địa cũng như quốc tế. Đây là dịch vụ vận tải hàng rời đại trà (dry bulk shipping commodity), nằm ở tầng đáy chuỗi giá trị logistics toàn cầu:
+  - Hoàn toàn không có quyền lực định giá cước vận chuyển, giá cước bị chi phối tuyệt đối bởi cung cầu tàu biển thế giới và biến động thất thường của chỉ số cước vận tải Baltic Dry Index (BDI).
+  - Không có công nghệ lõi hay con hào kinh tế; đội tàu của Vosco phần lớn đã già nua (tuổi bình quân tàu cao), phát sinh chi phí nhiên liệu, sửa chữa và bảo dưỡng lớn làm xói mòn biên lợi nhuận cốt lõi.
+  - Lợi nhuận phập phù theo chu kỳ kinh tế, phụ thuộc lớn vào việc bán thanh lý các tàu cũ (như năm 2024 ghi nhận lãi đột biến hơn 300 tỷ từ bán tàu Đại Minh, trong khi lợi nhuận khai thác tàu cốt lõi chỉ đạt khoảng 50 tỷ).
+- **Kết quả kinh doanh 3 năm gần nhất (đạt Bước 2):**
+  | Năm | Doanh thu thuần (Tỷ VNĐ) | LNST (Tỷ VNĐ) | Trạng thái |
+  | :---: | :---: | :---: | :---: |
+  | 2022 | ~2.420 | 488,1 | Lãi |
+  | 2023 | ~3.187 | 155,2 | Lãi |
+  | 2024 | ~4.500 | ~360 | Lãi (nhờ bán tàu) |
+- **Định giá P/B thực tế:** **~0.95 lần** (Điều kiện ngoại lệ giữ lại: phải < 0.5)
+- **Lý do bị loại:** VOS hoạt động trong ngành dịch vụ vận tải biển hàng rời đại trà ở đáy chuỗi giá trị gia tăng, không có hào kinh tế, lợi nhuận cốt lõi bấp bênh và phụ thuộc vào thanh lý tài sản. Định giá P/B thực tế đạt khoảng 0.95 lần, cao hơn nhiều so với ngưỡng ngoại lệ chiết khấu sâu tài sản ($P/B < 0.5$). Do đó, doanh nghiệp bị loại tại Bước 3.
+- **Ngày sàng lọc:** 2026-09-29
+
+---
+
+<a id="mcf"></a>
+### 19. MCF - CTCP Xây lắp Cơ khí và Lương thực Thực phẩm (Mecofood)
+- **Mã cổ phiếu:** `MCF` (Sàn HNX)
+- **Ngành nghề niêm yết:** Công nghiệp / Sản xuất, Chế biến & Xuất khẩu Gạo, Cơ khí Phụ tùng
+- **Vị thế chuỗi giá trị & Mô hình kinh doanh:**
+  - Hoạt động cốt lõi là thu mua, xay xát, chế biến và xuất khẩu gạo (mảng lương thực đóng góp tới **~70% tổng doanh thu** hàng năm), kết hợp sản xuất bao bì PP và gia công cơ khí thiết bị máy nông nghiệp tại Long An, Tiền Giang.
+  - Thuộc tầng đáy chuỗi giá trị gia tăng ngành lúa gạo: Doanh nghiệp chủ yếu xuất khẩu gạo trắng, gạo thơm dạng xơ chế thô theo các hợp đồng thương mại tập trung hoặc bán buôn khối lượng lớn (commodity), không sở hữu thương hiệu bán lẻ quốc tế cao cấp như gạo ST25 đóng gói nhỏ.
+  - Biên lợi nhuận gộp cực mỏng (khoảng 4% – 6%), biên lợi nhuận ròng chỉ từ **1.5% đến 2.5%**. Doanh nghiệp hoàn toàn phụ thuộc vào biến động giá lúa tươi thu mua của nông dân và giá xuất khẩu gạo thế giới, không có quyền lực định giá.
+- **Kết quả kinh doanh 3 năm gần nhất (đạt Bước 2):**
+  | Năm | Doanh thu thuần (Tỷ VNĐ) | LNST (Tỷ VNĐ) | Trạng thái |
+  | :---: | :---: | :---: | :---: |
+  | 2023 | 550,2 | 10,8 | Lãi |
+  | 2024 | 580,5 | 11,2 | Lãi |
+  | 2025 | 620,0 | 12,5 | Lãi |
+- **Định giá P/B thực tế:** **~0.66 lần** (Thị giá ~7.500 đ/CP vs BVPS ~11.320 đ/CP)
+  - Điều kiện ngoại lệ giữ lại: Định giá phải siêu rẻ với P/B < 0.5.
+  - Thực tế: P/B = 0.66 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net.
+- **Lý do bị loại:** MCF hoạt động xuất khẩu gạo thô và gia công phụ tùng ở tầng đáy chuỗi giá trị gia tăng nông nghiệp, biên lợi nhuận mỏng và chịu rủi ro biến động giá nguyên liệu lúa gạo. Định giá P/B thực tế đạt 0.66 lần (chưa đạt ngưỡng an toàn tài sản P/B < 0.5). Doanh nghiệp chính thức bị loại trừ tại Bước 3.
+- **Ngày sàng lọc:** 2026-10-05
+
