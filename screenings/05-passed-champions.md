@@ -9704,34 +9704,1407 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
 - **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Kim Cương Vận Tải Biển Xăng Dầu & Năng Lượng (Petroleum Maritime Transportation Champion).
 - **Ngày tốt nghiệp phễu:** 2026-10-08
 
+---
 
+### 312. APF - Công ty Cổ phần Nông sản thực phẩm Quảng Ngãi
+- **Mã cổ phiếu:** `APF` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp & Thực phẩm / Chế biến & Xuất khẩu Tinh bột Sắn (Khoai mì), Cồn Ethanol & Bột Biến tính
+- **Hoạt động kinh doanh chính:** Thành lập năm 2003 trên cơ sở cổ phần hóa doanh nghiệp nhà nước, APF là doanh nghiệp chế biến và xuất khẩu tinh bột sắn lớn nhất Việt Nam. Doanh nghiệp sở hữu hệ sinh thái nhà máy tinh bột sắn hiện đại trải dài từ Quảng Ngãi, Gia Lai, Đắk Lắk, Bình Định và hệ thống nhà máy tại Attapeu, Champasak (Lào), cùng các dây chuyền sản xuất tinh bột sắn biến tính công nghệ cao và cồn ethanol nhiên liệu sinh học.
+- **Lợi thế cạnh tranh & Năng lực sinh lời vượt bậc trong ngành chế biến nông sản:**
+  - **Quy mô doanh thu hàng đầu và vị thế xuất khẩu số 1:**
+    - Doanh thu thuần duy trì từ **6.500 – 7.150 tỷ VNĐ/năm**, sản phẩm xuất khẩu chủ lực sang các thị trường lớn (Trung Quốc, Nhật Bản, Hàn Quốc, châu Âu) phục vụ công nghiệp thực phẩm, giấy, bao bì và dược phẩm.
+    - Sở hữu vùng nguyên liệu sắn rộng lớn tại Tây Nguyên và Nam Lào, kết hợp quan hệ thu mua gắn bó lâu năm với hàng vạn hộ nông dân giúp tối ưu chi phí nguyên liệu đầu vào.
+  - **Hiệu quả sinh lời trên vốn vượt trội và cỗ máy cổ tức tiền mặt:**
+    - Lợi nhuận sau thuế năm 2022 đạt kỷ lục **404,6 tỷ VNĐ**, năm 2023 đạt **181,7 tỷ VNĐ**, năm 2024 đạt **156,0 tỷ VNĐ** và năm 2025 tiếp tục duy trì trên **150 tỷ VNĐ**.
+    - Vốn chủ sở hữu vững mạnh trên **1.100 – 1.150 tỷ VNĐ** (trong khi vốn điều lệ chỉ ~305 tỷ VNĐ).
+    - Tỷ suất sinh lời ROE các năm: Năm 2021 đạt **22.75%**, Năm 2022 đạt đỉnh **>35%**, Năm 2023 đạt **16.4%**, Năm 2024 đạt **13.6% > 10%**!
+    - Chính sách cổ tức siêu hậu hĩnh: Chi trả cổ tức đều đặn hàng năm bằng tiền mặt và cổ phiếu thưởng với tỷ lệ tổng cộng từ **30% – 40%**!
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~5.5x – 6.5x** (Định giá vô cùng hấp dẫn cho doanh nghiệp xuất khẩu đầu ngành)
+  - **P/B:** **~0.9x – 1.1x**
+  - **Vốn chủ sở hữu:** **~1.148 tỷ VNĐ**
+  - **Vốn điều lệ:** **~305 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **156 – 404 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Chế biến nông sản thực phẩm xuất khẩu thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: LNST duy trì đều đặn 156 – 404 tỷ VNĐ/năm.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Chuỗi chế biến sâu (tinh bột biến tính, ethanol), định giá P/B ~1.0x hấp dẫn.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE duy trì liên tục từ 13.6% – 35% > 10%.
+- **Điểm mạnh đặc biệt:** (1) Thống trị ngành tinh bột sắn Việt Nam và Lào; (2) Doanh thu >6.500 tỷ/năm; (3) LNST hàng trăm tỷ ổn định; (4) Cổ tức tiền mặt & cổ phiếu 30-40% đều đặn; (5) Định giá P/E chỉ ~6x.
+- **Rủi ro cần theo dõi:** Biến động giá sắn củ tươi theo mùa vụ và biến động nhu cầu nhập khẩu từ thị trường Trung Quốc.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Kim Cương Chế Biến & Xuất Khẩu Tinh Bột Sắn Số 1 Việt Nam (National Cassava Starch Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
 
+---
 
+### 313. APL - CTCP Cơ khí và Thiết bị áp lực - VVMI
+- **Mã cổ phiếu:** `APL` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp Chế tạo / Cơ khí Chế tạo Nồi hơi, Bình Áp lực & Thiết bị Nâng hạ Chuyên dụng (VVMI / TKV)
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy Cơ khí và Thiết bị áp lực thành lập năm 1978 trực thuộc Tổng công ty Công nghiệp Mỏ Việt Bắc TKV - CTCP (VVMI thuộc Tập đoàn Than - Khoáng sản Việt Nam). Doanh nghiệp chuyên chế tạo, lắp đặt, kiểm định và bảo dưỡng các loại nồi hơi công nghiệp, bình chịu áp lực cao, bồn chứa khí hóa lỏng LPG, kết cấu thép và thiết bị nâng hạ phục vụ các nhà máy xi măng, nhiệt điện than và khai thác mỏ than.
+- **Lợi thế cạnh tranh & Hiệu quả sinh lời bền vững quy mô gọn nhẹ:**
+  - **Khách hàng bảo chứng nội bộ ổn định trong hệ sinh thái TKV:**
+    - Là đơn vị chế tạo cơ khí áp lực chủ lực của Tổng công ty Mỏ Việt Bắc (VVMI) và Tập đoàn Than Khoáng sản, đảm bảo đầu ra công việc ổn định cho các nhà máy xi măng (Quán Triều, La Hiên, Tân Quang) và các mỏ than nội địa.
+    - Doanh thu thuần ổn định từ **60 – 90 tỷ VNĐ/năm**.
+  - **Hiệu quả sinh lời cao trên quy mô vốn nhỏ gọn:**
+    - Vốn điều lệ gọn nhẹ vẻn vẹn **12 tỷ VNĐ** (1,2 triệu cổ phiếu lưu hành).
+    - Vốn chủ sở hữu đạt từ **16 – 18 tỷ VNĐ**.
+    - Lợi nhuận sau thuế duy trì đều đặn từ **1,93 – 2,5 tỷ VNĐ/năm**.
+    - **EPS đạt từ 1.600 – 2.080 đ/cổ phiếu**!
+    - **Tỷ suất sinh lời ROE các năm đạt từ 11.5% – 14.5% > 10%**!
+    - **Chính sách cổ tức tiền mặt đều như vắt chanh:** Chi trả cổ tức tiền mặt hàng năm tỷ lệ **12%** (1.200 đ/cp), mang lại tỷ suất cổ tức tiền mặt lên tới **12% – 15%/năm** so với thị giá.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~4.5x – 5.5x** (Định giá rất rẻ)
+  - **P/B:** **~0.6x – 0.7x**
+  - **Vốn chủ sở hữu:** **~16 – 18 tỷ VNĐ**
+  - **Vốn điều lệ:** **12 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **1,93 – 2,5 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Cơ khí chế tạo thiết bị áp lực chuyên dụng thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 1.93 – 2.5 tỷ VNĐ/năm ổn định.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Thiết bị áp lực đòi hỏi chứng nhận kiểm định an toàn nghiêm ngặt, P/B ~0.7x.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE duy trì 11.5% – 14.5% > 10%.
+- **Điểm mạnh đặc biệt:** (1) Đầu ra ổn định từ hệ thống TKV/VVMI; (2) Vốn điều lệ siêu nhỏ 12 tỷ, tài chính lành mạnh không nợ vay lớn; (3) Cổ tức tiền mặt 12% đều đặn hàng năm; (4) P/E ~5x, P/B < 1.0x.
+- **Rủi ro cần theo dõi:** Thanh khoản cổ phiếu thấp do cơ cấu cổ đông nhà nước cô đặc; tốc độ tăng trưởng quy mô khiêm tốn.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Kim Cương Cơ Khí Chế Tạo Thiết Bị Áp Lực Chuyên Dụng (Pressure Vessel Engineering Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
 
+---
 
+### 314. AVC - Công ty Cổ phần Thủy điện A Vương
+- **Mã cổ phiếu:** `AVC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng / Thủy điện Lớn & Điều tiết Hồ chứa (EVNGENCO2)
+- **Hoạt động kinh doanh chính:** Nhà máy Thủy điện A Vương có công suất lắp máy 210 MW (gồm 2 tổ máy x 105 MW) đặt trên lưu vực sông Bung tại huyện Đông Giang, tỉnh Quảng Nam. Công trình được khởi công năm 2003 và phát điện thương mại hòa lưới điện quốc gia từ cuối năm 2008, với sản lượng điện thiết kế trung bình đạt trên 737 triệu kWh/năm. Doanh nghiệp trực thuộc Tổng công ty Phát điện 2 (EVNGENCO2 là công ty mẹ chi phối nắm giữ 87.45% vốn điều lệ).
+- **Lợi thế cạnh tranh & Hiệu quả sinh lời bền vững vượt trội:**
+  - **Hồ chứa điều tiết năm và lợi thế giá bán điện giờ cao điểm:**
+    - Sở hữu hồ chứa nước dung tích hơn 343 triệu m3 với khả năng tích nước điều tiết năm, cho phép nhà máy linh hoạt chủ động chào giá phát điện trên thị trường điện cạnh tranh (CGM) vào các khung giờ cao điểm mùa khô với giá bán điện cao nhất.
+    - Không tốn chi phí nhiên liệu đầu vào (suất tiêu hao nhiên liệu bằng 0), biên lợi nhuận gộp mảng phát điện luôn duy trì ở mức cực kỳ ấn tượng từ **55% đến 65%**.
+  - **Tài sản lớn đã khấu hao gần hết, nợ vay dài hạn sạch bóng:**
+    - Sau hơn 15 năm vận hành thương mại, hầu hết chi phí xây dựng cơ bản và thiết bị cơ điện đắt đỏ của nhà máy đã hoàn tất trích khấu hao. Chi phí khấu hao giảm mạnh giúp biên lợi nhuận ròng tăng vọt lên mức **30% – 45%**.
+    - Dòng tiền từ hoạt động kinh doanh (CFO) tạo ra từ 400 – 600 tỷ VNĐ tiền mặt tự do mỗi năm. Toàn bộ nợ vay dài hạn kiến thiết nhà máy đã trả xong, doanh nghiệp không còn áp lực chi phí lãi vay, cấu trúc bảng cân đối kế toán cực kỳ lành mạnh.
+  - **Quy mô lợi nhuận và chuỗi ROE siêu việt > 20% suốt 5 năm:**
+    - Doanh thu thuần hàng năm đạt từ **650 đến hơn 950 tỷ VNĐ**.
+    - Lợi nhuận sau thuế duy trì đều đặn từ **180 đến trên 300 tỷ VNĐ/năm** (các năm mưa nhiều như 2022-2023 LNST đạt đỉnh 450-500 tỷ VNĐ).
+    - Chuỗi tỷ suất sinh lời trên vốn chủ sở hữu (ROE) luôn duy trì ở mức xuất sắc:
+      - Năm 2021: ROE = **23.13%**
+      - Năm 2022: ROE = **>35.00%**
+      - Năm 2023: ROE = **26.09%**
+      - Năm 2024: ROE = **27.38%**
+      - Năm 2025: ROE = **22.52%**
+      - *Đánh giá chuỗi ROE:* Suốt 5 năm liên tiếp ROE đều vượt xa ngưỡng 20% (bình quân 5 năm đạt **~26.8% >> 10%**), thể hiện sức mạnh vượt trội của một nhà máy thủy điện lớn đã hết khấu hao.
+  - **Cỗ máy chi trả cổ tức tiền mặt siêu khủng:**
+    - Do không còn áp lực trả nợ và không phải đầu tư dự án mới lớn, AVC thực hiện chính sách chi trả toàn bộ lợi nhuận thặng dư cho cổ đông bằng tiền mặt với tỷ lệ từ **20% đến 40% (2.000 – 4.000 đ/cổ phiếu)** mỗi năm.
+    - Tỷ suất cổ tức tiền mặt (Dividend Yield) đạt từ **8% – 12%/năm** trên thị giá, là cổ phiếu phòng thủ tạo dòng tiền cổ tức tuyệt vời.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~8.0x – 9.5x** (Định giá rất hợp lý so với dòng tiền mặt dồi dào)
+  - **P/B:** **~1.8x – 2.0x**
+  - **Vốn chủ sở hữu:** **~1.000 – 1.150 tỷ VNĐ**
+  - **Vốn điều lệ:** **750,5 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **180 – 300 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Thủy điện lớn 210 MW điều tiết năm thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 180 – 300 tỷ VNĐ/năm đều đặn.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Sản xuất điện sạch chi phí thấp, biên gộp > 55-60%, chuỗi giá trị năng lượng tái tạo cao.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE 5 năm liên tục 22.5% – 27.4% (BQ ~26.8% >> 10%).
+- **Điểm mạnh đặc biệt:** (1) Công suất lớn 210 MW, hồ chứa điều tiết năm; (2) Đã hết khấu hao và sạch nợ vay dài hạn; (3) ROE duy trì trên 22% - 27%; (4) Cổ tức tiền mặt 20% - 40%/năm siêu đều đặn; (5) Hậu thuẫn mạnh từ EVNGENCO2.
+- **Rủi ro cần theo dõi:** Rủi ro biến đổi khí hậu / chu kỳ thủy văn El Nino hạn hán có thể làm giảm sản lượng phát điện trong ngắn hạn; thanh khoản cổ phiếu ở mức trung bình do EVNGENCO2 nắm 87.45%.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Kim Cương Năng Lượng Thủy Điện & Dòng Tiền Cổ Tức Bền Vững (Hydropower & Cash Cow Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
 
+---
 
+### 315. BBT - Công ty Cổ phần Bông Bạch Tuyết
+- **Mã cổ phiếu:** `BBT` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Y tế & Hàng tiêu dùng Chăm sóc Cá nhân / Bông Băng Y tế, Gạc Phẫu thuật & Bông Tẩy trang Quốc dân
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy Bông Bạch Tuyết thành lập từ năm 1960, là thương hiệu quốc dân lâu đời nhất Việt Nam với hơn 60 năm lịch sử trong lĩnh vực sản xuất bông y tế, gạc phẫu thuật, tăm bông và sản phẩm chăm sóc vệ sinh. Sau giai đoạn tái cấu trúc toàn diện thành công, doanh nghiệp đã bứt phá mạnh mẽ bằng việc hiện đại hóa dây chuyền sản xuất tự động, thâm nhập sâu vào mảng chăm sóc sắc đẹp cá nhân (Personal Care) với các dòng bông tẩy trang, khăn ướt cao cấp.
+- **Lợi thế cạnh tranh & Con hào kinh tế:**
+  - **Thương hiệu di sản số 1 thị phần y tế và bán lẻ:**
+    - "Bông Bạch Tuyết" là thương hiệu biểu tượng, chiếm thị phần áp đảo tại hầu hết các bệnh viện lớn, viện phẫu thuật, trạm y tế và mạng lưới hơn 30.000 nhà thuốc tây trên toàn quốc.
+    - Chuyển dịch chiến lược ngoạn mục sang kênh tiêu dùng hiện đại: Các dòng bông tẩy trang cotton 100% tự nhiên dẫn đầu doanh số tại các chuỗi siêu thị (Co.opmart, WinMart, Lotte Mart, Aeon) và các sàn thương mại điện tử (Shopee, TikTok Shop, Lazada).
+  - **Tiêu chuẩn phòng sạch và rào cản kỹ thuật y tế khắt khe:**
+    - Sở hữu hệ thống nhà máy đạt chuẩn ISO 9001, ISO 13485, CE Marking và công nghệ tiệt trùng khí E.O hiện đại, đáp ứng các tiêu chuẩn thầu vật tư y tế khắt khe mà các cơ sở gia công nhỏ lẻ bên ngoài không thể cạnh tranh.
+- **Sức khỏe tài chính & Hiệu quả sinh lời tăng trưởng:**
+  - Doanh thu thuần hàng năm duy trì ổn định từ **280 đến 320 tỷ VNĐ**.
+  - Lợi nhuận sau thuế duy trì vững chắc từ **19 đến 21 tỷ VNĐ/năm** (năm 2024 lợi nhuận bứt phá đưa ROE đạt **13.55% > 10%**, năm 2025 tiếp tục đạt 19 tỷ VNĐ).
+  - Vốn điều lệ 98,4 tỷ VNĐ, vốn chủ sở hữu tích lũy đạt trên **160 – 175 tỷ VNĐ**, không chịu rủi ro nợ vay dài hạn lớn, dòng tiền kinh doanh dồi dào.
+  - Chính sách cổ tức tiền mặt đều đặn hàng năm từ **8% đến 12%** (800 – 1.200 đ/cổ phiếu).
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~8.5x – 9.5x** (Mức định giá hấp dẫn cho thương hiệu hàng đầu ngành y tế tiêu dùng)
+  - **P/B:** **~1.1x – 1.2x**
+  - **Vốn chủ sở hữu:** **~160 – 175 tỷ VNĐ**
+  - **Vốn điều lệ:** **98,4 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **19 – 21 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Bông băng y tế & chăm sóc cá nhân thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 19 – 21 tỷ VNĐ/năm liên tục.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Thương hiệu quốc dân, biên lợi nhuận gộp tốt > 30%, chuỗi giá trị cao.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: Năm 2024 ROE đạt **13.55% > 10%**, không bị dưới 10% trong suốt cả 5 năm liên tục.
+- **Điểm mạnh đặc biệt:** (1) Thương hiệu quốc dân hơn 60 năm; (2) Thị phần số 1 tại bệnh viện và nhà thuốc; (3) Mở rộng thành công sang bông tẩy trang cá nhân; (4) Không nợ vay lớn, cổ tức tiền mặt đều đặn.
+- **Rủi ro cần theo dõi:** Biến động giá bông nguyên liệu xơ cotton nhập khẩu trên thị trường thế giới; cạnh tranh từ các thương hiệu bông tẩy trang ngoại nhập từ Hàn Quốc, Nhật Bản.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Kim Cương Thiết Bị Y Tế & Chăm Sóc Cá Nhân Quốc Dân (National Healthcare & Personal Care Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
 
+---
 
+### 316. BCB - Công ty Cổ phần 397
+- **Mã cổ phiếu:** `BCB` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng & Khai khoáng / Khai thác Than Cứng & Dịch vụ Mỏ (Tổng công ty Đông Bắc - Bộ Quốc phòng)
+- **Hoạt động kinh doanh chính:** Tiền thân là Đội khai thác than số 1 thành lập tháng 6/1996, trực thuộc Tổng công ty Đông Bắc (Bộ Quốc phòng - nắm giữ 51% cổ phần chi phối). Doanh nghiệp chuyên khai thác, chế biến và thu gom than mỏ cứng tại khu vực Mạo Khê, thị xã Đông Triều, tỉnh Quảng Ninh, cung cấp nguồn than năng lượng trọng yếu cho các nhà máy nhiệt điện quốc gia và các ngành công nghiệp chủ lực.
+- **Lợi thế cạnh tranh & Con hào kinh tế:**
+  - **Vị thế khai khoáng mỏ than thuộc Tổng công ty Đông Bắc - Bộ Quốc phòng:**
+    - Tổng công ty Đông Bắc cùng với TKV là hai trụ cột duy nhất được Nhà nước giao trọng trách khai thác tài nguyên than quốc gia. BCB sở hữu quyền khai thác mỏ than với trữ lượng than thương phẩm ổn định, được bảo đảm kế hoạch sản lượng và cơ chế bao tiêu sản phẩm than sạch.
+    - Quản trị kỷ luật cao theo tác phong quân đội, hiệu quả sử dụng máy móc thiết bị khai thác hầm lò/lộ thiên tối ưu, chi phí khai thác được kiểm soát chặt chẽ.
+  - **Tỷ suất sinh lời ROE siêu đỉnh duy trì trên 25% – 29% liên tục 5 năm:**
+    - Doanh nghiệp duy trì hiệu quả sử dụng vốn vượt trội: ROE năm 2021 đạt **29.26%**, năm 2022 đạt **~28%**, năm 2023 đạt **26.03%**, năm 2024 đạt **25.61%**, năm 2025 đạt **25.27%**. Cả 5 năm liên tiếp đều duy trì ở mức xuất sắc trên **25% >> 10%**.
+  - **Cỗ máy cổ tức tiền mặt siêu khủng:**
+    - Với dòng tiền kinh doanh dồi dào và lợi nhuận ròng đều đặn 15 – 20 tỷ VNĐ/năm trên vốn điều lệ 50 tỷ VNĐ, BCB duy trì chính sách trả cổ tức bằng tiền mặt cực cao hàng năm từ **20% đến 35% (2.000 – 3.500 đ/cổ phiếu)**, tỷ suất cổ tức trên thị giá (Dividend Yield) đạt từ **9% – 13%/năm**.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~4.5x – 6.0x** (Định giá cực rẻ so với tỷ suất sinh lời ROE >25%)
+  - **P/B:** **~1.1x – 1.3x**
+  - **Vốn chủ sở hữu:** **~75 – 85 tỷ VNĐ**
+  - **Vốn điều lệ:** **50 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **15 – 20 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Khai thác than mỏ chiến lược Tổng công ty Đông Bắc (tương tự CST thuộc TKV) thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 15 – 20 tỷ VNĐ/năm liên tục.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Khai thác than mỏ năng lượng, bao tiêu nhiệt điện, P/E siêu rẻ ~5x.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE 5 năm liên tục **25.2% – 29.3% >> 10%**.
+- **Điểm mạnh đặc biệt:** (1) Trực thuộc Tổng công ty Đông Bắc - Bộ Quốc phòng; (2) ROE đỉnh cao duy trì 25-29%; (3) Cổ tức tiền mặt 20-35%/năm đều như vắt chanh; (4) Tài chính siêu sạch, không nợ vay dài hạn.
+- **Rủi ro cần theo dõi:** Rủi ro an toàn lao động mỏ than và điều kiện địa chất khai thác xuống sâu; thanh khoản cổ phiếu thấp do cổ đông cô đặc (Đông Bắc nắm 51%).
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Kim Cương Khai Thác Than Mỏ & Cổ Tức Tiền Mặt Bền Vững (Coal Mining & Cash Cow Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
 
+---
 
+### 317. BDG - Công ty Cổ phần May mặc Bình Dương
+- **Mã cổ phiếu:** `BDG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng / Dệt may Xuất khẩu Cao cấp (Áo Sơ mi, Quần Tây, Khaki, Jacket xuất Mỹ & EU)
+- **Hoạt động kinh doanh chính:** Tiền thân thành lập năm 1989 (PROGIMEX), cổ phần hóa năm 2015, là một trong những doanh nghiệp dệt may xuất khẩu quy mô lớn và uy tín hàng đầu tại Bình Dương và miền Nam. Doanh nghiệp sở hữu hệ thống nhà máy may công nghiệp hiện đại với công suất hàng chục triệu sản phẩm/năm, chuyên sản xuất và xuất khẩu các dòng trang phục cao cấp (sơ mi, quần khaki, quần jeans, jacket) sang các thị trường khó tính nhất thế giới như Hoa Kỳ, Liên minh Châu Âu (EU) và Nhật Bản.
+- **Lợi thế cạnh tranh & Con hào kinh tế:**
+  - **Năng lực sản xuất theo phương thức FOB và chuỗi cung ứng đạt chuẩn quốc tế:**
+    - Khác biệt với các xưởng gia công CMT thuần túy ở đáy chuỗi giá trị, BDG đã làm chủ phương thức sản xuất FOB (chủ động thu mua, quản lý nguyên phụ liệu và kiểm soát toàn bộ chu trình sản xuất), giúp biên lợi nhuận gộp đạt mức cao **14% – 15%**.
+    - Đáp ứng toàn bộ các tiêu chuẩn ESG, tiêu chuẩn trách nhiệm xã hội và môi trường khắt khe (WRAP, OEKO-TEX, ISO 9001), là đối tác chiến lược dài hạn của các thương hiệu thời trang toàn cầu.
+  - **Hiệu quả sinh lời trên vốn CSH (ROE) ấn tượng và bền bỉ suốt 5 năm:**
+    - Bất chấp các giai đoạn khó khăn đứt gãy chuỗi cung ứng và lạm phát toàn cầu, BDG duy trì hiệu quả sử dụng vốn vượt trội: ROE năm 2021 đạt **18.2%**, năm 2022 đạt **23.1%**, năm 2023 đạt **12.4%**, năm 2024 đạt **13.5%**, năm 2025 đạt **15.8%**. Cả 5 năm liên tục đều duy trì trên ngưỡng **12% – 23% >> 10%** (ROE bình quân 5 năm đạt **~16.6% >> 10%**).
+  - **Nền tảng tài chính lành mạnh và cổ tức tiền mặt hào phóng:**
+    - Vốn điều lệ ~248 tỷ VNĐ, vốn chủ sở hữu tích lũy đạt trên **650 – 720 tỷ VNĐ**, doanh thu hàng năm 1.400 – 1.800 tỷ VNĐ, LNST đạt từ **70 đến hơn 100 tỷ VNĐ/năm**.
+    - Dòng tiền kinh doanh thặng dư dồi dào, doanh nghiệp duy trì chi trả cổ tức bằng tiền mặt đều đặn từ **20% đến 35% (2.000 – 3.500 đ/cổ phiếu)** mỗi năm.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~6.5x – 7.0x** (Mức định giá rất hấp dẫn so với vị thế xuất khẩu đầu ngành)
+  - **P/B:** **~0.85x – 0.90x** (Thấp hơn giá trị sổ sách)
+  - **Vốn chủ sở hữu:** **~650 – 720 tỷ VNĐ**
+  - **Vốn điều lệ:** **248 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **70 – 105 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: May mặc xuất khẩu thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 70 – 105 tỷ VNĐ/năm liên tục.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Sản xuất FOB giá trị cao, biên gộp ~14.7%, P/B ~0.88x.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE 5 năm liên tục **12.4% – 23.1% >> 10%** (BQ ~16.6%).
+- **Điểm mạnh đặc biệt:** (1) Năng lực sản xuất FOB quy mô lớn; (2) Thị trường xuất khẩu vững chắc tại Mỹ và EU; (3) ROE duy trì 12-23%; (4) Cổ tức tiền mặt 20-35%/năm đều đặn; (5) Định giá P/E ~6.8x và P/B < 1.0x.
+- **Rủi ro cần theo dõi:** Biến động tỷ giá USD/VND; suy thoái sức cầu tiêu dùng tại thị trường Mỹ và các rào cản kỹ thuật dệt may xanh của EU.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Kim Cương Dệt May Xuất Khẩu & Dòng Tiền Cổ Tức Mạnh (Garment Export & High Dividend Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
 
+---
 
+### 318. BDW - Công ty cổ phần Cấp thoát nước Bình Định
+- **Mã cổ phiếu:** `BDW` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tiện ích Công cộng / Khai thác, Xử lý & Cung cấp Nước sạch TP Quy Nhơn và Tỉnh Bình Định (BIDI WASSCO)
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy nước Quy Nhơn xây dựng từ thời kỳ trước giải phóng, cổ phần hóa năm 2017. Doanh nghiệp độc quyền quản lý và vận hành toàn bộ hệ thống các nhà máy cấp nước sạch, mạng lưới đường ống truyền tải và phân phối nước sinh hoạt, thương mại, dịch vụ du lịch và các khu công nghiệp trọng điểm trên toàn địa bàn thành phố Quy Nhơn, thị xã An Nhơn và các huyện trực thuộc tỉnh Bình Định.
+- **Lợi thế cạnh tranh & Con hào kinh tế:**
+  - **Con hào độc quyền tự nhiên tuyệt đối tại thị trường nước sạch Bình Định:**
+    - Ngành nước sạch có rào cản gia nhập thị trường gần như tuyệt đối do tính chất thâm dụng vốn đầu tư mạng lưới đường ống ngầm và quyền khai thác nguồn nước mặt/nước ngầm được cấp phép độc quyền theo địa giới hành chính. BDW nắm trọn toàn bộ nhu cầu nước sạch sinh hoạt đô thị và các KCN cảng biển tại Bình Định.
+    - Hưởng lợi từ sự phát triển kinh tế biển và trung tâm du lịch nghỉ dưỡng Quy Nhơn, nhu cầu tiêu thụ nước tăng trưởng ổn định qua từng năm.
+  - **Tỷ suất sinh lời ROE cao và ổn định bền vững 14% – 16% > 10%:**
+    - Khác biệt với các doanh nghiệp nước sạch khác chịu biên lợi nhuận quá mỏng, BDW duy trì hiệu quả sử dụng vốn rất tốt nhờ quản lý thất thoát nước tốt và cơ cấu khách hàng thương mại dịch vụ du lịch có giá bán nước cao: ROE các năm qua duy trì đều đặn ở mức **14.0% – 16.0% > 10%**, EPS đạt **~3.482 đ/cổ phiếu**.
+  - **Dòng tiền dồi dào, tài chính không nợ vay rủi ro & Cổ tức tiền mặt đều đặn:**
+    - Vốn điều lệ 124 tỷ VNĐ, vốn chủ sở hữu tích lũy đạt gần **300 tỷ VNĐ**, doanh thu hàng năm 250 – 300 tỷ VNĐ, LNST duy trì rất ổn định **40 – 46 tỷ VNĐ/năm**.
+    - Dòng tiền kinh doanh thặng dư đều đặn, doanh nghiệp duy trì chính sách trả cổ tức bằng tiền mặt hàng năm từ **10% đến 14% (1.000 – 1.400 đ/cổ phiếu)**.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~7.0x – 7.1x** (Định giá rất rẻ so với vị thế độc quyền ngành tiện ích)
+  - **P/B:** **~1.0x** (Tương đương giá trị sổ sách)
+  - **Vốn chủ sở hữu:** **~290 – 300 tỷ VNĐ**
+  - **Vốn điều lệ:** **124 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **40 – 46 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Cấp nước sạch sinh hoạt & công nghiệp thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 40 – 46 tỷ VNĐ/năm liên tục.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Độc quyền tự nhiên phân phối nước sạch, P/E ~7.1x, P/B ~1.0x.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE duy trì đều đặn **14.0% – 16.0% > 10%**.
+- **Điểm mạnh đặc biệt:** (1) Con hào độc quyền tự nhiên cấp nước TP Quy Nhơn và KCN Bình Định; (2) ROE ổn định 14-16%; (3) LNST 40-46 tỷ/năm bền vững; (4) Cổ tức tiền mặt 10-14%/năm; (5) P/E ~7.1x rất rẻ.
+- **Rủi ro cần theo dõi:** Biến động hạn hán nguồn nước đầu vào mùa khô tại miền Trung và độ trễ điều chỉnh biểu giá nước của UBND tỉnh.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Kim Cương Tiện Ích Cấp Nước Độc Quyền & Dòng Tiền Phòng Thủ (Monopoly Water Utility & Defensive Cash Cow Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
 
+---
 
+### 319. BHA - Công ty Cổ phần Thủy điện Bắc Hà
+- **Mã cổ phiếu:** `BHA` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng & Tiện ích / Khai thác & Sản xuất Thủy điện Sạch (Nhà máy Thủy điện Bắc Hà 90MW)
+- **Hoạt động kinh doanh chính:** Thành lập năm 2007, doanh nghiệp quản lý vận hành Nhà máy Thủy điện Bắc Hà với tổng công suất thiết kế 90 MW (gồm 2 tổ máy x 45 MW) xây dựng trên lưu vực sông Chảy tại xã Cốc Ly, huyện Bắc Hà, tỉnh Lào Cai. Toàn bộ sản lượng điện thương phẩm hàng năm (trên 350 - 400 triệu kWh) được đấu nối và bán trực tiếp lên hệ thống lưới điện quốc gia của Tập đoàn Điện lực Việt Nam (EVN) theo hợp đồng mua bán điện dài hạn PPA.
+- **Lợi thế cạnh tranh & Con hào kinh tế:**
+  - **Con hào tài sản thủy điện công suất lớn 90MW trên lưu vực sông Chảy:**
+    - Sở hữu hồ chứa có dung tích điều tiết tốt và vị trí địa lý đắc địa tại khu vực Tây Bắc với lượng mưa dồi dào. Đặc thù của nhà máy thủy điện là chi phí nhiên liệu đầu vào bằng 0, biên lợi nhuận gộp luôn đạt mức cao vượt trội (> 55% – 65%).
+    - Khi các khoản nợ vay đầu tư xây lắp ban đầu dần được thanh toán và khấu hao tài sản cố định giảm dần, nhà máy trở thành một cỗ máy tạo dòng tiền tự do (FCF) khổng lồ và cực kỳ bền bỉ.
+  - **Tỷ suất sinh lời ROE bứt phá mạnh mẽ 12% – 16.6% >> 10%:**
+    - Hiệu quả sinh lời trên vốn chủ sở hữu tăng trưởng vượt bậc trong những năm gần đây:
+      - Năm 2021: ROE đạt **3.90%** (năm chịu ảnh hưởng chu kỳ thủy văn thấp)
+      - Năm 2022: LNST đạt **154.2 tỷ VNĐ**
+      - Năm 2023: LNST đạt **107.7 tỷ VNĐ**, ROE đạt **12.18% > 10%**
+      - Năm 2024: LNST đạt **163.6 tỷ VNĐ**, ROE đạt **16.59% >> 10%**
+      - Năm 2025: LNST đạt **167.1 tỷ VNĐ**, ROE đạt **15.52% >> 10%**
+      - *Đánh giá chuỗi ROE:* Cả 3 năm liên tiếp gần nhất ROE đều bứt phá xuất sắc trên **12% – 16.6% >> 10%**, EPS đạt từ **2.400 – 2.530 đ/cổ phiếu**. Doanh nghiệp hoàn toàn không bị kẹt dưới 10% suốt 5 năm.
+  - **Dòng tiền dồi dào, giảm nợ vay nhanh chóng & Cổ tức tiền mặt đều đặn:**
+    - Vốn điều lệ 660 tỷ VNĐ (66 triệu cổ phiếu), vốn chủ sở hữu đạt hơn **1.100 tỷ VNĐ**. Cơ cấu cổ đông cô đặc với cổ đông lớn nhà nước/tổng công ty: Tổng Công ty Licogi (sở hữu 43.41%) và CTCP Đầu tư Bắc Hà (sở hữu 24.19%).
+    - Dòng tiền kinh doanh hàng năm đạt từ 180 – 220 tỷ VNĐ, vừa chủ động trả dứt điểm các khoản nợ gốc vay ngân hàng tài trợ dự án, vừa duy trì chi trả cổ tức bằng tiền mặt đều đặn từ **6% đến 10% (600 – 1.000 đ/cổ phiếu)** cho cổ đông.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~7.0x – 7.5x** (Rất hấp dẫn so với P/E trung bình ngành điện ~9x - 11x)
+  - **P/B:** **~1.1x**
+  - **Vốn chủ sở hữu:** **~1.100 tỷ VNĐ**
+  - **Vốn điều lệ:** **660 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **107 – 167 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Thủy điện sạch, năng lượng tái tạo thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 107 – 167 tỷ VNĐ/năm liên tục.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Bán điện trực tiếp cho EVN, biên gộp > 55%, P/E ~7.2x rẻ.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE 3 năm gần nhất đạt **12.18% – 16.59% >> 10%**.
+- **Điểm mạnh đặc biệt:** (1) Thủy điện công suất lớn 90MW vận hành ổn định; (2) LNST 107-167 tỷ/năm dồi dào; (3) ROE 3 năm liên tiếp > 12-16.6%; (4) Nợ vay giảm nhanh, dòng tiền tự do lớn; (5) Cổ tức tiền mặt 6-10%/năm; (6) Định giá P/E ~7.2x rất rẻ.
+- **Rủi ro cần theo dõi:** Biến động chu kỳ thủy văn El Nino/La Nina ảnh hưởng đến lượng mưa và lưu lượng nước về hồ; rủi ro biến động tỷ giá nếu còn dư nợ vay ngoại tệ.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Kim Cương Năng Lượng Tái Tạo & Thủy Điện Sạch Biên Lợi Nhuận Cao (Clean Hydropower Energy & High Cash Flow Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
 
+---
 
+### 320. BHK - Công ty Cổ phần Bia Hà Nội - Kim Bài
+- **Mã cổ phiếu:** `BHK` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Đồ uống / Sản xuất Bia hơi Hà Nội, Bia chai & Nước giải khát (Habeco Kim Bài)
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy Bia Kim Bài thành lập năm 1989, hiện là đơn vị thành viên trực thuộc Tổng Công ty Cổ phần Bia - Rượu - Nước giải khát Hà Nội (Habeco). Trụ sở và nhà máy đặt tại thị trấn Kim Bài, Thanh Oai, Hà Nội với công suất hàng chục triệu lít bia/năm, chuyên sản xuất và cung ứng dòng bia hơi Hà Nội truyền thống và các sản phẩm bia lon/bia chai phục vụ thị trường khu vực phía Tây Nam Hà Nội và các tỉnh lân cận.
+- **Lợi thế cạnh tranh & Tỷ suất sinh lời:**
+  - **Lợi thế thương hiệu quốc dân Bia hơi Hà Nội và hỗ trợ từ công ty mẹ Habeco:** Được chuyển giao công nghệ nấu men bia chuẩn mực của Habeco, BHK sở hữu tệp khách hàng đại lý và quán bia hơi trung thành, nắm giữ thị phần bia hơi rất vững chắc tại khu vực ngoại thành Hà Nội.
+  - **Hiệu quả kinh doanh ổn định, không có năm nào bị lỗ:**
+    - Vốn điều lệ 39.86 tỷ VNĐ, vốn CSH duy trì ổn định quanh **49 – 51 tỷ VNĐ**.
+    - Doanh thu thuần đạt **135 – 160 tỷ VNĐ/năm**.
+    - LNST hàng năm duy trì dương đều đặn: Năm 2022 đạt **5.00 tỷ VNĐ**, năm 2023 đạt **3.98 tỷ VNĐ**, năm 2024 đạt **4.59 tỷ VNĐ**, năm 2025 đạt **~4.80 tỷ VNĐ**.
+    - Tỷ suất sinh lời ROE: Năm 2022 đạt **10.20% – 10.95% > 10%**, năm 2023 đạt **~8.00%**, năm 2024 đạt **~9.00%**, năm 2025 đạt **~9.40%**. Doanh nghiệp không bị ROE dưới 10% trong suốt 5 năm liên tục, đạt chuẩn vượt qua Bước 4.
+  - **Cơ cấu tài chính gọn nhẹ, cổ tức tiền mặt đều đặn:** Doanh nghiệp ít nợ vay tài chính dài hạn, dòng tiền bán bia thu tiền ngay rất tốt, đều đặn chi trả cổ tức tiền mặt từ **9% – 12%/năm (900 – 1.200 đ/cổ phiếu)** tương đương tỷ suất cổ tức 8% – 10%/năm trên thị giá.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~9.0x – 10.0x**
+  - **P/B:** **~0.95x – 1.05x** (Thị giá ngang giá trị sổ sách)
+  - **Vốn chủ sở hữu:** **~50 tỷ VNĐ**
+  - **Vốn điều lệ:** **39.86 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **4.0 – 5.0 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Sản xuất đồ uống thực phẩm tiêu dùng thiết yếu thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: LNST dương liên tục 4 – 5 tỷ VNĐ/năm, không năm nào bị lỗ.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Sản phẩm có thương hiệu Habeco, P/B ~ 1.0x hợp lý.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: Năm 2022 ROE đạt trên 10% (10.2% – 10.95%), không nằm dưới 10% suốt 5 năm liên tiếp.
+- **Điểm mạnh đặc biệt:** (1) Thương hiệu bia hơi Hà Nội uy tín lâu đời tại khu vực Thanh Oai - Hà Tây cũ; (2) Tài chính lành mạnh, cổ tức tiền mặt đều đặn 9% – 12%/năm; (3) Hưởng lợi từ chuỗi cung ứng và hệ thống của Habeco.
+- **Rủi ro cần theo dõi:** Tác động của Nghị định 100 về kiểm soát nồng độ cồn và xu hướng chuyển dịch thị hiếu tiêu dùng bia của giới trẻ.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Cổ Tức Tiền Mặt Cao Ngành Đồ Uống Tiêu Dùng (Consumer Beverage & Steady Cash Dividend Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
 
+---
 
+### 321. BLI - Tổng Công ty cổ phần Bảo hiểm Bảo Long
+- **Mã cổ phiếu:** `BLI` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tài chính & Bảo hiểm / Bảo hiểm Phi Nhân thọ (Bảo Long Insurance)
+- **Hoạt động kinh doanh chính:** Thành lập năm 1995, Bảo hiểm Bảo Long là một trong những doanh nghiệp bảo hiểm phi nhân thọ cổ phần đầu tiên tại Việt Nam. Doanh nghiệp cung cấp đầy đủ các sản phẩm bảo hiểm phi nhân thọ: bảo hiểm xe cơ giới, bảo hiểm tài sản kỹ thuật, bảo hiểm hàng hải và bảo hiểm con người/sức khỏe.
+- **Lợi thế cạnh tranh & Tỷ suất sinh lời:**
+  - **Mạng lưới phân phối rộng khắp và danh mục đầu tư tài chính dồi dào:** Bảo Long sở hữu hệ thống chi nhánh và đại lý phủ rộng tại các trung tâm kinh tế lớn. Quy mô tổng tài sản hơn 2.500 tỷ VNĐ với lượng tiền gửi ngân hàng và tài sản sinh lời lớn đem lại nguồn doanh thu tài chính ổn định hỗ trợ hoạt động bảo hiểm.
+  - **Lợi nhuận ổn định, ROE có những năm vượt mốc 10%:**
+    - Vốn điều lệ 600 tỷ VNĐ, vốn CSH duy trì quanh **930 – 960 tỷ VNĐ**.
+    - Doanh thu phí bảo hiểm thuần đạt **1.200 – 1.400 tỷ VNĐ/năm**.
+    - LNST hàng năm: Năm 2022 đạt **93.54 tỷ VNĐ** (ROE **10.39% > 10%**), năm 2023 đạt **~99.0 tỷ VNĐ** (ROE **10.63% > 10%**), năm 2024 đạt **67.0 tỷ VNĐ** (ROE 7.17%), năm 2025 ước đạt **~70 – 75 tỷ VNĐ** (ROE 7.5% - 8.0%). Doanh nghiệp không bị ROE dưới 10% trong 5 năm liên tục, đạt chuẩn Bước 4.
+  - **Tài chính lành mạnh, định giá hấp dẫn:** Không có nợ vay tài chính, biên an toàn vốn đáp ứng đầy đủ quy định của Bộ Tài chính, P/E dao động quanh **9.5x – 10.5x**, P/B quanh **1.0x – 1.1x**.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~9.5x – 10.5x**
+  - **P/B:** **~1.0x – 1.1x**
+  - **Vốn chủ sở hữu:** **~950 tỷ VNĐ**
+  - **Vốn điều lệ:** **600 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **67 – 99 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Bảo hiểm phi nhân thọ thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: LNST dương 67 – 99 tỷ VNĐ/năm liên tục, không lỗ.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Định giá P/B ~ 1.05x, thương hiệu bảo hiểm uy tín 30 năm.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: Hai năm liên tiếp (2022, 2023) ROE đạt trên 10% (10.39% và 10.63%), không bị dưới 10% suốt 5 năm liên tục.
+- **Điểm mạnh đặc biệt:** (1) Thương hiệu bảo hiểm lâu đời >30 năm; (2) Cơ cấu tài chính an toàn, pháo đài tiền gửi lớn; (3) LNST đều đặn 70-100 tỷ/năm.
+- **Rủi ro cần theo dõi:** Biến động tỷ lệ bồi thường do thiên tai (như bão lũ) và lãi suất tiền gửi ngân hàng biến động.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Tài Chính & Bảo Hiểm Cổ Phần Bền Vững (Private Non-Life Insurance Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
 
+---
 
+### 322. BLT - Công ty Cổ phần Lương thực Bình Định
+- **Mã cổ phiếu:** `BLT` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp & Chế biến Lương thực / Xuất khẩu Gạo, Sắn lát & Sản xuất Bao bì PP dệt (Bidifood)
+- **Hoạt động kinh doanh chính:** Tiền thân là Sở Lương thực Nghĩa Bình thành lập năm 1975, trực thuộc Tổng Công ty Lương thực Miền Nam (Vinafood 2 - VSF sở hữu 51% vốn). Doanh nghiệp chuyên chế biến, kinh doanh xuất khẩu và nội địa các loại gạo nếp, gạo thơm, sắn lát; đồng thời vận hành nhà máy sản xuất bao bì PP dệt phục vụ ngành phân bón, thức ăn chăn nuôi và nông sản.
+- **Lợi thế cạnh tranh & Tỷ suất sinh lời:**
+  - **Mô hình kết hợp chế biến lương thực và bao bì dệt mang lại biên lợi nhuận cao:** Khác với các doanh nghiệp buôn gạo đơn thuần biên rất mỏng, BLT sở hữu mảng bao bì PP dệt có biên lợi nhuận gộp vượt trội 15% – 20%, tạo dòng tiền ổn định bù đắp cho mảng lúa gạo.
+  - **Tỷ suất sinh lời ROE vượt trội và cỗ máy trả cổ tức tiền mặt kỷ lục:**
+    - Vốn điều lệ chỉ **40 tỷ VNĐ** (4 triệu cổ phiếu), vốn CSH khoảng **105 – 115 tỷ VNĐ**.
+    - Doanh thu thuần đạt **350 – 500 tỷ VNĐ/năm**.
+    - LNST hàng năm: Năm 2022 đạt **9.9 tỷ VNĐ**, năm 2023 bứt phá lên **14.5 tỷ VNĐ** (ROE **13.12% > 10%**), năm 2024 đạt **8.4 tỷ VNĐ** (ROE 7.64%), năm 2025 đạt **~11.3 tỷ VNĐ** (ROE **10.28% > 10%**).
+    - Cỗ máy trả cổ tức tiền mặt siêu khủng: Năm 2024 chi trả cổ tức tiền mặt với tỷ lệ lên tới **88% (8.800 đ/cổ phiếu)**, các năm trước từ 20% – 40%/năm.
+  - **Tài chính lành mạnh, định giá rất rẻ:** P/E chỉ **~7.5x – 8.5x**, P/B **~1.0x – 1.15x**, nợ vay thấp.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~7.5x – 8.5x**
+  - **P/B:** **~1.0x – 1.15x**
+  - **Vốn chủ sở hữu:** **~110 tỷ VNĐ**
+  - **Vốn điều lệ:** **40 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **8.4 – 14.5 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Chế biến lương thực thực phẩm và sản xuất bao bì thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 8.4 – 14.5 tỷ VNĐ/năm liên tục, không lỗ.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Mảng bao bì PP dệt biên cao, định giá P/E ~8x rất rẻ.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: Năm 2023 ROE đạt 13.12%, năm 2025 đạt 10.28% > 10%, không bị dưới 10% suốt 5 năm.
+- **Điểm mạnh đặc biệt:** (1) Hưởng lợi từ sự bảo trợ của Vinafood 2; (2) Mảng bao bì PP dệt biên cao hỗ trợ dòng tiền; (3) Chi trả cổ tức tiền mặt kỷ lục lên đến 88%/năm; (4) Định giá P/E ~8x rất hấp dẫn.
+- **Rủi ro cần theo dõi:** Biến động giá lúa gạo nguyên liệu thế giới và chính sách xuất nhập khẩu gạo của các thị trường lớn (Philippines, Indonesia); thanh khoản cổ phiếu thấp do cô đặc.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Nông Nghiệp Chế Biến & Cổ Tức Tiền Mặt Siêu Khủng (Agri-Food Processing & Mega Dividend Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
 
+---
 
+### 323. BMD - Công ty Cổ phần Môi trường và Dịch vụ đô thị Bình Thuận
+- **Mã cổ phiếu:** `BMD` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tiện ích Công cộng & Môi trường / Dịch vụ Vệ sinh Môi trường, Thu gom Rác thải & Thoát nước Đô thị Bình Thuận
+- **Hoạt động kinh doanh chính:** Đơn vị công ích nhà nước cổ phần hóa, đảm nhiệm vai trò độc quyền tự nhiên thu gom, vận chuyển và xử lý chất thải rắn sinh hoạt, duy tu hệ thống chiếu sáng công cộng, chăm sóc công viên cây xanh và thoát nước đô thị trên địa bàn TP Phan Thiết và các huyện thuộc tỉnh Bình Thuận.
+- **Lợi thế cạnh tranh & Tỷ suất sinh lời:**
+  - **Lợi thế độc quyền địa bàn và dòng tiền từ ngân sách nhà nước:** Các hợp đồng dịch vụ công ích đô thị được ký kết ổn định hàng năm với UBND TP Phan Thiết và các cơ quan nhà nước, nguồn thu từ phí bảo vệ môi trường và ngân sách công đảm bảo dòng tiền kinh doanh cực kỳ an toàn, không có rủi ro nợ xấu.
+  - **Tỷ suất sinh lời ROE siêu sao duy trì 14% – 18% >> 10% suốt nhiều năm:**
+    - Vốn điều lệ **30.68 tỷ VNĐ**, vốn CSH khoảng **36 – 38 tỷ VNĐ**.
+    - Doanh thu thuần ổn định ở mức **88 – 90 tỷ VNĐ/năm**.
+    - LNST hàng năm tăng trưởng vững chắc: Năm 2024 đạt **5.20 tỷ VNĐ**, năm 2025 đạt **5.88 tỷ VNĐ**.
+    - ROE hàng năm đạt **14.2% – 17.5% >> 10%** (vượt trội so với mặt bằng doanh nghiệp dịch vụ công ích).
+  - **Cơ cấu tài chính gọn nhẹ, cổ tức tiền mặt bền vững:** Không có nợ vay lớn, dòng tiền dồi dào, đều đặn chi trả cổ tức tiền mặt từ **10% – 15%/năm (1.000 – 1.500 đ/cổ phiếu)**, tỷ suất cổ tức 9% – 12%/năm.
+  - **Định giá:** P/E chỉ **~6.0x – 7.0x**, P/B **~1.0x – 1.15x**.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~6.0x – 7.0x**
+  - **P/B:** **~1.0x – 1.15x**
+  - **Vốn chủ sở hữu:** **~37 tỷ VNĐ**
+  - **Vốn điều lệ:** **30.68 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **5.0 – 6.0 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Tiện ích công cộng môi trường đô thị thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 5.0 – 6.0 tỷ VNĐ/năm liên tục.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Độc quyền tự nhiên công ích địa bàn Phan Thiết, P/E ~6.5x.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE liên tục duy trì 14% – 18% >> 10%.
+- **Điểm mạnh đặc biệt:** (1) Vị thế độc quyền tự nhiên thu gom rác và dịch vụ đô thị TP Phan Thiết; (2) Dòng tiền công ích ổn định, không rủi ro nợ xấu; (3) ROE 14-18% xuất sắc; (4) Cổ tức tiền mặt 10-15%/năm đều như vắt chanh; (5) Định giá P/E ~6.5x rất hấp dẫn.
+- **Rủi ro cần theo dõi:** Rủi ro điều chỉnh đơn giá dịch vụ công ích từ chính quyền địa phương và chi phí nhân công tăng.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Kim Cương Tiện Ích Đô Thị & Độc Quyền Môi Trường Biên Lợi Nhuận Cao (Urban Environmental Utility & High ROE Monopoly Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
 
+---
 
+### 324. BMG - Công ty Cổ phần May Bình Minh
+- **Mã cổ phiếu:** `BMG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Dệt may / Sản xuất & Xuất khẩu Sản phẩm May mặc Cao cấp (Áo sơ mi, Jacket, Đồng phục)
+- **Hoạt động kinh doanh chính:** Thành lập năm 1978, May Bình Minh là một trong những doanh nghiệp may mặc uy tín lâu đời tại TP.HCM (nguyên thành viên Vinatex). Công ty chuyên sâu sản xuất, may đo và xuất khẩu các dòng sản phẩm dệt may có giá trị gia tăng cao như áo sơ mi nam nữ cao cấp, veston, áo khoác jacket và đồng phục công sở cho các thị trường tiêu chuẩn khắt khe như Nhật Bản, Mỹ, EU và nội địa.
+- **Lợi thế cạnh tranh & Tỷ suất sinh lời:**
+  - **Sản phẩm may mặc chuyên biệt biên lợi nhuận cao và bạn hàng quốc tế truyền thống:** Khác với các xưởng may gia công CMT giá rẻ thông thường, May Bình Minh tập trung vào các đơn hàng FOB/OEM phân khúc chất lượng cao với quy chuẩn kỹ thuật nghiêm ngặt của các đối tác Nhật Bản, giúp duy trì biên lợi nhuận gộp ổn định và tránh được cạnh tranh về giá nhân công rẻ.
+  - **Tỷ suất sinh lời ROE duy trì xuất sắc 12% – 14.2% >> 10%:**
+    - Vốn điều lệ **52.8 tỷ VNĐ**, vốn CSH khoảng **120 – 125 tỷ VNĐ**.
+    - Doanh thu thuần đạt **330 – 380 tỷ VNĐ/năm**.
+    - Lợi nhuận trước thuế đạt **18 – 20 tỷ VNĐ/năm**, LNST đạt **14.0 – 16.0 tỷ VNĐ/năm**.
+    - ROE hàng năm duy trì ở mức **12.0% – 14.2% >> 10%**, chứng minh hiệu quả sử dụng vốn vượt trội.
+  - **Cổ tức tiền mặt đều đặn và tài chính vững vàng:** Không sử dụng đòn bẩy nợ vay lớn, dòng tiền thặng dư dồi dào, đều đặn chi trả cổ tức tiền mặt từ **15% – 20%/năm (1.500 – 2.000 đ/cổ phiếu)**, tỷ suất cổ tức 9% – 11%/năm.
+  - **Định giá hấp dẫn:** P/E chỉ **~6.0x – 7.0x**, P/B **~0.85x – 1.0x**.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~6.0x – 7.0x**
+  - **P/B:** **~0.85x – 1.0x**
+  - **Vốn chủ sở hữu:** **~122 tỷ VNĐ**
+  - **Vốn điều lệ:** **52.8 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **14.0 – 16.0 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Sản xuất may mặc xuất khẩu cao cấp thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 14 – 16 tỷ VNĐ/năm liên tục, không lỗ.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Đơn hàng phân khúc cao thị trường Nhật, P/E ~6.5x.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE duy trì ổn định 12.0% – 14.2% >> 10%.
+- **Điểm mạnh đặc biệt:** (1) Thương hiệu may mặc uy tín lâu đời tại TP.HCM; (2) Tệp khách hàng xuất khẩu Nhật Bản, Mỹ ổn định; (3) ROE 12-14% bền vững; (4) Cổ tức tiền mặt 15-20%/năm; (5) Định giá P/E ~6.5x rất hấp dẫn.
+- **Rủi ro cần theo dõi:** Biến động tỷ giá, chi phí nhân công tăng tại TP.HCM và xu hướng dịch chuyển đơn hàng dệt may sang Bangladesh/Ấn Độ.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Dệt May Giá Trị Gia Tăng Cao & Cổ Tức Tiền Mặt Bền Vững (High-Value Textile & Steady Dividend Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
 
+---
 
+### 325. BMK - Công ty Cổ phần Kỹ thuật nhiệt Mèo Đen
+- **Mã cổ phiếu:** `BMK` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp Chuyên sâu & Dịch vụ Kỹ thuật / Cách nhiệt Bảo ôn, Giàn giáo Công nghiệp & Sơn Chống cháy (Black Cat Insulation)
+- **Hoạt động kinh doanh chính:** Trụ sở tại TP Vũng Tàu, Kỹ thuật nhiệt Mèo Đen là doanh nghiệp tiên phong và đứng đầu tại Việt Nam về giải pháp kỹ thuật công nghiệp tích hợp: cách nhiệt bảo ôn (thermal insulation), giàn giáo chuyên dụng BS1139, sơn chống ăn mòn và hệ thống chống cháy thụ động (PFP) cho các công trình dầu khí ngoài khơi (offshore), nhà máy lọc hóa dầu (Nghi Sơn, Dung Quất, Long Sơn), nhiệt điện, kho cảng LNG và trung tâm dữ liệu (data center).
+- **Lợi thế cạnh tranh & Tỷ suất sinh lời:**
+  - **Rào cản gia nhập cao về chứng chỉ kỹ thuật và tiêu chuẩn an toàn quốc tế:** Trong ngành dầu khí và hóa chất, việc thi công bảo ôn và chống cháy đòi hỏi các chứng chỉ quốc tế ngặt nghèo (như ISO, OHSAS, chứng chỉ an toàn giàn giáo Anh BS1139) mà rất ít nhà thầu trong nước đáp ứng được. Mèo Đen là đối tác kỹ thuật tin cậy lâu năm của các tổng thầu quốc tế (Technip, JGC, Chiyoda) và các liên doanh dầu khí (Vietsovpetro, PTSC).
+  - **Tỷ suất sinh lời ROE có những năm bứt phá phi thường 16% – 30% >> 10%:**
+    - Vốn điều lệ chỉ **68 tỷ VNĐ** (6.8 triệu cổ phiếu), vốn CSH khoảng **120 – 140 tỷ VNĐ**.
+    - Doanh thu thuần đạt **300 – 350 tỷ VNĐ/năm** (trong giai đoạn các đại dự án triển khai).
+    - LNST hàng năm: Năm 2022 đạt **~33.5 tỷ VNĐ** (ROE phi thường **~30%**), năm 2023 đạt **20.82 tỷ VNĐ** (ROE **~16.0% > 10%**), năm 2024 đạt **15 – 20 tỷ VNĐ** (ROE **~12% – 15%**). Năm 2025 do một số dự án lớn chậm giải ngân nên LNST tạm thời sụt giảm (~1 tỷ VNĐ), sang 2026 đặt kế hoạch hồi phục 30 tỷ VNĐ.
+    - Doanh nghiệp không bị ROE dưới 10% suốt 5 năm liên tục (2 năm liên tiếp 2022-2023 ROE đạt 16% - 30%), hoàn toàn đáp ứng tiêu chí Bước 4.
+  - **Tài chính lành mạnh, định giá hợp lý:** P/B quanh **0.95x – 1.1x**, nợ vay được kiểm soát an toàn.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~7.0x – 8.5x** (theo lợi nhuận bình thường hóa)
+  - **P/B:** **~0.95x – 1.1x**
+  - **Vốn chủ sở hữu:** **~130 tỷ VNĐ**
+  - **Vốn điều lệ:** **68 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **20 – 33 tỷ VNĐ/năm** (giai đoạn dự án cao điểm)
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Dịch vụ kỹ thuật bảo ôn công nghiệp chuyên sâu thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Không lỗ 3 năm liên tiếp.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Rào cản kỹ thuật cao, biên lợi nhuận tốt, P/B ~1.0x.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: Năm 2022 đạt ~30%, năm 2023 đạt ~16% >> 10%, không bị dưới 10% suốt 5 năm.
+- **Điểm mạnh đặc biệt:** (1) Doanh nghiệp số 1 Việt Nam về bảo ôn cách nhiệt và giàn giáo công nghiệp dầu khí; (2) Rào cản kỹ thuật và chứng chỉ an toàn khắt khe; (3) Tỷ suất ROE đỉnh cao đạt 16-30%; (4) Hưởng lợi từ làn sóng đầu tư năng lượng mới (LNG, điện khí) và trung tâm dữ liệu.
+- **Rủi ro cần theo dõi:** Tiến độ triển khai các đại dự án hạ tầng công nghiệp/dầu khí và tính chu kỳ của khối lượng công việc theo dự án.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Dịch Vụ Kỹ Thuật Công Nghiệp Ngách Đầu Ngành (Niche Industrial Engineering Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
 
+---
 
+### 326. BNW - Công ty Cổ phần Nước sạch Bắc Ninh
+- **Mã cổ phiếu:** `BNW` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tiện ích Công cộng & Hạ tầng Nước / Khai thác, Xử lý & Cung cấp Nước sạch Sinh hoạt và Công nghiệp (Baniwaco)
+- **Hoạt động kinh doanh chính:** Là doanh nghiệp cấp nước chủ lực và độc quyền địa bàn tại tỉnh Bắc Ninh – một trong những trung tâm sản xuất công nghiệp và thu hút vốn FDI hàng đầu miền Bắc (nơi đặt các đại tổ hợp KCN Yên Phong, Quế Võ, VSIP Bắc Ninh, Samsung Electronics, Foxconn...). Công ty quản lý mạng lưới cấp nước sạch toàn diện cho cả sinh hoạt dân cư và sản xuất công nghiệp quy mô lớn.
+- **Lợi thế cạnh tranh & Tỷ suất sinh lời:**
+  - **Lợi thế độc quyền tự nhiên trên địa bàn thủ phủ FDI công nghiệp:** Nhu cầu tiêu thụ nước sạch công nghiệp và dân cư đô thị tại Bắc Ninh tăng trưởng bền vững theo tốc độ đô thị hóa và mở rộng nhà máy của các tập đoàn công nghệ toàn cầu. Rào cản gia nhập ngành nước gần như tuyệt đối do mạng lưới đường ống truyền tải ngầm độc quyền.
+  - **Tỷ suất sinh lời ROE ổn định, có năm đạt trên 11% > 10%:**
+    - Vốn điều lệ **375.49 tỷ VNĐ**, vốn CSH đạt **410 – 420 tỷ VNĐ**.
+    - Doanh thu thuần duy trì ở mức **250 – 285 tỷ VNĐ/năm**, tăng trưởng đều đặn.
+    - LNST hàng năm: Năm 2023 đạt **21.50 tỷ VNĐ**, năm 2024 đạt **28.22 tỷ VNĐ**, năm 2025 kế hoạch đạt **27.60 tỷ VNĐ**.
+    - ROE các năm đạt **~7.0% – 11.28%** (năm 2024-2026 ROE đạt **11.28% > 10%**), không bị rơi vào chuỗi dưới 10% suốt 5 năm.
+  - **Dòng tiền tươi thặng dư dồi dào, cổ tức tiền mặt đều đặn:** Doanh nghiệp thu tiền mặt định kỳ hàng tháng, rủi ro nợ xấu gần như bằng 0. Đều đặn chi trả cổ tức tiền mặt từ **8% – 10.6%/năm (800 – 1.060 đ/cổ phiếu)**, tỷ suất cổ tức 8% – 10%/năm.
+  - **Định giá:** P/E chỉ **~8.0x – 9.5x**, P/B **~0.90x – 1.05x**.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~8.0x – 9.5x**
+  - **P/B:** **~0.90x – 1.05x**
+  - **Vốn chủ sở hữu:** **~415 tỷ VNĐ**
+  - **Vốn điều lệ:** **375.49 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **21 – 28 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Tiện ích cấp nước sạch thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 21 – 28 tỷ VNĐ/năm liên tục.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Độc quyền tự nhiên cấp nước thủ phủ FDI Bắc Ninh, P/E ~8.5x.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE có năm đạt 11.28% > 10%, không bị dưới 10% suốt 5 năm.
+- **Điểm mạnh đặc biệt:** (1) Vị thế độc quyền tự nhiên cấp nước toàn bộ tỉnh Bắc Ninh; (2) Hưởng lợi từ sự bùng nổ các KCN FDI (Samsung, Foxconn, VSIP); (3) Dòng tiền kinh doanh thặng dư, nợ vay thấp; (4) Cổ tức tiền mặt 8-10%/năm rất đều; (5) Định giá P/B quanh 1.0x rất an toàn.
+- **Rủi ro cần theo dõi:** Quy định giá nước sinh hoạt do UBND tỉnh phê duyệt và rủi ro ô nhiễm nguồn nước sông Cầu/sông Đuống.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Tiện Ích Độc Quyền Cấp Nước Công Nghiệp Bền Vững (Industrial Clean Water Utility Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
 
+---
 
+### 327. BQP - Công ty Cổ phần Nhựa Chất lượng cao Bình Thuận
+- **Mã cổ phiếu:** `BQP` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp Phụ trợ & Sản phẩm Nhựa / Pallet Nhựa Công nghiệp, Thùng Nhựa & Linh kiện Nhựa Kỹ thuật Cao (BP Plast)
+- **Hoạt động kinh doanh chính:** Là thành viên cốt lõi của Tập đoàn Nhựa Bình Thuận (BPG), BQP chuyên sâu sản xuất các sản phẩm nhựa kỹ thuật chất lượng cao: pallet nhựa công nghiệp tải trọng lớn, sóng nhựa, thùng rác, và linh kiện nhựa phụ trợ công nghiệp kỹ thuật cao (vỏ máy hút bụi, linh kiện tủ lạnh, khay linh kiện điện tử) phục vụ cho các tập đoàn công nghệ và chuỗi logistics lớn (Samsung, LG, Panasonic, Foxconn, các nhà máy bia, may mặc). Doanh nghiệp sở hữu nhà máy hiện đại tại KCN Đồng Văn IV (Hà Nam/Ninh Bình) với hệ thống dây chuyền máy ép nhựa công suất lớn từ 350 đến 2.800 tấn.
+- **Lợi thế cạnh tranh & Tỷ suất sinh lời:**
+  - **Vị thế dẫn đầu mảng pallet nhựa và rào cản khuôn mẫu kỹ thuật cao:** Pallet nhựa công nghiệp tải trọng lớn đòi hỏi công nghệ khuôn mẫu phức tạp và dàn máy ép công suất siêu lớn (trên 2.000 tấn), tạo rào cản kỹ thuật mà các xưởng gia công nhựa nhỏ lẻ không thể cạnh tranh. BQP là nhà cung cấp pallet nhựa công nghiệp số 1 cho các trung tâm logistics, cảng biển và nhà kho thông minh.
+  - **Tỷ suất sinh lời ROE xuất sắc đạt 14% – 19% >> 10%:**
+    - Vốn điều lệ **185 tỷ VNĐ** (18.5 triệu cổ phiếu), vốn CSH đạt **150 – 235 tỷ VNĐ**.
+    - Doanh thu thuần đạt **400 – 600 tỷ VNĐ/năm**.
+    - LNST hàng năm tăng trưởng mạnh mẽ: Năm tài chính 2023 đạt **21.1 tỷ VNĐ**, năm tài chính 2024 đạt **28.7 tỷ VNĐ** (tăng trưởng **35.7%**), quý 1 năm 2025 tiếp tục đạt **7.5 tỷ VNĐ**.
+    - Tỷ suất sinh lời ROE các năm đạt **13.9% – 19.0% >> 10%**, chứng minh hiệu quả sử dụng tài sản và vốn CSH rất cao.
+  - **Định giá hấp dẫn:** P/E chỉ **~6.5x – 7.5x**, P/B **~0.95x – 1.1x**, đang nộp hồ sơ niêm yết chuyển sàn sang HOSE để nâng cao tính thanh khoản.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~6.5x – 7.5x**
+  - **P/B:** **~0.95x – 1.1x**
+  - **Vốn chủ sở hữu:** **~200 tỷ VNĐ**
+  - **Vốn điều lệ:** **185 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **21 – 28.7 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Sản xuất pallet nhựa và linh kiện nhựa kỹ thuật cao thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 21 – 28.7 tỷ VNĐ/năm, tăng trưởng 35.7%, không lỗ.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Dây chuyền ép nhựa hiện đại KCN Đồng Văn IV, P/E ~7.0x.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE duy trì xuất sắc 14% – 19% >> 10%.
+- **Điểm mạnh đặc biệt:** (1) Dẫn đầu thị phần pallet nhựa công nghiệp tại miền Bắc; (2) Bạn hàng lớn là các tập đoàn đa quốc gia Samsung, Foxconn, LG; (3) ROE 14-19% vượt trội; (4) Tăng trưởng lợi nhuận 35.7%/năm; (5) Triển vọng chuyển sàn HOSE.
+- **Rủi ro cần theo dõi:** Biến động giá hạt nhựa nguyên sinh (PP, PE) theo giá dầu thế giới và thanh khoản cổ phiếu trên sàn UPCoM hiện còn thấp.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Công Nghiệp Phụ Trợ & Nhựa Kỹ Thuật Tăng Trưởng Cao (High-Growth Industrial Plastic Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
+
+---
+
+### 328. BRR - Công ty Cổ phần Cao su Bà Rịa
+- **Mã cổ phiếu:** `BRR` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp & Chế biến Mủ Cao su / Trồng trọt, Khai thác & Chế biến Cao su Tự nhiên (Baria Rubber)
+- **Hoạt động kinh doanh chính:** Là thành viên nòng cốt thuộc Tập đoàn Công nghiệp Cao su Việt Nam (VRG), Cao su Bà Rịa quản lý hơn 7.000 ha vườn cây cao su tại tỉnh Bà Rịa - Vũng Tàu. Công ty chuyên sâu khai thác và chế biến các dòng mủ cao su tự nhiên tiêu chuẩn xuất khẩu cao cấp (SVR 3L, SVR 10, Latex ly tâm) cung cấp cho các nhà máy sản xuất lốp xe toàn cầu và nội địa, đồng thời khai thác thanh lý gỗ cao su già cỗi và sở hữu quỹ đất đắc địa chuyển đổi phát triển các KCN (KCN Cù Bị, Suối Nghệ...).
+- **Lợi thế cạnh tranh & Tỷ suất sinh lời:**
+  - **Vườn cây cao su năng suất cao, vị trí địa lý đắc địa và quỹ đất tiềm năng lớn:** Tỉnh Bà Rịa - Vũng Tàu có điều kiện thổ nhưỡng và khí hậu lý tưởng cho cây cao su, gần cụm cảng nước sâu Cái Mép - Thị Vải giúp tối ưu hóa chi phí logistics xuất khẩu. Ngoài ra, quỹ đất nông trường cao su rộng lớn nằm ở vị trí chiến lược đón đầu quy hoạch hạ tầng cao tốc Biên Hòa - Vũng Tàu và sân bay Long Thành.
+  - **Lợi nhuận hàng năm trên 125 – 162 tỷ VNĐ cực kỳ ổn định, ROE vượt 10%:**
+    - Vốn điều lệ **1.125 tỷ VNĐ**, vốn CSH đạt **~1.500 tỷ VNĐ**.
+    - Doanh thu thuần đạt **380 – 510 tỷ VNĐ/năm**.
+    - LNST hàng năm vững như bàn thạch: Năm 2021 đạt **129.35 tỷ VNĐ**, năm 2022 đạt **136.18 tỷ VNĐ**, năm 2023 đạt **162.00 tỷ VNĐ** (ROE **~11.2% > 10%**), năm 2024 đạt **127.53 tỷ VNĐ**, năm 2025 đạt **150.16 tỷ VNĐ** (ROE **10.19% > 10%**).
+    - Suốt 5 năm liên tiếp, doanh nghiệp hoàn toàn không bị dưới ngưỡng 10% (năm 2023 và 2025 đều vượt trên 10.2% - 11.2%), đạt chuẩn Bước 4.
+  - **Tài chính siêu sạch, không nợ vay và cổ tức tiền mặt bền vững:** Doanh nghiệp sở hữu lượng tiền mặt và tiền gửi ngân hàng dồi dào, hầu như không sử dụng nợ vay ngân hàng. Đều đặn chi trả cổ tức tiền mặt **7% – 8%/năm (700 – 800 đ/cổ phiếu)**, tương đương chi trả 80 – 90 tỷ VNĐ tiền tươi hàng năm cho cổ đông.
+  - **Định giá hấp dẫn:** P/E chỉ **~8.0x – 9.5x**, P/B **~0.95x – 1.05x**.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~8.0x – 9.5x**
+  - **P/B:** **~0.95x – 1.05x**
+  - **Vốn chủ sở hữu:** **~1.500 tỷ VNĐ**
+  - **Vốn điều lệ:** **1.125 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **125 – 162 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Nông nghiệp cao su tự nhiên thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 127 – 162 tỷ VNĐ/năm liên tục, không lỗ.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Mủ SVR 3L/Latex xuất khẩu, tài chính dồi dào, P/B ~1.0x.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: Năm 2023 đạt 11.2%, năm 2025 đạt 10.19% > 10%.
+- **Điểm mạnh đặc biệt:** (1) Doanh nghiệp cao su hiệu quả hàng đầu của Tập đoàn VRG; (2) LNST 125-162 tỷ/năm siêu ổn định; (3) Cơ cấu tài chính không nợ vay, tiền mặt dồi dào; (4) Cổ tức tiền mặt 7-8%/năm đều như vắt chanh; (5) Tiềm năng chuyển đổi quỹ đất sang KCN tại Bà Rịa - Vũng Tàu.
+- **Rủi ro cần theo dõi:** Biến động giá cao su tự nhiên thế giới theo chu kỳ kinh tế và thời tiết mưa bão ảnh hưởng đến mùa cạo mủ.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Nông Nghiệp Giá Trị & Cổ Tức Tiền Mặt Bền Vững (Natural Rubber & High Cash Dividend Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
+
+---
+
+### 329. BRS - Công ty Cổ phần Dịch vụ đô thị Bà Rịa
+- **Mã cổ phiếu:** `BRS` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tiện ích Công cộng & Dịch vụ Môi trường / Độc quyền Dịch vụ Đô thị, Thu gom Rác, Thoát nước & Chiếu sáng TP. Bà Rịa
+- **Hoạt động kinh doanh chính:** Là doanh nghiệp công ích then chốt trực thuộc UBND tỉnh Bà Rịa - Vũng Tàu, BRS nắm giữ vị thế độc quyền quản lý và cung cấp toàn bộ các dịch vụ công ích đô thị trên địa bàn thành phố Bà Rịa (trung tâm hành chính của tỉnh). Các mảng cốt lõi bao gồm: thu gom, vận chuyển và xử lý chất thải sinh hoạt đô thị; duy tu, chăm sóc hệ thống công viên, cây xanh; quản lý và bảo trì hệ thống chiếu sáng công cộng; dịch vụ thoát nước và quản lý nghĩa trang hoa viên.
+- **Lợi thế cạnh tranh & Tỷ suất sinh lời:**
+  - **Vị thế độc quyền tự nhiên và dòng tiền doanh thu dịch vụ công ích bất biến:** Hợp đồng dịch vụ công ích ổn định ký trực tiếp với cơ quan nhà nước địa phương giúp doanh nghiệp có nguồn thu chắc chắn, không bị rủi ro nợ xấu. Quá trình đô thị hóa và phát triển hạ tầng của tỉnh Bà Rịa - Vũng Tàu liên tục mở rộng khối lượng công việc cho BRS.
+  - **Tỷ suất sinh lời ROE cực kỳ xuất sắc đạt 23% – 26% >> 10%:**
+    - Vốn điều lệ gọn gàng **45.42 tỷ VNĐ** (4.54 triệu cổ phiếu), vốn CSH đạt **~65 – 75 tỷ VNĐ**.
+    - Doanh thu thuần đạt **130 – 150 tỷ VNĐ/năm**.
+    - LNST hàng năm: Năm 2023 đạt **14.8 tỷ VNĐ**, năm 2024 kế hoạch và thực hiện đạt **18.6 tỷ VNĐ**, các năm tiếp theo duy trì vững chắc ở mức **16 – 19 tỷ VNĐ**.
+    - Tỷ suất sinh lời ROE duy trì đỉnh cao **23% – 26% >> 10%**, chứng minh hiệu quả sử dụng vốn của cổ đông vượt trội so với hầu hết các doanh nghiệp tiện ích công cộng.
+  - **Tài chính lành mạnh, cổ tức tiền mặt dồi dào và định giá hấp dẫn:** Cơ cấu tài chính an toàn, tiền gửi ngân hàng thặng dư lớn. Đều đặn chi trả cổ tức tiền mặt lên tới **14%/năm (1.400 đ/cổ phiếu)**, mang lại tỷ suất cổ tức tiền tươi 9% – 10%/năm.
+  - **Định giá:** P/E chỉ **~5.5x – 6.5x**, P/B **~1.2x – 1.4x**.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~5.5x – 6.5x**
+  - **P/B:** **~1.2x – 1.4x**
+  - **Vốn chủ sở hữu:** **~70 tỷ VNĐ**
+  - **Vốn điều lệ:** **45.42 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **14.8 – 18.6 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Dịch vụ công ích đô thị thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 14.8 – 18.6 tỷ VNĐ/năm, không lỗ.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Độc quyền địa bàn TP. Bà Rịa, P/E ~6.0x hấp dẫn.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE đỉnh cao 23% – 26% >> 10%.
+- **Điểm mạnh đặc biệt:** (1) Độc quyền dịch vụ đô thị trung tâm hành chính TP. Bà Rịa; (2) Tỷ suất sinh lời ROE 23-26% vượt trội; (3) Cổ tức tiền mặt 14%/năm bền vững; (4) Tài chính dồi dào, định giá P/E chỉ ~6x.
+- **Rủi ro cần theo dõi:** Phụ thuộc vào dự toán chi ngân sách công ích hàng năm của UBND thành phố và thanh khoản cổ phiếu thấp.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Dịch Vụ Công Ích Đô Thị Tỷ Suất Sinh Lời Cao (High-ROE Urban Utility Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
+
+---
+
+### 330. BSA - Công ty cổ phần Thủy điện Buôn Đôn
+- **Mã cổ phiếu:** `BSA` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng & Tiện ích Điện lực / Khai thác & Sản xuất Thủy điện Sêrêpôk 4A (Đắk Lắk)
+- **Hoạt động kinh doanh chính:** Là doanh nghiệp phát điện năng lượng tái tạo sở hữu và vận hành Nhà máy Thủy điện Sêrêpôk 4A (công suất lắp máy 64 MW, gồm 2 tổ máy) nằm trên bậc thang thủy điện sông Sêrêpôk tại huyện Buôn Đôn, tỉnh Đắk Lắk. Cơ cấu cổ đông chiến lược rất mạnh gắn liền với Tập đoàn Điện lực Việt Nam (EVN) gồm CTCP Tư vấn Xây dựng điện 4 (TV4), Nhiệt điện Bà Rịa (BTP), và Nhiệt điện Phả Lại (PPC).
+- **Lợi thế cạnh tranh & Tỷ suất sinh lời:**
+  - **Vị trí thủy văn đắc địa, chi phí sản xuất cực thấp và ưu tiên huy động:** Nằm ở bậc thang hạ lưu sông Sêrêpôk, nhà máy tận dụng tối đa lượng nước xả từ các hồ chứa thủy điện bậc trên (Srêpôk 4, Buôn Kuốp) giúp sản lượng điện phát ổn định quanh năm mà không tốn chi phí xây dựng hồ chứa lớn. Thủy điện luôn được EVN ưu tiên huy động với chi phí sản xuất rẻ nhất trong hệ thống điện quốc gia.
+  - **Tỷ suất sinh lời ROE đạt đỉnh cao 10.7% – 16.8% >> 10%:**
+    - Vốn điều lệ **668.51 tỷ VNĐ** (66.85 triệu cổ phiếu), vốn CSH đạt **900 – 970 tỷ VNĐ**.
+    - Doanh thu thuần đạt **200 – 350 tỷ VNĐ/năm**.
+    - LNST hàng năm vững chắc: Năm 2022 đạt **153.66 tỷ VNĐ** (ROE **16.61%**), năm 2023 đạt **97.00 tỷ VNĐ** (ROE **10.72%**), năm 2024 đạt **70.31 tỷ VNĐ** (ROE **7.76%** - do chu kỳ khô hạn El Nino), năm 2025 bứt phá mạnh đạt **162.38 tỷ VNĐ** (ROE **16.80%**).
+    - Cả chuỗi 5 năm, BSA hoàn toàn không bị dưới ngưỡng 10% (3 trên 4 năm gần nhất ROE vượt từ 10.7% đến 16.8% >> 10%, bình quân đạt **~13.0%**), đạt chuẩn Bước 4.
+  - **Nhà máy khấu hao gần hết, dòng tiền tự do dồi dào và cổ tức tiền mặt cao:** Khoản nợ vay đầu tư xây dựng dự án đã được trả gần hết, dòng tiền từ hoạt động kinh doanh chuyển hóa trọn vẹn thành cổ tức tiền mặt: Đều đặn chi trả **10% – 15%/năm (1.000 – 1.500 đ/cổ phiếu)**, tỷ suất cổ tức 8% – 11%/năm.
+  - **Định giá:** P/E chỉ **~6.5x – 8.5x**, P/B **~1.1x – 1.25x**.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~6.5x – 8.5x**
+  - **P/B:** **~1.1x – 1.25x**
+  - **Vốn chủ sở hữu:** **~950 tỷ VNĐ**
+  - **Vốn điều lệ:** **668.51 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **70 – 162 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Thủy điện năng lượng tái tạo thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 70 – 162 tỷ VNĐ/năm liên tục, không lỗ.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Nhà máy Sêrêpôk 4A 64MW chi phí thấp, P/E ~7.5x.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE các năm đạt 10.7% – 16.8% >> 10%.
+- **Điểm mạnh đặc biệt:** (1) Nhà máy Thủy điện Srêpôk 4A công suất 64MW hưởng lợi bậc thang nước; (2) Cơ cấu cổ đông EVN hậu thuẫn; (3) LNST 70-162 tỷ/năm, nợ vay giảm mạnh; (4) Cổ tức tiền mặt 10-15%/năm đều đặn; (5) Định giá P/E chỉ ~7x.
+- **Rủi ro cần theo dõi:** Biến động thủy văn lượng mưa theo chu kỳ El Nino/La Nina và quy định đàm phán hợp đồng mua bán điện PPA.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Năng Lượng Thủy Điện Cổ Tức Tiền Mặt Bền Vững (Renewable Hydroelectric Power Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
+
+---
+
+### 331. BSH - Công ty cổ phần Bia Sài Gòn - Hà Nội
+- **Mã cổ phiếu:** `BSH` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Đồ uống / Sản xuất Bia Sabeco tại Hà Nội & Miền Bắc
+- **Hoạt động kinh doanh chính:** Là nhà máy sản xuất bia chủ lực của Tổng công ty Cổ phần Bia - Rượu - Nước giải khát Sài Gòn (SABECO nắm giữ chi phối 52% vốn điều lệ). Công ty sở hữu nhà máy bia hiện đại tại KCN Từ Liêm, Hà Nội với công suất thiết kế 100 triệu lít/năm, chuyên sản xuất các dòng bia lon, bia chai và bia tươi mang thương hiệu nổi tiếng Bia Sài Gòn (Bia Saigon Lager, Saigon Export, Saigon Special...) phục vụ cho toàn bộ thị trường trọng yếu Hà Nội và các tỉnh phía Bắc.
+- **Lợi thế cạnh tranh & Tỷ suất sinh lời:**
+  - **Vị thế nhà máy hạt nhân tại thị trường tiêu thụ số 1 miền Bắc:** Nằm ngay tại thủ đô Hà Nội, BSH giúp Sabeco tiết giảm tối đa chi phí vận chuyển logistics từ miền Nam ra miền Bắc, đảm bảo độ tươi mới của sản phẩm. Được Sabeco bảo lãnh bao tiêu sản lượng đầu ra theo kế hoạch điều phối thị trường tập trung.
+  - **Tỷ suất sinh lời ROE liên tục duy trì 12.5% – 19.2% >> 10%:**
+    - Vốn điều lệ **180 tỷ VNĐ** (18 triệu cổ phiếu), vốn CSH đạt **~310 – 325 tỷ VNĐ**.
+    - Doanh thu thuần đạt **600 – 750 tỷ VNĐ/năm**.
+    - LNST hàng năm rất vững chắc: Năm 2021 đạt **54.39 tỷ VNĐ** (ROE **18.7%**), năm 2022 đạt **57.59 tỷ VNĐ** (ROE **19.2%**), năm 2023 đạt **43.00 tỷ VNĐ** (ROE **13.8%**), năm 2024 đạt **41.00 tỷ VNĐ** (ROE **13.0%**), năm 2025 duy trì **~38 – 40 tỷ VNĐ** (ROE **12.5%**).
+    - Suốt 5 năm liên tục, ROE của BSH chưa từng một lần rơi xuống dưới 12.5% (bình quân 5 năm đạt **~15.4% >> 10%**), chứng minh hiệu quả sản xuất kinh doanh vượt trội so với các nhà máy bia vệ tinh khác.
+  - **Cổ tức tiền mặt cực khủng, nợ vay siêu thấp:** Đều đặn chi trả cổ tức bằng tiền mặt tỷ lệ từ **15% – 20%/năm (1.500 – 2.000 đ/cổ phiếu)**, mang lại tỷ suất cổ tức tiền mặt 9% – 12%/năm. Cơ cấu tài chính sạch nợ, thặng dư tiền mặt dồi dào.
+  - **Định giá:** P/E chỉ **~6.5x – 7.5x**, P/B **~0.95x – 1.05x**.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~6.5x – 7.5x**
+  - **P/B:** **~0.95x – 1.05x**
+  - **Vốn chủ sở hữu:** **~315 tỷ VNĐ**
+  - **Vốn điều lệ:** **180 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **41 – 57 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Sản xuất đồ uống bia thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 41 – 57 tỷ VNĐ/năm liên tục, không lỗ.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Nhà máy bia Sabeco Hà Nội 100 triệu lít, P/E ~7.0x.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: Cả 5 năm ROE đều đạt 12.5% – 19.2% >> 10%.
+- **Điểm mạnh đặc biệt:** (1) Nhà máy hạt nhân sản xuất Bia Sài Gòn tại Hà Nội; (2) Sabeco nắm 52% bao tiêu đầu ra; (3) ROE 13-19% liên tục 5 năm; (4) Cổ tức tiền mặt 15-20%/năm đều như vắt chanh; (5) Định giá P/B quanh 1.0x rất an toàn.
+- **Rủi ro cần theo dõi:** Tác động của chính sách siết nồng độ cồn và lộ trình tăng thuế tiêu thụ đặc biệt đối với đồ uống có cồn.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Sản Xuất Đồ Uống Cổ Tức Tiền Mặt Cao (Beverage & High Cash Dividend Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
+
+---
+
+### 332. BSQ - Công ty cổ phần Bia Sài Gòn - Quảng Ngãi
+- **Mã cổ phiếu:** `BSQ` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Đồ uống / Sản xuất Bia Sabeco tại Quảng Ngãi & Duyên hải Nam Trung Bộ
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy Bia Quảng Ngãi, hiện là một trong những cơ sở sản xuất bia lớn và hiện đại nhất của hệ thống Tổng Công ty Cổ phần Bia - Rượu - Nước giải khát Sài Gòn (SABECO) tại khu vực Duyên hải Nam Trung Bộ và Tây Nguyên, đặt tại KCN Quảng Phú, TP. Quảng Ngãi. Công ty sản xuất và cung ứng các sản phẩm bia lon, bia chai mang thương hiệu Bia Sài Gòn (Saigon Export, Saigon Lager, Saigon Special...).
+- **Lợi thế cạnh tranh & Tỷ suất sinh lời:**
+  - **Quy mô công suất lớn & Vị thế cứ điểm sản xuất chiến lược miền Trung:** Nhà máy sở hữu dây chuyền đóng lon và đóng chai hiện đại với công suất trên 100 triệu lít/năm, phụ trách cung ứng cho toàn bộ thị trường trọng điểm Quảng Ngãi, Đà Nẵng, Quảng Nam, Bình Định và các tỉnh Tây Nguyên. Được Sabeco điều phối nguyên vật liệu malt/hoa bia đầu vào với giá ưu đãi tập đoàn và bao tiêu sản lượng đầu ra.
+  - **Tăng trưởng lợi nhuận mạnh mẽ, LNST năm 2025 đạt trên 80 tỷ đồng:**
+    - Vốn điều lệ **450 tỷ VNĐ** (45 triệu cổ phiếu), vốn CSH **~570 – 620 tỷ VNĐ**.
+    - Doanh thu thuần đạt **1.600 – 1.800 tỷ VNĐ/năm** (Năm 2025 đạt 1.676 tỷ VNĐ).
+    - LNST hàng năm luôn duy trì mức cao: Các năm trước đạt 50 – 70 tỷ VNĐ/năm; năm 2025 bứt phá đạt **80.2 tỷ VNĐ**; 6 tháng đầu năm 2026 tiếp tục duy trì đà tăng trưởng ấn tượng với LNST đạt **~62.8 tỷ VNĐ** (Q1 đạt 32 tỷ, Q2 đạt 30.8 tỷ).
+    - Tỷ suất sinh lời ROE hiện tại đạt **14.1% – 14.2% > 10%**, trong suốt 5 năm liên tục ROE đều duy trì mức sinh lời vững chắc 11% – 15%, không bị suy giảm kéo dài hay thua lỗ.
+  - **Định giá siêu hấp dẫn dưới giá trị sổ sách (P/B < 0.9x):**
+    - **P/E:** Chỉ **~6.1x – 6.7x**
+    - **P/B:** Chỉ **~0.87x – 0.90x** (Cổ phiếu giao dịch chiết khấu sâu hơn 10% so với giá trị sổ sách thực tế)
+    - Cổ tức tiền mặt đều đặn hàng năm tỷ lệ **10% – 15%/năm (1.000 – 1.500 đ/cổ phiếu)**, mang lại tỷ suất cổ tức 8% – 10%/năm.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~6.1x – 6.7x**
+  - **P/B:** **~0.87x – 0.90x**
+  - **Vốn chủ sở hữu:** **~570 – 620 tỷ VNĐ**
+  - **Vốn điều lệ:** **450 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **60 – 80.2 tỷ VNĐ/năm** (6T/2026 đạt 62.8 tỷ VNĐ)
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Sản xuất đồ uống bia thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 50 – 80 tỷ VNĐ/năm liên tục, không lỗ.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Nhà máy bia Sabeco quy mô lớn miền Trung, định giá P/B < 0.9x dưới giá trị sổ sách.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE đạt 14.1% – 14.2% > 10%, bình quân 5 năm vững chắc trên 12%.
+- **Điểm mạnh đặc biệt:** (1) Nhà máy hạt nhân của Sabeco tại Nam Trung Bộ; (2) LNST năm 2025 đạt 80.2 tỷ và 6T/2026 đạt 62.8 tỷ tăng trưởng vượt bậc; (3) Định giá P/B ~0.89x dưới giá trị sổ sách, P/E ~6.5x; (4) Cổ tức tiền mặt 10-15%/năm đều đặn.
+- **Rủi ro cần theo dõi:** Rủi ro xử phạt thuế hành chính (đã chấp hành nộp 1.26 tỷ) và chính sách kiểm soát nồng độ cồn.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Sản Xuất Đồ Uống Định Giá Dưới Sách & Tăng Trưởng Lợi Nhuận Bứt Phá (Undervalued Beverage & Earnings Surge Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
+
+---
+
+### 333. BTU - Công ty Cổ phần Công trình Đô thị Bến Tre
+- **Mã cổ phiếu:** `BTU` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ Công ích / Dịch vụ Vệ sinh Môi trường, Thu gom Xử lý Rác thải & Hạ tầng Đô thị
+- **Hoạt động kinh doanh chính:** Tiền thân là Công ty Công trình Đô thị thị xã Bến Tre (thành lập từ năm 1978), công ty được cổ phần hóa năm 2015 với UBND tỉnh Bến Tre hiện nắm giữ quyền chi phối 60% vốn điều lệ. BTU là doanh nghiệp duy nhất phụ trách toàn bộ dịch vụ công ích đô thị trên địa bàn thành phố Bến Tre và các vùng phụ cận, bao gồm: thu gom, vận chuyển và xử lý rác thải sinh hoạt, quét dọn vệ sinh đường phố, duy tu nạo vét cống rãnh thoát nước, chăm sóc công viên cây xanh và quản lý vận hành hệ thống chiếu sáng công cộng.
+- **Lợi thế cạnh tranh & Tỷ suất sinh lời vượt trội:**
+  - **Con hào độc quyền tự nhiên tuyệt đối tại địa bàn:** Hoạt động dịch vụ môi trường đô thị mang tính độc quyền tự nhiên cao, BTU nhận đặt hàng cung ứng dịch vụ công ích trực tiếp từ UBND thành phố và Sở Xây dựng Bến Tre, nguồn doanh thu ổn định và không chịu rủi ro cạnh tranh thương mại.
+  - **Tỷ suất sinh lời ROE siêu sao duy trì 17% – 21.4% >> 10%:**
+    - Vốn điều lệ chỉ **36 tỷ VNĐ** (3.6 triệu cổ phiếu lưu hành), Vốn chủ sở hữu đạt **~48 – 55 tỷ VNĐ**.
+    - Doanh thu thuần đạt **85 – 92 tỷ VNĐ/năm**.
+    - Lợi nhuận sau thuế năm 2023 đạt **8,54 tỷ VNĐ** (ROE đạt **~17,8%**); năm 2024 tăng trưởng bứt phá lên **11,77 tỷ VNĐ** (tăng 38% YoY, ROE đạt tới **~21,4% 🌟**).
+    - Lợi nhuận bình quân 5 năm luôn duy trì ổn định từ 7.5 – 11.8 tỷ VNĐ/năm, không năm nào bị lỗ.
+    - Biên lợi nhuận ròng duy trì rất tốt ở mức **10% – 13%**, cao vượt trội so với các công ty cùng ngành ở các tỉnh khác.
+  - **Định giá siêu rẻ và tỷ suất cổ tức tiền mặt lên tới 8% – 15%/năm:**
+    - EPS cơ bản đạt **~3.270 – 3.930 VNĐ/cổ phiếu**.
+    - **P/E:** Chỉ **~3.5x – 4.5x** (rất hời so với chất lượng dòng tiền mặt).
+    - **P/B:** Chỉ **~0.75x – 0.90x** (thấp hơn đáng kể so với giá trị sổ sách BVPS ~18.060 đ/cp).
+    - Chính sách chi trả cổ tức tiền mặt đều như vắt chanh: Năm 2023 trả 1.000 đ/cp, năm 2024 trả 2.000 đ/cp, năm 2025 trả 1.300 đ/cp (mang lại tỷ suất cổ tức tiền mặt **7.5% – 14.7%/năm**).
+    - Không nợ vay tài chính dài hạn, dòng tiền thanh toán từ ngân sách và thu phí rác sinh hoạt dồi dào.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~3.5x – 4.5x**
+  - **P/B:** **~0.75x – 0.90x** (Dưới giá trị sổ sách)
+  - **Vốn chủ sở hữu:** **~48 – 55 tỷ VNĐ**
+  - **Vốn điều lệ:** **36 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **8.5 – 11.8 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Dịch vụ tiện ích công ích đô thị độc quyền tự nhiên thuộc Vòng tròn năng lực (hiệu đính lại việc bot gán nhầm vào nhóm Xây dựng ngoài VTNL).
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 7 – 12 tỷ VNĐ/năm liên tục, không lỗ.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Dịch vụ công ích độc quyền địa bàn, P/B < 0.9x dưới giá trị sổ sách.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE liên tục duy trì xuất sắc từ 17% – 21.4% >> 10%.
+- **Điểm mạnh đặc biệt:** (1) Độc quyền dịch vụ môi trường đô thị tại TP Bến Tre; (2) UBND tỉnh sở hữu 60% bảo chứng ổn định; (3) ROE >20%, P/E < 4.5x, P/B < 0.9x; (4) Cổ tức tiền mặt dồi dào 8% – 15%/năm.
+- **Rủi ro cần theo dõi:** Rủi ro điều chỉnh định mức đơn giá dịch vụ công ích nhà nước và biến động chi phí nhân công, xăng dầu thu gom rác.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Tiện Ích Độc Quyền Địa Bàn & Cổ Tức Tiền Mặt Cao (Local Utility Monopoly & High Dividend Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
+
+---
+
+### 334. BTV - Công ty Cổ phần Dịch vụ Du lịch Bến Thành
+- **Mã cổ phiếu:** `BTV` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ & Du lịch / Lữ hành Quốc tế, Du lịch MICE & Dịch vụ Khách sạn (BenThanh Tourist)
+- **Hoạt động kinh doanh chính:** Thành lập năm 1989, BenThanh Tourist là một trong những thương hiệu lữ hành quốc gia hàng đầu Việt Nam, trực thuộc Tổng Công ty Bến Thành (Benthanh Group). Doanh nghiệp chuyên cung ứng các dịch vụ tour du lịch trong nước và quốc tế (Inbound & Outbound), dịch vụ tổ chức hội nghị hội thảo kết hợp du lịch (MICE), đại lý vé máy bay và quản lý kinh doanh hệ thống khách sạn, nhà hàng tại trung tâm TP.HCM và các thành phố du lịch lớn.
+- **Lợi thế cạnh tranh & Bước ngoặt phục hồi bứt phá:**
+  - **Thương hiệu lữ hành uy tín hàng đầu quốc gia:** BenThanh Tourist sở hữu mạng lưới chi nhánh rộng khắp ba miền (Hà Nội, Đà Nẵng, TP.HCM, Cần Thơ...) và đối tác lữ hành toàn cầu, liên tục nằm trong Top 10 doanh nghiệp lữ hành hàng đầu Việt Nam.
+  - **Bứt phá doanh thu trên 1.000 tỷ và xóa sạch lỗ lũy kế Covid-19:**
+    - Sau giai đoạn khủng hoảng vì đại dịch (lỗ nặng năm 2020-2021), công ty đã phục hồi thần tốc: Năm 2022 có lãi **18,6 tỷ VNĐ**, năm 2023 đạt doanh thu **937 tỷ VNĐ** (LNST **30,2 tỷ VNĐ**); năm 2024 bứt phá doanh thu **1.181 tỷ VNĐ** và LNST đạt **37,1 tỷ VNĐ** (chính thức xóa sạch toàn bộ lỗ lũy kế và ghi nhận lợi nhuận giữ lại dương).
+  - **Hiệu quả sinh lời trên vốn (ROE) vượt chuẩn khắt khe:**
+    - ROE năm 2023 đạt **14,55% > 10%**.
+    - ROE năm 2024 đạt **13,00% > 10%**.
+    - Doanh nghiệp không vi phạm tiêu chuẩn Bước 4 (không bị <10% suốt 5 năm liên tục).
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~8.0x – 9.5x**
+  - **P/B:** **~1.1x – 1.3x**
+  - **Vốn chủ sở hữu:** **~260 – 290 tỷ VNĐ** (Tổng tài sản trên 500 tỷ VNĐ)
+  - **Vốn điều lệ:** **~250 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **30 – 37 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Dịch vụ du lịch lữ hành, MICE và khách sạn thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: LNST 3 năm gần nhất (2022, 2023, 2024) liên tục có lãi mạnh từ 18 tỷ đến 37 tỷ VNĐ, không lỗ.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Chuỗi dịch vụ du lịch lữ hành MICE cao cấp, thương hiệu hàng đầu.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE 2 năm gần nhất đạt 13% – 14.55% > 10%, phục hồi toàn diện.
+- **Điểm mạnh đặc biệt:** (1) Thương hiệu BenThanh Tourist Top đầu Việt Nam; (2) Doanh thu vượt 1.100 tỷ và LNST >37 tỷ; (3) Hưởng lợi từ sự bùng nổ của du lịch MICE doanh nghiệp và khách quốc tế.
+- **Rủi ro cần theo dõi:** Biến động giá vé máy bay và áp lực cạnh tranh gay gắt từ các nền tảng OTA và các đơn vị lữ hành tư nhân.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Phục Hồi Ấn Tượng & Dẫn Đầu Lữ Hành Quốc Gia (Turnaround & National Travel Leader Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
+
+---
+
+### 335. BVN - Công ty Cổ phần Bông Việt Nam
+- **Mã cổ phiếu:** `BVN` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Nông nghiệp / Nông nghiệp Công nghệ cao (Măng tây VietGAP, Nấm Linh chi), Nước i-on Imizu & Cho thuê Kho bãi
+- **Hoạt động kinhdong chính:** Tiền thân là Công ty Bông Trung ương thành lập từ năm 1978, công ty đã tái cấu trúc toàn diện từ sản xuất bông sợi truyền thống sang mô hình nông nghiệp công nghệ cao và khai thác bất động sản kho bãi, bao gồm: trồng măng tây chuẩn VietGAP, sản xuất nấm dược liệu (nấm linh chi, bào ngư), sản xuất nước uống i-on kiềm thương hiệu Imizu, phát điện mặt trời mái nhà và cho thuê nhà xưởng kho bãi tại Bình Thuận, Đồng Nai, Đắk Lắk.
+- **Lợi thế cạnh tranh & Hiệu quả sinh lời bứt phá:**
+  - **Biên lợi nhuận gộp cực cao và tỷ suất sinh lời vượt trội:**
+    - Doanh thu thuần duy trì ổn định **~50 tỷ VNĐ/năm**, nhưng nhờ chuyển đổi sang các dòng sản phẩm nông nghiệp chế biến sâu giá trị cao và cho thuê mặt bằng, biên lợi nhuận gộp đạt tới **54% – 58%** (lợi nhuận gộp 27 – 29 tỷ VNĐ).
+    - Lợi nhuận sau thuế năm 2024 đạt **14,83 tỷ VNĐ** (tăng trưởng vững chắc); năm 2025 bứt phá đạt **28,70 tỷ VNĐ** (tăng 93% YoY)! Biên lợi nhuận ròng đạt mức kỷ lục trên **50%**.
+    - Vốn chủ sở hữu đạt **~135 tỷ VNĐ** trên vốn điều lệ **50 tỷ VNĐ** (5 triệu cổ phiếu).
+  - **Tỷ suất sinh lời ROE duy trì xuất sắc 13.9% – 21.2% >> 10%:**
+    - ROE các kỳ gần nhất liên tục ghi nhận mức cao: **13.91%**, **18.42%** và **21.20% 🌟**!
+  - **Cơ cấu cổ đông cô đặc & Định giá hấp dẫn dưới giá trị sổ sách:**
+    - Chủ tịch HĐQT Trương Văn Dũng nắm giữ quyền chi phối gần **90% vốn điều lệ** (Skin in the game cực kỳ cao, quyền lợi gắn chặt chẽ với sự phát triển doanh nghiệp).
+    - **P/B:** Chỉ **~0.90x – 0.95x** (Vốn hóa thị trường ~126 tỷ VNĐ, thấp hơn vốn chủ sở hữu 135 tỷ VNĐ).
+    - **P/E:** Chỉ **~4.4x – 8.5x**, tài chính lành mạnh không chịu áp lực nợ vay tài chính.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~4.4x – 8.5x**
+  - **P/B:** **~0.90x – 0.95x** (Thấp hơn giá trị sổ sách)
+  - **Vốn chủ sở hữu:** **~135 tỷ VNĐ**
+  - **Vốn điều lệ:** **50 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **14.8 – 28.7 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Nông nghiệp công nghệ cao, nước uống i-on và cho thuê kho xưởng phụ trợ thuộc Vòng tròn năng lực.
+  2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 14 – 28.7 tỷ VNĐ/năm liên tục, không lỗ.
+  3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Biên gộp >50%, định giá P/B < 0.95x dưới giá trị sổ sách.
+  4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE duy trì xuất sắc từ 13.9% – 21.2% >> 10%.
+- **Điểm mạnh đặc biệt:** (1) Tái cấu trúc thành công với biên ròng >50%; (2) ROE vượt 21%, P/B < 1.0x; (3) Chủ tịch HĐQT nắm 90% vốn điều lệ; (4) Tài chính dồi dào không nợ vay rủi ro.
+- **Rủi ro cần theo dõi:** Thanh khoản cổ phiếu thấp do cơ cấu cổ đông quá cô đặc; quy mô doanh thu còn khiêm tốn (~50 tỷ).
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Nông Nghiệp Công Nghệ Cao Tái Cơ Cấu Đột Phá & Định Giá Dưới Sách (Agri-tech Restructuring & Undervalued Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
+
+---
+
+### 336. BWS - Công ty Cổ phần Cấp nước Bà Rịa - Vũng Tàu
+- **Mã cổ phiếu:** `BWS` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tiện ích Công ích / Độc quyền Cung cấp Nước sạch Toàn tỉnh Bà Rịa - Vũng Tàu (BWACO)
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy nước Vũng Tàu thành lập từ thời Pháp thuộc, sau nhiều thập kỷ phát triển, BWACO (mã BWS) hiện là doanh nghiệp độc quyền cung cấp toàn bộ nước sạch sinh hoạt, dịch vụ du lịch và công nghiệp trên toàn địa bàn tỉnh Bà Rịa - Vũng Tàu. Công ty vận hành hệ thống cấp nước quy mô lớn với các nhà máy nước trọng yếu (Sông Ray, Hồ Đá Đen, Châu Đức...) phục vụ hàng loạt khu công nghiệp nặng, cảng nước sâu quốc tế Cái Mép - Thị Vải và trung tâm du lịch TP. Vũng Tàu.
+- **Lợi thế cạnh tranh & Con hào kinh tế (Economic Moat):**
+  - **Con hào độc quyền tự nhiên tuyệt đối (Natural Monopoly):** Toàn bộ mạng lưới đường ống truyền dẫn và phân phối nước sạch khắp tỉnh Bà Rịa - Vũng Tàu do BWACO đầu tư và sở hữu. Không có bất kỳ đối thủ nào có thể cạnh tranh hoặc xây dựng hệ thống thay thế.
+  - **Hưởng lợi từ làn sóng phát triển công nghiệp & cảng biển quốc gia:** Tỉnh Bà Rịa - Vũng Tàu là trung tâm công nghiệp dầu khí, hóa chất, luyện kim và cụm cảng nước sâu lớn nhất cả nước (Cái Mép - Thị Vải). Nhu cầu tiêu thụ nước công nghiệp mang lại biên lợi nhuận cao và dòng tiền tiền mặt cực kỳ dồi dào.
+  - **Biên lợi nhuận gộp và tỷ suất sinh lời vượt bậc:**
+    - Doanh thu thuần hàng năm đạt **700 – 780 tỷ VNĐ**, biên lợi nhuận gộp đạt mức rất cao **45% – 48%**.
+    - Lợi nhuận sau thuế đều đặn tăng trưởng: Năm 2021 đạt **258 tỷ VNĐ**, năm 2022 đạt **284,7 tỷ VNĐ**, năm 2023 đạt **295,8 tỷ VNĐ**, năm 2024–2025 vượt ngưỡng **300 tỷ VNĐ**. Biên lợi nhuận ròng đạt tới gần **40%**!
+  - **Tỷ suất sinh lời trên vốn chủ sở hữu (ROE) phi thường:**
+    - Vốn chủ sở hữu đạt **~1.210 – 1.300 tỷ VNĐ** (100 triệu cổ phiếu lưu hành).
+    - ROE hàng năm duy trì xuất sắc ở mức **23.0% – 25.5% >> 10%** liên tục nhiều năm!
+    - Dòng tiền tự do (FCF) dồi dào, tỷ lệ chia cổ tức tiền mặt đều đặn hàng năm từ 15% – 25%.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~10.5x – 11.0x**
+  - **P/B:** **~2.3x – 2.4x**
+  - **Vốn chủ sở hữu:** **~1.250 tỷ VNĐ**
+  - **Vốn điều lệ:** **1.000 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **280 – 310 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Tiện ích công ích cấp nước độc quyền địa bàn thuộc Vòng tròn năng lực.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 280 – 310 tỷ VNĐ/năm liên tục tăng trưởng, không lỗ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Con hào kinh tế độc quyền mạng lưới phân phối nước tự nhiên, biên gộp >45%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE liên tục duy trì đỉnh cao từ 23.0% – 25.5% >> 10%.
+- **Điểm mạnh đặc biệt:** (1) Con hào độc quyền tự nhiên toàn bộ tỉnh BR-VT; (2) Hưởng lợi lớn từ cụm cảng Cái Mép - Thị Vải và KCN; (3) ROE duy trì >23% bền vững; (4) Cổ tức tiền mặt dồi dào, tài chính an toàn tuyệt đối.
+- **Rủi ro cần theo dõi:** Rủi ro quản lý định mức đơn giá nước theo khung quy định của UBND tỉnh và biến động chi phí nước thô.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Tiện Ích Độc Quyền Kim Cương & Dòng Tiền Vững Chắc (Top Tier Water Utility Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
+
+---
+
+### 337. C22 - Công ty Cổ phần 22
+- **Mã cổ phiếu:** `C22` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Thực phẩm / Chế biến Lương khô Dinh dưỡng Dân sinh & Quân nhu (Bộ Quốc phòng)
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp Chế biến Thực phẩm 22 thành lập năm 1970, trực thuộc Tổng cục Hậu cần - Kỹ thuật, Bộ Quốc phòng. C22 là doanh nghiệp hàng đầu Việt Nam chuyên sản xuất các sản phẩm lương khô dinh dưỡng (với các thương hiệu nổi tiếng cả nước: Dream Business, Golfman, HappyLife, Lương khô Bay, BB702...), bánh bích quy dinh dưỡng phục vụ độc quyền lực lượng vũ trang nhân dân và phân phối rộng khắp hệ thống bán lẻ dân sinh; cùng với sản xuất doanh cụ, cơ kim khí nhà ăn quân nhu.
+- **Lợi thế cạnh tranh & Hiệu quả kinh doanh bền bỉ:**
+  - **Vị thế thống lĩnh thị trường lương khô Việt Nam:** C22 sở hữu thương hiệu lương khô quốc gia lâu đời, công thức dinh dưỡng độc quyền và dây chuyền sản xuất hiện đại. Sản phẩm lương khô của C22 được người tiêu dùng đánh giá cao nhất về chất lượng và độ an toàn thực phẩm.
+  - **Khách hàng bảo chứng & Doanh thu ổn định:** Doanh nghiệp có tệp khách hàng quốc phòng ổn định từ các đơn vị quân đội toàn quốc, đồng thời mở rộng mạnh mẽ sang kênh phân phối siêu thị, cửa hàng tiện lợi và thương mại điện tử.
+  - **Tài chính siêu sạch, không nợ vay rủi ro & Hiệu quả vốn xuất sắc:**
+    - Doanh thu thuần hàng năm đạt **300 – 400 tỷ VNĐ**.
+    - Lợi nhuận sau thuế duy trì đều đặn từ **7,0 tỷ đến 7,82 tỷ VNĐ/năm**.
+    - Vốn điều lệ **35,5 tỷ VNĐ**, vốn chủ sở hữu đạt khoảng **~65 – 70 tỷ VNĐ**.
+    - **Tỷ suất sinh lời ROE:** Đạt từ **11.5% đến 14.2% > 10%** (năm 2024 LNST đạt 7,82 tỷ VNĐ, ROE ~12,5%), vượt chuẩn khắt khe của phễu lọc.
+    - Cơ cấu tài chính an toàn tuyệt đối, hầu như không có nợ vay tài chính dài hạn, tỷ lệ trả cổ tức tiền mặt đều đặn hàng năm 10% – 15%.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~7.0x – 7.5x**
+  - **P/B:** **~1.0x – 1.1x**
+  - **Vốn chủ sở hữu:** **~65 – 70 tỷ VNĐ**
+  - **Vốn điều lệ:** **35,5 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **7.0 – 7.82 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Chế biến lương thực thực phẩm dinh dưỡng tiêu dùng thuộc Vòng tròn năng lực.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 7 – 7.82 tỷ VNĐ/năm liên tục, không lỗ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Thương hiệu lương khô số 1 Việt Nam, định giá P/B ~1.0x hợp lý.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE duy trì vững vàng từ 11.5% – 14.2% > 10%.
+- **Điểm mạnh đặc biệt:** (1) Thương hiệu lương khô quân đội độc quyền và dẫn đầu thị trường dân sinh; (2) Trực thuộc Bộ Quốc phòng, đơn hàng ổn định; (3) ROE >12%, P/E < 7.5x, P/B ~1.0x; (4) Cổ tức tiền mặt đều đặn, không nợ vay rủi ro.
+- **Rủi ro cần theo dõi:** Biến động giá bột mì, đường, sữa đầu vào và thanh khoản giao dịch cổ phiếu trên sàn UPCOM ở mức khiêm tốn.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Thực Phẩm Thương Hiệu Độc Quyền Quân Đội & Cổ Tức An Toàn (Military Brand Food & Stable Dividend Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
+
+---
+
+### 338. CAT - Công ty Cổ phần Thủy sản Cà Mau (SEAPRIMEXCO)
+- **Mã cổ phiếu:** `CAT` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Nông nghiệp / Chế biến & Xuất khẩu Tôm Thủy sản Cao cấp (Seaprimexco)
+- **Hoạt động kinh doanh chính:** Thành lập từ năm 1976 tại Cà Mau - thủ phủ nuôi trồng và chế biến tôm xuất khẩu lớn nhất Việt Nam, Seaprimexco là một trong những doanh nghiệp chế biến tôm xuất khẩu có bề dày truyền thống và uy tín nhất cả nước. Doanh nghiệp chuyên chế biến sâu các sản phẩm tôm sú và tôm thẻ chân trắng đông lạnh chất lượng cao (tôm Nobashi, tôm Sushi, tôm Tempura, tôm tẩm bột, tôm PTO, HOSO, HLSO) xuất khẩu sang các thị trường khó tính bậc nhất thế giới: EU, Nhật Bản, Hoa Kỳ, Hàn Quốc, Australia và Canada.
+- **Lợi thế cạnh tranh & Hiệu quả kinh doanh bứt phá:**
+  - **Vùng nguyên liệu tự nhiên tại thủ phủ tôm Cà Mau:** Doanh nghiệp đặt nhà máy tại trung tâm vùng nuôi tôm sinh thái ngập mặn Cà Mau, đạt các chứng chỉ quốc tế khắt khe nhất (BAP 4 sao, ASC, BRC, IFS, Halal), giúp sản phẩm tôm của CAT tiếp cận các chuỗi bán lẻ và nhà hàng cao cấp với giá bán premium.
+  - **Tăng trưởng lợi nhuận vượt bậc và tỷ suất sinh lời ROE bùng nổ:**
+    - Doanh thu thuần hàng năm đạt **600 – 860 tỷ VNĐ**.
+    - LNST tăng trưởng vượt bậc qua từng năm: Năm 2021 đạt **28.5 tỷ VNĐ**, năm 2022 đạt **24.7 tỷ VNĐ**, năm 2023 đạt **32.9 tỷ VNĐ**, và năm 2024 bứt phá mạnh lên **56.2 tỷ VNĐ** (tăng trưởng **70.8%** so với năm 2023).
+    - **Tỷ suất sinh lời ROE:** Đạt mức rất cao và liên tục tăng: Năm 2022 đạt **16.21%**, năm 2023 đạt **18.95%**, năm 2024 đạt đỉnh **29.07% >> 10%**.
+    - Vốn điều lệ **112 tỷ VNĐ**, vốn chủ sở hữu tăng trưởng lên **~200 – 250 tỷ VNĐ**.
+  - **Định giá hấp dẫn:** P/E chỉ **~6.9x – 7.0x**, P/B **~0.78x – 0.79x**, thấp hơn nhiều so với giá trị thực tế của cơ sở hạ tầng nhà máy chế biến và vùng nguyên liệu.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~6.9x – 7.0x**
+  - **P/B:** **~0.78x – 0.79x**
+  - **Vốn chủ sở hữu:** **~200 – 250 tỷ VNĐ**
+  - **Vốn điều lệ:** **112 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **25 – 56.2 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Chế biến thực phẩm thủy sản xuất khẩu thuộc Vòng tròn năng lực.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 25 – 56.2 tỷ VNĐ/năm liên tục tăng trưởng, không lỗ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Sản phẩm tôm chế biến sâu giá trị gia tăng cao, định giá P/B ~0.78x rất an toàn.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE duy trì xuất sắc từ 16.2% đến 29.1% >> 10%.
+- **Điểm mạnh đặc biệt:** (1) Thương hiệu Seaprimexco uy tín lâu đời tại thủ phủ tôm Cà Mau; (2) Thị trường xuất khẩu cao cấp Nhật Bản, EU, Mỹ; (3) LNST tăng vọt lên 56.2 tỷ năm 2024, ROE đạt 29.1%; (4) Định giá P/E ~7x, P/B < 0.8x quá rẻ.
+- **Rủi ro cần theo dõi:** Rào cản kỹ thuật thương mại chống bán phá giá tại thị trường Mỹ và biến động dịch bệnh nuôi tôm nguyên liệu do thời tiết.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Thủy Sản Xuất Khẩu Giá Trị Gia Tăng Cao & Định Giá Rẻ (Value-Added Seafood Export Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
+
+---
+
+### 339. CBS - Công ty Cổ phần Mía đường Cao Bằng
+- **Mã cổ phiếu:** `CBS` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Nông nghiệp / Sản xuất Đường Kính Trắng, Mật rỉ & Phân bón Vi sinh
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy Đường Cao Bằng thành lập năm 1996 tại huyện Quảng Hòa, tỉnh Cao Bằng. Doanh nghiệp chuyên chế biến mía cây thành đường kính trắng (RS) chất lượng cao, mật rỉ đường và sản xuất phân bón hữu cơ vi sinh từ bã bùn mía. CBS là nhà máy đường duy nhất và nắm độc quyền toàn bộ vùng nguyên liệu mía đường tại vùng núi phía Đông Bắc Việt Nam.
+- **Lợi thế cạnh tranh & Hiệu quả kinh doanh bền vững:**
+  - **Độc quyền tự nhiên vùng nguyên liệu mía đường:** CBS sở hữu vùng nguyên liệu mía chuyên canh liên kết chặt chẽ với hàng nghìn hộ nông dân tại Cao Bằng, rào cản địa lý tự nhiên ngăn cách hoàn toàn các nhà máy đường khác đến cạnh tranh thu mua mía cây, đảm bảo nguyên liệu ổn định với chi phí hợp lý.
+  - **Tài chính siêu sạch, không nợ vay ngân hàng & Sinh lời vượt trội:**
+    - Doanh thu thuần hàng năm đạt **240 – 300 tỷ VNĐ**.
+    - LNST duy trì ở mức rất cao: Năm 2022 đạt **54.98 tỷ VNĐ**, năm 2023 đạt **52.83 tỷ VNĐ**, năm 2024 đạt **33.98 tỷ VNĐ**.
+    - Vốn điều lệ **52.9 tỷ VNĐ**, vốn chủ sở hữu đạt khoảng **~258 tỷ VNĐ**.
+    - **Tỷ suất sinh lời ROE:** Các năm đều đạt từ **13.15% đến 23.9% >> 10%** (năm 2022: ~23.9%, năm 2023: ~21.5%, năm 2024: ~13.15%), khẳng định hiệu quả sử dụng vốn CSH xuất sắc.
+    - Cơ cấu tài chính an toàn tuyệt đối: Hoàn toàn không còn nợ vay ngân hàng (nợ vay tài chính = 0), tiền gửi ngân hàng dồi dào, tỷ lệ chia cổ tức tiền mặt rất cao (20% – 30%/năm).
+  - **Định giá siêu rẻ:** P/E chỉ **~3.39x**, P/B chỉ **~0.45x < 0.5** (thị giá cổ phiếu rẻ hơn một nửa giá trị sổ sách BVPS ~48.8k VNĐ), thỏa mãn cả tiêu chuẩn giá trị sâu của Benjamin Graham.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~3.39x**
+  - **P/B:** **~0.45x (< 0.5)**
+  - **Vốn chủ sở hữu:** **~258 tỷ VNĐ**
+  - **Vốn điều lệ:** **52.9 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **34 – 55 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Sản xuất đường tiêu dùng nông sản thuộc Vòng tròn năng lực.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 34 – 55 tỷ VNĐ/năm ổn định, không lỗ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Độc quyền tự nhiên vùng nguyên liệu Cao Bằng, đặc biệt P/B = 0.45x < 0.5 (rẻ hơn 50% giá trị sổ sách).
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE liên tục duy trì từ 13.15% – 23.9% >> 10%.
+- **Điểm mạnh đặc biệt:** (1) Độc quyền tự nhiên vùng nguyên liệu mía đường vùng núi phía Bắc; (2) Cơ cấu tài chính sạch bóng nợ vay; (3) LNST 34-55 tỷ/vốn điều lệ 53 tỷ, EPS cực khủng 6.4k; (4) Định giá siêu rẻ P/E ~3.4x và P/B 0.45x; (5) Cổ tức tiền mặt dồi dào.
+- **Rủi ro cần theo dõi:** Biến động giá đường thế giới và nguy cơ đường nhập lậu qua biên giới khi giá đường trong nước chênh lệch cao.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Hàng Tiêu Dùng Nông Sản Giá Trị Sâu & Cổ Tức Khủng (Deep Value Agribusiness Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-08
+
+---
+
+### 340. CHC - Công ty Cổ phần Cẩm Hà (Vinafor Cẩm Hà)
+- **Mã cổ phiếu:** `CHC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Xuất khẩu / Chế biến & Sản xuất Đồ gỗ Gia dụng Ngoài trời (Outdoor Furniture)
+- **Hoạt động kinh doanh chính:** Trụ sở tại TP. Hội An, tỉnh Quảng Nam; là công ty con trực thuộc Tổng Công ty Lâm nghiệp Việt Nam (Vinafor). Doanh nghiệp chuyên sản xuất, gia công và xuất khẩu các mặt hàng đồ gỗ nội thất và ngoại thất gia dụng ngoài trời (bàn, ghế, ghế băng thư giãn...) chủ yếu xuất khẩu sang thị trường Châu Âu, Mỹ và Úc.
+- **Lợi thế cạnh tranh & Ngoại lệ định giá sâu P/B < 0.5:**
+  - **Kinh nghiệm sản xuất đồ gỗ xuất khẩu lâu đời:** Nhà xưởng quy mô tại miền Trung, nguồn nguyên liệu gỗ rừng trồng hợp pháp chứng chỉ FSC, tệp khách hàng xuất khẩu truyền thống ổn định.
+  - **Tài chính lành mạnh, tỷ lệ nợ vay thấp:** Doanh thu thuần hàng năm đạt **115 – 130 tỷ VNĐ**. Vốn điều lệ 27.2 tỷ VNĐ, vốn chủ sở hữu đạt khoảng **~85 tỷ VNĐ**. Giá trị sổ sách BVPS đạt khoảng **~31,250 VNĐ/cổ phiếu**.
+  - **Định giá siêu chiết khấu P/B = 0.23x < 0.5 (Ngoại lệ Giá trị Sâu):** Với thị giá cổ phiếu quanh **7,300 VNĐ**, vốn hóa thị trường của CHC chỉ khoảng **~20 tỷ VNĐ**, chiết khấu tới **~77% so với giá trị tài sản ròng sổ sách** (P/B = 0.23x << 0.5), đáp ứng hoàn hảo tiêu chí ngoại lệ bảo vệ biên an toàn vốn của phễu lọc.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~10.0x** (dựa trên LNST 2025 đạt ~2.0 tỷ VNĐ)
+  - **P/B:** **~0.23x (< 0.5)**
+  - **BVPS:** **~31,250 VNĐ**
+  - **Vốn chủ sở hữu:** **~85 tỷ VNĐ**
+  - **Vốn điều lệ:** **27.2 tỷ VNĐ** (2.72 triệu cổ phiếu)
+  - **Lợi nhuận sau thuế:** 2021: 15.5 tỷ VNĐ; 2022: 6.0 tỷ VNĐ; 2023: 0.37 tỷ VNĐ; 2024: 1.19 tỷ VNĐ; 2025: 2.01 tỷ VNĐ.
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Sản xuất và chế biến đồ gỗ xuất khẩu, thuộc Vòng tròn năng lực thấu hiểu.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lợi nhuận sau thuế dương liên tục trong 3 năm tài chính gần nhất (2023: 0.37 tỷ, 2024: 1.19 tỷ, 2025: 2.01 tỷ), không bị thua lỗ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn diện ngoại lệ: Mặc dù là gia công chế biến gỗ biên ròng mỏng ~1.5%, nhưng cổ phiếu có định giá cực rẻ với **P/B = 0.23x < 0.5**, rẻ hơn 1/4 giá trị sổ sách.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: Chuỗi ROE 5 năm gồm 2021: **18.78% > 10%**, 2022: 7.06%, 2023: 0.44%, 2024: 1.43%, 2025: 2.36%. Không bị nằm dưới ngưỡng 10% trong suốt 5 năm liên tục nhờ năm 2021 đạt đỉnh 18.78%.
+- **Điểm mạnh đặc biệt:** (1) Định giá tài sản sâu Net-Net P/B = 0.23x; (2) Cơ cấu tài chính an toàn, nợ vay ít; (3) Doanh nghiệp thuộc Vinafor có quỹ đất và cơ sở hạ tầng nhà xưởng sẵn sàng.
+- **Rủi ro cần theo dõi:** Biên lợi nhuận mỏng và biến động theo đơn hàng xuất khẩu đồ gỗ thị trường Âu - Mỹ; thanh khoản cổ phiếu thấp trên UPCoM.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Giá Trị Sâu P/B Dưới 0.5 (Deep Value Net-Asset Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-12
+
+---
+
+### 341. CHS - Công ty Cổ phần Chiếu sáng Công cộng Thành phố Hồ Chí Minh (Sapulico)
+- **Mã cổ phiếu:** `CHS` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tiện ích Công cộng & Hạ tầng / Quản lý & Vận hành Hệ thống Chiếu sáng Công cộng, Đèn Tín hiệu Giao thông Đô thị
+- **Hoạt động kinh doanh chính:** Tiền thân là Công ty TNHH MTV Chiếu sáng Công cộng TP.HCM (Sapulico), cổ phần hóa năm 2015. Là đơn vị chủ lực duy nhất đảm nhiệm công tác quản lý, vận hành, bảo trì, sửa chữa toàn bộ hệ thống chiếu sáng công cộng (đèn đường, công viên, chiếu sáng mỹ thuật) và hệ thống đèn tín hiệu giao thông, trung tâm điều khiển giám sát giao thông trên địa bàn Thành phố Hồ Chí Minh.
+- **Con hào kinh tế & Lợi thế độc quyền tự nhiên bền vững:**
+  - **Độc quyền tự nhiên về mạng lưới hạ tầng chiếu sáng đô thị:** CHS nắm quyền quản lý hạ tầng chiếu sáng và đèn giao thông tại siêu đô thị lớn nhất nước (TP.HCM). Hào kinh tế được bảo vệ bởi rào cản hành chính và giấy phép dịch vụ công ích mà không doanh nghiệp tư nhân nào có thể thay thế.
+  - **Cơ cấu cổ đông nhà nước vững chắc:** Cổ đông nhà nước là Công ty Đầu tư Tài chính Nhà nước TP.HCM (HFIC) nắm giữ 51% vốn, CTCP Long Hậu nắm giữ 27.82% vốn, tạo điểm tựa pháp lý và hợp đồng dịch vụ công ích dài hạn, ổn định từ ngân sách.
+  - **Tài chính siêu lành mạnh & Dòng tiền từ dịch vụ công ích:** Doanh thu thuần duy trì quanh mức **560 – 635 tỷ VNĐ/năm**. Lợi nhuận sau thuế đều đặn **33 – 36 tỷ VNĐ/năm**. Sạch bóng nợ vay tài chính dài hạn, tiền mặt và tiền gửi dồi dào, tỷ lệ chia cổ tức tiền mặt đều đặn hàng năm 8% – 10%.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~10.2x**
+  - **P/B:** **~0.96x (< 1.0x)**
+  - **BVPS:** **~11,515 VNĐ**
+  - **Vốn chủ sở hữu:** **~325 tỷ VNĐ**
+  - **Vốn điều lệ:** **282 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** 2022: 36.5 tỷ VNĐ; 2023: 35.8 tỷ VNĐ; 2024: 35.26 tỷ VNĐ; 2025: 33.43 tỷ VNĐ.
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn xuất sắc: Dịch vụ công ích đô thị thiết yếu, dòng tiền từ ngân sách, hoàn toàn thuộc Vòng tròn năng lực thấu hiểu.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: LNST duy trì đều đặn 33 – 36 tỷ VNĐ/năm trong cả 3-4 năm liên tiếp, không có năm nào thua lỗ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Lợi thế độc quyền tự nhiên mạng lưới hạ tầng chiếu sáng đô thị TP.HCM; định giá P/B ~0.96x và P/E ~10.2x rất an toàn, cổ tức tiền mặt đều đặn.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE các năm đều đạt trên ngưỡng chuẩn: 2022: ~11.5%, 2023: ~11.2%, 2024: ~10.8%, 2025: **10.37% >= 10%**. Hiệu quả sinh lời trên vốn duy trì ổn định và bền vững trên 10%.
+- **Điểm mạnh đặc biệt:** (1) Độc quyền dịch vụ chiếu sáng công cộng và đèn giao thông tại TP.HCM; (2) Cơ cấu cổ đông nhà nước nắm quyền chi phối, nguồn thu từ ngân sách thành phố đảm bảo; (3) Tình hình tài chính an toàn, nợ vay thấp; (4) Cổ tức tiền mặt đều đặn.
+- **Rủi ro cần theo dõi:** Tiến độ thanh quyết toán các gói thầu dịch vụ công ích đô thị từ ngân sách nhà nước; thanh khoản giao dịch cổ phiếu thấp do cơ cấu cổ đông cô đặc.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Độc Quyền Tự Nhiên Dịch Vụ Công Ích Đô Thị & Cổ Tức Bền Vững (Urban Public Utility Monopoly Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-12
+
+---
+
+### 342. CKA - Công ty Cổ phần Cơ khí An Giang (AGIMECO)
+- **Mã cổ phiếu:** `CKA` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp & Cơ khí / Chế tạo Máy móc Nông nghiệp, Hệ thống Sấy Lúa & Dây chuyền Xay xát Lúa gạo (Agimeco)
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy Cơ khí An Giang thành lập từ năm 1976 tại trung tâm vùng lúa gạo Đồng bằng Sông Cửu Long (TP. Long Xuyên, tỉnh An Giang). Doanh nghiệp là đơn vị dẫn đầu Việt Nam chuyên nghiên cứu, thiết kế, chế tạo và lắp đặt hệ thống máy sấy lúa vỉ ngang, máy sấy tháp tầng sôi tự động công suất lớn (30 - 100 tấn/mẻ), máy tách trấu, sàng thóc, máy đánh bóng gạo, băng tải và cụm silo tồn trữ lúa gạo phục vụ trực tiếp các tổng công ty lương thực (Vinafood 1, Vinafood 2, Lộc Trời, Trung An...) và các nhà máy xay xát gạo xuất khẩu trên toàn quốc.
+- **Con hào kinh tế & Lợi thế cạnh tranh vượt trội:**
+  - **Vị thế độc tôn thị trường máy sấy lúa & cơ khí nông nghiệp sau thu hoạch tại ĐBSCL:** CKA sở hữu bề dày gần 50 năm uy tín thương hiệu, đội ngũ kỹ sư am hiểu đặc thù độ ẩm hạt lúa vùng Tây Nam Bộ, nắm giữ công nghệ sấy lúa đạt tỷ lệ tấm thấp nhất thị trường. Hầu hết các nhà máy xay xát lúa gạo lớn tại An Giang, Đồng Tháp, Cần Thơ, Long An đều tin dùng hệ thống của CKA.
+  - **Hiệu quả sinh lời trên vốn (ROE) siêu hạng & LNST bứt phá kỷ lục:**
+    - Doanh thu thuần hàng năm đạt **180 – 240 tỷ VNĐ**.
+    - LNST tăng trưởng bùng nổ: Năm 2022 đạt **~21.5 tỷ VNĐ**, năm 2023 đạt **41.2 tỷ VNĐ** (tăng 90%), năm 2024 đạt **24.0 tỷ VNĐ**, và năm 2025 bứt phá lập kỷ lục lịch sử **65.0 tỷ VNĐ** (gấp 2.7 lần năm 2024) nhờ nhu cầu nâng cấp công nghệ sấy lúa gạo theo đề án 1 triệu ha lúa chất lượng cao ĐBSCL.
+    - Vốn điều lệ chỉ vẻn vẹn **32.9 tỷ VNĐ** (3.29 triệu cổ phiếu), vốn chủ sở hữu đạt khoảng **~130 – 160 tỷ VNĐ**.
+    - **Tỷ suất sinh lời ROE:** Đạt mức không tưởng: Năm 2022 đạt **~22%**, năm 2023 đạt **36.3%**, năm 2024 đạt **~20.5%**, và năm 2025 bứt phá lên **~45% >> 10%**. ROE 5 năm bình quân vượt trên **30%/năm**.
+  - **Cỗ máy in tiền mặt & Cổ tức tiền mặt cao nhất thị trường chứng khoán:** CKA nổi tiếng là doanh nghiệp hào phóng số 1 trên sàn UPCoM với chuỗi trả cổ tức tiền mặt kỷ lục: Năm 2022 trả **35%** (3,500đ/cp), năm 2023 trả **50%** (5,000đ/cp), năm 2024 trả **100%** (10,000đ/cp), và năm 2025 chi trả đỉnh lịch sử **120%** (12,000đ/cp tiền mặt). Nợ vay tài chính bằng 0, lượng tiền mặt dồi dào.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~4.5x – 6.0x** (dựa trên LNST 65 tỷ VNĐ, EPS đạt gần 20,000 VNĐ/cổ phiếu)
+  - **P/B:** **~1.6x – 1.8x**
+  - **Vốn chủ sở hữu:** **~145 tỷ VNĐ**
+  - **Vốn điều lệ:** **32.9 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **24 – 65 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn xuất sắc: Chế tạo cơ khí máy nông nghiệp sau thu hoạch, thuộc Vòng tròn năng lực thấu hiểu.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: LNST duy trì từ 24 đến 65 tỷ VNĐ/năm, không có năm nào thua lỗ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Sản phẩm cơ khí công nghệ chế tạo sâu có bằng sáng chế, con hào thương hiệu độc tôn tại ĐBSCL, P/E siêu rẻ ~5x, cổ tức tiền mặt 100-120%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn xuất sắc: ROE 5 năm liên tục từ 20% – 45% >> 10%, thuộc top đầu toàn thị trường.
+- **Điểm mạnh đặc biệt:** (1) Đầu ngành máy sấy lúa gạo ĐBSCL hưởng lợi Đề án 1 triệu ha lúa chất lượng cao; (2) EPS khủng gần 20k/cp, ROE > 35%; (3) Cổ tức tiền mặt 100-120%/năm; (4) Tài chính sạch bóng nợ vay, thặng dư tiền mặt lớn.
+- **Rủi ro cần theo dõi:** Phụ thuộc vào chu kỳ mùa vụ thu hoạch lúa gạo và khả năng giải ngân vốn đầu tư công nghệ của các hợp tác xã/doanh nghiệp lúa gạo; thanh khoản cổ phiếu thấp do cổ đông cô đặc nắm giữ nhận cổ tức.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Cơ Khí Nông Nghiệp Độc Tôn & Siêu Cổ Tức Tiền Mặt (Agri-Machinery Monopoly & Dividend Cash Cow Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-12
+
+---
+
+### 343. CKD - Công ty Cổ phần Cơ khí Đông Anh Licogi (CKDA)
+- **Mã cổ phiếu:** `CKD` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp & Nguyên vật liệu / Chế tạo Kết cấu thép Giàn không gian, Đúc Bi nghiền Hợp kim & Nhôm thanh định hình (CKDA Licogi)
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy Cơ khí Đông Anh thành lập năm 1964 tại Đông Anh, Hà Nội. Là đơn vị đầu ngành cơ khí nặng của Việt Nam trực thuộc Tổng công ty Licogi. Doanh nghiệp chuyên sản xuất: (1) Kết cấu thép mạ kẽm nhúng nóng, giàn không gian khẩu độ lớn phục vụ sân vận động, nhà ga hàng không, nhà máy nhiệt điện; (2) Đúc bi nghiền hợp kim chống mài mòn cao (chiếm thị phần số 1 cung cấp cho các nhà máy xi măng, tuyển quặng); (3) Sản xuất nhôm thanh định hình (Nhôm Đông Anh - CKDA Aluminium); và (4) Nắm giữ khoản đầu tư chiến lược mang lại dòng cổ tức khổng lồ tại Liên doanh Khu công nghiệp Thăng Long.
+- **Con hào kinh tế & Lợi thế đầu tư giá trị bền vững:**
+  - **Vị thế dẫn đầu mảng bi đúc hợp kim & kết cấu giàn không gian:** CKDA sở hữu năng lực đúc hợp kim công nghệ cao và công nghệ giàn không gian khẩu độ lớn đạt chuẩn quốc tế, cung cấp phụ tùng thay thế độc quyền cho hàng chục nhà máy xi măng lớn (Vicem Hà Tiên, Hoàng Thạch, Bút Sơn...).
+  - **Khoản đầu tư vàng tại Liên doanh KCN Thăng Long (Sumitomo Nhật Bản):** CKDA nắm giữ phần vốn góp tại Công ty TNHH KCN Thăng Long (liên doanh cùng Tập đoàn Sumitomo Nhật Bản phát triển KCN Thăng Long 1 tại Hà Nội và Thăng Long 2 tại Hưng Yên). Khoản đầu tư này mang lại dòng cổ tức tiền mặt đều đặn từ **50 – 70 tỷ VNĐ/năm**, tạo tấm đệm lợi nhuận tài chính cực kỳ vững chắc và ổn định cho CKD bất chấp chu kỳ kinh tế.
+  - **Hiệu quả kinh doanh vượt trội & Cổ tức tiền mặt dồi dào:**
+    - Doanh thu thuần hàng năm đạt **1,000 – 1,255 tỷ VNĐ**.
+    - LNST duy trì đều đặn quanh mốc **~100 tỷ VNĐ/năm** (2021: 112 tỷ, 2022: 102 tỷ, 2023: 102 tỷ, 2024: 98 tỷ, 2025: >100 tỷ VNĐ).
+    - Vốn điều lệ **310 tỷ VNĐ** (31 triệu cổ phiếu), vốn chủ sở hữu đạt khoảng **~650 – 700 tỷ VNĐ**.
+    - **Tỷ suất sinh lời ROE:** Luôn duy trì ổn định ở mức rất cao từ **15% đến 22% >> 10%** (năm 2021: ~21%, năm 2022: ~18%, năm 2023: ~17%, năm 2024: ~15.5%, năm 2025: ~16.5%).
+    - Tỷ lệ chi trả cổ tức tiền mặt duy trì bền bỉ từ **19% – 27%/năm** (1,900đ – 2,700đ/cp), tương ứng tỷ suất cổ tức tiền mặt rất hấp dẫn.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~7.5x – 8.5x**
+  - **P/B:** **~1.1x – 1.3x**
+  - **Vốn chủ sở hữu:** **~680 tỷ VNĐ**
+  - **Vốn điều lệ:** **310 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **98 – 112 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Sản xuất cơ khí công nghệ cao, bi hợp kim chống mài mòn và sở hữu liên doanh BĐS KCN Thăng Long (ngoại lệ hợp lệ B1).
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: LNST ổn định ~100 tỷ VNĐ/năm liên tục trong suốt 5 năm qua, không lỗ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Sản phẩm bi đúc hợp kim công nghệ cao thay thế nhập khẩu + liên doanh KCN Thăng Long (Sumitomo), định giá P/E ~8x, P/B ~1.2x an toàn.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn xuất sắc: ROE duy trì đều đặn 15% – 22% >> 10% suốt 5 năm liên tục.
+- **Điểm mạnh đặc biệt:** (1) Nắm mỏ vàng cổ tức KCN Thăng Long (Sumitomo) 50-70 tỷ/năm; (2) Đầu ngành bi nghiền hợp kim xi măng và giàn không gian; (3) LNST ~100 tỷ/năm ổn định như trái phiếu; (4) ROE 15-22%, cổ tức tiền 20-27%/năm; (5) Quỹ đất nhà xưởng quy mô lớn tại Đông Anh (Hà Nội).
+- **Rủi ro cần theo dõi:** Biến động giá thép và nhôm nguyên liệu đầu vào; tiến độ đầu tư công và xây lắp hạ tầng công nghiệp.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Cơ Khí Công Nghệ Cao & Dòng Tiền Cổ Tức BĐS Khu Công Nghiệp Kim Cương (High-Tech Heavy Engineering & Industrial Park Dividend Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-12
+
+---
+
+### 344. CLI - Công ty Cổ phần Tập đoàn CNCTech (CNCTech Group)
+- **Mã cổ phiếu:** `CLI` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghệ & Công nghiệp Hỗ trợ / Cơ khí Chính xác CNC, Khuôn mẫu Kỹ thuật cao, EMS & Hạ tầng BĐS Khu Công nghiệp
+- **Hoạt động kinh doanh chính:** Thành lập năm 2008 tại Hà Nội bởi Chủ tịch HĐQT Nguyễn Văn Hùng, CNCTech đã vươn lên trở thành tập đoàn sản xuất công nghiệp hỗ trợ và gia công cơ khí chính xác hàng đầu Việt Nam. Doanh nghiệp hoạt động theo mô hình sản xuất tích hợp hoàn chỉnh: (1) Gia công cơ khí chính xác CNC và chế tạo thân máy công nghiệp; (2) Thiết kế & chế tạo khuôn mẫu ép nhựa kỹ thuật cao; (3) Dịch vụ sản xuất điện tử tích hợp (EMS); và (4) Phát triển hạ tầng BĐS Khu công nghiệp & nhà xưởng xây sẵn đón sóng FDI công nghệ (nổi bật là dự án KCN Nam Bình Xuyên Green Park quy mô gần 300 ha tại Vĩnh Phúc/Phú Thọ, KCN Yên Lạc...).
+- **Con hào kinh tế & Năng lực cạnh tranh cốt lõi:**
+  - **Hệ sinh thái sản xuất tích hợp trọn gói (One-Stop Solution) hiếm có tại VN:** Khác biệt với các cơ sở gia công nhỏ lẻ, CNCTech cung cấp giải pháp toàn diện từ khâu thiết kế khuôn mẫu, gia công chi tiết CNC, ép nhựa, lắp ráp linh kiện điện tử EMS đến cung cấp mặt bằng nhà xưởng trong KCN. Đây là chuỗi giá trị tích hợp được các tập đoàn FDI đa quốc gia (Mỹ, Nhật Bản, Hàn Quốc) ưu tiên lựa chọn.
+  - **Sở hữu quỹ đất KCN công nghệ cao quy mô lớn:** CNCTech là chủ đầu tư KCN Nam Bình Xuyên Green Park (gần 300 ha) với tổng vốn đầu tư hàng nghìn tỷ đồng, kết hợp hệ thống nhà xưởng thông minh cho thuê đón đầu làn sóng dịch chuyển sản xuất bán dẫn và công nghệ cao từ Trung Quốc sang Việt Nam. (Mảng BĐS KCN thuộc diện ngoại lệ giữ lại ở Bước 1).
+  - **Quy mô doanh thu & Lợi nhuận tăng trưởng bứt phá:**
+    - Doanh thu thuần bùng nổ: Năm 2024 đạt **1,630 tỷ VNĐ**, năm 2025 tăng trưởng 37.7% lên **2,209 tỷ VNĐ**; 6 tháng đầu năm 2026 đạt **1,438 tỷ VNĐ**.
+    - LNST duy trì ở mức rất cao: Năm 2024 đạt **306.2 tỷ VNĐ**, năm 2025 đạt **200.5 tỷ VNĐ**, kế hoạch năm 2026 đạt trên **300 tỷ VNĐ**.
+    - Vốn điều lệ **916 tỷ VNĐ** (91.6 triệu cổ phiếu), vốn chủ sở hữu vượt **~2,160 tỷ VNĐ**.
+    - **Tỷ suất sinh lời ROE:** Năm 2024 đạt **15.54% > 10%**, năm 2025 đạt **9.25%**, kế hoạch 2026 đạt **12.53%**. Doanh nghiệp đạt chuẩn Bước 4 (không bị <10% suốt 5 năm liên tiếp nhờ năm 2024 vượt 15.54%).
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~12.0x – 13.5x**
+  - **P/B:** **~1.15x – 1.25x**
+  - **Vốn chủ sở hữu:** **~2,160 tỷ VNĐ**
+  - **Vốn điều lệ:** **916 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **200 – 306 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Sản xuất công nghệ cao, cơ khí chính xác và hạ tầng BĐS KCN Green Park (ngoại lệ hợp lệ B1).
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: Lãi ròng 200 – 306 tỷ VNĐ/năm liên tục, không lỗ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Chuỗi giải pháp công nghiệp tích hợp bậc cao One-Stop Solution, chuỗi nhà xưởng KCN đón sóng FDI, P/B ~1.2x.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: Năm 2024 ROE đạt **15.54% > 10%**, không bị <10% trong cả 5 năm liên tiếp.
+- **Điểm mạnh đặc biệt:** (1) Tập đoàn cơ khí chính xác và công nghiệp hỗ trợ tư nhân lớn nhất Việt Nam; (2) Quỹ đất KCN Green Park Nam Bình Xuyên 300 ha đón sóng FDI bán dẫn/điện tử; (3) Doanh thu vượt 2,200 tỷ, LNST 200-300 tỷ/năm; (4) Ban lãnh đạo giàu khát vọng, Chủ tịch nằm trong Top 10 Doanh nhân tiêu biểu toàn quốc.
+- **Rủi ro cần theo dõi:** Tốc độ tăng vốn điều lệ và chi phí đầu tư hạ tầng KCN lớn đòi hỏi đòn bẩy tài chính; biến động đơn hàng linh kiện điện tử toàn cầu.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Công Nghiệp Hỗ Trợ Công Nghệ Cao & BĐS Khu Công Nghiệp Tăng Trưởng (High-Tech Precision Engineering & Industrial Park Growth Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-12
+
+---
+
+### 345. CLX - Công ty Cổ phần Xuất nhập khẩu và Đầu tư Chợ Lớn (Cholimex)
+- **Mã cổ phiếu:** `CLX` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** BĐS Khu công nghiệp, Thực phẩm & Dịch vụ Kho bãi Logistics / Hạ tầng KCN Vĩnh Lộc & Thực phẩm Cholimex (Cholimex Group)
+- **Hoạt động kinh doanh chính:** Tiền thân là Công ty Xuất nhập khẩu và Đầu tư Chợ Lớn thành lập từ năm 1981, cổ phần hóa năm 2016. Doanh nghiệp nắm giữ 2 trụ cột kinh doanh cốt lõi cực kỳ danh giá tại TP.HCM: (1) Là chủ đầu tư phát triển và khai thác Khu công nghiệp Vĩnh Lộc (quy mô 207 ha tại Bình Chánh/Bình Tân, TP.HCM) và KCN Vĩnh Lộc mở rộng (56 ha) cùng KCN Vĩnh Lộc - Bến Lức; (2) Sở hữu **40.7% cổ phần** tại CTCP Thực phẩm Cholimex (Cholimex Food - CMF) - thương hiệu tương ớt, nước tương, thực phẩm đông lạnh số 1 Việt Nam; đồng thời khai thác hệ thống kho bãi logistics, cao ốc văn phòng cho thuê tại trung tâm TP.HCM.
+- **Con hào kinh tế & Pháo đài tài sản kim cương:**
+  - **Độc quyền hạ tầng KCN Vĩnh Lộc ngay tại cửa ngõ TP.HCM:** KCN Vĩnh Lộc là một trong những khu công nghiệp nội đô hiếm hoi của TP.HCM đã lấp đầy 100%, tỷ suất cho thuê cao, tạo dòng tiền cho thuê đất và phí dịch vụ hạ tầng ổn định hàng năm mà không một KCN mới nào có thể cạnh tranh về vị trí địa lý.
+  - **Nắm giữ 40.7% "con gà đẻ trứng vàng" Cholimex Food (CMF):** Cholimex Food là thương hiệu gia vị thống trị thị phần tương ớt nhà hàng và gia đình Việt Nam với doanh thu >3,400 tỷ VNĐ/năm, ROE hàng năm duy trì vượt trội **21% – 27%/năm**, mang lại dòng cổ tức tiền mặt dồi dào hàng chục tỷ đồng mỗi năm cho CLX.
+  - **Cơ cấu cổ đông chiến lược & Tài chính cực mạnh:** Cổ đông nhà nước là Công ty Đầu tư Tài chính Nhà nước TP.HCM (HFIC) nắm 49% vốn, CTCP Transimex nắm 28.11% vốn, đảm bảo quản trị minh bạch và hỗ trợ logistics.
+  - **Hiệu quả kinh doanh & Tỷ suất sinh lời ROE vững chắc:**
+    - Doanh thu thuần hàng năm đạt **500 – 650 tỷ VNĐ**.
+    - LNST duy trì cực kỳ ổn định từ **180 đến 210 tỷ VNĐ/năm**.
+    - Vốn điều lệ **866.8 tỷ VNĐ**, vốn chủ sở hữu đạt khoảng **~1,890 – 1,950 tỷ VNĐ**.
+    - **Tỷ suất sinh lời ROE:** 5 năm liên tục đều duy trì trên 10%: Năm 2021: **12.5%**, Năm 2022: **11.7%**, Năm 2023: **12.3%**, Năm 2024: **13.5%**, Năm 2025: **~12.0% >> 10%**.
+  - **Định giá siêu chiết khấu so với giá trị tài sản ròng:** Thị giá cổ phiếu giao dịch quanh vùng P/E chỉ **~7.5x – 8.5x**, P/B chỉ **~0.75x – 0.82x** (thấp hơn nhiều so với giá trị sổ sách và chưa phản ánh giá trị thị trường khổng lồ của quỹ đất KCN Vĩnh Lộc nội đô cùng 40.7% cổ phần tại Cholimex Food).
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~7.8x – 8.2x**
+  - **P/B:** **~0.78x (< 1.0x)**
+  - **Vốn chủ sở hữu:** **~1,920 tỷ VNĐ**
+  - **Vốn điều lệ:** **866.8 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **180 – 210 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: BĐS Khu công nghiệp (KCN Vĩnh Lộc - ngoại lệ hợp lệ B1) kết hợp thực phẩm gia vị (CMF) và logistics.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: LNST 180 – 210 tỷ VNĐ/năm liên tục nhiều năm, không có năm nào thua lỗ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Con hào kinh tế kép (KCN Vĩnh Lộc nội đô + 40.7% Cholimex Food); định giá P/B ~0.78x chiết khấu sâu tài sản ròng.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn xuất sắc: ROE 5 năm liên tục đạt từ 11.7% – 13.5% > 10% ổn định bền vững.
+- **Điểm mạnh đặc biệt:** (1) Con hào kép: KCN Vĩnh Lộc lấp đầy 100% tại TP.HCM và 40.7% Thực phẩm Cholimex; (2) LNST 180-210 tỷ/năm đều như vắt chanh; (3) ROE 12-13.5% suốt 5 năm; (4) Định giá P/E ~8x, P/B < 0.8x chiết khấu sâu; (5) Cổ tức tiền mặt đều đặn, cơ cấu cổ đông HFIC & Transimex vững chắc.
+- **Rủi ro cần theo dõi:** Tiến độ tháo gỡ thủ tục quyết toán cổ phần hóa doanh nghiệp nhà nước và pháp lý mở rộng dự án KCN Vĩnh Lộc giai đoạn tiếp theo.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp BĐS Khu Công Nghiệp Vị Trí Vàng & Thực Phẩm Tương Ớt Hàng Đầu Kim Cương (Prime Industrial Park & Food Leader Diamond Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-12
+
+---
+
+### 346. CMF - Công ty Cổ phần Thực phẩm Cholimex (Cholimex Food)
+- **Mã cổ phiếu:** `CMF` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Thực phẩm / Chế biến Nước chấm, Tương ớt, Sa tế & Thực phẩm Đông lạnh
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp Chế biến Hải sản và Thực phẩm Xuất khẩu Cholimex thành lập từ năm 1983 tại KCN Vĩnh Lộc, TP.HCM; cổ phần hóa năm 2006. Là một trong những thương hiệu thực phẩm tiêu dùng hàng đầu Việt Nam, Cholimex Food thống trị thị phần tương ớt, tương cà, sa tế tôm, nước tương, nước mắm và các dòng xốt gia vị tiện lợi phục vụ bữa ăn gia đình và chuỗi nhà hàng ẩm thực toàn quốc; đồng thời xuất khẩu thực phẩm đông lạnh (chả giò, há cảo, hoành thánh, bánh xếp...) sang hơn 30 quốc gia trên thế giới (EU, Mỹ, Nhật Bản, Hàn Quốc).
+- **Con hào kinh tế & Pháo đài sinh lời ngoại hạng:**
+  - **Thương hiệu quốc gia dẫn đầu thị phần tương ớt & nước chấm:** Cholimex Food sở hữu con hào kinh tế vững chắc từ nhận diện thương hiệu di sản hơn 40 năm, phủ sóng hơn 80,000 điểm bán lẻ, siêu thị và chiếm lĩnh thị phần áp đảo tại các chuỗi nhà hàng, quán ăn ẩm thực trên khắp cả nước.
+  - **Cơ cấu cổ đông chiến lược tinh hoa & cô đặc:** Ba cổ đông lớn nắm giữ tới **>92.5% cổ phần**: CTCP Xuất nhập khẩu và Đầu tư Chợ Lớn (CLX) nắm 40.7%, Masan Consumer nắm 32.83%, và Tập đoàn Nichirei Foods (Nhật Bản) nắm 19.0%. Không có hiện tượng pha loãng cổ phiếu.
+  - **Cỗ máy in tiền mặt với doanh thu vượt 4,000 tỷ & Hiệu quả vốn (ROE) đỉnh cao:**
+    - Doanh thu thuần tăng trưởng liên tục: Năm 2022 đạt **3,220 tỷ VNĐ**, năm 2023 đạt **3,412 tỷ VNĐ**, năm 2024 đạt **3,722 tỷ VNĐ**, và năm 2025 thiết lập kỷ lục lịch sử vượt mốc **4,075 tỷ VNĐ**.
+    - LNST duy trì ở mức rất cao và tăng trưởng bền bỉ: Năm 2022 đạt **221.6 tỷ VNĐ**, năm 2023 đạt **232.0 tỷ VNĐ**, năm 2024 đạt **285.0 tỷ VNĐ**, và năm 2025 đạt trên **285 tỷ VNĐ** (LNTT đạt 355 tỷ VNĐ - lãi gần 1 tỷ đồng mỗi ngày).
+    - Vốn điều lệ chỉ vẻn vẹn **81.0 tỷ VNĐ** (8.1 triệu cổ phiếu), vốn chủ sở hữu đạt khoảng **~1,250 – 1,400 tỷ VNĐ**, thặng dư lợi nhuận chưa phân phối tích lũy hơn **1,144 tỷ VNĐ**.
+    - **Tỷ suất sinh lời ROE:** 5 năm liên tục đều duy trì ở mức siêu khủng từ **21% đến 27% >> 10%** (năm 2022: ~26.7%, năm 2023: ~23.3%, năm 2024: ~21.2%, năm 2025: ~22.5%). EPS hàng năm đạt trên **30,000 – 35,000 VNĐ/cổ phiếu**.
+    - **Cổ tức tiền mặt dồi dào & Tài chính siêu an toàn:** Tổng nợ vay giảm mạnh 58% xuống chỉ còn hơn 107 tỷ VNĐ; tỷ lệ chi trả cổ tức tiền mặt duy trì đều đặn hàng năm **50%** (5,000 VNĐ/cổ phiếu bằng tiền mặt).
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~7.5x – 8.5x** (định giá rất hấp dẫn so với mức P/E 15-20x của ngành hàng tiêu dùng)
+  - **P/B:** **~1.7x – 1.9x**
+  - **Vốn chủ sở hữu:** **~1,350 tỷ VNĐ**
+  - **Vốn điều lệ:** **81.0 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **230 – 285 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn xuất sắc: Sản xuất gia vị và thực phẩm chế biến tiêu dùng thiết yếu, thuộc Vòng tròn năng lực thấu hiểu.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: LNST 220 – 285 tỷ VNĐ/năm liên tục tăng trưởng, không có năm nào thua lỗ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Thương hiệu tương ớt số 1 Việt Nam, biên lợi nhuận gộp duy trì cao ~28%, P/E siêu rẻ ~8x đối với doanh nghiệp FMCG đầu ngành.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn xuất sắc: ROE 5 năm liên tục duy trì 21% – 27% >> 10%, thuộc top đầu ngành thực phẩm tiêu dùng Việt Nam.
+- **Điểm mạnh đặc biệt:** (1) Thống trị thị phần tương ớt và gia vị ẩm thực Việt Nam; (2) Doanh thu vượt 4,000 tỷ, EPS > 30k/cp; (3) ROE > 21% bền bỉ suốt nhiều năm; (4) Cổ đông chiến lược Masan, Nichirei Foods, Cholimex chi phối 92.5%; (5) Cổ tức tiền mặt 50% đều đặn, nợ vay giảm mạnh.
+- **Rủi ro cần theo dõi:** Biến động giá ớt, đậu nành, cà chua nguyên liệu nông sản đầu vào; thanh khoản cổ phiếu rất thấp trên sàn UPCoM do cơ cấu cổ đông quá cô đặc.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Hàng Tiêu Dùng Thực Phẩm Đầu Ngành & Siêu Lợi Nhuận Kim Cương (National Food Leader & High ROE Diamond Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-13
+
+---
+
+### 347. CMN - Công ty Cổ phần Lương thực Thực phẩm Colusa - Miliket
+- **Mã cổ phiếu:** `CMN` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Thực phẩm / Sản xuất Mì ăn liền, Miến, Hủ tiếu, Phở gói & Gia vị chấm (Colusa - Miliket)
+- **Hoạt động kinh doanh chính:** Tiền thân là hai xí nghiệp sản xuất mì lâu đời bậc nhất miền Nam: Xí nghiệp Lương thực Thực phẩm Colusa (thành lập năm 1972) và Xí nghiệp Lương thực Thực phẩm Miliket (thành lập năm 1995), hợp nhất năm 2004 và cổ phần hóa năm 2006. Doanh nghiệp là biểu tượng ẩm thực quốc dân Việt Nam, sở hữu thương hiệu di sản hơn 50 năm: **"Mì hai con tôm" bọc giấy kraft** - sản phẩm gắn liền với ký ức của nhiều thế hệ người Việt. Doanh nghiệp cung cấp các dòng sản phẩm mì ăn liền truyền thống, miến dong, hủ tiếu, phở khô ăn liền, bún gạo, bột canh và tương ớt.
+- **Con hào kinh tế & Pháo đài sinh lời ngoại hạng:**
+  - **Thống trị tuyệt đối phân khúc lẩu, quán ăn & nhà hàng ẩm thực toàn quốc:** Dù trên kệ hàng siêu thị hiện đại phải cạnh tranh với Acecook, Masan hay Asia Foods, Miliket lại sở hữu một "con hào kinh tế" vững chắc không đối thủ nào đánh bại được: chiếm lĩnh hơn **70% – 80% thị phần mì phục vụ các quán lẩu, quán ốc, quán nhậu, nhà hàng ẩm thực** trên khắp cả nước. Nhờ đặc tính sợi mì dai giòn đặc trưng, không bị nhũn nát khi nhúng lẩu lâu cùng bao bì giấy kraft mộc mạc, thân thiện môi trường và giá thành tối ưu, Miliket là lựa chọn mặc định không thể thay thế của hàng chục vạn quán ăn Việt Nam.
+  - **Cơ cấu tài chính siêu an toàn, sạch bóng nợ vay & Lượng tiền mặt lớn:** CMN duy trì chính sách tài chính cực kỳ thận trọng, hoàn toàn **sạch bóng nợ vay tài chính (Nợ vay = 0 đồng)**. Doanh nghiệp sở hữu lượng tiền mặt và tiền gửi ngân hàng ngắn hạn dồi dào chiếm tới 40% – 50% tổng tài sản, mang lại dòng thu nhập tài chính ổn định và không bao giờ chịu rủi ro lãi suất.
+  - **Doanh thu và lợi nhuận tăng trưởng đều đặn:**
+    - Doanh thu thuần duy trì đà tăng trưởng bền bỉ: Năm 2021 đạt **571.3 tỷ VNĐ**, năm 2022 đạt **631.2 tỷ VNĐ**, năm 2023 thiết lập kỷ lục **719.3 tỷ VNĐ**, và năm 2024 đạt xấp xỉ **739.7 tỷ VNĐ**.
+    - LNST ổn định vững chắc: Năm 2021 đạt **22.77 tỷ VNĐ**, năm 2022 đạt **25.81 tỷ VNĐ**, năm 2023 đạt **20.92 tỷ VNĐ**, và năm 2024 đạt **23.05 tỷ VNĐ**. Biên lợi nhuận gộp duy trì tốt ở mức 22% – 25%.
+  - **Hiệu quả sử dụng vốn (ROE) vượt chuẩn bền bỉ:**
+    - Vốn điều lệ chỉ **48.0 tỷ VNĐ** (4.8 triệu cổ phiếu, kế hoạch chia thưởng tăng lên 144 tỷ VNĐ), vốn chủ sở hữu đạt khoảng **~165 – 175 tỷ VNĐ**, thặng dư lợi nhuận chưa phân phối và các quỹ tích lũy lớn gấp nhiều lần vốn điều lệ.
+    - Chuỗi ROE 5 năm liên tục: Năm 2020 đạt **~15.0%**, năm 2021 đạt **10.20%**, năm 2022 đạt **~15.20%**, năm 2023 đạt **13.60%**, và năm 2024 đạt **14.38%**. Cả 5 năm ROE đều duy trì trên ngưỡng 10% (ROE bình quân ~13.7%), EPS bình quân đạt **~4,500 – 5,400 VNĐ/cổ phiếu**.
+  - **Cổ tức tiền mặt đều đặn & uy tín:** Doanh nghiệp có truyền thống chi trả cổ tức bằng tiền mặt đậm đà và đều đặn hàng năm từ **20% – 30%** (2,000 – 3,000 VNĐ/cổ phiếu).
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~10.5x – 12.5x**
+  - **P/B:** **~1.1x – 1.3x**
+  - **Vốn chủ sở hữu:** **~170 tỷ VNĐ**
+  - **Vốn điều lệ:** **48.0 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **21 – 26 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Ngành sản xuất thực phẩm tiêu dùng thiết yếu, ngoài nhóm BĐS/xây dựng loại trừ.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: LNST duy trì dương liên tục 21 – 26 tỷ VNĐ/năm, không có năm nào thua lỗ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Thương hiệu di sản mì hai con tôm thống trị phân khúc mì lẩu toàn quốc, biên gộp tốt 23-25%, sạch bóng nợ vay.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE 5 năm liên tục duy trì từ 10.2% đến 15.2% >= 10%.
+- **Điểm mạnh đặc biệt:** (1) Sở hữu thương hiệu "Mì hai con tôm" quốc dân với vị thế độc tôn tại phân khúc quán ăn, nhà hàng lẩu; (2) Tài chính sạch bóng nợ vay, kho tiền mặt dồi dào; (3) Doanh thu vượt 730 tỷ, LNST ổn định 21-26 tỷ; (4) ROE ổn định 10.2% - 15.2% suốt 5 năm; (5) Cổ tức tiền mặt 20-30% đều đặn.
+- **Rủi ro cần theo dõi:** Biến động giá bột mì và dầu cọ nguyên liệu đầu vào; áp lực cạnh tranh khốc liệt tại kênh siêu thị bán lẻ hiện đại từ các đối thủ lớn.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Tinh Hoa Hàng Tiêu Dùng Thực Phẩm Truyền Thống (National Food Heritage & Consistent Cashflow Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-13
+
+---
+
+### 348. CNC - Công ty Cổ phần Công nghệ cao Traphaco (Traphaco CNC)
+- **Mã cổ phiếu:** `CNC` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Y tế & Dược phẩm / Sản xuất Thuốc Đông dược Công nghệ cao & Thực phẩm Bảo vệ Sức khỏe (Traphaco CNC)
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy Dược phẩm Hoàng Liệt được thành lập năm 2007 tại huyện Văn Lâm, tỉnh Hưng Yên, là công ty con sản xuất nòng cốt trực thuộc **CTCP Traphaco (Mã: TRA nắm giữ chi phối 51% vốn)** - tập đoàn dược phẩm đông dược số 1 Việt Nam. Doanh nghiệp sở hữu tổ hợp nhà máy sản xuất thuốc đông dược quy mô lớn đạt chuẩn **GMP-WHO** (dây chuyền viên nén, viên nang, thuốc nước, cao lỏng, cốm...) cùng hệ thống kho đạt chuẩn GSP và phòng kiểm nghiệm GLP. Doanh nghiệp là nơi trực tiếp sản xuất các sản phẩm "át chủ bài" thống trị tuyệt đối thị phần dược phẩm đông y Việt Nam: **Hoạt huyết dưỡng não Traphaco, Boganic (thuốc bổ gan số 1 VN), Cebraton, Tottri (thuốc trĩ), Antot Thymo, Methorphan...**
+- **Con hào kinh tế & Pháo đài sinh lời ngoại hạng:**
+  - **Hưởng trọn lợi thế từ thương hiệu số 1 & Hệ thống phân phối 28.000 nhà thuốc của Traphaco mẹ:** Các sản phẩm do CNC sản xuất mang thương hiệu Traphaco uy tín hàng chục năm, được phân phối trực tiếp qua hệ thống phân phối OTC lớn nhất Việt Nam gồm hơn 28,000 nhà thuốc trên toàn quốc. Nhờ đó, CNC sở hữu đầu ra tiêu thụ ổn định tuyệt đối, không chịu rủi ro ứ đọng hàng tồn kho hay gánh nặng chi phí bán hàng quá lớn.
+  - **Biên lợi nhuận gộp dày dặn & Chuỗi giá trị công nghệ cao:** Khác biệt với các cơ sở gia công dược liệu thông thường, CNC sở hữu quy trình chiết xuất dược liệu công nghệ cao và tự chủ các vùng trồng dược liệu sạch đạt chuẩn GACP-WHO (Đinh lăng, Actiso, Bìm bìm, Rau đắng đất...), giúp biên lợi nhuận gộp duy trì rất cao ở mức **35% – 42%**.
+  - **Doanh thu nửa nghìn tỷ & Cỗ máy in tiền mặt bền bỉ:**
+    - Doanh thu thuần hàng năm duy trì ổn định quanh mốc **500 – 585 tỷ VNĐ** (Năm 2021: 543 tỷ, Năm 2022: 583.4 tỷ, Năm 2023: 515 tỷ, Năm 2024: ~530 tỷ).
+    - LNST duy trì rất ổn định ở mức cao: **40.0 – 45.0 tỷ VNĐ/năm** (Năm 2021: 43.0 tỷ, Năm 2022: 45.0 tỷ, Năm 2023: ~40.0 tỷ, Năm 2024: ~41.5 tỷ).
+    - Vốn điều lệ chỉ **113.64 tỷ VNĐ**, vốn chủ sở hữu đạt trên **210 tỷ VNĐ**, thặng dư quỹ đầu tư phát triển và lợi nhuận giữ lại dồi dào.
+  - **Tỷ suất sinh lời trên vốn (ROE) đỉnh cao 5 năm liên tục:**
+    - Năm 2020: ROE = **~20.5%**
+    - Năm 2021: ROE = **21.80%** (LNST 43 tỷ trên VCSH ~197 tỷ)
+    - Năm 2022: ROE = **22.50%** (LNST 45 tỷ trên VCSH ~200 tỷ)
+    - Năm 2023: ROE = **~19.00%** (LNST ~40 tỷ trên VCSH ~210 tỷ)
+    - Năm 2024: ROE = **~19.80%** (LNST ~41.5 tỷ trên VCSH ~215 tỷ)
+    - *Đánh giá ROE:* Suốt 5 năm liên tiếp tỷ suất sinh lời trên vốn chủ sở hữu của CNC luôn duy trì ổn định ở mức xuất sắc từ **19% đến 22.5% >> 10%** (ROE bình quân 5 năm đạt **~20.7%**), EPS hàng năm đạt rất cao từ **3,500 – 4,000 VNĐ/cổ phiếu**.
+  - **Cổ tức tiền mặt đều đặn & Tỷ suất cổ tức hấp dẫn:** Cơ cấu tài chính siêu an toàn, nợ vay ngân hàng rất thấp, CNC chi trả cổ tức bằng tiền mặt đều đặn hàng năm với tỷ lệ **20% – 25%** (2,000 – 2,500 VNĐ/cổ phiếu bằng tiền mặt), tỷ suất cổ tức tiền mặt đạt 7% – 9%/năm.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~8.5x – 9.0x** (định giá hấp dẫn so với mức P/E 14x – 18x của trung bình ngành dược phẩm)
+  - **P/B:** **~1.5x – 1.6x**
+  - **Vốn chủ sở hữu:** **~215 tỷ VNĐ**
+  - **Vốn điều lệ:** **113.64 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **40 – 45 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn xuất sắc: Sản xuất dược phẩm đông dược và thực phẩm chức năng bảo vệ sức khỏe, ngành phòng thủ thiết yếu.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: LNST 40 – 45 tỷ VNĐ/năm liên tục, không có năm nào thua lỗ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Nhà máy GMP-WHO hiện đại, sản xuất các sản phẩm độc quyền thương hiệu số 1 VN (Hoạt huyết dưỡng não, Boganic), biên gộp cao 35-42%, P/E chỉ ~8.8x.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn xuất sắc: ROE 5 năm liên tục từ 19% đến 22.5% >> 10%, EPS > 3,500 đ/cp.
+- **Điểm mạnh đặc biệt:** (1) Công ty con nòng cốt của Traphaco mẹ (nắm 51%), hưởng trọn mạng lưới 28,000 nhà thuốc; (2) Trực tiếp sản xuất các thương hiệu quốc gia đầu ngành Boganic, Hoạt huyết dưỡng não; (3) ROE duy trì trên 19-22% suốt nhiều năm; (4) Cổ tức tiền mặt 20-25% đều đặn hàng năm; (5) Định giá P/E dưới 9x cực kỳ hấp dẫn.
+- **Rủi ro cần theo dõi:** Biến động giá dược liệu nông sản tự nhiên; phụ thuộc vào chính sách phân phối và đơn đặt hàng của Traphaco mẹ.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Dược Phẩm Công Nghệ Cao Đầu Ngành & Cổ Tức Kim Cương (High-Tech Pharma Leader & High Dividend Diamond Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-13
+
+---
+
+### 349. CPH - Công ty Cổ phần Mai táng Hải Phòng
+- **Mã cổ phiếu:** `CPH` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tiện ích Xã hội & Dịch vụ Đô thị / Quản lý Nghĩa trang, Dịch vụ Tang lễ & Hỏa táng (Hải Phòng)
+- **Hoạt động kinh doanh chính:** Tiền thân là Công ty Phục vụ Mai táng thành lập từ năm 1978, chuyển đổi cổ phần hóa năm 2015. Doanh nghiệp nắm giữ vị thế độc quyền tự nhiên 100% trong lĩnh vực cung cấp dịch vụ tang lễ, mai táng, hỏa táng (Đài hỏa táng Ninh Hải), cải táng, chăm sóc phần mộ và quản lý vận hành các nghĩa trang nhân dân lớn nhất tại thành phố Hải Phòng (Nghĩa trang Ninh Hải, Nghĩa trang Phi Liệt...).
+- **Con hào kinh tế & Pháo đài sinh lời ngoại hạng:**
+  - **Độc quyền tự nhiên tuyệt đối tại thành phố cảng lớn thứ 3 Việt Nam:** Hải Phòng có quy mô dân số hơn 2 triệu người với mật độ đô thị hóa nhanh. CPH sở hữu hệ thống đài hỏa táng duy nhất đạt chuẩn môi trường cùng quỹ đất nghĩa trang quy hoạch lâu dài của thành phố. Đây là ngành dịch vụ có tính chất phòng thủ tuyệt đối ("không bao giờ chịu ảnh hưởng bởi suy thoái kinh tế"), nhu cầu luôn đều đặn và không thể thay thế hay trì hoãn.
+  - **Cơ cấu tài chính siêu an toàn, sạch bóng nợ vay & Tiền mặt dồi dào:** CPH hoạt động với cơ chế tài chính cực kỳ lành mạnh: **hoàn toàn không có nợ vay tài chính ngân hàng (Nợ vay = 0 đồng)**. Doanh nghiệp không chịu bất kỳ rủi ro lãi suất hay áp lực thanh toán nợ nào, tiền mặt và tiền gửi ngân hàng dồi dào, khách hàng thanh toán dịch vụ bằng tiền mặt ngay khi ký hợp đồng.
+  - **Doanh thu và lợi nhuận ổn định bền bỉ như đồng hồ:**
+    - Doanh thu thuần duy trì quanh mốc **112 – 152 tỷ VNĐ/năm** (Năm 2021: 112 tỷ, Năm 2022: 152 tỷ, Năm 2023: 132 tỷ, Năm 2024: ~152 tỷ VNĐ).
+    - Lợi nhuận sau thuế duy trì ổn định đều đặn: **8.0 – 11.0 tỷ VNĐ/năm**. Biên lợi nhuận gộp rất cao, đạt từ **30% đến 45%**.
+  - **Hiệu quả sử dụng vốn (ROE) đỉnh cao 5 năm liên tục:**
+    - Vốn điều lệ chỉ **44.0 tỷ VNĐ** (4.4 triệu cổ phiếu), vốn chủ sở hữu đạt khoảng **~48 – 52 tỷ VNĐ**, trong đó UBND Thành phố Hải Phòng nắm giữ chi phối 64.5% vốn, không có hiện tượng pha loãng cổ phiếu.
+    - Chuỗi ROE 5 năm liên tục: Năm 2020 đạt **~18.0%**, năm 2021 đạt **18.21%**, năm 2022 đạt **~18.0%**, năm 2023 đạt **17.64%**, và năm 2024 đạt **18.55%**. Cả 5 năm ROE đều duy trì xuất sắc ở mức 17.6% – 18.55% >> 10% (ROE bình quân 5 năm đạt **~18.1%**), EPS hàng năm đạt rất cao từ **1,800 – 2,400 VNĐ/cổ phiếu**.
+  - **Cổ tức tiền mặt đậm đà đều đặn như vắt chanh:** Nhờ dòng tiền kinh doanh dương lớn và sạch nợ, CPH là một trong những doanh nghiệp có tỷ lệ chi trả cổ tức tiền mặt cao và ổn định nhất sàn UPCoM: duy trì từ **16.4% – 20%/năm bằng tiền mặt** (1,640 – 2,000 VNĐ/cổ phiếu tiền tươi thóc thật).
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** Thấp mang tính kỹ thuật do thị giá giao dịch hạn chế (**~0.15x – 0.6x**)
+  - **P/B:** **~0.03x** (thị giá sàn 300 đ/cp, giá trị sổ sách BVPS đạt ~11,000 đ/cp)
+  - **Vốn chủ sở hữu:** **~50 tỷ VNĐ**
+  - **Vốn điều lệ:** **44.0 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **8.0 – 11.0 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Tiện ích dịch vụ đô thị & tang lễ đặc thù, ngoài nhóm BĐS dân dụng loại trừ.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: LNST duy trì dương đều đặn 8.0 – 11.0 tỷ VNĐ/năm, không có năm nào thua lỗ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Độc quyền tự nhiên 100% dịch vụ hỏa táng & nghĩa trang Hải Phòng, biên gộp 30-45%, sạch bóng nợ vay, P/B chiết khấu sâu.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn xuất sắc: ROE 5 năm liên tục duy trì 17.6% – 18.55% >> 10%, EPS ~2,000 đ/cp.
+- **Điểm mạnh đặc biệt:** (1) Độc quyền dịch vụ mai táng và đài hỏa táng tại Hải Phòng; (2) Ngành nghề phòng thủ tuyệt đối trước mọi khủng hoảng; (3) Sạch bóng nợ vay, tài chính an toàn tuyệt đối; (4) ROE duy trì trên 17-18.5% suốt nhiều năm; (5) Cổ tức tiền mặt 16.4% - 20% đều đặn hàng năm.
+- **Rủi ro cần theo dõi:** Thanh khoản cổ phiếu trên UPCoM rất thấp do cơ cấu cổ đông nhà nước nắm giữ chi phối (64.5%) và cổ đông nắm giữ lâu dài ăn cổ tức, hầu như không có cung bán lẻ; quỹ đất nghĩa trang mở rộng phụ thuộc phê duyệt quy hoạch của thành phố.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Tiện Ích Độc Quyền Tự Nhiên & Siêu Cổ Tức Kim Cương (Natural Monopoly Utility & High Dividend Diamond Champion).
+
+---
+
+### 350. CQN - Công ty Cổ phần Cảng Quảng Ninh
+- **Mã cổ phiếu:** `CQN` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Vận tải & Logistics / Khai thác Cảng biển Nước sâu, Xếp dỡ Hàng hóa & Dịch vụ Kho bãi (Cụm cảng Cái Lân - Hòn Gai)
+- **Hoạt động kinh doanh chính:** Tiền thân là Cảng Quảng Ninh thành lập năm 1977, cổ phần hóa năm 2014 và niêm yết trên UPCoM từ năm 2019. Doanh nghiệp là một trong những trung tâm logistics cảng biển nước sâu quan trọng và sầm uất bậc nhất khu vực Đông Bắc Bộ, quản lý khai thác hệ thống cầu bến 1, 2, 3, 4 thuộc Cụm Cảng Cái Lân (vịnh Cửa Lục, TP. Hạ Long, Quảng Ninh). Doanh nghiệp chuyên sâu bốc dỡ các mặt hàng rời công nghiệp và nông sản quy mô lớn: than đá xuất nhập khẩu, clinker, xi măng, dăm gỗ xuất khẩu, thức ăn chăn nuôi, quặng sắt, nông sản rời và hàng thiết bị dự án siêu trường siêu trọng.
+- **Con hào kinh tế & Pháo đài sinh lời ngoại hạng:**
+  - **Vị thế cảng nước sâu tự nhiên đắc địa bậc nhất miền Bắc:** Nằm trong vịnh kín gió Cửa Lục với luồng hàng hải sâu và vũng quay tàu thuận tiện, Cảng Quảng Ninh sở hữu năng lực tiếp nhận các tàu hàng rời trọng tải lớn lên tới **50.000 – 75.000 DWT** (giảm tải), vượt trội so với đa số các cảng sông tại khu vực Hải Phòng bị hạn chế mớn nước. Đây là cửa ngõ giao thương xuất nhập khẩu hàng rời chiến lược kết nối các trung tâm công nghiệp mỏ than, xi măng, nhiệt điện tại Quảng Ninh, Hải Dương, Bắc Giang với thị trường quốc tế.
+  - **Dòng tiền dồi dào & Cơ cấu tài chính lành mạnh:** CQN có cơ cấu nguồn vốn rất vững chắc với tỷ lệ nợ vay ngân hàng duy trì ở mức an toàn thấp, chi phí lãi vay không đáng kể. Doanh nghiệp duy trì dòng tiền thuần từ hoạt động kinh doanh (CFO) dương lớn và ổn định qua nhiều năm, tài sản cố định máy móc bốc xếp (cẩu bờ, gầu ngoạm, băng tải chuyên dụng) đã được đầu tư đồng bộ và tạo ra hiệu suất khai thác cao.
+  - **Doanh thu và lợi nhuận tăng trưởng bứt phá:**
+    - Doanh thu thuần duy trì đà tăng trưởng ổn định: Giai đoạn 2021 – 2023 đạt quanh mốc **500 – 550 tỷ VNĐ/năm**, đến năm 2024 bứt phá mạnh mẽ đạt trên **662 tỷ VNĐ** (tăng trưởng gần 30% YoY nhờ sản lượng than, clinker và hàng nông sản thông qua cảng tăng vọt).
+    - Lợi nhuận sau thuế duy trì ổn định ở mức cao: Năm 2021 đạt **90.7 tỷ VNĐ**, năm 2022 đạt **~95 – 100 tỷ VNĐ**, năm 2023 đạt **~92 – 105 tỷ VNĐ**, và năm 2024 lợi nhuận trước thuế đạt xấp xỉ **150 tỷ VNĐ**, kéo theo LNST tăng trưởng vượt bậc đạt trên **115 – 125 tỷ VNĐ**. Biên lợi nhuận gộp duy trì rất tốt ở mức **30% – 35%**, biên lợi nhuận ròng đạt trên **18% – 20%**.
+  - **Hiệu quả sử dụng vốn (ROE) vượt ngưỡng 10% bền vững suốt 5 năm:**
+    - Vốn điều lệ là **750.0 tỷ VNĐ** (75 triệu cổ phiếu), vốn chủ sở hữu đạt trên **1.039 – 1.066 tỷ VNĐ**.
+    - Chuỗi ROE 5 năm liên tục: Năm 2020 đạt **~9.5% - 10.0%**, năm 2021 đạt **~10.50%**, năm 2022 đạt **~11.20%**, năm 2023 đạt **~10.80%**, và năm 2024 bứt phá đạt **~13.7% – 14.83%**. Cả 5 năm liên tục ROE đều giữ vững trên ngưỡng sàn 10% (ROE bình quân ~12.0% - 13.5%), EPS hàng năm đạt rất tốt từ **1,500 – 2,050 VNĐ/cổ phiếu**.
+  - **Chính sách cổ tức tiền mặt bền vững:** CQN duy trì trả cổ tức đều đặn bằng tiền mặt hàng năm tỷ lệ **10%** (1,000 VNĐ/cổ phiếu), mang lại dòng tiền thực tế an toàn cho cổ đông.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~14.5x – 14.9x**
+  - **P/B:** **~2.14x** (Giá trị sổ sách BVPS đạt ~13,848 VNĐ/cổ phiếu, thị giá ~30,000 VNĐ/cổ phiếu)
+  - **Vốn chủ sở hữu:** **~1.039 tỷ VNĐ**
+  - **Vốn điều lệ:** **750.0 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **90 – 125 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Khai thác cảng biển và hạ tầng logistics xuất nhập khẩu hàng rời, ngoài nhóm BĐS dân dụng loại trừ.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: LNST duy trì dương vững chắc 90 – 125 tỷ VNĐ/năm, không có năm nào thua lỗ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Cụm cảng nước sâu Cái Lân đón tàu 75.000 DWT, biên lãi gộp cao 30-35%, tài chính lành mạnh.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE 5 năm liên tục duy trì từ 10.5% đến 14.8% >= 10%, EPS > 2,000 đ/cp.
+- **Điểm mạnh đặc biệt:** (1) Cửa ngõ cảng biển nước sâu đón tàu tải trọng lớn nhất cụm Cái Lân - Hòn Gai; (2) Dẫn đầu miền Bắc về năng lực bốc xếp than, clinker, dăm gỗ và hàng rời; (3) Doanh thu 2024 vượt 662 tỷ, LNTT đạt kỷ lục ~150 tỷ VNĐ; (4) ROE duy trì trên 10-14.8% ổn định suốt 5 năm; (5) Cổ tức tiền mặt 10% đều đặn, tài chính sạch nợ xấu.
+- **Rủi ro cần theo dõi:** Biến động xuất nhập khẩu than, clinker và hàng rời phụ thuộc chu kỳ kinh tế vĩ mô; sự cạnh tranh chia sẻ sản lượng từ các bến cảng container nước sâu Lạch Huyện (Hải Phòng) đối với hàng container.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Hạ Tầng Cảng Biển Đầu Ngành & Dòng Tiền Kim Cương (Deep-Sea Port Infrastructure & Steady Cashflow Diamond Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-15
+
+---
+
+### 351. CTW - Công ty Cổ phần Cấp thoát nước Cần Thơ
+- **Mã cổ phiếu:** `CTW` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tiện ích Công cộng & Hạ tầng / Khai thác, Xử lý và Phân phối Nước sạch (Cần Thơ)
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy nước Cần Thơ (thành lập từ năm 1934 thời Pháp thuộc), cổ phần hóa năm 2015 và đăng ký giao dịch trên UPCoM từ năm 2017. Doanh nghiệp là đơn vị cấp nước chủ lực lớn nhất toàn vùng Tây Nam Bộ, nắm giữ mạng lưới sản xuất và cung cấp nước sạch sinh hoạt, công nghiệp thiết yếu phục vụ toàn bộ các quận, huyện nội ngoại thành Thành phố Cần Thơ (đô thị loại 1 trực thuộc Trung ương, trung tâm kinh tế - văn hóa của Đồng bằng sông Cửu Long).
+- **Con hào kinh tế & Pháo đài sinh lời ngoại hạng:**
+  - **Độc quyền tự nhiên 100% mạng lưới cấp nước đô thị trung tâm ĐBSCL:** Cấp nước sạch đô thị là ngành tiện ích có rào cản gia nhập tuyệt đối (con hào kinh tế độc quyền tự nhiên). Doanh nghiệp sở hữu toàn bộ hệ thống các nhà máy nước mặt công suất lớn (Nhà máy nước Cần Thơ 1, Cần Thơ 2, Trà Nóc, Cái Răng, Ô Môn, Thốt Nốt...) cùng mạng lưới đường ống truyền tải và phân phối cấp 1, cấp 2 phủ khắp địa bàn thành phố. Không có bất kỳ đối thủ nào có thể xây dựng trùng lắp hệ thống đường ống để cạnh tranh.
+  - **Dòng tiền dồi dào, sạch nợ vay xấu & Cơ cấu tài chính vững chắc:** Doanh nghiệp thu tiền nước định kỳ hàng tháng từ hàng trăm nghìn hộ dân, cơ quan hành chính và các khu công nghiệp (KCN Trà Nóc, KCN Thốt Nốt...), rủi ro nợ xấu gần như bằng 0. Dòng tiền thuần từ hoạt động kinh doanh (CFO) luôn dương mạnh và ổn định, tiền gửi ngân hàng dồi dào. Tỷ lệ đòn bẩy tài chính duy trì ở mức an toàn cao.
+  - **Doanh thu và lợi nhuận tăng trưởng bứt phá kỷ lục:**
+    - Giai đoạn 2020 – 2023, doanh thu thuần duy trì quanh mức **450 – 550 tỷ VNĐ/năm**, lợi nhuận sau thuế duy trì ổn định đều đặn ở mức **40 – 51 tỷ VNĐ/năm**.
+    - Đến năm 2024, sau khi địa phương phê duyệt phương án điều chỉnh giá nước sinh hoạt mới và hoàn thành mở rộng mạng lưới cấp nước vùng ven, doanh thu và lợi nhuận của CTW đã bứt phá mạnh mẽ: Lợi nhuận sau thuế riêng kiểm toán đạt trên **63 tỷ VNĐ** và LNST hợp nhất toàn công ty vượt mức kỷ lục **103 tỷ VNĐ** (tăng trưởng hơn 100% YoY).
+  - **Hiệu quả sử dụng vốn (ROE) bứt phá vượt ngưỡng 10%:**
+    - Vốn điều lệ là **280.0 tỷ VNĐ** (28 triệu cổ phiếu, cổ đông Nhà nước UBND TP. Cần Thơ nắm giữ chi phối ~51%). Vốn chủ sở hữu đạt trên **637 tỷ VNĐ** (giá trị sổ sách BVPS đạt ~22.762 VNĐ/cổ phiếu).
+    - Chuỗi ROE 5 năm gần nhất: Giai đoạn 2020 – 2023 duy trì ổn định trong khoảng **7.0% – 8.2%** (đặc thù ngành cấp nước chịu kiểm soát giá đầu ra). Bước sang năm 2024, nhờ hiệu ứng tăng giá nước và tối ưu hóa chi phí vận hành, ROE đã bứt phá ngoạn mục lên mức **15.55%** (vượt xa ngưỡng sàn 10% của phễu lọc), EPS đạt từ **2.250 – 2.494 VNĐ/cổ phiếu**.
+  - **Chính sách cổ tức tiền mặt bền vững & Tăng đột biến:** CTW duy trì truyền thống trả cổ tức bằng tiền mặt đều đặn hàng năm (năm 2021: 6.3%; năm 2022: 7.61%; năm 2023: 6.6%). Đặc biệt cho niên độ tài chính 2024, doanh nghiệp đã chia cổ tức bằng tiền mặt kỷ lục lên tới **14%** (1.400 VNĐ/cổ phiếu), mang lại dòng tiền thực tế rất hấp dẫn cho cổ đông giá trị.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~8.5x – 9.5x** (Định giá rất rẻ đối với một doanh nghiệp độc quyền tự nhiên tăng trưởng lợi nhuận hai con số)
+  - **P/B:** **~0.90x – 1.05x** (Giao dịch sát hoặc thấp hơn giá trị sổ sách, BVPS ~22.762 VNĐ/cp, thị giá ~20.000 – 24.000 VNĐ/cp)
+  - **Vốn chủ sở hữu:** **~637 tỷ VNĐ**
+  - **Vốn điều lệ:** **280.0 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **40 – 103 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Tiện ích công cộng thiết yếu (cung cấp nước sạch đô thị), nằm trong Vòng tròn Năng lực, không thuộc nhóm rủi ro loại trừ.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: LNST duy trì dương bền vững suốt nhiều năm liên tiếp (năm 2022: ~40 tỷ; năm 2023: ~42 tỷ; năm 2024: 63 – 103 tỷ VNĐ), không có năm nào thua lỗ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Sở hữu vị thế độc quyền tự nhiên toàn thành phố Cần Thơ, sản phẩm thiết yếu sinh tồn, dòng tiền thu tiền tươi định kỳ, biên lãi gộp ổn định ~30-35%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn: ROE năm 2024 đạt 15.55% >> 10% (đáp ứng tiêu chí có năm đạt ROE >= 10% trong chu kỳ 5 năm), định giá P/E ~8.5x – 9.5x, P/B ~0.9x – 1.05x, cổ tức tiền mặt kỷ lục 14%.
+- **Điểm mạnh đặc biệt:** (1) Con hào kinh tế độc quyền tự nhiên cấp nước sạch cho toàn bộ đô thị Cần Thơ; (2) Cơ cấu tài chính an toàn, dòng tiền CFO thặng dư lớn; (3) LNST 2024 lập kỷ lục lịch sử vượt 103 tỷ VNĐ; (4) ROE đạt 15.55% và cổ tức tiền mặt nhảy vọt lên 14%; (5) Định giá hấp dẫn P/E dưới 10x và P/B quanh 1.0x.
+- **Rủi ro cần theo dõi:** Rủi ro biến đổi khí hậu, xâm nhập mặn vào mùa khô trên sông Hậu ảnh hưởng tới độ mặn nguồn nước thô đầu vào; chính sách kiểm soát khung giá nước sinh hoạt của UBND địa phương.
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Tiện Ích Độc Quyền Tự Nhiên & Dòng Tiền Cổ Tức Bền Vững (Natural Monopoly Water Utility & High Dividend Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-19
+
+---
+
+### 352. DBM - Công ty Cổ phần Dược - Vật tư Y tế Đăk Lăk (Bamepharm)
+- **Mã cổ phiếu:** `DBM` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Y tế & Dược phẩm / Sản xuất, Phân phối Dược phẩm & Thiết bị Y tế (Bamepharm - Đắk Lắk & Tây Nguyên)
+- **Hoạt động kinh doanh chính:** Tiền thân là Quốc doanh Dược phẩm Đắk Lắk (thành lập năm 1976), cổ phần hóa năm 2004 và niêm yết trên UPCoM từ năm 2018. DBM là doanh nghiệp dược phẩm đầu ngành tại khu vực Tây Nguyên, hoạt động chuyên sâu trong sản xuất thuốc tân dược, đông dược, thực phẩm dinh dưỡng và phân phối dược phẩm, vật tư y tế tiêu hao, sinh phẩm y tế cho hệ thống bệnh viện, trung tâm y tế và mạng lưới nhà thuốc tư nhân tại Đắk Lắk và các tỉnh lân cận. Hiện tại, Công ty Cổ phần Traphaco (Mã CK: TRA) là công ty mẹ nắm giữ cổ phần chi phối 58.21% vốn.
+- **Con hào kinh tế & Pháo đài sinh lời ngoại hạng:**
+  - **Mạng lưới phân phối độc quyền và sâu rộng tại thị trường Tây Nguyên:** DBM sở hữu lợi thế địa bàn vượt trội với hệ thống kho vận đạt chuẩn GSP, GDP và mạng lưới phân phối bao phủ 100% các huyện, thị xã trên địa bàn tỉnh Đắk Lắk và khu vực Tây Nguyên. Được sự hậu thuẫn toàn diện từ công ty mẹ Traphaco về công nghệ sản xuất, tiêu chuẩn GMP và danh mục sản phẩm đông dược đầu ngành, DBM duy trì thị phần phân phối dược phẩm số 1 tại địa phương.
+  - **Cơ cấu tài chính tinh gọn, lành mạnh & Không áp lực nợ vay:** Vốn điều lệ của DBM chỉ 19.0 tỷ VNĐ (1.9 triệu cổ phiếu), nhưng vốn chủ sở hữu đạt 44.0 – 48.0 tỷ VNĐ (giá trị sổ sách BVPS đạt ~33.000 – 35.800 VNĐ/cổ phiếu, cao gấp gần 2 lần mệnh giá). Doanh nghiệp quản trị dòng tiền cực kỳ an toàn, tỷ lệ nợ vay ngân hàng rất thấp, dòng tiền thuần từ hoạt động kinh doanh (CFO) dương đều đặn qua các năm.
+  - **Hiệu quả sử dụng vốn ROE cao bền vững 5 năm liên tục (12.5% – 17.8% >> 10%):**
+    - Doanh thu thuần duy trì đều đặn trên 200 – 220 tỷ VNĐ/năm.
+    - Lợi nhuận sau thuế duy trì ổn định: 6.0 – 8.0 tỷ VNĐ/năm (năm 2021: 7.5 – 8.0 tỷ; năm 2022: 6.58 tỷ; năm 2023: 6.0 tỷ; năm 2024: ~6.0 tỷ VNĐ).
+    - Chuỗi ROE 5 năm liên tục: Năm 2020: ~15.0%, Năm 2021: **17.8%**, Năm 2022: **14.3%**, Năm 2023: **12.8%**, Năm 2024: **12.5%**. Cả 5 năm liên tục ROE đều vượt xa ngưỡng tối thiểu 10% của phễu lọc (ROE bình quân 5 năm đạt **~14.5%**), EPS hàng năm đạt rất cao từ **3.150 – 4.200 VNĐ/cổ phiếu**.
+  - **Chính sách cổ tức tiền mặt siêu đậm đà:** DBM là một trong những "viên kim cương cổ tức" trên sàn UPCoM. Doanh nghiệp chi trả cổ tức tiền mặt đều đặn hàng năm với tỷ lệ rất cao từ **20% đến 35% bằng tiền mặt** (2.000 – 3.500 VNĐ/cổ phiếu, đợt cổ tức mới nhất niên độ 2024/2025 lên tới **35% tiền mặt**), mang lại tỷ suất cổ tức tiền mặt (Dividend Yield) lên tới **12% – 15%/năm** so với thị giá.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~7.5x – 10.0x** (Mức định giá rất hấp dẫn đối với doanh nghiệp dược phẩm kinh doanh ổn định)
+  - **P/B:** **~0.67x – 0.75x** (Chiết khấu sâu so với giá trị sổ sách: thị giá ~24.000 VNĐ/cp so với BVPS ~35.800 VNĐ/cp)
+  - **Vốn chủ sở hữu:** **~46 – 48 tỷ VNĐ**
+  - **Vốn điều lệ:** **19.0 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **6.0 – 8.0 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Sản xuất và phân phối Dược phẩm - Y tế thiết yếu, nằm trong Vòng tròn Năng lực.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: LNST dương đều đặn liên tục 6.0 – 8.0 tỷ VNĐ/năm, không có năm nào thua lỗ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Doanh nghiệp dược đầu ngành Tây Nguyên thuộc hệ sinh thái Traphaco, định giá P/B ~0.67x chiết khấu sâu hơn 30% so với giá trị sổ sách BVPS.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn xuất sắc: Cả 5 năm liên tiếp ROE đều đạt 12.5% – 17.8% >> 10%, EPS ~3.150 – 4.200 VNĐ/cp, cổ tức tiền mặt lên tới 35%.
+- **Điểm mạnh đặc biệt:** (1) Công ty con nòng cốt của Traphaco (58.21%), hưởng lợi từ công nghệ và chuỗi cung ứng mẹ; (2) Vị thế dẫn đầu phân phối dược phẩm tại Đắk Lắk và Tây Nguyên; (3) ROE 5 năm ổn định 12.5% - 17.8%; (4) Định giá P/B ~0.67x rẻ hơn nhiều so với giá trị sổ sách; (5) Cổ tức tiền mặt 20% - 35% cực kỳ hấp dẫn.
+- **Rủi ro cần theo dõi:** Quy mô vốn nhỏ (19 tỷ VĐL), thanh khoản giao dịch thấp trên UPCoM do cổ đông cô đặc (Traphaco và ban lãnh đạo nắm giữ đa số); rủi ro đấu thầu thuốc vào kênh bệnh viện công (ETC).
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Dược Phẩm Cổ Tức Cao & Định Giá Rẻ Dưới Giá Trị Sổ Sách (Pharma High-Dividend & Deep Value Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-19
+
+---
+
+### 353. DCG - Công ty cổ phần Tổng công ty May Đáp Cầu (DAGARCO)
+- **Mã cổ phiếu:** `DCG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Dệt may / Sản xuất & Xuất khẩu May mặc FOB/ODM (Áo sơ mi, Jacket, Quần âu cao cấp)
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp May X-2 thành lập từ năm 1967 tại Bắc Ninh, cổ phần hóa năm 2005 và giao dịch trên sàn UPCoM. Doanh nghiệp là một trong những cánh chim đầu đàn của ngành dệt may miền Bắc, thành viên nòng cốt của Tập đoàn Dệt May Việt Nam (Vinatex). DCG sở hữu hệ thống nhà máy may tự động hóa công nghệ cao (máy cắt tự động, máy trải vải, hệ thống nhồi lông vũ và trần bông tự động...) chuyên sản xuất và xuất khẩu các dòng sản phẩm may mặc thời trang cao cấp (jacket lông vũ, áo khoác trần bông, áo sơ mi nam nữ, quần âu cao cấp) sang các thị trường khó tính bậc nhất thế giới: Hoa Kỳ, Nhật Bản, Liên minh Châu Âu (EU), Hàn Quốc và Đài Loan.
+- **Con hào kinh tế & Pháo đài sinh lời ngoại hạng:**
+  - **Năng lực chuyển dịch chuỗi giá trị sang phương thức FOB/ODM giá trị cao:** Không dừng lại ở việc gia công cắt may đơn thuần (CMT), May Đáp Cầu đã chủ động chuyển dịch mạnh mẽ mô hình sản xuất sang hình thức FOB (chủ động tìm kiếm, thu mua nguyên phụ liệu theo tiêu chuẩn quốc tế) và ODM (tự thiết kế mẫu mã và sản xuất trọn gói). Nhờ đó, DCG gia tăng đáng kể giá trị gia tăng trên mỗi sản phẩm, giữ chân các khách hàng thương hiệu thời trang quốc tế lớn lâu năm và bảo vệ biên lợi nhuận trước các biến động chi phí nhân công.
+  - **Cơ cấu tài chính an toàn, tích lũy thặng dư vốn lớn:** Vốn điều lệ của DCG là 68.2 tỷ VNĐ (6.82 triệu cổ phiếu), nhưng vốn chủ sở hữu tích lũy đạt trên **108.9 – 120.0 tỷ VNĐ** (nhờ giữ lại nguồn lợi nhuận chưa phân phối và quỹ đầu tư phát triển qua nhiều thập kỷ, giá trị sổ sách BVPS đạt từ **16.000 – 29.000 VNĐ/cổ phiếu**). Doanh nghiệp kiểm soát đòn bẩy tài chính ở mức an toàn cao, dòng tiền hoạt động kinh doanh (CFO) dương đều đặn và không gặp rủi ro mất thanh khoản.
+  - **Doanh thu và lợi nhuận duy trì ổn định qua nhiều chu kỳ ngành:**
+    - Doanh thu thuần hàng năm duy trì ở quy mô lớn: **700 – 900 tỷ VNĐ/năm** (năm 2023 đạt trên 730 tỷ VNĐ; năm 2024 tiếp tục duy trì doanh thu lớn nhờ sự phục hồi của các đơn hàng xuất khẩu sang Mỹ và Nhật Bản).
+    - Lợi nhuận sau thuế duy trì ổn định ở mức rất tích cực: Năm 2021 đạt **20.23 tỷ VNĐ**, năm 2022 đạt **~16.5 tỷ VNĐ**, năm 2023 đạt **~15.0 tỷ VNĐ**, và năm 2024 đạt **18.59 tỷ VNĐ** (theo BCTC kiểm toán công bố).
+  - **Hiệu quả sử dụng vốn (ROE) duy trì xuất sắc 5 năm liên tục:**
+    - Chuỗi ROE 5 năm gần nhất: **2020: ~15.5% | 2021: 19.5% | 2022: 15.8% | 2023: 14.2% | 2024: 17.1%**.
+    - Cả 5 năm liên tục ROE đều vượt xa ngưỡng tối thiểu 10% của phễu lọc (ROE bình quân 5 năm đạt **~16.4%**), EPS hàng năm duy trì rất cao từ **2.500 – 3.200 VNĐ/cổ phiếu**.
+  - **Chính sách cổ tức tiền mặt đều đặn, hấp dẫn:** May Đáp Cầu có truyền thống chia sẻ thành quả kinh doanh với cổ đông bằng cổ tức tiền mặt đều đặn hàng năm với tỷ lệ từ **15% đến 25% bằng tiền mặt** (1.500 – 2.500 VNĐ/cổ phiếu, tỷ suất cổ tức tiền mặt đạt khoảng **7.5% – 12%/năm** so với thị giá).
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~7.0x – 8.2x** (Mức định giá rất hấp dẫn đối với doanh nghiệp may mặc có hiệu quả sinh lời ROE > 16%)
+  - **P/B:** **~1.25x – 1.45x** (Thị giá ~20.000 VNĐ/cp so với BVPS ~16.000 VNĐ/cp)
+  - **Vốn chủ sở hữu:** **~108.9 – 120 tỷ VNĐ**
+  - **Vốn điều lệ:** **68.2 tỷ VNĐ**
+  - **Lợi nhuận sau thuế:** **18.0 – 20.5 tỷ VNĐ/năm**
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** Đạt chuẩn: Sản xuất và xuất khẩu hàng dệt may tiêu dùng chất lượng cao, nằm trong Vòng tròn Năng lực.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** Đạt chuẩn: LNST duy trì dương liên tục 15 – 20 tỷ VNĐ/năm, không có năm nào thua lỗ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** Đạt chuẩn: Chuyển dịch mạnh mẽ sang sản xuất FOB/ODM cho các đối tác quốc tế lớn (Mỹ, Nhật Bản, EU), năng lực tự động hóa cao, biên lợi nhuận ổn định.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** Đạt chuẩn xuất sắc: Cả 5 năm liên tục ROE duy trì 14.2% – 19.5% >> 10% (bình quân ~16.4%), EPS đạt 2.500 – 3.200 đ/cp, cổ tức tiền mặt 15% – 25% đều đặn.
+- **Điểm mạnh đặc biệt:** (1) Bề dày lịch sử gần 60 năm trong ngành may mặc Bắc Ninh, thành viên uy tín của Tập đoàn Vinatex; (2) Dây chuyền sản xuất tự động hóa hiện đại, chuyên sâu áo khoác/jacket lông vũ xuất khẩu; (3) ROE 5 năm ổn định trên 14-19.5%; (4) Dòng tiền kinh doanh lành mạnh, nguồn vốn chủ sở hữu tích lũy gấp gần 2 lần vốn điều lệ; (5) Cổ tức tiền mặt 15% - 25% đều đặn hàng năm.
+- **Rủi ro cần theo dõi:** Rủi ro phụ thuộc vào sức mua tại các thị trường xuất khẩu trọng điểm (Mỹ, Nhật, EU) khi nền kinh tế toàn cầu biến động; áp lực cạnh tranh chi phí nhân công từ các quốc gia dệt may mới nổi (Bangladesh, Ấn Độ, Campuchia).
+- **Hành động tiếp theo:** Đưa vào Danh mục Doanh Nghiệp Dệt May Xuất Khẩu FOB/ODM Đầu Ngành & Cổ Tức Ổn Định (High Quality Garment Exporter & High Dividend Champion).
+- **Ngày tốt nghiệp phễu:** 2026-10-19
+
+---
+
+### 354. DCV - Công ty cổ phần Quản lý quỹ đầu tư Dragon Capital Việt Nam (DCVFM)
+- **Mã cổ phiếu:** `DCV` (Sàn UPCOM — chào sàn 19/01/2026, giá tham chiếu 68.000 VNĐ/cp)
+- **Ngành nghề niêm yết:** Dịch vụ Tài chính / Quản lý Quỹ Đầu tư Chứng khoán, Quản lý Danh mục & Tư vấn Đầu tư Chứng khoán *(file nguồn xếp "Chưa phân loại")*
+- **Hoạt động kinh doanh chính:** Công ty quản lý quỹ nội địa thuộc hệ sinh thái Dragon Capital (Chủ tịch HĐQT: Dominic Scriven). DCV quản lý các quỹ đầu tư chứng khoán (quỹ mở, quỹ ETF nội địa), danh mục ủy thác và quỹ hưu trí bổ sung tự nguyện, đồng thời cung cấp dịch vụ tư vấn đầu tư chứng khoán. Cơ cấu doanh thu 2025: **tư vấn đầu tư chứng khoán ~65–67%**, **quản lý quỹ & công ty đầu tư ~1/3**. Tổng tài sản tư vấn và quản lý đạt khoảng **128.000 tỷ VNĐ (~4,9 tỷ USD, tháng 05/2025)**, đội ngũ hơn 200 nhân sự.
+- **Con hào kinh tế & Luận điểm cốt lõi:**
+  - **Mô hình "asset-light" thu phí thuần túy:** Không có giá vốn hàng bán, lợi nhuận gộp bằng 100% doanh thu; doanh thu thuần ổn định quanh **1.018 – 1.108 tỷ VNĐ/năm** suốt 2022 – 2025. Không có nợ vay, tổng tài sản ~1.028 tỷ VNĐ, vốn chủ sở hữu ~777 tỷ VNĐ (31/12/2025).
+  - **Thương hiệu & quy mô tài sản quản lý:** Dragon Capital là một trong những nhà quản lý quỹ lâu đời và lớn nhất thị trường Việt Nam; quy mô AUM lớn tạo lợi thế quy mô về chi phí nghiên cứu và uy tín gọi vốn.
+  - **Chính sách cổ tức tiền mặt cao:** Đợt 1/2024 chi **42% tiền mặt (4.200 VNĐ/cp, hơn 131 tỷ VNĐ)**, thanh toán ngày 21/08/2025.
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 877,8 | 250,1 | 724,8 | **48,3%** |
+  | 2022 | 1.107,8 | 441,8 | 808,5 | **57,6%** |
+  | 2023 | 1.017,2 | 294,0 | 822,1 | **36,1%** |
+  | 2024 | 1.060,8 | 196,8 *(báo chí dẫn 235,4)* | 806,0 | **24,2%** |
+  | 2025 | 1.075,1 | 117,0 | 777,5 | **14,8%** |
+
+  - Năm 2025: chi phí quản lý doanh nghiệp **~896 tỷ VNĐ (+4%, ~83% doanh thu)**, doanh thu tài chính giảm ~77%, lỗ thanh lý tài sản cố định ~52 tỷ VNĐ ➔ LNST chỉ đạt **117 tỷ VNĐ (-50% YoY)**, thấp nhất từ 2021 và chỉ hoàn thành ~48% kế hoạch lợi nhuận.
+  - 6 tháng đầu 2026: LNST lũy kế ~**172 tỷ VNĐ (+210% YoY)**, phục hồi mạnh.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~28,6x** (EPS 4 quý gần nhất ~4.372 VNĐ/cp; nếu tính theo LNST năm 2025 là ~33x)
+  - **P/B:** **~3,86x** (BVPS ~32.408 VNĐ/cp; theo VCSH 31/12/2025 là ~5,0x)
+  - **Thị giá:** ~125.000 VNĐ/cp (23/10/2026), vốn hóa ~3.900 tỷ VNĐ
+  - **Vốn điều lệ:** **312,0 tỷ VNĐ** (31,2 triệu cổ phiếu)
+  - **Cơ cấu sở hữu:** Dragon Capital Markets (Europe) Limited **48%** + Dragon Capital Management (HK) Limited **41,33%** ➔ tập đoàn nắm ~89,3%, free-float chỉ ~10,7%
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Dịch vụ tài chính quản lý tài sản, không thuộc nhóm BĐS dân dụng/xây lắp/VLXD.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương cả 3 năm 2023 – 2025 (294,0 / 196,8 / 117,0 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Dịch vụ tri thức thu phí ở đỉnh chuỗi giá trị tài chính, biên lợi nhuận gộp 100%, không phải gia công/đại trà (không cần xét P/B).
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn: Cả 5 năm ROE ≥ 10% (48,3% / 57,6% / 36,1% / 24,2% / 14,8%).
+- **Điểm mạnh đặc biệt:** (1) Mô hình thu phí không cần vốn, không nợ vay; (2) Thương hiệu Dragon Capital và quy mô AUM ~4,9 tỷ USD; (3) ROE 5 năm luôn trên 14%; (4) Cổ tức tiền mặt cao (42% năm 2024).
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **ROE suy giảm 4 năm liên tục (57,6% ➔ 14,8%)** do chi phí quản lý tăng nhanh hơn doanh thu; cần theo dõi đà phục hồi 2026 có bền vững hay chỉ nhờ thị trường.
+  - **Phụ thuộc bên liên quan:** Khoảng 2/3 doanh thu là phí tư vấn, phần lớn cho các quỹ/thực thể trong tập đoàn Dragon Capital — mức phí và chi phí phân bổ nội bộ quyết định lợi nhuận của cổ đông thiểu số (rủi ro chuyển giá).
+  - **Free-float ~10,7%, thanh khoản mỏng:** Giá tăng ~2,4 lần chỉ trong 5 phiên sau niêm yết; định giá P/E ~29x, P/B ~3,9x không còn biên an toàn.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Quản lý Tài sản "asset-light" — chờ định giá hợp lý hơn và xác nhận ROE phục hồi.
+- **Ngày tốt nghiệp phễu:** 2026-10-25
+
+---
+
+### 355. DDH - CTCP Đảm bảo giao thông đường thủy Hải Phòng
+- **Mã cổ phiếu:** `DDH` (Sàn UPCOM — diện cảnh báo)
+- **Ngành nghề niêm yết:** Hạ tầng Giao thông / Quản lý, Bảo trì Đường thủy Nội địa, Báo hiệu & Nạo vét Luồng lạch *(file nguồn xếp nhầm "Nông nghiệp")*
+- **Hoạt động kinh doanh chính:** Tiền thân là Đội Công trình III thành lập ngày 04/09/1972, cổ phần hóa năm 2016 và giao dịch UPCoM từ 30/06/2016. Công ty quản lý, bảo trì hệ thống đường thủy nội địa khu vực Hải Phòng (dịch vụ công ích theo đặt hàng), điều tiết khống chế đảm bảo an toàn giao thông cho thi công công trình, sản xuất – lắp đặt hệ thống báo hiệu, nạo vét luồng lạch và tham gia vận hành bến phà Đình, phà Gót, cầu phao sông Hóa.
+- **Luận điểm cốt lõi:**
+  - **Bảng cân đối "Net-Net" hiếm có:** Không có nợ vay; tiền mặt **28,3 tỷ VNĐ** (31/12/2025) — gấp **~2,9 lần vốn hóa thị trường (~9,7 tỷ VNĐ)**. Vốn chủ sở hữu 38,6 tỷ VNĐ trên vốn điều lệ 36 tỷ VNĐ.
+  - **Đầu ra ổn định:** Doanh thu tăng đều 2021 – 2025 (42,2 ➔ 84,7 tỷ VNĐ) nhờ hợp đồng đặt hàng quản lý bảo trì luồng và điều tiết giao thông thi công.
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 42,2 | 17,8% | 0,53 | 43,9 | 1,2% |
+  | 2022 | 56,1 | 18,3% | 5,55 | 36,6 | **13,8%** |
+  | 2023 | 61,0 | 21,8% | 5,56 | 41,9 | **14,2%** |
+  | 2024 | 69,6 | 12,1% | 1,69 | 38,3 | 4,2% |
+  | 2025 | 84,7 | 10,5% | 1,95 | 38,6 | 5,1% |
+
+  - Cổ tức tiền mặt thực chi: ~2,15 tỷ VNĐ năm 2024 (~6% mệnh giá) và ~1,06 tỷ VNĐ năm 2025 (~3%).
+  - Vốn CSH năm 2022 giảm ~7,3 tỷ VNĐ dù có lãi 5,55 tỷ VNĐ (lợi nhuận chưa phân phối giảm từ 7,65 xuống 0,31 tỷ VNĐ) — cần đối chiếu thuyết minh phân phối lợi nhuận.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~5,0x** theo LNST 2025 (EPS ~542 VNĐ/cp); Simplize ghi P/E 4 quý gần nhất ~8,8x
+  - **P/B:** **~0,25x** (Thị giá ~2.700 VNĐ/cp ngày 23/10/2026 so với BVPS ~10.720 VNĐ/cp)
+  - **Vốn chủ sở hữu:** **38,6 tỷ VNĐ** | **Vốn điều lệ:** **36 tỷ VNĐ** (3,6 triệu cổ phiếu)
+  - **Lợi nhuận sau thuế:** **1,7 – 5,6 tỷ VNĐ/năm** (2022 – 2025)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Dịch vụ hạ tầng giao thông thủy công ích (quản lý, bảo trì, báo hiệu), không phải BĐS dân dụng hay thầu xây lắp đại trà.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương cả 3 năm 2023 – 2025 (5,56 / 1,69 / 1,95 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ⚠️ Đạt theo ngoại lệ định giá: Dịch vụ đặt hàng không có quyền định giá, biên gộp giảm còn 10,5% – 12%, nhưng **P/B ~0,25 < 0,5** (tiền mặt ròng vượt vốn hóa).
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn: ROE năm 2022 (13,8%) và 2023 (14,2%) ≥ 10%, không rơi vào trường hợp cả 5 năm < 10%.
+- **Điểm mạnh đặc biệt:** (1) Không nợ vay, tiền mặt gấp ~2,9 lần vốn hóa; (2) Doanh thu tăng gấp đôi trong 4 năm; (3) Lãi liên tục, có trả cổ tức tiền mặt; (4) Định giá P/B ~0,25x, P/E ~5x.
+- **Rủi ro cần theo dõi:**
+  - > [!CAUTION]
+    > **Chất lượng lợi nhuận đi xuống:** Biên gộp giảm từ 21,8% (2023) xuống 10,5% (2025) và ROE 2024 – 2025 chỉ 4 – 5% — chỉ vượt Bước 4 nhờ 2 năm 2022 – 2023.
+  - Cổ phiếu thuộc diện cảnh báo, quy mô siêu nhỏ (vốn hóa ~10 tỷ VNĐ), thanh khoản gần như bằng 0; phụ thuộc ngân sách đặt hàng dịch vụ công ích.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi "Deep Value / Net-Net quy mô siêu nhỏ" — không phải doanh nghiệp chất lượng cao; chỉ phù hợp quan sát chiết khấu tài sản.
+- **Ngày tốt nghiệp phễu:** 2026-10-25

@@ -1,6 +1,6 @@
 # 📋 Bảng Tóm Tắt Nhanh: Doanh Nghiệp Rớt Bước 3 (Chuỗi Giá Trị Thấp & P/B $\ge$ 0.5)
 
-> **Mục đích:** Bảng tổng hợp rút gọn 19 doanh nghiệp bị loại do sản phẩm đại trà, sơ chế thô, gia công ở đáy chuỗi giá trị và định giá thị trường không đủ rẻ ($P/B \ge 0.5$).
+> **Mục đích:** Bảng tổng hợp rút gọn 20 doanh nghiệp bị loại do sản phẩm đại trà, sơ chế thô, gia công ở đáy chuỗi giá trị và định giá thị trường không đủ rẻ ($P/B \ge 0.5$).
 > 
 > 📁 **Hồ sơ phân tích chi tiết đầy đủ:** [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) | ⚡ **Quay lại:** [Bảng Tổng Hợp Siêu Tốc 1,642 Mã](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md)
 
@@ -27,4 +27,5 @@
 | 17 | `HMC` | Công ty Cổ phần Kim khí Thành phố Hồ Chí Minh - Vnsteel | Thương mại phân phối thép | **0.70** | ~3.0% (Biên ròng <1%) | Phân phối thép thương phẩm đại trà biên cực mỏng, không có hào kinh tế, P/B = 0.70 >= 0.5 | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md#hmc) |
 | 18 | `VOS` | Công ty Cổ phần Vận tải biển Việt Nam | Vận tải biển hàng rời & Dầu sản phẩm | **0.95** | Biến động mạnh (Biên mỏng) | Vận tải hàng rời đại trà đáy chuỗi logistics, giá cước phụ thuộc chỉ số BDI, đội tàu già cỗi, P/B = 0.95 >= 0.5 | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md#vos) |
 | 19 | `MCF` | CTCP Xây lắp Cơ khí và Lương thực Thực phẩm | Chế biến xay xát xuất khẩu gạo & Bao bì | **0.66** | ~5.2% (Biên ròng 1.5%) | Xuất khẩu gạo thô đại trà đáy chuỗi giá trị nông sản, biên ròng mỏng 1.5%, P/B = 0.66 >= 0.5 | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md#mcf) |
+| 20 | `DDB` | CTCP Thương mại và Xây Dựng Đông Dương | Thương mại gỗ, sàn gỗ nội thất & cát xây dựng | **0.66** | ~5.2% (Biên ròng 0.76%) | Thương mại gỗ & cát đại trà biên gộp thu hẹp 9.5% ➔ 5.2%, LNST giảm 3 năm liền, P/B = 0.66 >= 0.5 | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md#ddb) |
 

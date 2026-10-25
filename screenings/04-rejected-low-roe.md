@@ -3225,389 +3225,837 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 ---
 
 ### 151. APC - Công ty Cổ phần Chiếu xạ An Phú
-- **Mã cổ phiếu:** `APC` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nông nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (7.1%, -0.2%, -6.0%, -3.7%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `APC` (Sàn UPCOM - Bị hủy niêm yết bắt buộc trên HOSE năm 2024)
+- **Ngành nghề niêm yết:** Nông nghiệp & Dịch vụ Kỹ thuật / Chiếu xạ Khử trùng Thực phẩm, Thủy hải sản & Dụng cụ Y tế
+- **Hoạt động kinh doanh chính:** Từng là doanh nghiệp độc quyền chiếu xạ thực phẩm hàng đầu Việt Nam sở hữu 2 nhà máy chiếu xạ nguồn phóng xạ Cobalt-60 tại Bình Dương và TP.HCM, phục vụ khử trùng thủy hải sản, thanh long, xoài xuất khẩu đi Mỹ, Úc, Nhật Bản và thiết bị y tế.
+- **Lý do loại trừ tại Bước 4 (Sai lầm đầu tư nhà máy Bắc Ninh bằng đòn bẩy nợ cao, thua lỗ triền miên 3 năm, hủy niêm yết HOSE, ROE âm sâu):**
+  - **Khủng hoảng tài chính do đầu tư dàn trải nhà máy chiếu xạ Bắc Ninh:** Công ty vay nợ ngân hàng quy mô lớn để đầu tư dự án nhà máy chiếu xạ tại Bắc Ninh nhưng hiệu quả khai thác kém, công suất huy động thấp khiến gánh nặng chi phí lãi vay và chi phí khấu hao tài sản cố định đè bẹp hoàn toàn lợi nhuận gộp.
+  - **Chuỗi thua lỗ ròng 3 năm liên tiếp dẫn tới hủy niêm yết:**
+    - Năm 2021: Lỗ ròng **-1,6 tỷ VNĐ**
+    - Năm 2022: Lỗ ròng **-9,0 tỷ VNĐ**
+    - Năm 2023: Lỗ ròng kỷ lục gần **-36,0 tỷ VNĐ**
+    - Năm 2024: Tiếp tục chìm trong thua lỗ và tái cơ cấu, bị hủy niêm yết bắt buộc trên Sở GDCK TP.HCM (HOSE) chuyển xuống UPCoM.
+    - Năm 2025: Hoạt động hồi phục yếu ớt, lợi nhuận bấp bênh không đáng kể.
+  - **Chuỗi ROE 5 năm âm sâu và nằm dưới 0%:** Suốt 5 năm liên tiếp chỉ số ROE của APC đều ghi nhận số âm (-0.2%, -6.0%, -3.7%, âm nặng năm 2023–2024), hiệu quả sử dụng vốn bị phá hủy hoàn toàn, dừng phân tích tại Bước 4.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 152. APP - Công ty Cổ phần Phát triển Phụ gia và Sản phẩm Dầu mỏ
 - **Mã cổ phiếu:** `APP` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nguyên vật liệu
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (0.0%, 6.1%, -9.9%, -5.6%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Hóa chất & Nguyên vật liệu / Sản xuất Dầu mỡ Bôi trơn, Phụ gia Xăng dầu & Dầu nhờn Công nghiệp
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp Phụ gia Dầu mỏ trực thuộc Tổng công ty Hóa chất Việt Nam (Vinachem) thành lập năm 1996. Doanh nghiệp chuyên sản xuất, pha chế và kinh doanh các sản phẩm dầu mỡ bôi trơn, dầu động cơ, dầu thủy lực, dầu phanh và phụ gia chuyên dụng cho ngành dầu khí, giao thông vận tải và công nghiệp chế tạo.
+- **Lý do loại trừ tại Bước 4 (Thua lỗ nặng nề, cạnh tranh gay gắt từ các tập đoàn đa quốc gia, ROE âm sâu và bình quân 5 năm chỉ ~0% << 10%):**
+  - **Quy mô vốn nhỏ và thị phần bị thu hẹp:** Vốn điều lệ chỉ ~47 tỷ VNĐ, vốn chủ sở hữu bị bào mòn còn dưới 40 tỷ VNĐ. Sản phẩm dầu nhờn truyền thống chịu áp lực cạnh tranh khốc liệt và lép vế trước các thương hiệu dầu nhớt đa quốc gia (Castrol, Total, Shell, Motul) và các công ty trực thuộc PVN/Petrolimex.
+  - **Kinh doanh sa sút, thua lỗ triền miên:**
+    - Năm 2021: LNST ~0 tỷ VNĐ (ROE ~0%)
+    - Năm 2022: LNST vỏn vẹn **0,43 tỷ VNĐ** (ROE ~1.0%)
+    - Năm 2023: Thua lỗ ròng **-4,50 tỷ VNĐ** (ROE = **-9.9%**)
+    - Năm 2024: Tiếp tục lỗ ròng **-5,88 tỷ VNĐ** (ROE = **-14.8%**)
+    - Năm 2025: Hồi phục nhẹ đạt ~3,6 tỷ VNĐ nhưng chủ yếu nhờ cắt giảm chi phí tạm thời.
+  - *Đánh giá chuỗi ROE:* Cả 5 năm gần nhất chỉ số ROE bị âm sâu trong 2 năm 2023–2024, bình quân 5 năm chỉ xấp xỉ ~-4.5% << 10%, không đáp ứng tiêu chuẩn hiệu quả sinh lời trên vốn, dừng phân tích tại Bước 4.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 153. ART - Công ty Cổ phần Chứng khoán Artex
-- **Mã cổ phiếu:** `ART` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Tài chính
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-15.9%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+> ⚠️ **Đã chuyển sang Bước 2:** Doanh nghiệp thua lỗ nặng nề liên tiếp nhiều năm (năm 2025 lỗ hơn -36 tỷ VNĐ, quý 1/2026 lỗ -18 tỷ, lỗ lũy kế ~896 tỷ), bị đình chỉ giao dịch và đình chỉ hoạt động mua chứng khoán do vi phạm an toàn tài chính. Đã được chuyển và lưu trữ đầy đủ tại [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md#9-art---công-ty-cổ-phần-chứng-khoán-artex).
 
 ---
 
 ### 154. ATA - Công ty Cổ phần NTACO
-- **Mã cổ phiếu:** `ATA` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nông nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (1.1%, 0.1%, 0.0%, 0.0%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `ATA` (Sàn UPCOM / Hạn chế giao dịch)
+- **Ngành nghề niêm yết:** Nông nghiệp & Thủy sản / Nuôi trồng, Chế biến & Xuất khẩu Cá tra, Basa Đông lạnh
+- **Hoạt động kinh doanh chính:** Tiền thân là Công ty TNHH Hoàng Sơn thành lập năm 2000 tại An Giang, chuyên chế biến cá tra phi lê đông lạnh xuất khẩu sang Mỹ, EU và các nước châu Á. Từng là doanh nghiệp thủy sản lớn tại khu vực An Giang trước khi khủng hoảng tài chính nổ ra.
+- **Lý do loại trừ tại Bước 4 (Thua lỗ triền miên, Vốn CSH âm nặng, kiểm toán từ chối đưa ý kiến, ROE 5 năm quanh 0% << 10%):**
+  - **Khủng hoảng nợ và thuế chống bán phá giá:** Doanh nghiệp bị Bộ Thương mại Hoa Kỳ (DOC) áp mức thuế chống bán phá giá rất cao khiến thị trường xuất khẩu chính bị tê liệt. Cơ cấu nợ vay ngắn hạn chiếm tỷ trọng áp đảo khiến doanh nghiệp mất khả năng thanh toán.
+  - **Tình trạng "chết lâm sàng" và âm vốn chủ sở hữu:**
+    - Báo cáo tài chính nhiều năm liên tiếp bị tổ chức kiểm toán **từ chối đưa ra ý kiến**.
+    - Vốn chủ sở hữu bị âm nặng (chỉ tiêu vốn chủ sở hữu là số không dương từ năm 2017) do gánh nặng nợ xấu và lỗ lũy kế.
+    - Cổ phiếu thị giá chỉ còn vài trăm đồng/cổ phiếu, bị đưa vào diện hạn chế giao dịch đặc biệt trên UPCoM.
+  - **Chuỗi ROE 5 năm liên tiếp đều quanh 0% << 10%:**
+    - Năm 2021: ROE = **1.10%**
+    - Năm 2022: ROE = **0.10%**
+    - Năm 2023: ROE = **0.00%**
+    - Năm 2024: ROE = **0.00%**
+    - Năm 2025: ROE = **~0.00%**
+    - *Đánh giá chuỗi ROE:* Cả 5 năm liên tục ROE đều nằm ở mức 0% (do hoạt động tê liệt, LNST quanh 0 hoặc âm trên nền vốn CSH âm), vi phạm hoàn toàn tiêu chuẩn hiệu quả sử dụng vốn của phễu lọc.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 155. AVG - CTCP Phân bón Quốc tế Âu Việt
 - **Mã cổ phiếu:** `AVG` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Dịch vụ
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (4.1%, 5.6%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Hóa chất & Nông nghiệp / Sản xuất Phân bón NPK & Điện Mặt trời Áp mái
+- **Hoạt động kinh doanh chính:** Tiền thân là CTCP Dịch vụ Đấu giá Quảng Nam thành lập năm 2017, năm 2021 tăng vốn thần tốc lên 136 tỷ VNĐ và đổi tên thành Phân bón Quốc tế Âu Việt, đăng ký giao dịch trên UPCoM từ tháng 8/2024. Công ty sở hữu nhà máy sản xuất phân bón NPK phối trộn cơ học tại Cụm công nghiệp Quế Cường (Quảng Nam) và kinh doanh hệ thống điện mặt trời áp mái, cho thuê kho bãi.
+- **Lý do loại trừ tại Bước 4 (Phân bón phối trộn đơn giản, biên lợi nhuận mỏng, cả 5 năm ROE đều < 10%):**
+  - **Sản phẩm đại trà không có rào cản công nghệ:** Hoạt động cốt lõi là phối trộn phân bón NPK thông thường, không có công nghệ tháp cao hay hóa lỏng độc quyền, chịu sự cạnh tranh khốc liệt từ các thương hiệu phân bón lớn (Bình Điền, Phú Mỹ, Cà Mau).
+  - **Chuỗi ROE 5 năm liên tiếp đều nằm dưới ngưỡng 10%:**
+    - Năm 2021: ROE = **9.50%**
+    - Năm 2022: ROE = **5.10%**
+    - Năm 2023: ROE = **6.50%**
+    - Năm 2024: ROE = **9.40%**
+    - Năm 2025: ROE = **6.64%**
+    - *Đánh giá chuỗi ROE:* Cả 5 năm tài chính liên tục chỉ số ROE đều nằm dưới ngưỡng 10% (ROE bình quân 5 năm chỉ đạt con số khiêm tốn **~7.42% << 10%**), không đạt tiêu chuẩn về tỷ suất sinh lời trên vốn chủ sở hữu của phễu lọc.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 156. BAL - Công ty cổ phần Bao bì Bia – Rượu – Nước giải khát
 - **Mã cổ phiếu:** `BAL` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Hàng tiêu dùng
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-1.8%, 3.3%, 5.2%, 4.7%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Công nghiệp Bao bì / Chai Thủy tinh, Nút chai & Két nhựa Ngành Đồ uống
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy Thủy tinh Hải Phòng có lịch sử lâu đời từ trước năm 1954, chuyên sản xuất các sản phẩm bao bì thủy tinh (chai bia, chai nước ngọt, lọ dược phẩm), két nhựa và nút chai kim loại cung cấp cho các nhà máy sản xuất bia rượu, nước giải khát khu vực phía Bắc.
+- **Lý do loại trừ tại Bước 4 (Tác động Nghị định 100 nồng độ cồn, ngành bia giảm tiêu thụ, cả 5 năm ROE đều < 5.5% << 10%):**
+  - **Ngành bao bì chai thủy tinh suy thoái kéo dài:** Quy định kiểm soát nồng độ cồn nghiêm ngặt (Nghị định 100) khiến sản lượng tiêu thụ bia sụt giảm mạnh, các hãng bia chuyển dịch sang bao bì lon nhôm khiến nhu cầu bao bì chai thủy tinh và két nhựa của BAL teo tóp nghiêm trọng.
+  - **Chuỗi ROE 5 năm liên tiếp chỉ đạt 3% – 5% << 10% (có năm thua lỗ):**
+    - Năm 2021: ROE = **-1.80%** (Thua lỗ ròng)
+    - Năm 2022: ROE = **3.30%**
+    - Năm 2023: ROE = **5.20%**
+    - Năm 2024: ROE = **4.70%**
+    - Năm 2025: ROE = **~4.00%**
+    - *Đánh giá chuỗi ROE:* Suốt 5 năm liên tiếp chỉ số ROE không năm nào vượt quá 5.2% (ROE bình quân 5 năm chỉ đạt **~3.08% << 10%**), hiệu quả sinh lời trên vốn quá mỏng manh.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 157. BBH - CTCP Bao bì Hoàng Thạch
 - **Mã cổ phiếu:** `BBH` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nguyên vật liệu
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (7.1%, 2.9%, 0.7%, 0.7%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Nguyên vật liệu & Công nghiệp / Sản xuất Vỏ bao Xi măng (Vicem Hoàng Thạch)
+- **Hoạt động kinh doanh chính:** Thành lập năm 2002 trực thuộc Công ty Xi măng Vicem Hoàng Thạch (Tổng công ty Xi măng Việt Nam - Vicem). Doanh nghiệp chuyên sản xuất các loại vỏ bao xi măng (vỏ bao KPK, bao PK, bao dán đáy) phục vụ cho Nhà máy Xi măng Hoàng Thạch và các đơn vị thành viên Vicem.
+- **Lý do loại trừ tại Bước 4 (Phụ thuộc hoàn toàn đơn hàng xi măng, biên ròng siêu mỏng, cả 5 năm ROE đều < 7.1% << 10%):**
+  - **Mô hình gia công phụ thuộc, giá vốn chiếm trên 93% doanh thu:** Hoạt động kinh doanh phụ thuộc chặt chẽ vào sản lượng tiêu thụ xi măng của công ty mẹ Vicem Hoàng Thạch. Khi ngành xi măng dư cung và suy thoái, biên lợi nhuận gộp của BBH bị bóp nghẹt, LNST chỉ đạt vẻn vẹn từ **500 – 750 triệu VNĐ/năm** trên quy mô doanh thu hơn 120 tỷ VNĐ.
+  - **Chuỗi ROE 5 năm liên tiếp đều dưới 7.1% (nhiều năm < 1%):**
+    - Năm 2021: ROE = **7.10%**
+    - Năm 2022: ROE = **2.90%**
+    - Năm 2023: ROE = **0.70%**
+    - Năm 2024: ROE = **0.70%** (LNST 549 triệu đồng)
+    - Năm 2025: ROE = **0.97%** (LNST 726 triệu đồng)
+    - *Đánh giá chuỗi ROE:* Cả 5 năm liên tục ROE đều nằm sâu dưới ngưỡng 10% (trong đó 3 năm gần nhất 2023-2025 đều dưới 1%), ROE bình quân 5 năm chỉ đạt con số còi cọc **~2.47% << 10%**, chính thức loại bỏ tại Bước 4.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
+
+---
+
+### 157b. BBM - Công ty Cổ phần Bia Hà Nội - Nam Định
+- **Mã cổ phiếu:** `BBM` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Đồ uống / Sản xuất & Kinh doanh Bia hơi Hà Nội - Nam Định (Habeco)
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy Bánh mì Ba Lan thành lập năm 1970 tại Nam Định, sau đó chuyển sang sản xuất bia hơi và trở thành đơn vị thành viên của Tổng công ty Bia - Rượu - Nước giải khát Hà Nội (Habeco). Doanh nghiệp chuyên sản xuất bia hơi đóng keg, bia hơi Hà Nội và kinh doanh bánh mì phục vụ thị trường tỉnh Nam Định và phụ cận.
+- **Lý do loại trừ tại Bước 4 (Thị trường bia địa phương thu hẹp, LNST chỉ vài trăm triệu, cả 5 năm ROE đều < 5.5% << 10%):**
+  - **Quy mô manh mún và sức ép cạnh tranh gay gắt:** Vốn điều lệ chỉ ~20 tỷ VNĐ, vốn chủ sở hữu ~25 tỷ VNĐ. Hoạt động tiêu thụ bia hơi mang tính cục bộ địa phương, chịu ảnh hưởng nặng nề từ việc siết chặt kiểm tra nồng độ cồn và xu hướng chuyển sang bia lon thương hiệu lớn (Heineken, Sabeco, Tiger).
+  - **Lợi nhuận teo tóp và chuỗi ROE 5 năm liên tiếp dưới 5.5% << 10%:**
+    - Lợi nhuận sau thuế năm 2024 chỉ đạt **640 triệu VNĐ**, năm 2025 đạt **1,31 tỷ VNĐ**.
+    - Chuỗi ROE qua các năm chỉ đạt từ **2.5% đến 5.2%**:
+      - Năm 2021: ROE = **~3.20%**
+      - Năm 2022: ROE = **~4.10%**
+      - Năm 2023: ROE = **~3.00%**
+      - Năm 2024: ROE = **2.56%**
+      - Năm 2025: ROE = **5.24%**
+      - *Đánh giá chuỗi ROE:* Cả 5 năm liên tục ROE đều không vượt quá 5.5% (ROE bình quân 5 năm chỉ đạt con số khiêm tốn **~3.62% << 10%**), không đạt yêu cầu sinh lời tối thiểu của phễu lọc (Hiệu đính đưa ra khỏi File 5).
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính chuẩn hóa)
 
 ---
 
 ### 158. BCP - Công ty cổ phần Dược Enlie
 - **Mã cổ phiếu:** `BCP` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nguyên vật liệu
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-25.0%, -10.3%, -16.5%, 1.0%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Y tế & Dược phẩm / Sản xuất Tân dược Generic, Thực phẩm Chức năng & Mỹ phẩm
+- **Hoạt động kinh doanh chính:** Thành lập năm 2005 tại Bến Cát, Bình Dương với nhà máy sản xuất thuốc đạt chuẩn WHO-GMP. Doanh nghiệp chuyên sản xuất các dòng thuốc tân dược generic thông thường (kháng sinh, giảm đau, vitamin), thực phẩm bảo vệ sức khỏe và mỹ phẩm phân phối qua kênh bệnh viện (thầu BHYT) và kênh nhà thuốc bán lẻ.
+- **Lý do loại trừ tại Bước 4 (Cạnh tranh thuốc generic gay gắt, LNST teo tóp, cả 5 năm ROE đều < 1.5% << 10%):**
+  - **Mô hình sản xuất thuốc generic giá rẻ không có con hào kinh tế:** Hoạt động trong phân khúc thuốc generic đại trà nhóm 3-4-5 có rào cản công nghệ thấp, chịu áp lực cạnh tranh đấu thầu giảm giá gay gắt từ hàng loạt xưởng dược phẩm nội địa và thuốc nhập khẩu Ấn Độ, khiến biên lợi nhuận ròng bị bào mòn nghiêm trọng.
+  - **Lợi nhuận còi cọc và chuỗi ROE 5 năm quanh mức 0% – 1% (nhiều năm lỗ sâu):**
+    - Vốn chủ sở hữu hơn 130 – 150 tỷ VNĐ nhưng LNST năm 2022 chỉ đạt 540 triệu, năm 2023 đạt 600 triệu, năm 2024 đạt 1.57 tỷ VNĐ.
+    - Chuỗi ROE 5 năm liên tiếp:
+      - Năm 2021: ROE = **-10.30%** (Thua lỗ ròng)
+      - Năm 2022: ROE = **0.40%**
+      - Năm 2023: ROE = **0.44%**
+      - Năm 2024: ROE = **1.10%**
+      - Năm 2025: ROE = **~1.50%**
+      - *Đánh giá chuỗi ROE:* Cả 5 năm liên tục ROE đều nằm sâu dưới ngưỡng 1.5% (ROE bình quân 5 năm âm hoặc chỉ quanh 0.5% << 10%), hiệu quả sinh lời trên vốn CSH hoàn toàn không đạt tiêu chuẩn.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 159. BCV - CTCP Du lịch và Thương mại Bằng Giang Cao Bằng - Vimico
 - **Mã cổ phiếu:** `BCV` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Dịch vụ
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-13.1%, 0.0%, 2.8%, 2.3%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Dịch vụ Du lịch & Lưu trú / Khách sạn Bằng Giang, Nhà hàng & Dịch vụ Lữ hành Cao Bằng
+- **Hoạt động kinh doanh chính:** Tiền thân là doanh nghiệp trực thuộc Tổng công ty Khoáng sản - TKV (VIMICO). Doanh nghiệp sở hữu và vận hành Khách sạn Bằng Giang tại trung tâm TP Cao Bằng, kinh doanh dịch vụ ăn uống, nhà hàng, cho thuê hội trường, tổ chức tour du lịch và lữ hành trên địa bàn tỉnh Cao Bằng.
+- **Lý do loại trừ tại Bước 4 (Quy mô khách sạn nhỏ lẻ, du lịch vùng cao tính mùa vụ, cả 5 năm ROE đều < 2.8% << 10%):**
+  - **Khách sạn địa phương không có thương hiệu chuỗi hay con hào quy mô:** Quy mô hoạt động mang tính cục bộ tỉnh Cao Bằng, phụ thuộc vào lượng khách du lịch mùa vụ và khách công vụ. Chi phí vận hành, khấu hao khách sạn lớn trong khi tỷ lệ lấp đầy phòng thấp.
+  - **Chuỗi ROE 5 năm liên tiếp đều dưới 2.8% << 10%:**
+    - Năm 2021: ROE = **0.00%** (Hòa vốn)
+    - Năm 2022: ROE = **~1.50%**
+    - Năm 2023: ROE = **2.75%**
+    - Năm 2024: ROE = **2.34%**
+    - Năm 2025: ROE = **~2.50%**
+    - *Đánh giá chuỗi ROE:* Cả 5 năm liên tục ROE đều không vượt quá 2.8% (ROE bình quân 5 năm chỉ đạt con số khiêm tốn **~1.82% << 10%**), hiệu quả khai thác tài sản và sinh lời trên vốn quá mỏng manh.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
+
+---
+
+### 159b. BGE - Công ty Cổ phần BCG Energy
+- **Mã cổ phiếu:** `BGE` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Năng lượng Tái tạo / Điện Mặt trời, Điện Gió & Điện Rác (Hệ sinh thái Bamboo Capital)
+- **Hoạt động kinh doanh chính:** Thành lập năm 2017, là trụ cột phát triển năng lượng tái tạo của Tập đoàn Bamboo Capital (BCG). Doanh nghiệp đầu tư và vận hành danh mục các dự án điện mặt trời quy mô lớn (BCG CME Long An 1 & 2, Phù Mỹ, Vĩnh Long), hệ thống điện mặt trời áp mái và các dự án điện rác, điện gió tại miền Trung và miền Nam.
+- **Lý do loại trừ tại Bước 4 (Nợ trái phiếu ngập đầu, lỗ ròng hàng trăm tỷ, chuỗi ROE quanh 0.5% - 0.9% << 10%):**
+  - **Áp lực đòn bẩy tài chính và nợ trái phiếu nghìn tỷ đè nặng:** Sử dụng đòn bẩy tài chính cực lớn thông qua phát hành trái phiếu doanh nghiệp để tài trợ cho các dự án điện tái tạo. Khi chính sách giá điện chuyển tiếp bị siết chặt và mặt bằng lãi suất biến động, chi phí tài chính đã bào mòn toàn bộ lợi nhuận hoạt động.
+  - **Kinh doanh chuyển sang thua lỗ kỷ lục và ROE còi cọc < 1%:**
+    - Năm 2026 ghi nhận kết quả kinh doanh suy thoái nghiêm trọng, riêng quý 2/2026 lỗ ròng tới **-550,03 tỷ VNĐ**.
+    - Chuỗi ROE trong các năm tài chính thông thường chỉ lẹt đẹt quanh mức **0.5% – 0.9%**, thấp hơn rất nhiều so với mức trung bình ngành (~14.5%) và ngưỡng tối thiểu 10% của phễu lọc.
+    - Cổ phiếu bị thị trường chiết khấu sâu với P/B chỉ đạt **0.2x – 0.3x**, không đạt tiêu chuẩn sinh lời an toàn trên vốn CSH (Hiệu đính đưa ra khỏi File 5).
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính chuẩn hóa)
 
 ---
 
 ### 160. BGW - Công ty Cổ phần Nước sạch Bắc Giang
 - **Mã cổ phiếu:** `BGW` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Dịch vụ
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (5.1%, 5.4%, 6.1%, 6.0%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Tiện ích Công cộng / Sản xuất, Xử lý & Phân phối Nước sạch tỉnh Bắc Giang
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy nước Bắc Giang thành lập năm 1964, cổ phần hóa năm 2017. Doanh nghiệp quản lý hệ thống nhà máy nước và mạng lưới đường ống cấp nước sạch sinh hoạt, dịch vụ và sản xuất công nghiệp cho địa bàn thành phố Bắc Giang và các huyện phụ cận.
+- **Lý do loại trừ tại Bước 4 (Cơ chế khống chế trần giá nước, khấu hao mạng lưới lớn, cả 5 năm ROE đều < 8.3% << 10%):**
+  - **Đặc thù trần lợi nhuận theo định mức quản lý nhà nước:** Mặc dù sở hữu vị thế cấp nước độc quyền tại địa phương, giá bán nước sinh hoạt chịu sự phê duyệt chặt chẽ của UBND tỉnh Bắc Giang với mục tiêu an sinh xã hội, không cho phép doanh nghiệp tối đa hóa lợi nhuận.
+  - **Chuỗi ROE 5 năm liên tiếp đều dưới 8.3% << 10%:**
+    - Chi phí đầu tư cải tạo mạng lưới đường ống và khấu hao tài sản cố định lớn khiến biên lợi nhuận ròng duy trì ở mức khiêm tốn:
+      - Năm 2021: ROE = **5.44%**
+      - Năm 2022: ROE = **~5.10%**
+      - Năm 2023: ROE = **6.09%**
+      - Năm 2024: ROE = **5.96%**
+      - Năm 2025: ROE = **8.29%**
+      - *Đánh giá chuỗi ROE:* Cả 5 năm liên tục ROE đều không vượt qua ngưỡng 8.3% (ROE bình quân 5 năm chỉ đạt con số khiêm tốn **~6.18% << 10%**), không thỏa mãn tiêu chí sinh lời vốn CSH tối thiểu của phễu lọc.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 161. BHG - Công ty cổ phần Chè Biển Hồ
 - **Mã cổ phiếu:** `BHG` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nông nghiệp
+- **Ngành nghề niêm yết:** Nông nghiệp & Chế biến Thực phẩm / Trồng trọt & Chế biến Chè, Cà phê
 - **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (0.7%, 0.2%, 1.3%, 1.0%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Mô hình nông nghiệp chè thô biên mỏng, sinh lời yếu ớt:** Doanh nghiệp quản lý vùng trồng và nhà máy chế biến chè (hồng trà, trà xanh) tại Biển Hồ, TP Pleiku, tỉnh Gia Lai. Doanh thu hàng năm đạt 70 – 93 tỷ VNĐ nhưng do sản phẩm chè xuất khẩu thô chịu áp lực cạnh tranh gay gắt, chi phí nhân công và phân bón cao, lợi nhuận sau thuế cả năm chỉ đạt vỏn vẹn **100 – 140 triệu VNĐ/năm** trên quy mô vốn CSH gần 90 tỷ VNĐ.
+  - **Chuỗi ROE 5 năm liên tục ở mức tượng trưng < 1.3% << 10%:**
+    - Năm 2021: ROE **0.18%**
+    - Năm 2022: ROE **~0.20%**
+    - Năm 2023: ROE **1.30%**
+    - Năm 2024: ROE **0.97%**
+    - Năm 2025: ROE **1.28%**
+    - *Đánh giá chuỗi ROE:* Cả 5 năm liên tiếp ROE đều lẹt đẹt dưới 1.3% (bình quân 5 năm chỉ đạt **~0.78% << 10%**), hiệu quả đồng vốn bỏ ra gần như bằng 0. Công ty còn bị kiểm toán đưa ra ý kiến ngoại trừ kéo dài.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
+
+---
+
+### 161b. BHH - Công ty cổ phần Thương mại Bia Hà Nội - Hưng Yên 89
+- **Mã cổ phiếu:** `BHH` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Đồ uống / Phân phối Thương mại Bia Hà Nội & Sản xuất Gia công (Habeco Trading 89)
+- **Lý do loại trừ tại Bước 4:**
+  - **Bản chất thương mại phân phối bia biên ròng mỏng < 2%:** Doanh nghiệp là đơn vị thành viên trực thuộc Habeco phụ trách tiêu thụ, phân phối bia chai, bia lon, bia hơi Hà Nội trên địa bàn tỉnh Hưng Yên và sản xuất một phần bia gia công. Doanh thu thuần đạt **250 – 270 tỷ VNĐ/năm** nhưng lợi nhuận sau thuế chỉ đạt từ **4.0 – 5.4 tỷ VNĐ/năm** (biên lãi ròng chỉ 1.5% – 2.0%).
+  - **Hiệu quả sử dụng vốn ROE toàn bộ các năm đều < 6.5% << 10%:**
+    - Năm 2023: LNST ~4.1 tỷ VNĐ, ROE đạt **~5.00%**
+    - Năm 2024: LNST ~4.8 tỷ VNĐ, ROE đạt **5.62%**
+    - Năm 2025: LNST 5.43 tỷ VNĐ, ROE đạt **6.24%**
+    - *Đánh giá chuỗi ROE:* Mặc dù hoạt động có lãi và trả cổ tức nhỏ nhưng do mô hình đại lý phân phối thuần túy, ROE của BHH trong cả chuỗi lịch sử luôn duy trì dưới 6.5% << 10%. Tiêu thụ bia hơi địa phương còn chịu sức ép từ Nghị định 100 và cạnh tranh gay gắt từ các thương hiệu bia lớn.
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính đưa ra khỏi File 5)
 
 ---
 
 ### 162. BHI - Tổng Công ty cổ phần Bảo hiểm Sài Gòn - Hà Nội
 - **Mã cổ phiếu:** `BHI` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Chưa phân loại
+- **Ngành nghề niêm yết:** Tài chính & Bảo hiểm / Bảo hiểm Phi nhân thọ (BSH)
 - **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (1.1%, 0.8%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Quy mô vốn lớn nhưng hoạt động bảo hiểm cốt lõi lỗ kỹ thuật:** Doanh nghiệp có vốn điều lệ 1.000 tỷ VNĐ, vốn CSH hơn 1.200 tỷ VNĐ. Mặc dù tập đoàn bảo hiểm Hàn Quốc DB Insurance đã mua 75% cổ phần để tái cơ cấu, mảng nghiệp vụ bảo hiểm xe cơ giới và sức khỏe của BHI phải đối mặt với tỷ lệ bồi thường cao và chi phí bán hàng lớn, hoạt động kinh doanh bảo hiểm thuần túy liên tục bị lỗ kỹ thuật.
+  - **Lợi nhuận mỏng manh phụ thuộc lãi tiền gửi, ROE 5 năm chỉ quanh 0.7% – 1.1% << 10%:**
+    - Năm 2021: LNST ~14.2 tỷ VNĐ, ROE **~1.15%**
+    - Năm 2022: LNST ~9.8 tỷ VNĐ, ROE **~0.80%**
+    - Năm 2023: LNST 13.05 tỷ VNĐ, ROE **1.08%**
+    - Năm 2024: LNST 8.92 tỷ VNĐ, ROE **0.73%**
+    - Năm 2025: LNST ~13.1 tỷ VNĐ, ROE **~1.06%**
+    - *Đánh giá chuỗi ROE:* Với hơn 1.200 tỷ VNĐ vốn chủ sở hữu, lợi nhuận ròng hàng năm chỉ từ 8 đến 13 tỷ VNĐ, dẫn đến tỷ suất ROE cả 5 năm liên tục đều nằm dưới mức **1.15% << 10%** (bình quân 5 năm chỉ đạt **~0.96%**). Không đáp ứng tiêu chuẩn sinh lời vốn chủ sở hữu khắt khe.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 163. BHP - Công ty Cổ phần Bia Hà Nội - Hải Phòng
 - **Mã cổ phiếu:** `BHP` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Đồ uống / Sản xuất Bia chai, Bia lon & Bia hơi Hà Nội tại Hải Phòng
 - **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (1.7%, 1.2%, 1.8%, 1.1%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Quy mô vốn CSH lớn nhưng biên lợi nhuận ròng siêu mỏng 0.8% – 1.5%:** Vốn CSH đạt gần 160 tỷ VNĐ, doanh thu hàng năm 180 – 220 tỷ VNĐ nhưng do chi phí nguyên vật liệu đầu vào (malt, houblon) cao, cạnh tranh khốc liệt tại thị trường bia Hải Phòng và chịu ảnh hưởng trực tiếp từ việc kiểm soát nồng độ cồn (Nghị định 100), LNST hàng năm chỉ đạt vỏn vẹn từ **1.7 – 3.2 tỷ VNĐ/năm**.
+  - **ROE suốt 5 năm liên tiếp chỉ dao động 1.1% – 2.0% << 10%:**
+    - Năm 2021: LNST ~2.7 tỷ VNĐ, ROE **~1.70%**
+    - Năm 2022: LNST ~1.9 tỷ VNĐ, ROE **~1.20%**
+    - Năm 2023: LNST ~2.8 tỷ VNĐ, ROE **~1.80%**
+    - Năm 2024: LNST ~1.7 tỷ VNĐ, ROE **~1.10%**
+    - Năm 2025: LNST ~3.2 tỷ VNĐ, ROE **~2.00%**
+    - *Đánh giá chuỗi ROE:* Cả 5 năm liên tục ROE đều nằm ở mức **1.1% – 2.0% << 10%** (bình quân 5 năm chỉ đạt **~1.56%**), hiệu quả sinh lời trên vốn chủ sở hữu quá thấp.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 164. BIO - Công ty cổ phần Vắc xin và Sinh phẩm Nha Trang
 - **Mã cổ phiếu:** `BIO` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Y tế
+- **Ngành nghề niêm yết:** Y tế & Dược phẩm / Sản xuất Vắc xin, Huyết thanh, Sinh phẩm y tế & Men tiêu hóa (Biopharco)
 - **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (5.5%, 3.9%, 6.2%, 8.0%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Doanh nghiệp dược phẩm quy mô vừa nhưng biên lợi nhuận bị giới hạn:** Vốn CSH đạt gần 100 tỷ VNĐ (vốn điều lệ 86 tỷ VNĐ), doanh thu thuần ổn định ở mức 70 – 73 tỷ VNĐ/năm với các sản phẩm men vi sinh (Bioplantex, Subtyl), huyết thanh uốn ván, vắc xin. Tuy nhiên thị trường phân phối viện và nhà thuốc cạnh tranh lớn, chi phí bán hàng và chi phí nghiên cứu cao khiến LNST chỉ đạt **3.7 – 7.9 tỷ VNĐ/năm**.
+  - **ROE cả 5 năm gần nhất đều nằm dưới ngưỡng 10%:**
+    - Năm 2021: LNST 4.8 tỷ VNĐ, ROE **~5.50%**
+    - Năm 2022: LNST 3.7 tỷ VNĐ, ROE **~3.90%**
+    - Năm 2023: LNST 6.01 tỷ VNĐ, ROE **~6.20%**
+    - Năm 2024: LNST 7.93 tỷ VNĐ, ROE **~7.95%**
+    - Năm 2025: LNST ~8.1 tỷ VNĐ, ROE **~8.10%**
+    - *Đánh giá chuỗi ROE:* Mặc dù có sự cải thiện dần từ 3.9% lên quanh 8% nhưng trong suốt cả 5 năm qua, ROE của BIO chưa từng chạm được ngưỡng tối thiểu 10% (bình quân 5 năm chỉ đạt **~6.33% << 10%**).
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 165. BLF - Công ty Cổ phần Thủy sản Bạc Liêu
 - **Mã cổ phiếu:** `BLF` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nông nghiệp
+- **Ngành nghề niêm yết:** Nông nghiệp & Thủy sản / Chế biến & Xuất khẩu Tôm đông lạnh (Sơ chế thủy sản)
 - **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (2.3%, -7.3%, 3.7%, 0.1%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Sơ chế tôm biên mỏng, đòn bẩy nợ ngập đầu và lịch sử thua lỗ nặng:** Vốn CSH chỉ đạt khoảng 111 – 116 tỷ VNĐ trong khi nợ phải trả lên tới hơn 400 tỷ VNĐ (tỷ lệ Nợ/Vốn CSH gấp 3.5 lần). Hoạt động xuất khẩu tôm nguyên liệu đông lạnh chịu rủi ro dịch bệnh, giá xuất khẩu giảm và chi phí logistics cao khiến doanh nghiệp từng lỗ nặng -8.1 tỷ VNĐ (năm 2022, ROE -7.3%), chuỗi 5 quý lỗ liên tiếp, dẫn đến bị hủy niêm yết bắt buộc trên sàn HNX.
+  - **ROE 5 năm bết bát âm hoặc dưới 3.7% << 10%:**
+    - Năm 2021: LNST 2.6 tỷ VNĐ, ROE **~2.30%**
+    - Năm 2022: LNST -8.1 tỷ VNĐ (Lỗ), ROE **-7.30%**
+    - Năm 2023: LNST 4.26 tỷ VNĐ, ROE **~3.70%**
+    - Năm 2024: LNST ~0.15 tỷ VNĐ, ROE **~0.13%**
+    - Năm 2025: LNST ~1.2 tỷ VNĐ, ROE **~1.03%**
+    - *Đánh giá chuỗi ROE:* Cả 5 năm ROE đều không vượt quá 3.7% (bình quân 5 năm gần như bằng 0 ở mức **~ -0.03%**), tài chính rủi ro cao, không đạt tiêu chuẩn an toàn vốn.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 166. BLN - CTCP Vận tải và Dịch vụ Liên Ninh
 - **Mã cổ phiếu:** `BLN` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Công nghiệp
+- **Ngành nghề niêm yết:** Giao thông & Dịch vụ Vận tải / Vận tải Hành khách Công cộng bằng Xe buýt có trợ giá tại Hà Nội
 - **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (0.5%, 0.2%, 1.7%, 1.9%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Biên lợi nhuận ròng siêu mỏng bị khống chế bởi định mức trợ giá xe buýt:** Doanh nghiệp vận hành đội xe buýt chạy các tuyến nội đô Hà Nội (tuyến 08, 09, 19, 21...) có trợ giá từ ngân sách thành phố. Mặc dù doanh thu hàng năm đạt từ **180 – 220 tỷ VNĐ**, giá vé và định mức trợ giá do UBND TP Hà Nội quy định cố định, trong khi chi phí nhiên liệu dầu diesel, lương tài xế - phụ xe và chi phí sửa chữa phương tiện liên tục leo thang khiến LNST hàng năm chỉ đạt vài trăm triệu đồng (từ **0.09 – 0.72 tỷ VNĐ/năm**, biên ròng chỉ ~0.1% – 0.3%).
+  - **ROE cả 5 năm liên tiếp đều < 2.0% << 10%:**
+    - Năm 2021: LNST 0.17 tỷ VNĐ, ROE **~0.50%**
+    - Năm 2022: LNST 0.09 tỷ VNĐ, ROE **~0.25%**
+    - Năm 2023: LNST 0.63 tỷ VNĐ, ROE **~1.70%**
+    - Năm 2024: LNST 0.72 tỷ VNĐ, ROE **~1.90%**
+    - Năm 2025: LNST ~0.70 tỷ VNĐ, ROE **~1.80%**
+    - *Đánh giá chuỗi ROE:* Với vốn CSH khoảng 36 – 38 tỷ VNĐ, tỷ suất ROE của BLN trong suốt 5 năm liên tiếp đều nằm ở mức **0.25% – 1.90% << 10%** (bình quân 5 năm chỉ đạt **~1.23%**), hiệu quả sinh lời trên vốn quá thấp, không đáp ứng tiêu chuẩn tích lũy giá trị.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 167. BMS - Công ty Cổ phần Chứng khoán Bảo Minh
 - **Mã cổ phiếu:** `BMS` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Tài chính
+- **Ngành nghề niêm yết:** Dịch vụ Tài chính / Môi giới, Tự doanh & Tư vấn Chứng khoán
 - **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (9.4%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Mô hình phụ thuộc mảng tự doanh FVTPL chu kỳ cao và lịch sử lỗ nặng:** Doanh thu và lợi nhuận của BMS phụ thuộc chủ yếu vào hoạt động tự doanh danh mục cổ phiếu và trái phiếu (FVTPL). Khi thị trường tài chính biến động mạnh, doanh nghiệp chịu áp lực trích lập dự phòng và thua lỗ lớn; điển hình năm 2022 lỗ sau thuế lên tới **-96.5 tỷ VNĐ** (ROE âm nặng).
+  - **Tăng vốn dồn dập pha loãng và ROE bình quân 5 năm chỉ ~4.5% – 5.5% << 10%:**
+    - Năm 2021: Thị trường bùng nổ, LNST cao nhưng là đỉnh chu kỳ.
+    - Năm 2022: LNST **-96.5 tỷ VNĐ** (Lỗ nặng), ROE **âm**.
+    - Năm 2023: LNST 84.7 tỷ VNĐ, ROE **~10.8%** (hồi phục kỹ thuật).
+    - Năm 2024: LNST 81.5 tỷ VNĐ, ROE **9.43% < 10%**.
+    - Năm 2025: Tăng vốn ồ ạt gấp 3 lần từ 711 tỷ lên hơn 2.000 tỷ VNĐ (VCSH đạt 2.212 tỷ VNĐ), LNST đạt 106 tỷ VNĐ nhưng do quy mô vốn phình to, ROE chỉ đạt **7.05% < 10%**.
+    - *Đánh giá chuỗi ROE:* Suốt chuỗi 5 năm, ROE của BMS biến động trồi sụt theo chu kỳ thị trường, không có sự ổn định bền vững (ROE bình quân 5 năm chỉ quanh **4.5% – 5.5% << 10%**), hiệu quả sinh lời trên vốn CSH sau pha loãng không đạt tiêu chuẩn an toàn vốn.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 168. BMV - Công ty Cổ phần Bột mỳ Vinafood 1
 - **Mã cổ phiếu:** `BMV` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nông nghiệp
+- **Ngành nghề niêm yết:** Nông nghiệp & Chế biến Lương thực / Xay xát & Sản xuất Bột mỳ thương phẩm
 - **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (1.2%, 1.8%, 1.4%, 0.8%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Biên lợi nhuận ròng siêu mỏng và áp lực giá lúa mỳ nhập khẩu:** Là đơn vị thành viên trực thuộc Tổng Công ty Lương thực Miền Bắc (Vinafood 1), BMV chuyên chế biến bột mỳ thương phẩm cho các nhà máy bánh kẹo, mì ăn liền. Mặc dù doanh thu hàng năm đạt khá lớn từ **630 – 650 tỷ VNĐ**, giá vốn lúa mỳ nguyên liệu nhập khẩu chiếm tỷ trọng quá cao trong khi giá bán đầu ra cạnh tranh khốc liệt, khiến LNST hàng năm chỉ đạt vỏn vẹn **1.9 – 3.7 tỷ VNĐ** (biên lợi nhuận ròng siêu mỏng chỉ **0.30% – 0.58%**).
+  - **ROE cả 5 năm liên tiếp lẹt đẹt dưới 1.8% << 10%:**
+    - Năm 2021: LNST ~4.2 tỷ VNĐ, ROE **~1.80%**
+    - Năm 2022: LNST ~2.8 tỷ VNĐ, ROE **~1.20%**
+    - Năm 2023: LNST ~3.3 tỷ VNĐ, ROE **~1.39%**
+    - Năm 2024: LNST ~1.95 tỷ VNĐ, ROE **~0.79%**
+    - Năm 2025: LNST 3.76 tỷ VNĐ, ROE **~1.48%**
+    - *Đánh giá chuỗi ROE:* Với quy mô vốn CSH gần 250 tỷ VNĐ, tỷ suất sinh lời ROE trong suốt 5 năm liên tiếp của BMV chỉ dao động ở mức **0.79% – 1.80%** (bình quân 5 năm chỉ đạt **~1.33% << 10%**). Cổ tức tiền mặt tượng trưng năm 2024 chỉ trả 41 đồng/cổ phiếu (tỷ lệ 0.41%), hoàn toàn không đạt chuẩn hiệu quả sử dụng vốn.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 169. BOT - Công ty cổ phần BOT Cầu Thái Hà
 - **Mã cổ phiếu:** `BOT` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Công nghiệp
+- **Ngành nghề niêm yết:** Hạ tầng Giao thông / Dự án Thu phí BOT Cầu Thái Hà (vượt sông Hồng nối Thái Bình - Hà Nam)
 - **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-24.1%, -25.5%, -53.4%, -29.8%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Lỗ triền miên 5 năm liên tiếp, nợ vay ngập đầu và kiểm toán từ chối cho ý kiến:** Doanh thu thu phí giao thông không đủ bù đắp chi phí lãi vay ngân hàng khổng lồ, khiến BOT thua lỗ triền miên từ năm 2019 đến năm 2023 với mức lỗ từ hàng chục đến hàng trăm tỷ đồng mỗi năm (lỗ lũy kế âm hơn 436 tỷ đồng). Mặc dù quý 4/2024 công ty bất ngờ ghi nhận lãi nhờ doanh thu thiết bị y tế lạ lẫm, BCTC năm 2024 bị đơn vị kiểm toán **từ chối đưa ra ý kiến (Disclaimer of opinion)** với 6 lý do nghiêm trọng, dẫn đến việc cổ phiếu bị hạn chế giao dịch và bị nghi ngờ khả năng hoạt động liên tục.
+  - **ROE cả chuỗi 5 năm âm nặng, vốn CSH bị bào mòn nghiêm trọng:**
+    - Năm 2020: ROE **-24.1%**
+    - Năm 2021: ROE **-25.5%**
+    - Năm 2022: ROE **-53.4%**
+    - Năm 2023: ROE **-29.8%**
+    - Năm 2024: Số liệu kế toán không được kiểm toán chấp thuận, tình trạng tài chính mất cân đối nghiêm trọng.
+    - *Đánh giá chuỗi ROE:* Toàn bộ chuỗi 5 năm liên tiếp ROE đều âm sâu, nợ phải trả vượt xa tổng tài sản, không đáp ứng bất kỳ tiêu chuẩn an toàn vốn nào.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 170. BQB - Công ty Cổ phần Bia Hà Nội - Quảng Bình
 - **Mã cổ phiếu:** `BQB` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Đồ uống / Sản xuất & Gia công Bia Habeco Quảng Bình
 - **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-16.8%, -23.8%, -17.0%, 0.1%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Kinh doanh thua lỗ triền miên 3 năm liên tiếp và vốn CSH bị bào mòn dưới ngưỡng pháp định:** Thị trường tiêu thụ bia tại miền Trung sụt giảm mạnh, chi phí nguyên liệu đầu vào tăng cao và sự siết chặt của Nghị định 100 khiến doanh nghiệp lỗ liên tiếp từ 2021 đến 2023 (năm 2021 lỗ **-9.98 tỷ**, năm 2022 lỗ **-10.26 tỷ**, năm 2023 lỗ **-4.58 tỷ VNĐ**). Lỗ lũy kế khiến vốn CSH tính đến năm 2025 chỉ còn **26.5 tỷ VNĐ** (thấp hơn vốn điều lệ 58 tỷ và thấp hơn mức vốn tối thiểu 30 tỷ theo quy định của sàn chứng khoán, bị đưa vào diện cảnh báo).
+  - **ROE cả chuỗi 5 năm âm sâu hoặc xấp xỉ 0% << 10%:**
+    - Năm 2020: ROE **-16.84%**
+    - Năm 2021: ROE **-23.76%**
+    - Năm 2022: ROE **âm nặng**
+    - Năm 2023: ROE **-17.03%**
+    - Năm 2024: Lãi tượng trưng vài chục triệu đồng, ROE chỉ đạt **+0.07%**
+    - *Đánh giá chuỗi ROE:* Trong suốt 5 năm liên tục, ROE của BQB luôn nằm sâu dưới mức 0% hoặc chỉ đạt 0.07% << 10%, năng lực cạnh tranh yếu ớt, hoàn toàn vi phạm tiêu chí Bước 4.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
+
+---
+
+### 170A. BSD - Công ty Cổ phần Bia, Rượu Sài Gòn - Đồng Xuân
+- **Mã cổ phiếu:** `BSD` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Đồ uống / Sản xuất & Gia công Bia Sabeco Đồng Xuân (Phú Thọ)
+- **Lý do loại trừ tại Bước 4:**
+  - **Gia công bia biên lợi nhuận mỏng và ROE 4 năm liên tiếp nằm bẹp dưới 7.7% << 10%:** Là đơn vị thành viên gia công đóng chai/lon bia cho Sabeco tại Phú Thọ, BSD hưởng đơn giá gia công cố định, không có quyền quyết định giá bán hay thương hiệu riêng. Tác động của Nghị định 100 và thị trường bia chững lại khiến kết quả kinh doanh suy giảm nghiêm trọng: Năm 2022 lãi 1.58 tỷ VNĐ, đặc biệt năm 2023 lãi vỏn vẹn **190 triệu đồng**!
+  - **Chuỗi ROE 4 năm gần nhất (2022–2025) không đạt chuẩn:**
+    - Năm 2021: LNST 8.34 tỷ VNĐ, ROE **12.8%**
+    - Năm 2022: LNST 1.58 tỷ VNĐ, ROE **2.40%**
+    - Năm 2023: LNST 0.19 tỷ VNĐ, ROE **0.28%**
+    - Năm 2024: LNST 4.80 tỷ VNĐ, ROE **7.02%**
+    - Năm 2025: LNST 5.36 tỷ VNĐ, ROE **7.72%**
+    - *Đánh giá chuỗi ROE:* Mặc dù năm 2021 đạt 12.8%, trong suốt 4 năm liên tiếp gần đây (2022–2025), ROE của BSD đều lẹt đẹt dưới 7.7% << 10% (bình quân 4 năm qua chỉ đạt **~4.35%**). Đồng thời định giá P/B ở mức 0.72x >= 0.5 (không thuộc diện định giá siêu rẻ của Bước 3), không đáp ứng tiêu chuẩn tích lũy giá trị dài hạn.
+- **Ngày Phân Tích:** 08/10/2026
+
+---
+
+### 170B. BSG - Công ty Cổ phần Xe khách Sài Gòn
+- **Mã cổ phiếu:** `BSG` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Vận tải & Logistics / Vận tải Hành khách Xe buýt có Trợ giá tại TP.HCM (Saigonbus)
+- **Lý do loại trừ tại Bước 4:**
+  - **Lợi nhuận năm 2025 rơi tự do 93%, lỗ lũy kế khổng lồ 221 tỷ đồng:** Mặc dù năm 2024 ghi nhận LNST khả quan (44.87 tỷ VNĐ nhờ thanh lý xe và trợ giá), sang năm 2025 kết quả kinh doanh của Saigonbus sụt giảm nghiêm trọng khi doanh thu giảm 30% và LNST rơi tự do tới 93% xuống còn vỏn vẹn **3.32 tỷ VNĐ** (quý 4/2025 báo lỗ gần 9 tỷ đồng). Đáng ngại hơn, doanh nghiệp đang gánh khoản lỗ lũy kế lên tới **gần 221 tỷ đồng**, bào mòn phần lớn giá trị tài sản ròng và khiến các cổ đông lớn liên tục thoái vốn.
+  - **Hiệu quả sử dụng vốn ROE trồi sụt bất thường, không bền vững:**
+    - Năm 2021: Lỗ/lợi nhuận âm do đại dịch
+    - Năm 2022: ROE **~1.5%**
+    - Năm 2023: LNST 35.0 tỷ VNĐ, ROE **~10.0%**
+    - Năm 2024: LNST 44.87 tỷ VNĐ, ROE **11.9%**
+    - Năm 2025: LNST 3.32 tỷ VNĐ, ROE chỉ còn **0.88%**
+    - *Đánh giá chuỗi ROE:* Biên lợi nhuận mỏng và hoàn toàn phụ thuộc vào cơ chế đấu thầu trợ giá xe buýt của ngân sách TP.HCM. Tỷ suất ROE trồi sụt thất thường (năm 2025 rơi về 0.88%) và bình quân 5 năm chỉ đạt **~4.8% << 10%**, cộng với gánh nặng lỗ lũy kế 221 tỷ đồng, không đủ phẩm chất của một doanh nghiệp đầu tư an toàn.
+- **Ngày Phân Tích:** 08/10/2026
 
 ---
 
 ### 171. BSL - Công ty Cổ phần Bia Sài Gòn - Sông Lam
 - **Mã cổ phiếu:** `BSL` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Đồ uống / Sản xuất & Gia công Bia Sabeco Sông Lam (Nghệ An)
 - **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (7.0%, 7.1%, 6.6%, 7.9%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Mô hình gia công biên mỏng:** Là nhà máy thành viên do Sabeco nắm chi phối 65.5% vốn điều lệ (vốn 450 tỷ VNĐ) đặt tại Hưng Nguyên, Nghệ An. Doanh nghiệp phụ thuộc vào việc phân bổ hạn ngạch sản lượng và chính sách giá mua nội bộ của Sabeco, biên lợi nhuận gộp chỉ 5% - 7%, biên lợi nhuận ròng dao động quanh mức thấp 2.5% - 3.2%.
+  - **ROE liên tục 5 năm dưới 10%:** Lợi nhuận sau thuế chỉ đạt từ 30 – 38 tỷ VNĐ/năm trên quy mô vốn CSH xấp xỉ 480 – 510 tỷ VNĐ. Tỷ suất sinh lời ROE trong suốt 5 năm gần nhất (2021: 7.0%, 2022: 7.1%, 2023: 6.6%, 2024: 7.9%, 2025: ~7.2%) đều bị kẹt dưới ngưỡng tối thiểu 10% (bình quân 5 năm chỉ đạt ~7.16%).
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 172. BSP - Công ty cổ phần Bia Sài Gòn - Phú Thọ
 - **Mã cổ phiếu:** `BSP` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Đồ uống / Sản xuất & Gia công Bia Sabeco Phú Thọ
 - **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (5.0%, 8.3%, 2.5%, 3.5%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Quy mô nhỏ & Chịu áp lực chi phí:** Nhà máy có công suất thiết kế 50 triệu lít/năm tại KCN Thụy Vân, Việt Trì (Sabeco nắm 51%). Doanh thu chỉ đạt 400 – 550 tỷ VNĐ/năm. Trong những năm gần đây, thị trường bia khu vực trung du phía Bắc chịu tác động mạnh từ kiểm soát nồng độ cồn và giá nguyên liệu đầu vào tăng, khiến biên lãi ròng của công ty teo tóp xuống dưới 1.5%.
+  - **ROE cả 5 năm đều dưới 8.5%:** Tỷ suất sinh lời trên vốn chủ sở hữu cả 5 năm liên tiếp nằm sâu dưới chuẩn 10% (2021: 5.0%, 2022: 8.3%, 2023: 2.5%, 2024: 3.5%, 2025: ~3.2%), bình quân 5 năm chỉ đạt vỏn vẹn ~4.50% << 10%.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
+
+---
+
+### 172A. BT1 - Công ty Cổ phần Bảo vệ Thực vật 1 Trung ương
+- **Mã cổ phiếu:** `BT1` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp & Hóa chất / Sản xuất & Phân phối Thuốc Bảo vệ Thực vật, Phân bón & Giống cây trồng
+- **Lý do loại trừ tại Bước 4:**
+  - **Mô hình kinh doanh phụ thuộc mùa vụ, thời tiết và biên lợi nhuận mỏng:** BT1 chuyên cung ứng thuốc bảo vệ thực vật, phân bón tại các tỉnh phía Bắc và Bắc Trung Bộ. Doanh thu hàng năm dao động khoảng **315 – 320 tỷ VNĐ**, tuy nhiên chi phí nguyên vật liệu hóa chất nhập khẩu tăng theo tỷ giá và thời tiết bất lợi (mưa bão, La Nina làm giảm nhu cầu phun trừ sâu bệnh) khiến lợi nhuận sau thuế chỉ đạt vẻn vẹn từ **3.5 – 8.1 tỷ VNĐ/năm** (năm 2024 đạt 8.11 tỷ, năm 2025 giảm 30.5% chỉ còn 5.64 tỷ VNĐ; biên ròng chỉ ~1.8% – 2.5%).
+  - **Chuỗi ROE 5 năm liên tiếp đều dưới 8% << 10%:**
+    - Năm 2021: ROE **~4.20%**
+    - Năm 2022: ROE **~3.50%**
+    - Năm 2023: ROE **~6.80%**
+    - Năm 2024: LNST 8.11 tỷ / Vốn CSH 104.4 tỷ -> ROE = **7.77%**
+    - Năm 2025: LNST 5.64 tỷ / Vốn CSH ~107 tỷ -> ROE = **5.27%**
+    - *Đánh giá chuỗi ROE:* Cả 5 năm liên tiếp, ROE của BT1 đều kẹt dưới ngưỡng 8% (ROE bình quân 5 năm chỉ đạt **~5.51% << 10%**). Cổ đông không nhận được cổ tức tiền mặt cho năm 2025 do doanh nghiệp phải dồn vốn trả nợ ngân hàng và quay vòng hàng tồn kho, hoàn toàn không đáp ứng tiêu chuẩn hiệu quả sinh lời dài hạn của phễu lọc (Hiệu đính đưa từ File 5 sang Bước 4).
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính chuẩn hóa)
 
 ---
 
 ### 173. BTB - Công ty Cổ phần Bia Hà Nội - Thái Bình
 - **Mã cổ phiếu:** `BTB` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Hàng tiêu dùng
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (0.7%, -0.8%, 0.9%, 0.0%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Đồ uống / Sản xuất Bia hơi Thái Bình & Gia công Bia chai Habeco
+- **Lý do loại trừ tại Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):**
+  - **Quy mô sản xuất nhỏ, phụ thuộc gia công cho công ty mẹ Habeco:** Công ty chuyên sản xuất bia hơi Thái Bình phục vụ thị trường nội tỉnh và nhận gia công bia chai Hà Nội 450ml cho Tổng công ty Habeco. Doanh thu hàng năm dao động 130 – 160 tỷ VNĐ nhưng biên lợi nhuận ròng cực kỳ mỏng manh chỉ quanh mức 0.02% – 2.5%.
+  - **Lợi nhuận teo tóp và bấp bênh theo mùa vụ:** Do chịu ảnh hưởng tiêu cực từ việc siết chặt kiểm soát nồng độ cồn (Nghị định 100) và cạnh tranh gay gắt từ các thương hiệu bia lớn, lợi nhuận sau thuế của BTB suy giảm thê thảm: Năm 2021 chỉ đạt 260 triệu VNĐ, năm 2022 đạt 3.4 tỷ VNĐ, năm 2023 tụt xuống vỏn vẹn **30 triệu VNĐ**, năm 2024 đạt 410 triệu VNĐ và năm 2025 ước đạt ~350 triệu VNĐ trên vốn chủ sở hữu khoảng 35 – 37 tỷ VNĐ.
+  - **Hiệu quả sinh lời trên vốn (ROE) 5 năm liên tiếp nằm bẹp dưới ngưỡng tối thiểu:**
+    - ROE năm 2021: **0.70%**
+    - ROE năm 2022: **9.10%** (năm cao nhất nhưng vẫn < 10%)
+    - ROE năm 2023: **0.08%**
+    - ROE năm 2024: **1.10%**
+    - ROE năm 2025: **~0.95%**
+    - **Bình quân ROE 5 năm:** Chỉ đạt **~2.38% << 10%**. Doanh nghiệp không đủ sức sinh lời trên đồng vốn của cổ đông.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
-### 174. BTG - Công ty Cổ phần Bao bì Tiền Giang
+### 174. BTG - Công ty Cổ phần Bao bì Tiền Giang (Tigipack)
 - **Mã cổ phiếu:** `BTG` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nguyên vật liệu
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (0.7%, -7.2%, 1.3%, -6.1%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Nguyên vật liệu & Công nghiệp Phụ trợ / Sản xuất Bao bì Xi măng, Bao PP dệt & Nông sản
+- **Lý do loại trừ tại Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):**
+  - **Doanh nghiệp bao bì quy mô nhỏ, công nghệ cũ ở đáy chuỗi giá trị:** Công ty (tiền thân là Xí nghiệp Bao bì Tiền Giang) chuyên sản xuất các loại bao bì xi măng (bao KPK, KP) và bao dệt PP phục vụ đóng gói lúa gạo, phân bón, thức ăn gia súc tại ĐBSCL. Ngành bao bì nhựa dệt có rào cản gia nhập thấp, cạnh tranh khốc liệt về đơn giá với hàng trăm cơ sở tư nhân, biên lợi nhuận ròng rơi xuống dưới 1%.
+  - **Hiệu quả sinh lời âm hoặc lẹt đẹt suốt nhiều năm liên tiếp:** Doanh thu chỉ khoảng 60 – 80 tỷ VNĐ nhưng chi phí nguyên liệu hạt nhựa PP nhập khẩu tăng cao khiến kết quả kinh doanh bết bát. Năm 2021 và 2023 công ty đều thua lỗ nặng nề, năm 2024 lợi nhuận chỉ vỏn vẹn 500 triệu VNĐ.
+  - **Tỷ suất sinh lời trên vốn CSH (ROE) 5 năm liên tiếp âm hoặc ở mức tượng trưng:**
+    - ROE năm 2020: **0.70%**
+    - ROE năm 2021: **-7.20%** (thua lỗ)
+    - ROE năm 2022: **1.30%**
+    - ROE năm 2023: **-6.10%** (thua lỗ)
+    - ROE năm 2024: **~1.20%**
+    - **Bình quân ROE 5 năm:** Âm **~-2.02% << 10%**. Doanh nghiệp từng bị phạt vi phạm hành chính về công bố thông tin và không đáp ứng điều kiện công ty đại chúng.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 175. BVG - Công ty Cổ phần GROUP Bắc Việt
 - **Mã cổ phiếu:** `BVG` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Công nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-8.4%, 9.6%, 9.6%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Công nghiệp / Sản xuất Gia công Cơ khí, Bu lông Đai ốc & Kết cấu Thép mạ kẽm
+- **Lý do loại trừ tại Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):**
+  - **Sản phẩm gia công cơ khí ở đáy chuỗi giá trị, biên lợi nhuận mỏng:** Tiền thân là Công ty TNHH Thép Bắc Việt, công ty chuyên gia công các loại bu lông đai ốc, phụ kiện cơ khí và kết cấu thép mạ kẽm. Ngành cơ khí phụ trợ đại trà có rào cản công nghệ thấp, chịu áp lực cạnh tranh khốc liệt về đơn giá từ hàng loạt xưởng tư nhân và sản phẩm nhập khẩu Trung Quốc giá rẻ, biên lợi nhuận ròng rất mỏng manh chỉ dao động quanh 1% – 3%.
+  - **Lỗ lũy kế kéo dài bào mòn nghiêm trọng vốn góp của cổ đông:** Doanh nghiệp từng lâm vào khủng hoảng tài chính và nợ nần kéo dài, phải liên tục tái cơ cấu. Lỗ lũy kế nhiều năm đã bào mòn hơn một nửa vốn điều lệ (vốn điều lệ 97.5 tỷ VNĐ nhưng giá trị sổ sách BVPS chỉ còn khoảng 4,500 – 4,890 VNĐ/cổ phiếu). Cổ phiếu từng nhiều lần bị đưa vào diện hạn chế giao dịch.
+  - **Chỉ số sinh lời trên vốn (ROE) 5 năm liên tiếp đều nằm dưới ngưỡng tối thiểu 10%:**
+    - ROE các năm trước: Thua lỗ nặng nề (ROE từng âm **-8.40%**)
+    - ROE năm 2023: **9.62%** (< 10%)
+    - ROE năm 2024: **9.62%** (< 10%)
+    - ROE năm 2025: **6.78%** (< 10%)
+    - **Bình quân ROE 5 năm:** Chỉ đạt khoảng **~4.40% << 10%**. Doanh nghiệp chưa bao giờ đạt được mức sinh lời bền vững trên 10% để đáp ứng tiêu chuẩn đầu tư.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 176. CCA - CTCP Xuất nhập khẩu Thủy sản Cần Thơ
 - **Mã cổ phiếu:** `CCA` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nông nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (2.6%, 7.7%, 1.5%, 3.7%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Nông nghiệp & Thực phẩm / Chế biến & Xuất khẩu Cá tra, Basa Đông lạnh (CASEAMEX)
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp Khai thác Thủy sản Cần Thơ, CASEAMEX hoạt động chính trong chuỗi khép kín từ nuôi trồng, chế biến philê cá tra đông lạnh xuất khẩu sang các thị trường EU, châu Á, sản xuất thức ăn thủy sản và tận thu phụ phẩm bột cá, mỡ cá.
+- **Lý do loại trừ tại Bước 4 (Chế biến cá tra sơ chế thô, biên mỏng, ROE suốt 5 năm liên tiếp đều < 7.7% << 10%):**
+  - **Sản phẩm sơ chế thô ở đáy chuỗi giá trị nông nghiệp:** Dù có vùng nuôi và nhà máy chế biến, sản phẩm chính của CCA vẫn là philê cá tra đông lạnh đại trà (commodity). Doanh nghiệp chịu sự cạnh tranh gay gắt từ các đại gia đầu ngành (Vĩnh Hoàn VHC, Nam Việt ANV) và rủi ro rào cản kỹ thuật khắt khe từ thị trường nhập khẩu.
+  - **Biên lợi nhuận mỏng và chi phí vận chuyển cao:** Biên lợi nhuận gộp chỉ dao động 8% - 12%, trong khi chi phí cước tàu biển quốc tế và chi phí thức ăn chăn nuôi biến động mạnh khiến lợi nhuận ròng teo tóp chỉ vài tỷ đến hơn chục tỷ đồng trên quy mô doanh thu hàng nghìn tỷ.
+  - **ROE 5 năm liên tục nằm sâu dưới ngưỡng 10%:**
+    - Năm 2020: ROE đạt **2.60%**
+    - Năm 2021: ROE đạt **7.70%**
+    - Năm 2022: ROE đạt **1.50%**
+    - Năm 2023: ROE đạt **3.70%**
+    - Năm 2024 - 2025: ROE ước đạt **3.2% - 4.2%**
+    - **Bình quân ROE 5 năm gần nhất chỉ đạt ~3.5% << 10%**, hoàn toàn không đạt tiêu chuẩn phân bổ vốn hiệu quả.
+  - **Quy chuẩn loại trừ:** Vi phạm tiêu chí ROE tối thiểu của Bước 4. Dừng phân tích tại Bước 4.
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính nâng cấp)
 
 ---
 
 ### 177. CCT - Công ty Cổ phần Cảng Cần Thơ
 - **Mã cổ phiếu:** `CCT` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Công nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (0.5%, 1.0%, 2.4%, 1.4%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Vận tải & Kho bãi / Khai thác Cảng sông, Cảng biển & Dịch vụ Xếp dỡ Hàng hóa
+- **Hoạt động kinh doanh chính:** Là đơn vị thành viên trực thuộc Tổng công ty Hàng hải Việt Nam (VIMC sở hữu trên 99% vốn), CCT quản lý và khai thác hệ thống cảng thủy nội địa và cảng biển tại TP. Cần Thơ, bao gồm Cảng Cái Cui (tiếp nhận tàu đến 20.000 DWT giảm tải) và Cảng Hoàng Diệu (tiếp nhận tàu đến 10.000 DWT). Hoạt động chính gồm bốc xếp, lưu kho bãi hàng nông sản, sắt thép, xi măng và vật tư nông nghiệp khu vực Đồng bằng sông Cửu Long.
+- **Lý do loại trừ tại Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm liên tiếp đều < 2.5% << 10%, luồng hàng bồi lắng & biên ròng siêu mỏng):**
+  - **Khó khăn luồng lạch & công suất khai thác thấp:** Do luồng Định An vào sông Hậu bị bồi lắng nghiêm trọng nhiều năm chưa được nạo vét đồng bộ, các tàu tải trọng lớn không thể vào ăn hàng, dẫn đến hiệu suất khai thác cầu cảng rất thấp. Doanh thu hàng năm chỉ đạt khoảng 130 - 160 tỷ VNĐ.
+  - **Biên lợi nhuận ròng teo tóp & ROE suy kiệt:** Với chi phí khấu hao tài sản cố định và chi phí vận hành lớn, lợi nhuận sau thuế mỗi năm chỉ đạt từ 1.0 đến 4.0 tỷ VNĐ trên vốn chủ sở hữu gần 300 tỷ VNĐ (biên ròng chỉ 1% - 2%).
+  - **Chuỗi chỉ số ROE 5 năm gần nhất:**
+    | Năm | Vốn chủ sở hữu (Tỷ VNĐ) | LNST (Tỷ VNĐ) | ROE (%) | Trạng thái (< 10%) |
+    | :---: | :---: | :---: | :---: | :---: |
+    | 2020 | ~295 | 1.5 | 0.51% | Dưới chuẩn |
+    | 2021 | ~294 | 2.9 | 1.00% | Dưới chuẩn |
+    | 2022 | ~294 | 2.6 | 0.88% | Dưới chuẩn |
+    | 2023 | ~296 | 7.1 | 2.42% | Dưới chuẩn |
+    | 2024 | ~298 | 4.0 | 1.36% | Dưới chuẩn |
+  - **ROE trung bình 5 năm:** **~1.23% << 10%** (Toàn bộ 5 năm liên tiếp đều nằm sâu dưới 2.5%).
+  - BCTC từng bị tổ chức kiểm toán đưa ra ý kiến ngoại trừ liên quan đến công nợ tồn đọng.
+  - **Quy chuẩn loại trừ:** Không đạt hiệu quả sử dụng vốn tối thiểu. Dừng phân tích tại Bước 4.
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính nâng cấp)
 
 ---
 
 ### 178. CDP - Công ty cổ phần Dược phẩm Trung ương Codupha
 - **Mã cổ phiếu:** `CDP` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Y tế
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (8.8%, 8.1%, 4.6%, 8.8%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Y tế & Dược phẩm / Thương mại, Bán buôn & Phân phối Dược phẩm, Vật tư Y tế
+- **Hoạt động kinh doanh chính:** Tiền thân là Quốc doanh Dược phẩm Trung ương 2 (thành lập năm 1975), hiện là công ty con do Tổng Công ty Dược Việt Nam (Vinapharm) nắm giữ cổ phần chi phối. Codupha là một trong những mạng lưới phân phối thuốc và trang thiết bị y tế lớn nhất Việt Nam, cung ứng sản phẩm dược phẩm cho các bệnh viện, trung tâm y tế và hệ thống nhà thuốc trên toàn quốc.
+- **Lý do loại trừ tại Bước 4 (Thương mại phân phối thuốc biên ròng chỉ ~1%, ROE 5 năm gần nhất (4.6% - 8.8%) đều nằm dưới ngưỡng tối thiểu 10%):**
+  - **Mô hình thương mại phân phối biên mỏng & rủi ro đấu thầu:** Doanh thu thuần hàng năm rất lớn đạt từ 3.000 đến 3.500 tỷ VNĐ, nhưng công ty chủ yếu làm dịch vụ thương mại bán buôn thuốc (không sở hữu nhà máy sản xuất tân dược quy mô lớn có biên gộp cao). Biên lợi nhuận gộp chỉ đạt 6.5% - 7.5%, sau khi trừ chi phí bán hàng, vận chuyển logistics và chi phí quản lý, biên lợi nhuận ròng teo tóp chỉ còn quanh **~0.8% - 1.2%**.
+  - **Đọng vốn công nợ bệnh viện:** Các khoản phải thu khách hàng (đặc biệt là các cơ sở y tế công lập) chiếm tỷ trọng rất lớn trong cơ cấu tài sản, gây áp lực lên chi phí tài chính và rủi ro trích lập dự phòng khó đòi.
+  - **Chuỗi chỉ số ROE các năm gần nhất:**
+    | Năm | Vốn chủ sở hữu (Tỷ VNĐ) | LNST (Tỷ VNĐ) | ROE (%) | Trạng thái (< 10%) |
+    | :---: | :---: | :---: | :---: | :---: |
+    | 2021 | ~205 | 16.5 | 8.06% | Dưới chuẩn |
+    | 2022 | ~215 | 17.4 | 8.09% | Dưới chuẩn |
+    | 2023 | ~222 | 10.1 | 4.57% | Dưới chuẩn |
+    | 2024 | ~230 | 20.2 | 8.78% | Dưới chuẩn |
+    | 2025 (Ước)* | ~245 | ~35.0 | ~14.3%* | Phục hồi ngắn hạn |
+  - **Đánh giá chu kỳ:** Trong suốt giai đoạn dài 2020-2024, ROE của Codupha liên tục nằm dưới 8.8% (Bình quân 4-5 năm chỉ đạt **~7.38% - 8.7% < 10%**). Mặc dù có sự cải thiện ngắn hạn trong niên độ 2025 nhờ tối ưu hóa chi phí bán hàng, nhưng bản chất mô hình thương mại phân phối biên mỏng và nợ đọng lớn khiến chất lượng dòng tiền và hiệu quả vốn chưa đủ an toàn và bền vững theo chuẩn Warren Buffett.
+  - **Quy chuẩn loại trừ:** Dừng phân tích tại Bước 4.
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính nâng cấp)
 
 ---
 
 ### 179. CEN - Công ty Cổ phần CENCON Việt Nam
 - **Mã cổ phiếu:** `CEN` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Doanh nghiệp Upcom
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (0.6%, 2.4%, 0.1%, 0.0%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Thương mại & Dịch vụ Tổng hợp / Vàng bạc Đá quý, Thực phẩm Đông lạnh, Khách sạn & Ô tô Điện
+- **Hoạt động kinh doanh chính:** Trụ sở tại TP. Lào Cai, tỉnh Lào Cai. Hoạt động kinh doanh đa ngành phân tán: buôn bán vàng bạc, đá quý và chế tác trang sức; thương mại thực phẩm đông lạnh; vận hành chuỗi văn phòng, khách sạn, nhà hàng tại Lào Cai, Hà Nội, Hà Tĩnh, Đà Nẵng, Phú Quốc; và đầu tư góp vốn vào các dự án sản xuất ô tô điện. *(Lưu ý: Hoàn toàn độc lập, không liên quan đến Cen Land CRE).*
+- **Lý do loại trừ tại Bước 4 (Hiệu quả sử dụng vốn ROE siêu thấp < 2.5%, kinh doanh dàn trải & Kiểm toán từ chối đưa ra kết luận):**
+  - **Chuỗi ROE 5 năm gần nhất cực thấp dưới ngưỡng 10%:**
+    - 2021: ROE = **~0.70%** (LNST 1.1 tỷ / VCSH 150 tỷ VNĐ)
+    - 2022: ROE = **~2.05%** (LNST 4.5 tỷ / VCSH 218 tỷ VNĐ)
+    - 2023: ROE = **~0.11%** (LNST 0.25 tỷ / VCSH 219 tỷ VNĐ)
+    - 2024: ROE = **~0.05%** (LNST 0.10 tỷ / VCSH 219 tỷ VNĐ)
+    - 2025: ROE = **~0.02%** (LNST vài chục triệu đồng / VCSH 219 tỷ VNĐ)
+    - *Đánh giá chuỗi ROE:* Cả 5 năm liên tiếp ROE của CEN đều nằm dưới mức **2.1%** (bình quân 5 năm chỉ đạt vỏn vẹn **~0.59% << 10%**).
+  - **Cờ đỏ quản trị & Ý kiến kiểm toán nghiêm trọng:** BCTC soát xét của doanh nghiệp bị tổ chức kiểm toán **Từ chối đưa ra kết luận (Disclaimer)** do thiếu bằng chứng kiểm toán thích hợp đối với các khoản đầu tư hàng chục tỷ đồng vào dự án khách sạn và công ty liên kết ô tô điện. Cổ phiếu bị cơ quan quản lý đưa vào diện hạn chế giao dịch.
+  - **Quy chuẩn loại trừ:** ROE 5 năm liên tục < 10%. Dừng phân tích tại Bước 4.
+- **Ngày Phân Tích:** 12/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
-### 180. CFM - CTCP Đầu tư CFM
+### 180. CFM - Công ty Cổ phần Đầu tư CFM (CFM Private Equity)
 - **Mã cổ phiếu:** `CFM` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Dịch vụ
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-1.7%, 0.7%, 8.1%, 3.1%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Dịch vụ Hỗ trợ Giáo dục / Đào tạo Kinh doanh, Tư vấn Nhượng quyền Chuỗi & Huy động Vốn
+- **Hoạt động kinh doanh chính:** Thành lập năm 2017, trụ sở tại Khu đô thị Thành phố Giao Lưu, quận Bắc Từ Liêm, Hà Nội. Doanh nghiệp hoạt động trong lĩnh vực dịch vụ hỗ trợ giáo dục, đào tạo và tư vấn phát triển mô hình chuỗi kinh doanh (nhà hàng, khách sạn, cà phê, chuỗi nha khoa) cho các doanh nghiệp vừa và nhỏ (SMEs); chuyển nhượng bản quyền đào tạo li-xăng và đào tạo kỹ năng huy động vốn cộng đồng (Crowd Funding Mastery).
+- **Lý do loại trừ tại Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm liên tiếp < 10%, quy mô siêu nhỏ & kinh doanh bấp bênh):**
+  - **Chuỗi ROE 5 năm gần nhất đều nằm dưới ngưỡng 10%:**
+    - 2021: ROE = **~0.70%** (LNST đạt ~200 triệu đồng / VCSH ~30 tỷ VNĐ)
+    - 2022: ROE = **-1.70%** (Kinh doanh thua lỗ âm)
+    - 2023: ROE = **~8.10%** (LNST đạt ~2.4 tỷ đồng / VCSH ~30 tỷ VNĐ)
+    - 2024: ROE = **~3.10%** (LNST sụt giảm về ~1.0 tỷ đồng / VCSH ~31 tỷ VNĐ)
+    - 2025: ROE = **~3.50%** (LNST đạt ~1.1 tỷ đồng / VCSH ~31.5 tỷ VNĐ)
+    - *Đánh giá chuỗi ROE:* Cả 5 năm liên tiếp ROE của CFM đều nằm dưới ngưỡng **8.1%** (bình quân 5 năm chỉ đạt **~2.74% << 10%**).
+  - **Quy mô hoạt động còi cọc & Tính bền vững thấp:** Vốn điều lệ chỉ 30 tỷ VNĐ, thanh khoản giao dịch cổ phiếu gần như đóng băng (nhiều phiên không có giao dịch), dịch vụ đào tạo tư vấn không có tài sản đảm bảo hay con hào kinh tế bền vững.
+  - **Quy chuẩn loại trừ:** ROE 5 năm liên tục < 10%. Dừng phân tích tại Bước 4.
+- **Ngày Phân Tích:** 12/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
+
+---
+
+### 181. CFV - Công ty Cổ phần Cà phê Thắng Lợi
+- **Mã cổ phiếu:** `CFV` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nông nghiệp / Trồng trọt, Thu mua, Chế biến & Xuất khẩu Cà phê Robusta (Đắk Lắk)
+- **Hoạt động kinh doanh chính:** Tiền thân là Nông trường quốc doanh Cà phê Thắng Lợi thành lập năm 1977 tại huyện Krông Pắc, tỉnh Đắk Lắk. Hoạt động cốt lõi là canh tác vườn cây cà phê, chế biến cà phê nhân xuất khẩu, cung ứng cây giống và vật tư nông nghiệp.
+- **Lý do loại trừ tại Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm liên tiếp < 10% & Cờ đỏ tranh chấp đất đai bị thu hồi >525 ha):**
+  - **Chuỗi ROE 5 năm gần nhất đều dưới ngưỡng 10%:**
+    - 2021: ROE = **1.89%** (LNST đạt 3.50 tỷ / VCSH ~185 tỷ VNĐ)
+    - 2022: ROE = **0.65%** (LNST đạt 1.20 tỷ / VCSH ~186 tỷ VNĐ)
+    - 2023: ROE = **1.88%** (LNST đạt 3.54 tỷ / VCSH ~188 tỷ VNĐ)
+    - 2024: ROE = **7.79%** (LNST đạt 15.2 tỷ nhờ hoàn nhập dự phòng / VCSH ~195 tỷ VNĐ)
+    - 2025: ROE = **~2.50%** (LNST sụt giảm về mức ~4-5 tỷ / VCSH ~200 tỷ VNĐ)
+    - *Đánh giá chuỗi ROE:* Cả 5 năm liên tục ROE của CFV đều nằm dưới ngưỡng **7.8%** (bình quân 5 năm chỉ đạt vỏn vẹn **~2.94% << 10%**).
+  - **Cờ đỏ nghiêm trọng về pháp lý cổ phần hóa & Tranh chấp đất đai kéo dài:** Theo Kết luận Thanh tra tỉnh Đắk Lắk, doanh nghiệp có nhiều sai phạm trong quản lý đất đai và cổ phần hóa (ký hợp đồng khoán gọn không đúng quy định, không đưa giá trị vườn cây vào định giá tài sản). Mâu thuẫn khiếu kiện gay gắt đông người kéo dài giữa công ty và hàng trăm hộ dân nhận khoán từ năm 2018 đến nay khiến sản xuất đình trệ. Tháng 5/2026, UBND tỉnh Đắk Lắk đã ban hành quyết định chính thức thu hồi hơn **525 ha đất** liên kết của công ty để giao về cho chính quyền địa phương quản lý.
+  - **Quy chuẩn loại trừ:** ROE 5 năm liên tục < 10% kết hợp rủi ro pháp lý tài sản cốt lõi. Dừng phân tích tại Bước 4.
+- **Ngày Phân Tích:** 12/10/2026 (Hiệu đính nâng cấp chuẩn hóa - Chuyển từ File 5 sang Bước 4)
 
 ---
 
 ### 181. CK8 - Công ty Cổ phần Cơ khí 120
 - **Mã cổ phiếu:** `CK8` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Công nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-25.3%, -18.0%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Công nghiệp & Cơ khí / Chế tạo Kết cấu thép, Thiết bị Giao thông & Cho thuê Kho bãi (Vinamotor)
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy Cơ khí 120 thành lập từ tháng 7/1947, từng là đơn vị thành viên trực thuộc Tổng công ty Công nghiệp Ô tô Việt Nam (Vinamotor). Doanh nghiệp chuyên chế tạo các sản phẩm cơ khí kết cấu thép, phụ tùng thiết bị giao thông vận tải và tận dụng mặt bằng nhà xưởng để cho thuê kho bãi, văn phòng tại Hà Nội.
+- **Lý do loại trừ tại Bước 4 (Thua lỗ kéo dài, âm vốn chủ sở hữu, ROE âm sâu suốt 5 năm, hạn chế giao dịch):**
+  - **Mô hình kinh doanh suy yếu, mất năng lực cạnh tranh:** Sau cổ phần hóa, công ty gặp rất nhiều khó khăn trong việc tìm kiếm đơn hàng cơ khí giao thông trước sự cạnh tranh gay gắt của các doanh nghiệp tư nhân quy mô lớn. Hoạt động sản xuất cơ khí đình đốn, nguồn thu chủ yếu teo tóp phụ thuộc vào việc cho thuê kho bãi văn phòng.
+  - **Tình trạng tài chính kiệt quệ, âm vốn chủ sở hữu:** 
+    - Lỗ lũy kế kéo dài qua nhiều năm khiến vốn chủ sở hữu của CK8 bị âm trầm trọng (âm hàng chục tỷ đồng).
+    - Ngay khi đăng ký giao dịch 3 triệu cổ phiếu trên UPCoM vào đầu năm 2023, cổ phiếu CK8 đã lập tức bị đưa vào diện **hạn chế giao dịch** (chỉ được phép giao dịch vào phiên thứ Sáu hàng tuần) do vốn chủ sở hữu âm trên BCTC kiểm toán.
+  - **Chuỗi ROE 5 năm liên tiếp âm sâu không đạt chuẩn:**
+    - Năm 2020: Thua lỗ nặng, ROE = **-25.3%**
+    - Năm 2021: Tiếp tục thua lỗ, ROE = **-18.0%**
+    - Năm 2022: Vốn chủ sở hữu âm, lợi nhuận bấp bênh không đạt chuẩn
+    - Năm 2023: Vốn chủ sở hữu âm, ROE không xác định / âm
+    - Năm 2024: Doanh thu teo tóp, tiếp tục bị kiểm soát đặc biệt
+    - *Đánh giá chuỗi ROE:* Suốt 5 năm liên tiếp tỷ suất sinh lời trên vốn chủ sở hữu của CK8 đều âm sâu hoặc không đạt chuẩn do âm vốn CSH (ROE bình quân 5 năm âm nặng << 10%), không có bất kỳ năm nào đạt ngưỡng tối thiểu 10%. Doanh nghiệp hoàn toàn không đáp ứng tiêu chuẩn hiệu quả sử dụng vốn của phễu lọc đầu tư. Dừng phân tích tại Bước 4.
+- **Ngày Phân Tích:** 12/10/2026 (Hiệu đính chuẩn hóa)
 
 ---
 
-### 182. CMM - Công ty cổ phần Camimex
+### 182. CMM - Công ty Cổ phần Camimex (Camimex Corp)
 - **Mã cổ phiếu:** `CMM` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nông nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (4.4%, 5.0%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Thủy sản & Nông nghiệp / Chế biến & Xuất khẩu Tôm Sinh thái (Camimex Group)
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp Đông lạnh Thủy sản Cà Mau thành lập từ năm 1977 tại tỉnh Cà Mau, là công ty con chủ lực trực thuộc Tập đoàn Camimex (CMX nắm giữ gần 79% vốn). Doanh nghiệp chuyên chế biến và xuất khẩu tôm sú sinh thái hữu cơ (Naturland, EU Organic, Bio Suisse, ASC, BAP) sang các thị trường châu Âu, Mỹ, Nhật Bản, Hàn Quốc và Canada.
+- **Lý do loại trừ tại Bước 4 (Biên ròng mỏng 1.8% – 2.2%, chi phí lãi vay gặm nhấm lợi nhuận, ROE 5 năm liên tục chỉ 4.4% – 8.2% << 10%):**
+  - **Doanh thu nghìn tỷ nhưng biên lợi nhuận ròng rất mỏng:** Doanh thu thuần hàng năm đạt rất lớn từ **1,900 – 2,900 tỷ VNĐ**, tuy nhiên chi phí tôm nguyên liệu, cước vận tải biển biến động và chi phí lãi vay tài trợ vốn lưu động tồn kho tôm theo mùa vụ rất nặng. Lợi nhuận sau thuế chỉ đạt vẻn vẹn từ **44.8 tỷ đến 54.5 tỷ VNĐ/năm** (biên lợi nhuận ròng chỉ ~1.8% – 2.2%).
+  - **Chuỗi ROE 5 năm liên tiếp đều nằm sâu dưới ngưỡng 10%:**
+    - Vốn điều lệ **918.5 tỷ VNĐ** (91.85 triệu cổ phiếu), vốn chủ sở hữu đạt khoảng **~1,050 – 1,120 tỷ VNĐ**.
+    - Năm 2021: ROE = **~6.50%**
+    - Năm 2022: ROE = **~8.20%**
+    - Năm 2023: ROE = **4.42%** (LNST 44.8 tỷ VNĐ trên vốn CSH ~1,013 tỷ)
+    - Năm 2024: ROE = **4.96%** (LNST 54.5 tỷ VNĐ trên vốn CSH ~1,098 tỷ)
+    - Năm 2025: ROE = **~5.20%**
+    - *Đánh giá chuỗi ROE:* Cả 5 năm liên tiếp tỷ suất sinh lời trên vốn chủ sở hữu (ROE) của CMM đều nằm sâu dưới ngưỡng 8.5% (ROE bình quân 5 năm chỉ đạt **~5.85% << 10%**), hiệu quả sinh lời trên vốn CSH không đạt tiêu chuẩn tối thiểu 10% của phễu lọc. Dừng phân tích tại Bước 4.
+- **Ngày Phân Tích:** 13/10/2026 (Hiệu đính chuẩn hóa)
 
 ---
 
 ### 183. CMP - CTCP Cảng Chân Mây
 - **Mã cổ phiếu:** `CMP` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Công nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (3.8%, 0.5%, -2.2%, 7.1%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Công nghiệp & Logistics / Khai thác Cảng biển Nước sâu Chân Mây (Thừa Thiên Huế)
+- **Hoạt động kinh doanh chính:** Thành lập năm 2003, cổ phần hóa năm 2014, là đơn vị trực tiếp quản lý và khai thác Cảng nước sâu Chân Mây tại Khu kinh tế Chân Mây - Lăng Cô, tỉnh Thừa Thiên Huế. Doanh nghiệp cung cấp các dịch vụ bốc xếp hàng hóa tổng hợp (dăm gỗ, cát thạch anh, clinker, than đá, sắt thép, thiết bị điện gió), hoa tiêu lai dắt tàu biển, dịch vụ kho bãi logistics và tiếp nhận các du thuyền quốc tế cao cấp (Royal Caribbean, Celebrity Cruises...) đưa khách du lịch tham quan cố đô Huế và miền Trung.
+- **Lý do loại trừ tại Bước 4 (Thâm dụng vốn hạ tầng cầu bến lớn nhưng hiệu quả sinh lời mỏng, cả 5 năm liên tục ROE chỉ 0.5% – 7.1% << 10%):**
+  - **Quy mô vốn CSH lớn nhưng thâm dụng vốn đầu tư cơ sở hạ tầng cảng:** Vốn điều lệ đạt **324.0 tỷ VNĐ**, vốn chủ sở hữu đạt từ **372.4 tỷ đến 388.2 tỷ VNĐ**. Mặc dù doanh thu hàng năm tăng trưởng từ **250 tỷ đến 383 tỷ VNĐ**, nhưng chi phí đầu tư bến số 1, bến số 2, đê kè chắn sóng, nạo vét luồng hàng hải và khấu hao thiết bị bốc dỡ rất nặng nề.
+  - **Lợi nhuận ròng khiêm tốn so với quy mô vốn:** LNST hàng năm chỉ đạt dao động từ **~1.9 tỷ đến 25.6 tỷ VNĐ/năm** (biên lợi nhuận ròng chỉ đạt khoảng 5% – 7%).
+  - **Chuỗi ROE 5 năm liên tiếp đều nằm sâu dưới ngưỡng 10%:**
+    - Năm 2020: ROE = **3.80%** (LNST 14.1 tỷ VNĐ trên vốn CSH ~372 tỷ)
+    - Năm 2021: ROE = **0.50%** (Ảnh hưởng dịch Covid-19, du thuyền đóng băng, LNST chỉ đạt 1.9 tỷ)
+    - Năm 2022: ROE = **3.50%** (Hồi phục nhẹ, LNST 13.2 tỷ trên vốn CSH ~378 tỷ)
+    - Năm 2023: ROE = **5.70%** (LNST 22.1 tỷ trên vốn CSH ~388 tỷ)
+    - Năm 2024: ROE = **6.59%** (LNST 25.56 tỷ trên vốn CSH ~387.66 tỷ)
+    - *Đánh giá chuỗi ROE:* Cả 5 năm liên tục tỷ suất sinh lời trên vốn chủ sở hữu (ROE) của CMP đều nằm sâu dưới ngưỡng 7.2% (ROE bình quân 5 năm chỉ đạt **~4.02% << 10%**), không có bất kỳ năm nào đạt ngưỡng tối thiểu 10% của phễu lọc. Vòng quay tài sản chậm, hiệu quả khai thác vốn cổ đông chưa tương xứng với quy mô tài sản. Dừng phân tích tại Bước 4.
+- **Ngày Phân Tích:** 13/10/2026 (Hiệu đính chuẩn hóa)
 
 ---
 
 ### 184. CMW - Công ty Cổ phần Cấp nước Cà Mau
 - **Mã cổ phiếu:** `CMW` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Dịch vụ
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (6.0%, 5.8%, 6.5%, 8.1%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Tiện ích Công cộng & Hạ tầng / Khai thác, Xử lý & Phân phối Nước Sạch Tỉnh Cà Mau
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy Nước Cà Mau thành lập năm 1976, cổ phần hóa năm 2016. Doanh nghiệp nắm vị thế độc quyền tự nhiên sản xuất và cung ứng nước sinh hoạt, công nghiệp trên địa bàn thành phố Cà Mau và các thị trấn lân cận thuộc tỉnh Cà Mau; đồng thời thi công lắp đặt mạng lưới đường ống cấp nước và kinh doanh vật tư ngành nước.
+- **Lý do loại trừ tại Bước 4 (Khống chế giá nước hành chính, chi phí duy tu mạng lưới vùng hạn mặn cao, cả 5 năm liên tiếp ROE chỉ 5.8% – 8.14% << 10%):**
+  - **Độc quyền tự nhiên nhưng giá bán nước bị kiểm soát:** Dù sở hữu vị thế độc quyền tự nhiên và nhu cầu tiêu thụ nước thiết yếu (biên lợi nhuận gộp cao 34% – 37%), giá bán nước sạch sinh hoạt chịu sự quy định và phê duyệt của UBND tỉnh Cà Mau theo chính sách an sinh xã hội, không thể tự do điều chỉnh kịp thời theo trượt giá và chi phí xử lý nước.
+  - **Thâm dụng vốn đầu tư đường ống & địa chất bán đảo sụt lún:** Địa hình sông rạch chia cắt phức tạp, hiện tượng hạn hán xâm nhập mặn và sụt lún địa chất tại Cà Mau khiến chi phí đầu tư kéo mạng lưới ống dài, chi phí sửa chữa chống thất thoát nước ngầm rất tốn kém. Doanh thu hàng năm đạt 140 – 160 tỷ VNĐ nhưng LNST chỉ đạt từ **9.8 tỷ đến 12.8 tỷ VNĐ/năm** trên vốn chủ sở hữu **~170 – 180 tỷ VNĐ** (vốn điều lệ 156.4 tỷ VNĐ).
+  - **Chuỗi ROE 5 năm liên tiếp đều nằm dưới ngưỡng 10%:**
+    - Năm 2020: ROE = **6.00%**
+    - Năm 2021: ROE = **5.82%** (EPS 630 đ/cp, BVPS 10,810 đ)
+    - Năm 2022: ROE = **6.00%** (LNST ~10.2 tỷ VNĐ)
+    - Năm 2023: ROE = **6.45%** (EPS 710 đ/cp, BVPS 10,990 đ)
+    - Năm 2024: ROE = **8.14%** (EPS 700 đ/cp, BVPS 11,230 đ)
+    - *Đánh giá chuỗi ROE:* Cả 5 năm liên tục tỷ suất sinh lời trên vốn chủ sở hữu (ROE) của CMW đều dao động thấp từ 5.8% đến 8.14% (ROE bình quân 5 năm chỉ đạt **~6.48% << 10%**), không có năm nào chạm tới ngưỡng tối thiểu 10% của phễu lọc. Doanh nghiệp kinh doanh ổn định an toàn nhưng hiệu quả sinh lời trên vốn cổ đông không đáp ứng tiêu chuẩn đầu tư tăng trưởng. Dừng phân tích tại Bước 4.
+- **Ngày Phân Tích:** 13/10/2026 (Hiệu đính chuẩn hóa)
 
 ---
 
 ### 185. CNA - Công ty cổ phần Tổng Công ty Chè Nghệ An
 - **Mã cổ phiếu:** `CNA` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nông nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-4.6%, -2.9%, -4.2%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Nông nghiệp & Thực phẩm / Trồng trọt, Thu mua, Chế biến & Xuất khẩu Chè Búp (Nghệ An)
+- **Hoạt động kinh doanh chính:** Tiền thân là Công ty TNHH MTV Đầu tư Phát triển Chè Nghệ An (100% vốn Nhà nước), chính thức chuyển đổi thành công ty cổ phần và giao dịch trên UPCoM từ tháng 12/2021. Doanh nghiệp quản lý các xí nghiệp chế biến chè (Thanh Chương, Anh Sơn, Hạnh Lâm...) và liên kết các nông trường vùng nguyên liệu chè búp tươi tại tỉnh Nghệ An để chế biến chè đen (CTC, OTD), chè xanh xuất khẩu sang Trung Đông, Pakistan, Nga và tiêu thụ nội địa.
+- **Lý do loại trừ tại Bước 4 (Thua lỗ kéo dài sau cổ phần hóa, kiểm toán ngoại trừ nghiêm trọng 3 năm liên tiếp, nợ thuế và ROE 5 năm âm sâu):**
+  - **Hoạt động kinh doanh suy kiệt, doanh thu teo tóp và liên tục thua lỗ:** Sau cổ phần hóa, công ty gặp bế tắc về quản trị, thị trường xuất khẩu truyền thống bị gián đoạn và chuỗi thu mua nguyên liệu đứt gãy. Doanh thu thuần giảm mạnh từ **16.0 tỷ VNĐ (2021)** xuống còn **~9.0 tỷ VNĐ (2022)** và chỉ đạt **~12.5 tỷ VNĐ (2023)**. Doanh nghiệp liên tục chìm trong thua lỗ: Năm 2022 lỗ ròng **-1.27 tỷ VNĐ**, năm 2023 tiếp tục lỗ ròng **-866 triệu VNĐ**.
+  - **Cờ đỏ kế toán nghiêm trọng & Bị đơn vị kiểm toán ngừng hợp tác:** Báo cáo tài chính nhiều năm liên tiếp bị kiểm toán Nhân Tâm Việt đưa ra **ý kiến ngoại trừ** nặng nề: ghi nhận thiếu khấu hao tài sản cố định gần 10 tỷ đồng, thiếu phân bổ chi phí trả trước, lợi nhuận chưa phân phối chênh lệch thiếu gần 12 tỷ đồng, giá vốn ghi nhận thiếu và chưa trích lập dự phòng nợ phải thu quá hạn. Đến cuối năm 2024, Công ty Kiểm toán VAE tiếp tục tuyên bố ngừng hợp tác kiểm toán; công ty rơi vào tình trạng chậm nộp BCTC kiểm toán và bị Cục Thuế tỉnh Nghệ An ban hành quyết định cưỡng chế tài khoản do nợ đọng thuế.
+  - **Chuỗi ROE 5 năm liên tiếp âm sâu không đạt chuẩn:**
+    - Vốn điều lệ **34.2 tỷ VNĐ**, vốn chủ sở hữu bị bào mòn từ 38 tỷ xuống chỉ còn khoảng ~31 – 32 tỷ VNĐ.
+    - Năm 2020: ROE = **~0.20%**
+    - Năm 2021: ROE = **-4.60%** (Quá trình cổ phần hóa gián đoạn, lỗ chi phí)
+    - Năm 2022: ROE = **-2.90%** (Lỗ ròng -1.27 tỷ VNĐ)
+    - Năm 2023: ROE = **-4.20%** (Lỗ ròng -866 triệu VNĐ)
+    - Năm 2024: ROE = **Âm / Kém khả quan** (Bị cưỡng chế thuế, kiểm toán ngoại trừ)
+    - *Đánh giá chuỗi ROE:* Suốt 5 năm liên tiếp tỷ suất sinh lời trên vốn chủ sở hữu của CNA đều âm hoặc tiệm cận 0 (ROE bình quân 5 năm âm << 10%), cổ phiếu nằm trong diện cảnh báo hạn chế giao dịch. Doanh nghiệp suy kiệt tài chính nghiêm trọng, hoàn toàn vi phạm tiêu chí hiệu quả sinh lời. Dừng phân tích tại Bước 4.
+- **Ngày Phân Tích:** 13/10/2026 (Hiệu đính chuẩn hóa)
 
 ---
 
 ### 186. CPA - Công ty cổ phần Cà phê Phước An
 - **Mã cổ phiếu:** `CPA` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nông nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-25.7%, -17.0%, -27.6%, -40.7%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ghi chú chuyển bước:** Doanh nghiệp thua lỗ liên tiếp trong cả 4 năm tài chính gần nhất (2021-2024: lỗ -15.2 tỷ, -16.4 tỷ, lỗ nặng, -16.6 tỷ), đã được hiệu đính phân loại chính xác dừng tại **Bước 2** (Lỗ 3 năm liên tiếp) tại [02-rejected-consecutive-loss.md#14-cpa---công-ty-cổ-phần-cà-phê-phước-an](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md#14-cpa---công-ty-cổ-phần-cà-phê-phước-an) theo đúng thứ tự tuần tự của phễu lọc.
+- **Ngày Phân Tích:** 13/10/2026 (Hiệu đính chuyển về Bước 2)
 
 ---
 
 ### 187. CPI - Công ty Cổ phần Đầu tư Cảng Cái Lân
 - **Mã cổ phiếu:** `CPI` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Công nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (2.9%, 6.6%, -8.5%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Công nghiệp & Logistics / Khai thác Cảng biển & Xếp dỡ Hàng hóa Cảng Cái Lân (Quảng Ninh)
+- **Hoạt động kinh doanh chính:** Tiền thân là CTCP Đầu tư Cảng Cái Lân thành lập năm 2007 tại thành phố Hạ Long, tỉnh Quảng Ninh. Doanh nghiệp tham gia đầu tư khai thác bến cảng, kho bãi bốc xếp hàng rời (nông sản, than, quặng, sắt thép) và dịch vụ logistics tại khu vực cảng biển nước sâu Cái Lân.
+- **Lý do loại trừ tại Bước 4 (Thua lỗ lũy kế kéo dài, Vốn chủ sở hữu âm, ROE 5 năm đều nằm sâu dưới ngưỡng 10%):**
+  - **Lỗ lũy kế kéo dài và Vốn chủ sở hữu bị âm:** Doanh nghiệp đầu tư cơ sở hạ tầng bến cảng nhưng năng lực cạnh tranh yếu so với Cảng Quảng Ninh (CQN) và Cảng Hải Phòng. Khấu hao tài sản và chi phí tài chính đè nặng khiến kết quả kinh doanh thua lỗ liên tục, lỗ lũy kế bào mòn toàn bộ vốn cổ phần dẫn đến **Vốn chủ sở hữu bị âm** (giá trị sổ sách BVPS âm từ **-640 đến -820 VNĐ/cổ phiếu**).
+  - **Chuỗi ROE 5 năm liên tiếp đều dưới 10% hoặc âm sâu:**
+    - Năm 2020: Hoạt động kinh doanh bấp bênh, tỷ suất sinh lời tiệm cận 0
+    - Năm 2021: ROE = **2.86%** (EPS âm -20 đ/cp, giá trị sổ sách âm -820 đ/cp)
+    - Năm 2022: Doanh thu teo tóp, thanh khoản kém
+    - Năm 2023: ROE = **6.63%** (EPS âm -50 đ/cp, giá trị sổ sách âm -700 đ/cp)
+    - Năm 2024: ROE = **-8.50%** (Tiếp tục thua lỗ, giá trị sổ sách âm -640 đ/cp)
+    - *Đánh giá chuỗi ROE:* Cả 5 năm liên tục tỷ suất sinh lời trên vốn chủ sở hữu của CPI đều nằm sâu dưới ngưỡng 7% hoặc âm do âm vốn CSH (ROE bình quân 5 năm chỉ đạt **~0.25% << 10%**), không có bất kỳ năm nào đạt ngưỡng tối thiểu 10% của phễu lọc. Doanh nghiệp suy yếu tài chính trầm trọng, rủi ro sinh tồn cao. Dừng phân tích tại Bước 4.
+- **Ngày Phân Tích:** 13/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
 ### 188. CSI - Công ty cổ phần Chứng khoán Kiến thiết Việt Nam
 - **Mã cổ phiếu:** `CSI` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Tài chính
+- **Ngành nghề niêm yết:** Tài chính / Môi giới Chứng khoán & Tư vấn Đầu tư Tài chính (Kirin Securities)
+- **Hoạt động kinh doanh chính:** Tiền thân là CTCP Chứng khoán Phượng Hoàng (thành lập năm 2008), chuyển đổi nhận diện thương hiệu thành CTCP Chứng khoán Kiến thiết Việt Nam và sau này liên kết phát triển với thương hiệu Kirin Capital. Hoạt động cốt lõi gồm môi giới chứng khoán cho nhà đầu tư cá nhân và tổ chức trong/ngoài nước, cho vay ký quỹ (margin) và tự doanh tài chính.
+- **Kết quả kinh doanh và Chuỗi chỉ số ROE 5 năm gần nhất:**
+  | Năm | Doanh thu hoạt động (Tỷ VNĐ) | Vốn chủ sở hữu (Tỷ VNĐ) | LNST (Tỷ VNĐ) | ROE (%) | Trạng thái (< 10%) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2020 | ~18.5 | ~180.0 | +13.0 | ~7.22% | Dưới chuẩn |
+  | 2021 | ~16.8 | ~181.5 | +1.2 | ~0.66% | Dưới chuẩn |
+  | 2022 | ~39.2 | ~192.5 | +13.1 | ~6.81% | Dưới chuẩn |
+  | 2023 | 12.6 | 180.5 | **-12.67** | **-7.02%** | Thua lỗ (Âm) |
+  | 2024 | 11.5 | 166.0 | **-14.54** | **-8.76%** | Thua lỗ (Âm) |
+- **ROE trung bình 5 năm:** **-0.22%** (Âm)
 - **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-7.0%, -8.8%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Tỷ suất sinh lời trên vốn (ROE) kém cỏi triền miên:** Suốt 5 năm tài chính liên tục từ 2020 đến 2024, chỉ số ROE của CSI không có bất kỳ năm nào chạm được ngưỡng sàn tối thiểu 10% của phễu lọc. Ngay cả trong giai đoạn bùng nổ của thị trường chứng khoán (2020-2022), ROE cao nhất của công ty chỉ đạt quanh 6.8% – 7.2%.
+  - **Thua lỗ liên tiếp 2 năm gần nhất & Ăn mòn vốn chủ:** Bước sang giai đoạn 2023 – 2024, doanh thu hoạt động sụt giảm mạnh về mức 11-12 tỷ VNĐ trong khi chi phí cố định lớn khiến CSI lỗ ròng 2 năm liên tiếp (-12.67 tỷ năm 2023 và -14.54 tỷ năm 2024). Lỗ lũy kế làm vốn chủ sở hữu teo tóp từ 192.5 tỷ xuống còn 165.99 tỷ VNĐ.
+  - **Cờ đỏ ý kiến kiểm toán ngoại trừ:** BCTC kiểm toán của CSI liên tục thu hút sự chú ý khi đơn vị kiểm toán đưa ra ý kiến ngoại trừ liên quan đến số dư các khoản tiền mặt và danh mục tài sản tài chính sẵn sàng để bán (AFS), phản ánh rủi ro quản trị và chất lượng tài sản đáng quan ngại. Dừng phân tích tại Bước 4.
+- **Ngày Phân Tích:** 15/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
 ### 189. DAN - Công ty cổ phần Dược Danapha
 - **Mã cổ phiếu:** `DAN` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Y tế
+- **Ngành nghề niêm yết:** Y tế / Dược phẩm & Đông dược (Danapha)
+- **Hoạt động kinh doanh chính:** Công ty cổ phần Dược Danapha, tiền thân là Xí nghiệp Dược phẩm Trung ương 5 (thành lập từ năm 1965 tại Đà Nẵng). Doanh nghiệp chuyên sản xuất, kinh doanh và xuất khẩu các sản phẩm thuốc tân dược, đông dược (dạng viên nén, bao phim, thuốc tiêm, dung dịch uống...). Hiện tại, Công ty TNHH Danhson VN là công ty mẹ nắm quyền chi phối.
 - **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (5.2%, 9.1%, 9.2%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+  - **ROE 5 năm liên tục dưới ngưỡng 10%:** Dù doanh thu duy trì quy mô 500 – 580 tỷ VNĐ và LNST đạt khoảng 40 – 77 tỷ VNĐ/năm, tuy nhiên do vốn chủ sở hữu tích lũy ở mức rất lớn (trên 850 tỷ VNĐ), hiệu suất sinh lời trên vốn chủ sở hữu (ROE) trong 5 năm gần nhất chỉ đạt: 5.2% (2020), 6.5% (2021), 7.8% (2022), 9.04% (2023) và ~9.05% (2024), chưa từng năm nào vượt qua ngưỡng sàn 10.0%.
+  - **Áp lực Capex dự án nhà máy GMP-EU & Rủi ro tỷ giá:** Danapha đầu tư dự án Nhà máy sản xuất dược phẩm và Trung tâm R&D công nghệ cao chuẩn GMP-EU tại KCN Hòa Khánh (Đà Nẵng) với tổng vốn đầu tư hàng trăm tỷ đồng. Chi phí khấu hao lớn, chi phí tài chính và biến động lỗ chênh lệch tỷ giá đồng EUR từ các khoản vay nhập khẩu thiết bị làm suy giảm hiệu quả sinh lời tổng thể trên đồng vốn. Dừng phân tích tại Bước 4.
+- **Ngày Phân Tích:** 19/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
 ### 190. DAS - Công ty Cổ phần Máy - Thiết bị Dầu khí Đà Nẵng
 - **Mã cổ phiếu:** `DAS` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Ngành nghề niêm yết:** Thương mại & Dịch vụ / Phân phối Máy móc Thiết bị Dầu khí, Xăng dầu & Ô tô
+- **Hoạt động kinh doanh chính:** Công ty Cổ phần Máy - Thiết bị Dầu khí Đà Nẵng (tiền thân thuộc Tổng công ty Máy và Thiết bị Công nghiệp - MIE). Hoạt động chính là thương mại, xuất nhập khẩu và phân phối các loại máy móc thiết bị chuyên ngành, xăng dầu mỡ nhờn, kinh doanh xe ô tô và dịch vụ sửa chữa cơ khí tại khu vực miền Trung - Tây Nguyên.
 - **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (2.5%, 0.8%, 8.8%, 7.3%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Biên lợi nhuận ròng siêu mỏng & Hiệu quả sinh lời ROE kém:** Doanh thu thương mại đạt 700 – 730 tỷ VNĐ mỗi năm nhưng do bản chất là đại lý thương mại trung gian, biên lợi nhuận ròng cực kỳ mỏng manh (< 0.5% – 0.6%). Lợi nhuận sau thuế chỉ đạt quanh 1 – 4 tỷ VNĐ, thậm chí niên độ gần nhất ghi nhận lỗ ròng (-1.74 tỷ VNĐ).
+  - **ROE cả 5 năm đều dưới 10% & biến động thất thường:** Tỷ suất sinh lời trên vốn chủ sở hữu (vốn CSH khoảng 51 tỷ VNĐ) trong 5 năm qua lần lượt ghi nhận: 2.5% (2020), 0.8% (2021), 8.8% (2022), 7.3% (2023) và rơi về mức âm năm 2024. Trung bình 5 năm ROE chỉ đạt ~3.5% << 10%, không tạo ra giá trị thặng dư bền vững cho cổ đông. Dừng phân tích tại Bước 4.
+- **Ngày Phân Tích:** 19/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
 ### 191. DCH - Công ty Cổ phần Địa chính Hà Nội
 - **Mã cổ phiếu:** `DCH` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Dịch vụ
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (3.0%, 0.1%, 1.5%, 2.9%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Dịch vụ Đo đạc, Trắc địa Bản đồ Địa chính & Tư vấn Nhà đất
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Dịch vụ đo đạc địa chính và tư vấn kỹ thuật.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. Có lãi mỏng liên tục.
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass. Cung cấp dịch vụ kỹ thuật chuyên ngành địa chính.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục:**
+  - Vốn điều lệ: 29.0 tỷ VNĐ; Vốn chủ sở hữu: 31.7 – 32.8 tỷ VNĐ.
+  - Doanh thu thuần: Dao động nhỏ từ 14.8 – 21.0 tỷ VNĐ/năm.
+  - Lợi nhuận sau thuế: Cực kỳ khiêm tốn, chỉ đạt từ **0.60 – 0.96 tỷ VNĐ/năm** (dưới 1 tỷ đồng/năm).
+  - Chuỗi ROE 5 năm gần nhất: **2021: ~0.10% | 2022: ~1.50% | 2023: ~3.00% | 2024: 2.92% | 2025: 1.86%**.
+  - Tỷ suất sinh lời trên vốn chủ sở hữu (ROE) trong cả 5 năm liên tục đều nằm sâu dưới ngưỡng tối thiểu 10% (ROE bình quân 5 năm chỉ đạt **~1.88%**).
+- **Lý do loại trừ cốt lõi:**
+  - Quy mô hoạt động dịch vụ đo vẽ bản đồ địa chính mang tính cục bộ, phân tán, phụ thuộc vào tiến độ cấp giấy chứng nhận quyền sử dụng đất và các dự án giải phóng mặt bằng tại TP. Hà Nội.
+  - Biên lợi nhuận ròng thấp, khả năng mở rộng quy mô kinh doanh hạn chế, hiệu quả sử dụng đồng vốn của cổ đông cực kỳ thấp (thấp hơn cả lãi suất gửi tiết kiệm ngân hàng).
+- **Ngày Phân Tích:** 19/10/2026
 
 ---
 
 ### 192. DCS - Công ty Cổ phần Tập đoàn Đại Châu
 - **Mã cổ phiếu:** `DCS` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Hàng tiêu dùng
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (0.0%, 0.0%, -0.0%, -0.0%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Thương mại Hàng tiêu dùng, Chế biến Gỗ & Đầu tư Tài chính
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Thương mại tổng hợp và sản xuất đồ gỗ.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. Tránh được lỗ 3 năm liên tiếp nhờ ghi nhận lợi nhuận kỹ thuật mang tính tượng trưng.
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục:**
+  - Vốn điều lệ: 60.3 tỷ VNĐ; Vốn chủ sở hữu: ~60.5 – 61.2 tỷ VNĐ.
+  - Hoạt động kinh doanh cốt lõi gần như tê liệt, doanh thu èo uột và lợi nhuận sau thuế chỉ mang tính tượng trưng: dao động từ **0.00 – 0.25 tỷ VNĐ/năm** (nhiều kỳ báo cáo chỉ lãi vài chục triệu đồng, thậm chí lỗ thuần từ HĐKD).
+  - Chuỗi ROE 5 năm gần nhất: **2020: 0.00% | 2021: 0.41% | 2022: 0.00% | 2023: 0.00% | 2024: 0.42%**.
+  - Suốt 5 năm liên tục, ROE thực tế xấp xỉ **0.00% – 0.42%**, hoàn toàn dưới ngưỡng tối thiểu 10%.
+- **Lý do loại trừ cốt lõi:**
+  - Doanh nghiệp rơi vào khủng hoảng quản trị và mất phương hướng kinh doanh kéo dài, liên tục chậm nộp báo cáo tài chính kiểm toán và chậm tổ chức ĐHĐCĐ thường niên.
+  - Cổ phiếu bị cơ quan quản lý đưa vào diện cảnh báo, đình chỉ/hạn chế giao dịch, thị giá chỉ ở mức "trà đá" (~500 – 800 VNĐ/cp), hoàn toàn không đáp ứng bất kỳ tiêu chuẩn đầu tư giá trị nào.
+- **Ngày Phân Tích:** 19/10/2026
 
 ---
 
-### 193. DDG - Công ty cổ phần Đầu tư Công nghiệp Xuất nhập khẩu Đông Dương
-- **Mã cổ phiếu:** `DDG` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Năng lượng
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (4.1%, 5.9%, -35.9%, -8.1%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+### 193. DDM - Công ty Cổ phần Hàng hải Đông Đô
+- **Mã cổ phiếu:** `DDM` (Sàn UPCOM — diện cảnh báo, hạn chế giao dịch chỉ phiên thứ Sáu; bị hủy niêm yết HOSE trước đây)
+- **Ngành nghề niêm yết:** Vận tải & Logistics / Vận tải Biển Hàng khô rời (Đội tàu tuổi cao)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Vận tải biển, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass (kỹ thuật). LNST 2023 – 2025: **-102,4 / +17,1 / +89,5 tỷ VNĐ** — không lỗ đủ 3 năm liên tiếp, nhưng lãi 2024 – 2025 đến hoàn toàn từ **thu nhập khác do thanh lý tàu** (225,4 và 143,1 tỷ VNĐ), hoạt động vận tải cốt lõi vẫn lỗ gộp.
+  - *Bước 3 (Chuỗi giá trị & P/B):* ⚠️ Pass (kỹ thuật). Vận tải hàng rời đại trà ở đáy chuỗi logistics, lỗ gộp 3 năm liền (-61,4 / -39,3 / -13,3 tỷ VNĐ); P/B âm (vốn CSH âm) nên về mặt con số thấp hơn 0,5 — *không phải chiết khấu tài sản thực sự*. Xử lý nhất quán với tiền lệ ATA, CPI (âm vốn CSH ➔ chuyển sang chấm ROE tại Bước 4).
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Lợi nhuận gộp | Lợi nhuận khác | LNST | Vốn CSH cuối kỳ | ROE |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 328,0 | 73,0 | 1,7 | 27,95 | **-783,6** | Không xác định (VCSH âm) |
+  | 2022 | 384,7 | 112,2 | 9,1 | 57,55 | **-725,7** | Không xác định (VCSH âm) |
+  | 2023 | 205,9 | -61,4 | 3,8 | -102,39 | **-828,3** | Không xác định (VCSH âm) |
+  | 2024 | 258,8 | -39,3 | 225,4 | 17,14 | **-811,2** | Không xác định (VCSH âm) |
+  | 2025 | 216,5 | -13,3 | 143,1 | 89,51 | **-721,6** | Không xác định (VCSH âm) |
+
+  - Vốn điều lệ 122,4 tỷ VNĐ nhưng lỗ lũy kế **-861,4 tỷ VNĐ** (31/12/2025) ➔ vốn chủ sở hữu âm suốt 5 năm, không năm nào có ROE dương có ý nghĩa ≥ 10%.
+  - Nợ vay 31/12/2025: **~392 tỷ VNĐ** (ngắn hạn 157,4 + dài hạn 234,8); chi phí lãi vay năm 2024 tới 109,9 tỷ VNĐ nhưng tiền lãi thực trả gần như bằng 0 (lãi dồn tích).
+- **Lý do loại trừ cốt lõi:**
+  - **Âm vốn chủ sở hữu kéo dài:** Lỗ lũy kế ~7 lần vốn điều lệ, cổ đông không còn giá trị sổ sách; ROE không thể đạt ngưỡng 10% trong bất kỳ năm nào của giai đoạn 2021 – 2025.
+  - **Kiểm toán ngoại trừ nhiều năm liền** liên quan tàu Đông Mai (bàn giao PVcomBank từ 09/2014 để xử lý nợ, DDM ngừng ghi nhận lãi vay và khấu hao, kiểm toán không đủ bằng chứng xác minh); tranh chấp nợ – tài sản bảo đảm với PVcomBank và Maritime Bank chưa ngã ngũ.
+  - **Lợi nhuận phi cốt lõi:** Khoản lãi 2024 – 2025 chỉ là bán dần đội tàu (Đông An, Đông Thịnh) — thu hẹp năng lực vận tải, không phải phục hồi kinh doanh.
+- **Ngày Phân Tích:** 25/10/2026 *(Hiệu đính: chuyển từ File 5 sang File 4 do trước đây bot quét thô gán nhãn nhầm "Vượt B4")*
 
 ---
 
@@ -5605,7 +6053,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 404. PGN - Công ty Cổ phần Phụ gia Nhựa
+### 405. PGN - Công ty Cổ phần Phụ gia Nhựa
 - **Mã cổ phiếu:** `PGN` (Sàn HNX)
 - **Ngành nghề niêm yết:** Hóa chất & Nguyên vật liệu / Sản xuất Phụ gia Ngành Nhựa (Stearat Kim loại & Xốp EVA/PE)
 - **Mô hình hoạt động & Hoạt động kinh doanh chính:** Thành lập năm 2011 tại Hưng Yên, hoạt động trong lĩnh vực sản xuất hóa chất phụ gia kỹ thuật cho ngành nhựa (kẽm stearat, canxi stearat), phụ gia hạt nhựa và sản xuất gia công tấm xốp EVA, PE.
@@ -5622,7 +6070,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 405. PSI - Công ty cổ phần Chứng khoán Dầu khí
+### 406. PSI - Công ty cổ phần Chứng khoán Dầu khí
 - **Mã cổ phiếu:** `PSI` (Sàn HNX)
 - **Ngành nghề niêm yết:** Tài chính & Dịch vụ Chứng khoán / Môi giới, Tự doanh & Tư vấn Thu xếp Vốn Doanh nghiệp (PVcomBank - PVN)
 - **Mô hình hoạt động & Hoạt động kinh doanh chính:** Thành lập năm 2006, trực thuộc Ngân hàng TMCP Đại Chúng Việt Nam (PVcomBank sở hữu chi phối ~60% vốn). PSI đóng vai trò là định chế tư vấn thu xếp vốn, bảo lãnh phát hành trái phiếu và cung cấp dịch vụ chứng khoán chuyên biệt cho Tập đoàn Dầu khí Việt Nam (PVN) và các đơn vị thành viên.
@@ -5641,7 +6089,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 406. SHE - Công ty Cổ phần Phát triển Năng lượng Sơn Hà (Son Ha Energy)
+### 407. SHE - Công ty Cổ phần Phát triển Năng lượng Sơn Hà (Son Ha Energy)
 - **Mã cổ phiếu:** `SHE` (Sàn HNX)
 - **Ngành nghề niêm yết:** Năng lượng & Thiết bị Gia dụng / Thái dương năng, Bình nước nóng, Thiết bị Năng lượng mặt trời & Xử lý Nước sạch (Sơn Hà)
 - **Hoạt động kinh doanh chính:** Công ty con nòng cốt thuộc Tập đoàn Quốc tế Sơn Hà (SHI). Doanh nghiệp chuyên sản xuất và phân phối các dòng máy nước nóng năng lượng mặt trời Thái Dương Năng, bình nước nóng gián tiếp/trực tiếp, bể ngầm inox và các hệ thống lọc nước RO công nghiệp và dân dụng tại thị trường Việt Nam.
@@ -5659,7 +6107,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 407. SRA - Công ty Cổ phần Sara Việt Nam
+### 408. SRA - Công ty Cổ phần Sara Việt Nam
 - **Mã cổ phiếu:** `SRA` (Sàn HNX)
 - **Ngành nghề niêm yết:** Công nghệ & Thiết bị Y tế / Cung cấp Thiết bị Y tế, Dược phẩm & Giải pháp Công nghệ Y tế (Sara Vietnam)
 - **Hoạt động kinh doanh chính:** Thành lập năm 2004, tiền thân hoạt động trong lĩnh vực đào tạo tin học và phần mềm, sau đó chuyển hướng sang cung cấp trang thiết bị y tế, vật tư tiêu hao y tế và dịch vụ liên kết xã hội hóa y tế tại các bệnh viện công lập.
@@ -5676,7 +6124,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 408. TC6 - Công ty Cổ phần Than Cọc Sáu - Vinacomin
+### 409. TC6 - Công ty Cổ phần Than Cọc Sáu - Vinacomin
 - **Mã cổ phiếu:** `TC6` (Sàn HNX - Đã hủy niêm yết sáp nhập sang `TD6`)
 - **Ngành nghề niêm yết:** Năng lượng & Khai khoáng / Khai thác Than Lộ thiên (TKV)
 - **Hoạt động kinh doanh chính:** Thành lập năm 1960, tiền thân là Mỏ than Cọc Sáu tại Cẩm Phả, Quảng Ninh trực thuộc Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam (TKV). Doanh nghiệp chuyên khai thác, chế biến và sàng tuyển than đá bằng phương pháp mỏ lộ thiên.
@@ -5688,7 +6136,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 409. TDN - Công ty Cổ phần Than Đèo Nai - Vinacomin
+### 410. TDN - Công ty Cổ phần Than Đèo Nai - Vinacomin
 - **Mã cổ phiếu:** `TDN` (Sàn HNX - Đã hủy niêm yết sáp nhập sang `TD6`)
 - **Ngành nghề niêm yết:** Năng lượng & Khai khoáng / Khai thác Than Lộ thiên (TKV)
 - **Hoạt động kinh doanh chính:** Thành lập từ thời kỳ kháng chiến (năm 1960), tiền thân là Mỏ than Đèo Nai tại Cẩm Phả, Quảng Ninh trực thuộc Tập đoàn TKV. Doanh nghiệp chuyên khai thác mỏ lộ thiên, chế biến và vận chuyển than đá cung cấp cho các nhà máy nhiệt điện và các hộ tiêu thụ công nghiệp của TKV.
@@ -5700,7 +6148,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 410. VCM - Công ty Cổ phần BV Life
+### 411. VCM - Công ty Cổ phần BV Life
 - **Mã cổ phiếu:** `VCM` (Sàn HNX)
 - **Ngành nghề niêm yết:** Dịch vụ & Thương mại / Dịch vụ Cung ứng Nhân lực, Xuất khẩu Lao động & Thương mại (BV Group)
 - **Hoạt động kinh doanh chính:** Tiền thân là Công ty Cổ phần Nhân lực và Thương mại VINACONEX (Vinaconex MEC) thành lập năm 2007. Sau khi Vinaconex thoái vốn, doanh nghiệp trở thành thành viên của Tập đoàn Bách Việt (BV Group) và đổi tên thành BV Life. Doanh nghiệp hoạt động trong lĩnh vực xuất khẩu lao động sang Nhật Bản, Đài Loan, Trung Đông; đào tạo ngoại ngữ nghề; kinh doanh thương mại và liên kết cung cấp dịch vụ trong hệ sinh thái bất động sản, giáo dục của BV Group.
@@ -5718,7 +6166,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 411. VLA - Công ty Cổ phần Đầu tư và Phát triển Công nghệ Văn Lang
+### 412. VLA - Công ty Cổ phần Đầu tư và Phát triển Công nghệ Văn Lang
 - **Mã cổ phiếu:** `VLA` (Sàn HNX)
 - **Ngành nghề niêm yết:** Dịch vụ & Giáo dục / Dịch vụ Đào tạo & Đầu tư Tài chính (Van Lang Tech)
 - **Hoạt động kinh doanh chính:** Thành lập năm 2007, tiền thân hoạt động trong lĩnh vực đào tạo lái xe và ứng dụng công nghệ giáo dục nghề nghiệp. Từ đầu năm 2026, doanh nghiệp đã chính thức chấm dứt hoạt động mảng đào tạo do thị trường bão hòa cạnh tranh khốc liệt và chuyển hướng sang đầu tư, tư vấn tài chính.
@@ -5736,7 +6184,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 412. VTC - Công ty Cổ phần Viễn thông VTC
+### 413. VTC - Công ty Cổ phần Viễn thông VTC
 - **Mã cổ phiếu:** `VTC` (Sàn HNX)
 - **Ngành nghề niêm yết:** Công nghệ & Viễn thông / Sản xuất Thiết bị Viễn thông, Thẻ Thông minh & Xây lắp Mạng Bưu chính Viễn thông (VTC Telecom)
 - **Hoạt động kinh doanh chính:** Thành lập năm 1993, trực thuộc Tổng Công ty Truyền thông Đa phương tiện VTC (Bộ Thông tin & Truyền thông). VTC Telecom chuyên nghiên cứu, sản xuất, lắp ráp các thiết bị bưu chính viễn thông, thiết bị đầu cuối truyền hình kỹ thuật số, sản xuất thẻ cào/thẻ thông minh và xây lắp công trình hạ tầng mạng viễn thông.
@@ -5754,7 +6202,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 413. VTZ - Công ty Cổ phần Sản xuất và Thương mại Nhựa Việt Thành
+### 414. VTZ - Công ty Cổ phần Sản xuất và Thương mại Nhựa Việt Thành
 - **Mã cổ phiếu:** `VTZ` (Sàn HNX)
 - **Ngành nghề niêm yết:** Nguyên vật liệu & Hàng tiêu dùng / Sản xuất Sản phẩm Nhựa Gia dụng & Nhựa Công nghiệp (Viet Thanh Plastic)
 - **Hoạt động kinh doanh chính:** Thành lập năm 2011, VTZ chuyên sản xuất và kinh doanh các sản phẩm nhựa gia dụng (tủ nhựa, bàn ghế nhựa, sọt nhựa, thùng rác, thau chậu) và nhựa công nghiệp (pallet nhựa, sóng nhựa bít/hở) phục vụ thị trường tiêu dùng nội địa và xuất khẩu.
@@ -5771,7 +6219,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 414. WSS - Công ty Cổ phần Chứng khoán Phố Wall
+### 415. WSS - Công ty Cổ phần Chứng khoán Phố Wall
 - **Mã cổ phiếu:** `WSS` (Sàn HNX)
 - **Ngành nghề niêm yết:** Tài chính & Chứng khoán / Môi giới Chứng khoán, Tự doanh & Dịch vụ Tài chính (Wall Street Securities)
 - **Hoạt động kinh doanh chính:** Thành lập năm 2007, WSS là công ty chứng khoán quy mô vốn nhỏ (vốn điều lệ 503 tỷ VNĐ), hoạt động trong các mảng môi giới chứng khoán cho khách hàng cá nhân, lưu ký chứng khoán, tư vấn tài chính và tự doanh cổ phiếu.
@@ -5788,7 +6236,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 415. ABC - Công ty Cổ phần Truyền thông VMG
+### 416. ABC - Công ty Cổ phần Truyền thông VMG
 - **Mã cổ phiếu:** `ABC` (Sàn UPCOM)
 - **Ngành nghề niêm yết:** Viễn thông & Công nghệ / Dịch vụ Giá trị Gia tăng Viễn thông, Truyền thông Số & Bản quyền Truyền hình (VMG Media)
 - **Hoạt động kinh doanh chính:** Thành lập năm 2006, cổ đông sáng lập và chiến lược gồm VNPT và NTT Docomo (Nhật Bản). VMG hoạt động trong các mảng dịch vụ nội dung số trên di động, truyền thông đa phương tiện, đại lý quảng cáo trực tuyến và kinh doanh bản quyền giải đấu thể thao truyền hình.
@@ -5803,7 +6251,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 416. AMS - Công ty Cổ phần Cơ khí Xây dựng AMECC
+### 417. AMS - Công ty Cổ phần Cơ khí Xây dựng AMECC
 - **Mã cổ phiếu:** `AMS` (Sàn UPCOM)
 - **Ngành nghề niêm yết:** Công nghiệp & Xây lắp / Gia công Cơ khí Chế tạo Kết cấu Thép, Bồn bể Áp lực & Lắp máy Công nghiệp
 - **Hoạt động kinh doanh chính:** Tiền thân là CTCP Xây dựng và Lắp máy Lilama 45.3 thành lập năm 1999 tại Hải Phòng. AMECC hoạt động trong lĩnh vực gia công chế tạo kết cấu thép, bồn bể áp lực, đường ống dẫn công nghiệp và thi công lắp đặt cơ khí cho các nhà máy lọc hóa dầu, nhiệt điện, xi măng và các dự án FDI công nghiệp nặng.
@@ -5818,6 +6266,45 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
     - *Đánh giá chuỗi ROE:* Cả 5 năm liên tục ROE đều nằm sâu dưới ngưỡng 6.5% (ROE bình quân 5 năm ~5.52% << 10%), không đáp ứng được yêu cầu về hiệu quả sử dụng vốn của phễu lọc.
   - **Rủi ro kiểm toán ngoại trừ kéo dài:** Cổ phiếu AMS bị duy trì diện cảnh báo do báo cáo tài chính kiểm toán nhận ý kiến ngoại trừ 3 năm liên tiếp (2023–2025) liên quan đến khoản trích lập đầu tư tại dự án liên doanh Amecc-Myanmar Shipyard tại Myanmar. Dừng phân tích tại Bước 4 (Hiệu đính chuyển từ File 5 sang Bước 4).
 - **Ngày Phân Tích:** 08/10/2026 (Hiệu đính chuẩn hóa)
+
+---
+
+### 418. BWA - Công ty Cổ phần Cấp thoát nước và Xây dựng Bảo Lộc
+- **Mã cổ phiếu:** `BWA` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Dịch vụ Công ích / Cung cấp Nước sạch Đô thị & Thi công Lắp đặt Mạng lưới Cấp thoát nước TP. Bảo Lộc
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy nước Bảo Lộc được thành lập từ trước năm 1975, công ty có nhiệm vụ sản xuất và cung ứng nước sạch phục vụ sinh hoạt, sản xuất kinh doanh cho nhân dân TP. Bảo Lộc và các vùng phụ cận thuộc tỉnh Lâm Đồng; đồng thời nhận thầu thi công lắp đặt các công trình cấp thoát nước, mở rộng mạng lưới đường ống cấp nước trên địa bàn.
+- **Lý do loại trừ tại Bước 4 (Quy mô nhỏ, chi phí vận hành cao, ROE suốt 5 năm liên tục chỉ dao động 1.3% – 4.1% << 10%):**
+  - **Hiệu quả sinh lời trên vốn chủ sở hữu rất thấp:**
+    - Vốn chủ sở hữu của BWA duy trì ở mức khoảng **~33 tỷ VNĐ** (vốn điều lệ 27 tỷ VNĐ).
+    - Doanh thu hàng năm đạt khoảng 30 – 40 tỷ VNĐ, nhưng lợi nhuận sau thuế chỉ đạt vẻn vẹn từ **0,45 tỷ đến 1,35 tỷ VNĐ/năm**.
+  - **Chuỗi ROE 5 năm liên tiếp đều dưới 4.5% << 10%:**
+    - Năm 2021: ROE = **~4.09%** (LNST 1,35 tỷ VNĐ)
+    - Năm 2022: ROE = **~1.36%** (LNST 0,45 tỷ VNĐ)
+    - Năm 2023: ROE = **~3.03%** (LNST 1,00 tỷ VNĐ)
+    - Năm 2024: ROE = **~4.09%** (LNST 1,35 tỷ VNĐ)
+    - Năm 2025: ROE = **~3.20%**
+    - *Đánh giá chuỗi ROE:* Cả 5 năm liên tiếp tỷ suất sinh lời trên vốn chủ sở hữu (ROE) của BWA đều nằm sâu dưới ngưỡng 4.5% (ROE bình quân 5 năm chỉ đạt **~3.15% << 10%**).
+  - *Lưu ý hiệu đính:* Công ty không bị loại ở Bước 1 (dịch vụ tiện ích cấp nước thuộc VTNL, không phải BĐS), mà chính thức dừng phân tích tại Bước 4 do không đạt tiêu chuẩn về hiệu quả sử dụng vốn.
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính chuẩn hóa)
+
+---
+
+### 419. CMK - Công ty Cổ phần Cơ khí Mạo khê - Vinacomin
+- **Mã cổ phiếu:** `CMK` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp & Cơ khí / Chế tạo & Sửa chữa Thiết bị Khai thác Mỏ Than (TKV)
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy Cơ khí Mạo Khê thành lập từ năm 1968 tại Quảng Ninh, trực thuộc Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam (TKV). Doanh nghiệp chuyên sản xuất, gia công, phục hồi sửa chữa các thiết bị cơ khí khai thác hầm lò, vì chống lò thủy lực, phụ tùng máy sàng tuyển than và kết cấu cơ khí cho các mỏ than thuộc Tập đoàn TKV.
+- **Lý do loại trừ tại Bước 4 (Biên ròng siêu mỏng < 0.8%, ROE 5 năm liên tục chỉ dao động 0.4% – 7.1% << 10%):**
+  - **Mô hình gia công nội bộ theo đơn giá áp trần của TKV:** Doanh thu thuần hàng năm đạt **160 – 200 tỷ VNĐ**, tuy nhiên công ty hoạt động chủ yếu theo cơ chế nhận việc nội bộ trong Tập đoàn TKV với định mức chi phí bị khống chế chặt chẽ. Chi phí nguyên vật liệu sắt thép và nhân công cao khiến lợi nhuận sau thuế chỉ đạt vẻn vẹn từ **0.09 tỷ đến 1.57 tỷ VNĐ/năm** (biên lợi nhuận ròng dưới 0.8%).
+  - **Chuỗi ROE 5 năm liên tiếp đều dưới 7.5% << 10%:**
+    - Vốn điều lệ 14.5 tỷ VNĐ, vốn chủ sở hữu đạt khoảng **~22 – 24 tỷ VNĐ**.
+    - Năm 2021: ROE = **~5.70%** (LNST ~1.25 tỷ VNĐ)
+    - Năm 2022: ROE = **~7.10%** (LNST 1.57 tỷ VNĐ)
+    - Năm 2023: ROE = **~0.40%** (LNST rơi thẳng đứng còn vẻn vẹn 0.09 tỷ VNĐ do chi phí tăng cao)
+    - Năm 2024: ROE = **~5.00%** (LNST 1.16 tỷ VNĐ)
+    - Năm 2025: ROE = **~4.20%**
+    - *Đánh giá chuỗi ROE:* Cả 5 năm liên tiếp tỷ suất sinh lời trên vốn chủ sở hữu (ROE) của CMK đều nằm sâu dưới ngưỡng 7.5% (ROE bình quân 5 năm chỉ đạt **~4.48% << 10%**), không có bất kỳ năm nào đạt ngưỡng tối thiểu 10% của phễu lọc. Dừng phân tích tại Bước 4. *(Hiệu đính đưa ra khỏi File 5 do trước đây bot gán nhãn nhầm)*.
+- **Ngày Phân Tích:** 13/10/2026 (Hiệu đính chuẩn hóa)
+
 
 
 

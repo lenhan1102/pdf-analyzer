@@ -224,3 +224,29 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ ba: 
 - **Lý do bị loại:** MCF hoạt động xuất khẩu gạo thô và gia công phụ tùng ở tầng đáy chuỗi giá trị gia tăng nông nghiệp, biên lợi nhuận mỏng và chịu rủi ro biến động giá nguyên liệu lúa gạo. Định giá P/B thực tế đạt 0.66 lần (chưa đạt ngưỡng an toàn tài sản P/B < 0.5). Doanh nghiệp chính thức bị loại trừ tại Bước 3.
 - **Ngày sàng lọc:** 2026-10-05
 
+---
+
+<a id="ddb"></a>
+### 20. DDB - Công ty cổ phần Thương mại và Xây Dựng Đông Dương
+- **Mã cổ phiếu:** `DDB` (Sàn UPCOM — giao dịch từ 15/01/2025, giá chào sàn 17.200 VNĐ/cp)
+- **Ngành nghề niêm yết:** Nguyên vật liệu / Gỗ & Giấy — Thương mại Gỗ, Sàn gỗ, Đồ gỗ Nội thất & Cung cấp Cát Xây dựng *(file nguồn xếp "Chưa phân loại")*
+- **Bước 1 (Vòng tròn năng lực):** ✅ Pass. Hoạt động chính là sản xuất – kinh doanh gỗ thương phẩm (gần 600 mã gỗ, ~20.000 m³/năm), sàn gỗ tự nhiên/kỹ thuật, đồ gỗ nội thất (nhà máy 3 ha tại Ứng Hòa, Hà Nội) và cung cấp cát xây dựng khu vực An Giang; không phải chủ đầu tư BĐS dân dụng hay thầu xây lắp. *(Hiệu đính: trước đây bot quét thô loại nhầm tại Bước 1 với lý do "BĐS dân dụng/phân lô bán nền")*.
+- **Bước 2 (Lợi nhuận 3 năm):** ✅ Pass. LNST 2023 – 2025 đều dương.
+- **Vị thế chuỗi giá trị:**
+  - Phần lớn doanh thu là thương mại gỗ nguyên liệu/gỗ thương phẩm và cát xây dựng — hàng hóa đại trà, không có thương hiệu bán lẻ hay công nghệ độc quyền, không có quyền lực định giá.
+  - Biên lợi nhuận gộp mỏng và đi xuống: **9,6% (2021) ➔ 9,5% (2023) ➔ 6,0% (2024) ➔ 5,2% (2025)**; biên ròng 2025 chỉ **~0,76%**.
+- **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Lợi nhuận gộp | Biên gộp | LNST | Vốn CSH cuối kỳ | Trạng thái |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 227,4 | 21,8 | 9,6% | 5,27 | 111,3 | Lãi |
+  | 2022 | 444,1 | 34,2 | 7,7% | 7,16 | 118,4 | Lãi |
+  | 2023 | 611,0 | 58,3 | 9,5% | 9,58 | 147,9 | Lãi |
+  | 2024 | 426,8 | 25,5 | 6,0% | 4,35 | 149,2 | Lãi |
+  | 2025 | 401,8 | 20,7 | 5,2% | 3,04 | 152,2 | Lãi |
+
+- **Định giá P/B thực tế:** **~0,66 lần** (Thị giá ~8.400 VNĐ/cp ngày 23/10/2026 so với BVPS ~12.690 VNĐ/cp; vốn điều lệ 120 tỷ VNĐ, 12 triệu cổ phiếu). P/E ~33x theo LNST 2025.
+  - Điều kiện ngoại lệ giữ lại: Định giá phải siêu rẻ với P/B < 0.5.
+  - Thực tế: P/B = 0.66 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net.
+- **Lý do bị loại:** DDB là doanh nghiệp thương mại gỗ và cát xây dựng đại trà ở tầng thấp của chuỗi giá trị, biên gộp chỉ 5 – 6% và đang thu hẹp, LNST giảm liên tục từ 9,6 tỷ (2023) xuống 3,0 tỷ VNĐ (2025, ROE ~2%). Định giá P/B ~0,66 lần chưa đạt ngưỡng an toàn tài sản P/B < 0.5. Doanh nghiệp bị loại tại Bước 3.
+- **Ngày sàng lọc:** 2026-10-25

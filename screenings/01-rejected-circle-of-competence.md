@@ -1837,14 +1837,15 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 
 ---
 
-### 168. SIC - Công ty Cổ phần ANI (Đầu tư - Phát triển Sông Đà)
-- **Mã cổ phiếu:** `SIC` (Sàn HNX / UPCoM)
-- **Ngành nghề niêm yết:** Bất động sản & Xây dựng / Đầu tư Bất động sản & Thủy điện
-- **Mô hình hoạt động & Hoạt động kinh doanh chính:** Tiền thân là Công ty Cổ phần Đầu tư – Phát triển Sông Đà thành lập năm 1993 trực thuộc Tổng công ty Sông Đà. Doanh nghiệp hoạt động trong lĩnh vực đầu tư phát triển các dự án khu nhà ở, khu đô thị, xây dựng công trình hạ tầng và đầu tư nhà máy thủy điện nhỏ.
-- **Lý do loại trừ tại Bước 1 (Kinh doanh bất động sản nhà ở dân dụng & xây lắp hạ tầng ngoài VTNL):**
-  - **Mô hình kinh doanh phụ thuộc chu kỳ bất động sản và vướng mắc pháp lý kéo dài:** Doanh nghiệp gặp nhiều khó khăn trong triển khai dự án BĐS, thanh khoản suy kiệt, từng bị hủy niêm yết bắt buộc trên Sở GDCK Hà Nội (HNX) do vi phạm công bố thông tin.
-  - **Thuộc danh mục ngành nghề loại trừ dứt khoát tại Bước 1:** Hoạt động đầu tư kinh doanh bất động sản dân dụng và xây lắp hạ tầng nằm ngoài Vòng tròn năng lực, loại bỏ bắt buộc tại Bước 1 theo quy chuẩn phễu lọc.
-- **Ngày Phân Tích:** 06/10/2026 (Cập nhật chuẩn hóa)
+### 168. SIC / ANI - Công ty Cổ phần ANI (Tiền thân: Đầu tư - Phát triển Sông Đà)
+- **Mã cổ phiếu:** `SIC` (Mã cũ HNX - Đã hủy niêm yết) / `ANI` (Mã mới Sàn UPCoM)
+- **Ngành nghề niêm yết:** Bất động sản & Xây dựng / Đầu tư Phát triển Bất động sản Dân dụng & Thủy điện Vừa và Nhỏ
+- **Mô hình hoạt động & Hoạt động kinh doanh chính:** Tiền thân là Chi nhánh Tổng công ty Sông Đà tại TP.HCM thành lập năm 1993, sau cổ phần hóa lấy tên CTCP Đầu tư – Phát triển Sông Đà (mã SIC), sau đó đổi tên thành CTCP ANI. Doanh nghiệp hoạt động trong 2 mảng chính: (1) Đầu tư phát triển các dự án bất động sản dân dụng (Chung cư Bửu Long - Đồng Nai, Chung cư Phú Mỹ, các tòa nhà căn hộ văn phòng Sông Đà tại TP.HCM); (2) Vận hành các cụm thủy điện nhỏ (Krông K'mar, Pleikeo, Đam Bri 1, Phú Tân 2) và điện gió Chư Prông.
+- **Lý do loại trừ tại Bước 1 (Kinh doanh bất động sản nhà ở dân dụng & thủy điện nhỏ hỗn tạp ngoài VTNL):**
+  - **Mô hình BĐS nhà ở dân dụng chu kỳ và lịch sử vi phạm công bố thông tin:** Doanh nghiệp từng bị hủy niêm yết bắt buộc trên Sở GDCK Hà Nội (HNX) vào tháng 07/2023 do không còn đáp ứng điều kiện công ty đại chúng. Đến cuối 2025 công ty mới tái cơ cấu và đăng ký giao dịch lại trên UPCoM từ đầu 2026 dưới mã chứng khoán `ANI`.
+  - **Hiệu quả kinh doanh bấp bênh và rủi ro thời tiết:** Lợi nhuận ghi nhận đột biến theo đợt bàn giao dự án BĐS hoặc thanh lý tài sản nhưng kết quả từng quý rất bấp bênh (Quý 1/2025 lỗ -17 tỷ, Quý 1/2026 tiếp tục lỗ -10 tỷ VNĐ).
+  - **Thuộc danh mục ngành nghề loại trừ dứt khoát tại Bước 1:** Hoạt động đầu tư kinh doanh bất động sản dân dụng và xây lắp hạ tầng nằm ngoài Vòng tròn năng lực, loại bỏ bắt buộc tại Bước 1 theo quy chuẩn phễu lọc (Hiệu đính chuyển từ File 5 sang Bước 1).
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
@@ -2259,93 +2260,136 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 
 ---
 
+### 202b. BCA - Công ty Cổ phần B.C.H
+- **Mã cổ phiếu:** `BCA` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Nguyên vật liệu / Thương mại Phân phối Thép Xây dựng, Phôi thép & Than Coke
+- **Hoạt động kinh doanh chính:** Thành lập năm 2004 tại Hải Dương, vốn điều lệ 190 tỷ VNĐ. Hoạt động cốt lõi của công ty là kinh doanh thương mại và xuất nhập khẩu phôi thép, thép xây dựng, than coke và phế liệu kim loại phục vụ cho các nhà máy cán thép và công trình xây dựng.
+- **Lý do loại trừ tại Bước 1 (Thương mại phân phối sắt thép xây dựng biên mỏng, rủi ro chu kỳ nặng nề ngoài VTNL):**
+  - **Mô hình đại lý thương mại thuần túy, biên lợi nhuận ròng dưới 0.5%:** Doanh thu hàng năm đạt từ 1.300 đến hơn 2.000 tỷ VNĐ nhưng chủ yếu là mua đi bán lại nguyên liệu thép và than coke, biên lợi nhuận gộp chỉ 1% - 2% và biên lợi nhuận ròng siêu mỏng (< 0.5%).
+  - **Rủi ro chu kỳ giá thép và đọng vốn lưu động:** Ngành thương mại thép chịu rủi ro biến động giá nguyên liệu tồn kho cực lớn và gánh nặng nợ vay ngắn hạn tài trợ vốn lưu động. Hiệu quả sinh lời trên vốn CSH (ROE) các năm qua chỉ quanh quẩn mức **3% – 4% << 10%**.
+  - Thuộc nhóm doanh nghiệp thương mại phân phối sắt thép xây dựng đại trà ngoài Vòng tròn năng lực thấu hiểu của phễu lọc (tương tự KMT, MEL, KKC), chính thức loại trừ tại Bước 1.
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính chuẩn hóa)
+
+---
+
 ### 203. BDT - Công ty Cổ phần Xây lắp và Vật liệu Xây dựng Đồng Tháp
 - **Mã cổ phiếu:** `BDT` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Thi công Xây lắp Hạ tầng, Khai thác Cát Sông & Cung ứng VLXD
+- **Hoạt động kinh doanh chính:** Thành lập trên cơ sở sáp nhập các đơn vị trực thuộc Sở Xây dựng Đồng Tháp. Doanh nghiệp chuyên khai thác cát san lấp lòng sông Tiền, thi công san lấp mặt bằng, xây dựng các công trình giao thông thủy lợi và cung ứng vật liệu xây dựng tại tỉnh Đồng Tháp và khu vực Đồng bằng sông Cửu Long.
+- **Lý do loại trừ tại Bước 1 (Thầu xây lắp công trình & Khai thác cát sông san lấp đại trà ngoài VTNL):**
+  - **Mô hình thầu thi công xây lắp biên ròng mỏng và rủi ro chu kỳ:** Hoạt động xây lắp phụ thuộc vào giải ngân đầu tư công địa phương, rủi ro trượt giá nguyên nhiên liệu và công nợ đọng kéo dài từ các chủ đầu tư.
+  - **Hiệu quả kinh doanh bấp bênh, từng thua lỗ nặng:** Năm 2023 ROE chỉ đạt 7.09%, sang năm 2024 thua lỗ ròng tới **-14.02 tỷ VNĐ** (ROE âm -2.69%), năm 2025 phục hồi yếu ớt (ROE 1.42%). Khai thác cát sông đối mặt với nguy cơ sạt lở bờ sông, siết chặt cấp phép mỏ và thanh tra tài nguyên môi trường.
+  - Thuộc nhóm doanh nghiệp thầu xây lắp công trình và khai thác VLXD đại trà ngoài Vòng tròn năng lực, chính thức loại trừ tại Bước 1.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
+
+---
+
+### 203b. BEL - CTCP Điện tử Biên Hòa
+- **Mã cổ phiếu:** `BEL` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghệ & Bất động sản / Cho thuê Văn phòng, Kho xưởng & Thiết bị Âm thanh Belco
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp Sanyo Industries Việt Nam thành lập năm 1971, sở hữu thương hiệu thiết bị âm thanh Belco (loa, ampli, đầu đĩa karaoke, quạt điện). Tuy nhiên, hiện nay mảng sản xuất điện tử âm thanh đã suy tàn (doanh thu cả năm chỉ đạt vẻn vẹn 12 – 17 tỷ VNĐ). Nguồn thu nhập và lợi nhuận cốt lõi của công ty sống nhờ vào việc khai thác cho thuê các mặt bằng bất động sản, văn phòng và kho xưởng tại TP.HCM (Quận 1) và TP Biên Hòa (Đồng Nai).
+- **Lý do loại trừ tại Bước 1 (Sản xuất điện tử truyền thống suy tàn, sống nhờ cho thuê BĐS kho bãi ngoài VTNL):**
+  - **Mảng sản xuất điện tử âm thanh mất hoàn toàn vị thế cạnh tranh:** Quy mô teo tóp, sản phẩm âm thanh gia dụng truyền thống bị thay thế hoàn toàn bởi hàng công nghệ cao ngoại nhập và hàng Trung Quốc giá rẻ, không có con hào kinh tế hay năng lực R&D.
+  - **Bản chất sống nhờ cho thuê mặt bằng bất động sản thương mại:** Toàn bộ lợi nhuận phụ thuộc vào việc tận dụng quỹ đất công sản cho thuê kho bãi, văn phòng thương phẩm — lĩnh vực dịch vụ bất động sản cho thuê thông thường ngoài Vòng tròn năng lực (tương tự như NHC, KKC).
+  - **Hiệu quả sinh lời suy giảm và định giá phi lý:** 3 năm gần nhất ROE chỉ đạt từ **4.0% – 6.9%** (năm 2024: 4.01%, năm 2025: 5.31%), P/E bị thổi phồng lên tới hơn **40x**. Dừng phân tích tại Bước 1 theo quy chuẩn thanh lọc phễu lọc.
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính chuẩn hóa)
 
 ---
 
 ### 204. BHC - Công ty Cổ phần Bê tông Biên Hòa
 - **Mã cổ phiếu:** `BHC` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Sản xuất Cấu kiện Bê tông & Bê tông Thương phẩm
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Sản xuất bê tông thương phẩm và cấu kiện bê tông đại trà ngoài Vòng tròn năng lực:** Doanh nghiệp hoạt động trong lĩnh vực sản xuất bê tông tươi, ống cống bê tông, cọc bê tông ly tâm và thi công xây lắp dân dụng/hạ tầng. Đây là phân khúc vật liệu xây dựng chịu cạnh tranh khốc liệt về giá, bán kính tiêu thụ hẹp (< 30km do bê tông tươi đông kết), biên lợi nhuận mỏng và rủi ro nợ xấu xây dựng rất lớn.
+  - **Tài chính suy kiệt, vốn chủ sở hữu âm nặng và bị hạn chế giao dịch:**
+    - Hoạt động kinh doanh đình trệ, doanh thu sụt giảm nghiêm trọng và thua lỗ kéo dài.
+    - Vốn chủ sở hữu âm tới **-77 tỷ VNĐ**, giá trị sổ sách (BVPS) âm **-17.121 đ/cổ phiếu**. Đơn vị kiểm toán đưa ra ý kiến trái ngược đối với báo cáo tài chính.
+    - Cổ phiếu BHC nằm trong diện bị hạn chế giao dịch nhiều năm trên UPCoM, hoàn toàn không đáp ứng tiêu chuẩn đầu tư an toàn.
+- **Ngày Phân Tích:** 08/10/2026
 
 ---
 
 ### 205. BIG - CTCP Big Invest Group
 - **Mã cổ phiếu:** `BIG` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Bất động sản & Xây dựng / BĐS Dân dụng, Cho thuê Tòa nhà Căn hộ Khách sạn Dòng tiền & Môi giới
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Mô hình bất động sản thuê & cho thuê lại kết hợp góp vốn cộng đồng ngoài VTNL:** Doanh nghiệp (hiện đổi tên thành Big Group Holdings) do ông Võ Phi Nhật Huy sáng lập, hoạt động chủ yếu trong việc đi thuê các tòa nhà, khách sạn, căn hộ mini rồi cho thuê lại ăn chênh lệch (mô hình BĐS dòng tiền), kết hợp với mô hình huy động vốn hợp tác đầu tư cộng đồng nhỏ lẻ (crowdfunding). Đây là mảng dịch vụ bất động sản dân dụng có rủi ro pháp lý cao, cạnh tranh khốc liệt và hoàn toàn nằm ngoài Vòng tròn năng lực cốt lõi.
+  - **Tài chính mỏng manh, dòng tiền bấp bênh và rủi ro lãnh đạo thoái vốn:** Hiệu quả sinh lời rất thấp với LNST chỉ vài trăm triệu đến hơn 1 tỷ VNĐ/năm (ROE lẹt đẹt 1% - 3%), phụ thuộc vào dòng tiền cho thuê biến động và rủi ro lấp đầy. Chủ tịch HĐQT và người sáng lập thường xuyên có các giao dịch đăng ký bán ra lượng lớn cổ phiếu. Hoàn toàn không đạt tiêu chuẩn doanh nghiệp an toàn.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 206. BMF - Công ty cổ phần Vật liệu Xây dựng và Chất đốt Đồng Nai
 - **Mã cổ phiếu:** `BMF` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Năng lượng
+- **Ngành nghề niêm yết:** Thương mại & Bán lẻ Nhiên liệu / Phân phối Xăng dầu, Dầu nhớt & Khí dầu mỏ hóa lỏng LPG tại Đồng Nai
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Năng lượng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Mô hình thương mại phân phối xăng dầu hạ nguồn biên ròng siêu mỏng < 0.5% ngoài VTNL:** Doanh nghiệp sở hữu mạng lưới hơn 100 đại lý và cửa hàng bán lẻ xăng dầu, khí đốt trên địa bàn tỉnh Đồng Nai. Doanh thu rất lớn (đạt hơn **3.400 tỷ VNĐ/năm**) nhưng lợi nhuận sau thuế chỉ đạt từ **15 – 17 tỷ VNĐ/năm** (biên lãi ròng vỏn vẹn 0.44% – 0.50%).
+  - **Rủi ro chu kỳ giá dầu, chiết khấu hoa hồng bấp bênh và rủi ro tồn kho:** Hoạt động kinh doanh xăng dầu phụ thuộc hoàn toàn vào chu kỳ giá dầu thế giới và cơ chế điều hành giá bán lẻ, quỹ bình ổn của Liên Bộ Công Thương - Tài chính. Những thời điểm giá dầu thế giới biến động mạnh hoặc chiết khấu hoa hồng đầu vào bị cắt giảm về 0 đồng, doanh nghiệp chịu áp lực tồn kho giá cao và chi phí vận hành cửa hàng lớn. Thuộc nhóm thương mại phân phối nhiên liệu chu kỳ ngoài Vòng tròn năng lực cốt lõi.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 207. BMJ - Công ty Cổ phần Khoáng sản Miền Đông AHP
 - **Mã cổ phiếu:** `BMJ` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Xây dựng & Khoáng sản / Thi công Hạ tầng KCN, San lấp Mặt bằng, Kinh doanh BĐS & Khai thác Đá xây dựng
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Mô hình xây lắp hạ tầng KCN, san lấp mặt bằng và kinh doanh BĐS ngoài VTNL:** Tiền thân là Xí nghiệp Khai thác Khoáng sản Becamex IDC. Mặc dù sở hữu mỏ đá xây dựng An Bình (Phú Giáo, Bình Dương), phần lớn nguồn thu và vốn đầu tư của BMJ gắn liền với hoạt động thi công hạ tầng kỹ thuật các khu công nghiệp, khu dân cư đô thị, kinh doanh bất động sản và san lấp mặt bằng. Đây là lĩnh vực xây lắp hạ tầng thâm dụng vốn, rủi ro thu hồi công nợ và thuộc nhóm ngoài Vòng tròn năng lực.
+  - **Tăng vốn phát hành dồn dập pha loãng và hiệu quả vốn ROE thấp:** Doanh nghiệp liên tục tăng vốn điều lệ gấp hơn 17 lần từ 60 tỷ lên 300 tỷ rồi lên 1.050 tỷ VNĐ (VCSH đạt hơn 1.340 tỷ VNĐ). Việc pha loãng vốn quá nhanh khiến tỷ suất sinh lời ROE trong 4 năm liên tiếp (2023–2026) chỉ dao động ở mức **3.99% – 7.70% << 10%** (2023: 4.51%, 2024: 3.99%, 2025: 6.86%, 2026: 7.7%), không đạt tiêu chuẩn tích lũy giá trị bền vững.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 208. BT6 - Công ty Cổ phần Beton 6
 - **Mã cổ phiếu:** `BT6` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Sản xuất Bê tông Đúc sẵn & Thi công Cầu đường, Hạ tầng Giao thông
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Hoạt động cốt lõi:** Chuyên sản xuất cấu kiện bê tông đúc sẵn, dầm cầu bê tông cốt thép dự ứng lực và thi công xây lắp công trình hạ tầng giao thông cầu đường, cảng biển. Đây là ngành xây lắp hạ tầng và VLXD xây dựng đại trà, phụ thuộc nặng nề vào chu kỳ đầu tư công, tiến độ giải ngân dự án và công nợ kéo dài, hoàn toàn nằm ngoài Vòng tròn năng lực của quỹ.
+  - **Khủng hoảng tài chính trầm trọng:** Doanh nghiệp lâm vào cảnh mất cân đối tài chính nghiêm trọng từ nhiều năm nay với các khoản nợ vay khổng lồ, thua lỗ triền miên bào mòn toàn bộ vốn cổ đông, vốn chủ sở hữu âm hàng trăm tỷ đồng và từng phải nộp đơn yêu cầu mở thủ tục phá sản tại Tòa án.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
 ### 209. BTD - Công ty Cổ phần Bê tông Ly tâm Thủ Đức
 - **Mã cổ phiếu:** `BTD` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Sản xuất Cấu kiện Bê tông Đúc sẵn, Trụ điện Ly tâm & Cọc cừ
+- **Lý do loại trừ tại Bước 1 (Vòng tròn năng lực & Ngành nghề):**
+  - **Sản phẩm VLXD cấu kiện bê tông phục vụ xây lắp ngoài Vòng tròn năng lực:** Công ty chuyên sản xuất các loại trụ điện bê tông ly tâm, cọc cừ bê tông cốt thép dự ứng lực phục vụ các dự án hạ tầng truyền tải điện, giao thông và công trình thủy lợi. Đây là mảng vật liệu xây dựng phụ trợ và thi công xây lắp hạ tầng công trình, chịu rủi ro chu kỳ đầu tư công và nằm ngoài Vòng tròn năng lực trọng tâm của quỹ.
+  - **Đặc thù ngành cạnh tranh gay gắt, chi phí vận chuyển lớn và biên lợi nhuận mỏng:** Cấu kiện bê tông ly tâm có trọng lượng và thể tích cồng kềnh, chi phí logistics vận chuyển chiếm tỷ trọng cao khiến bán kính phục vụ bị giới hạn cục bộ. Biên lợi nhuận ròng của BTD rất mỏng chỉ đạt 2.5% – 2.8% (doanh thu 315 – 350 tỷ VNĐ nhưng LNST chỉ đạt 8 – 9 tỷ VNĐ/năm).
+  - **Rủi ro công nợ xây lắp và hiệu quả sử dụng vốn thấp:** Doanh nghiệp chịu áp lực nợ đọng nghiệm thu kéo dài từ các nhà thầu và ban quản lý dự án xây lắp. Tỷ suất sinh lời trên vốn CSH (ROE) các năm qua chỉ quanh quẩn mức 7.0% – 8.5% < 10%, không có con hào kinh tế bảo vệ.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
-### 210. BTN - Công ty Cổ phần Gạch Tuy Nen Bình Định
+### 209B. BTH - Công ty Cổ phần Chế tạo Biến thế và Vật liệu điện Hà Nội
+- **Mã cổ phiếu:** `BTH` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Công nghiệp / Chế tạo Thiết bị điện & Bất động sản Dân dụng (Dự án Hoàng Thành Pearl)
+- **Lý do loại trừ tại Bước 1 (Vòng tròn năng lực & Ngành nghề):**
+  - **Bản chất kinh doanh cốt lõi đã biến thành Bất động sản Dân dụng ngoài Vòng tròn năng lực:** Trên danh nghĩa niêm yết là doanh nghiệp sản xuất máy biến thế, nhưng trên thực tế công ty đã dừng hẳn hoạt động sản xuất công nghiệp thiết bị điện từ nhiều năm nay. Toàn bộ nguồn lực và quỹ đất trụ sở cũ đã được chuyển đổi thành dự án phát triển nhà ở thương mại cao cấp: **Dự án Chung cư Hoàng Thành Pearl** (Cầu Diễn, Nam Từ Liêm, Hà Nội). Theo quy chuẩn khắt khe tại Bước 1 của AGENTS.md, nhóm kinh doanh và phát triển dự án bất động sản nhà ở dân dụng nằm hoàn toàn ngoài Vòng tròn năng lực.
+  - **Lợi nhuận đột biến một lần (One-off) từ bàn giao căn hộ, không có tính bền vững tái đầu tư:** Năm 2024 lợi nhuận sau thuế của BTH tăng vọt đột biến lên **708 tỷ VNĐ** nhờ việc bàn giao 331 căn hộ tại dự án Hoàng Thành Pearl. Tuy nhiên, sang năm 2025 lợi nhuận ngay lập tức sụt giảm nghiêm trọng xuống còn **186.1 tỷ VNĐ** (chỉ còn bàn giao nốt 13 căn cuối cùng). Đây là khoản lợi nhuận "ăn xổi" cục bộ theo tiến độ bàn giao dự án BĐS, không xuất phát từ hoạt động sản xuất kinh doanh cốt lõi liên tục và không thể tạo ra dòng tiền tự do (FCF) đều đặn cho cổ đông.
+  - **Bộ máy quản trị vỏn vẹn 6–7 nhân sự, không có con hào kinh tế:** Toàn bộ công ty chỉ duy trì vỏn vẹn 6 đến 7 nhân viên để quản lý dự án và phân chia lợi nhuận, hoàn toàn không có lợi thế quy mô, công nghệ hay con hào kinh tế bền vững.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật phân loại lại từ File 5 sang Bước 1)
+
+---
+
+### 210. BTN - Công ty Cổ phần Gạch Tuy Nen Bình Định (Bitco Bình Định)
 - **Mã cổ phiếu:** `BTN` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Sản xuất Gạch ngói Đất sét nung Tuynen & Gạch không nung
+- **Lý do loại trừ tại Bước 1 (Vòng tròn năng lực & Ngành nghề):**
+  - **Vật liệu xây dựng gạch đất sét nung đại trà ngoài Vòng tròn năng lực:** Doanh nghiệp (tiền thân là Xí nghiệp Gạch ngói Phước An) chuyên sản xuất gạch xây tuynen đất sét nung và ngói lợp tại tỉnh Bình Định. Ngành sản xuất gạch nung truyền thống là ngành vật liệu xây dựng cơ bản đại trà, công nghệ lò nung tiêu tốn nhiều tài nguyên đất sét và năng lượng than đá, gây ô nhiễm môi trường và bị siết chặt bởi chính sách thay thế gạch không nung của Nhà nước.
+  - **Không có lợi thế cạnh tranh, thị trường bị phân mảnh và bán kính tiêu thụ hẹp:** Sản phẩm gạch ngói có giá trị gia tăng thấp, giá bán rẻ nhưng chi phí vận chuyển đường bộ rất lớn khiến sản phẩm chỉ tiêu thụ được trong phạm vi hẹp nội tỉnh, chịu cạnh tranh khốc liệt về giá từ hàng chục lò gạch tư nhân địa phương.
+  - **Tình trạng tài chính kiệt quệ, thua lỗ triền miên (Vi phạm cả Bước 2 và Bước 4):** Công ty rơi vào khủng hoảng kéo dài, thua lỗ liên tục (năm 2022 lỗ gần -6.9 tỷ VNĐ, năm 2024-2025 EPS âm nặng, ROE âm thảm hại từ -80% đến -91%), nợ vay ngân hàng quá hạn, toàn bộ tài sản cố định đều bị thế chấp, cổ phiếu bị đưa vào diện cảnh báo/hạn chế giao dịch.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
-### 211. BTU - CTCP Công trình Đô thị Bến Tre
-- **Mã cổ phiếu:** `BTU` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
-### 212. BVL - Công ty cổ phần BV Land
+### 212. BVL - Công ty Cổ phần BV Land
 - **Mã cổ phiếu:** `BVL` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Đầu tư Phát triển Khu đô thị, Chung cư Thương mại & Xây lắp
+- **Lý do loại trừ tại Bước 1 (Vòng tròn năng lực & Ngành nghề):**
+  - **Doanh nghiệp kinh doanh Bất động sản Dân dụng thuần túy ngoài Vòng tròn năng lực:** Tiền thân là CTCP Xây dựng Vinaenco, BV Land là đơn vị phát triển bất động sản mũi nhọn của Tập đoàn Bách Việt (BV Group), chuyên đầu tư các dự án khu đô thị, nhà ở thương mại và chung cư phân lô (các dự án tiêu biểu như Bavella Green Park tại Bắc Ninh, Diamond Hill tại Thái Nguyên, BV Diamond Hill Bắc Giang...). Theo quy chuẩn khắt khe tại Bước 1 của AGENTS.md, nhóm doanh nghiệp đầu tư phát triển và kinh doanh bất động sản nhà ở dân dụng nằm hoàn toàn ngoài Vòng tròn năng lực.
+  - **Lợi nhuận phụ thuộc lớn vào chu kỳ mở bán và bàn giao dự án:** Mặc dù năm 2025 ghi nhận doanh thu 1,470 tỷ VNĐ và LNST đột biến 370 tỷ VNĐ nhờ bàn giao lượng lớn sản phẩm tại dự án Bavella Green Park và Diamond Hill, lợi nhuận của BV Land mang tính chu kỳ cao, phụ thuộc lớn vào tiến độ cấp phép pháp lý dự án và thanh khoản thị trường BĐS địa phương, không tạo ra dòng tiền FCF ổn định hàng năm.
+  - **Áp lực nợ vay và chi phí tồn kho dự án kéo dài:** Hoạt động phát triển khu đô thị đòi hỏi lượng vốn tài trợ lớn cho giải phóng mặt bằng và xây dựng dở dang kéo dài nhiều năm, tiềm ẩn rủi ro đòn bẩy tài chính khi thị trường đảo chiều.
+- **Ngày Phân Tích:** 08/10/2026 (Cập nhật chuẩn hóa)
 
 ---
 
@@ -2378,253 +2422,337 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 
 ### 216. C92 - Công ty Cổ phần Xây dựng và Đầu tư 492
 - **Mã cổ phiếu:** `C92` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Thi công Cầu đường & Hạ tầng Giao thông
+- **Hoạt động kinh doanh chính:** Tiền thân là Đội Cầu 9 trực thuộc Cục Đường sắt, sau đó là Công ty Cầu 92 thuộc Tổng công ty Xây dựng Công trình Giao thông 4 (CIENCO 4). Doanh nghiệp chuyên thi công xây lắp các công trình cầu đường bộ, cầu đường sắt, hầm chui và hạ tầng giao thông đô thị trên cả nước.
+- **Lý do loại trừ tại Bước 1 (Nhà thầu xây lắp hạ tầng giao thông, biên ròng mỏng, đọng vốn nghiệm thu ngoài VTNL):**
+  - **Mô hình kinh doanh xây lắp hạ tầng rủi ro cao:** Hoạt động kinh doanh phụ thuộc hoàn toàn vào các gói thầu xây dựng cầu đường, chịu áp lực cạnh tranh đấu thầu gay gắt, biến động giá sắt thép cát sỏi và tiến độ giải ngân vốn ngân sách.
+  - **Biên lợi nhuận mỏng và rủi ro thu hồi nợ:** Biên lợi nhuận ròng thường xuyên teo tóp dưới 1.5% - 2.0%, dòng tiền kinh doanh bấp bênh do vốn bị ứ đọng lớn ở các khoản phải thu nghiệm thu công trình kéo dài và chi phí lãi vay ngân hàng bào mòn lợi nhuận.
+  - **Quy chuẩn loại trừ:** Nằm trong nhóm tổng thầu xây lắp hạ tầng đại trà ngoài Vòng tròn năng lực của Quỹ.
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính nâng cấp)
 
 ---
 
 ### 217. CBI - Công ty Cổ phần Gang thép Cao Bằng
 - **Mã cổ phiếu:** `CBI` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Nguyên vật liệu & Công nghiệp / Khai thác Quặng sắt & Luyện kim Phôi thép
+- **Hoạt động kinh doanh chính:** Là đơn vị thành viên nòng cốt trực thuộc Tổng công ty Khoáng sản TKV - CTCP (VIMICO). Doanh nghiệp quản lý khai thác mỏ sắt Nà Rụa và vận hành Khu liên hợp Gang thép Cao Bằng với công suất thiết kế khoảng 220.000 tấn phôi thép/năm.
+- **Lý do loại trừ tại Bước 1 (Sản xuất phôi thép xây dựng thô, VLXD đại trà, thâm dụng than điện ngoài VTNL):**
+  - **Sản phẩm phôi thép thương phẩm ở đáy chuỗi giá trị:** Phôi thép là sản phẩm sơ chế trung gian dùng để cán thép xây dựng thông thường, hoàn toàn không có sự khác biệt hóa sản phẩm (commoditized), cạnh tranh khốc liệt với thép nhập khẩu giá rẻ từ Trung Quốc và các tập đoàn thép nội địa quy mô lớn (Hòa Phát, Formosa).
+  - **Chu kỳ ngành kim loại gãy đổ và áp lực chi phí nguyên liệu:** Doanh nghiệp chịu rủi ro rất cao trước biến động giá than mỡ, than coke luyện kim, điện năng và giá quặng sắt. Khi thị trường bất động sản đóng băng, tiêu thụ phôi thép giảm mạnh dẫn tới hiệu quả kinh doanh lao dốc thảm hại (năm 2024-2025 thua lỗ nặng, ROE âm sâu tới -57% đến -285%).
+  - **Quy chuẩn loại trừ:** Nằm trong nhóm luyện kim vật liệu xây dựng đại trà, chu kỳ nặng nề, thâm dụng vốn và năng lượng, ngoài Vòng tròn năng lực của Quỹ.
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính nâng cấp)
 
 ---
 
 ### 218. CC1 - Tổng Công ty Xây dựng số 1 - CTCP
 - **Mã cổ phiếu:** `CC1` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Tổng thầu Xây lắp Công trình Dân dụng, Công nghiệp & Hạ tầng Giao thông
+- **Hoạt động kinh doanh chính:** Tiền thân là Tổng công ty Xây dựng số 1 trực thuộc Bộ Xây dựng, thành lập năm 1979. CC1 là một trong những nhà thầu xây lắp quy mô lớn nhất Việt Nam, tham gia các đại dự án trọng điểm quốc gia như Nhà ga T3 Tân Sơn Nhất, Cảng hàng không quốc tế Long Thành, Nhà máy Nhiệt điện Quảng Trạch 1, Na Dương II, và nhiều gói thầu cao tốc Bắc - Nam.
+- **Lý do loại trừ tại Bước 1 (Tổng thầu xây lắp hạ tầng & dân dụng ngoài Vòng tròn năng lực, biên ròng mỏng, thâm dụng vốn nợ vay):**
+  - **Mô hình kinh doanh xây lắp hạ tầng & dân dụng đại trà:** Doanh thu chủ yếu đến từ hoạt động thi công xây lắp (doanh thu hàng năm trên 10.000 - 11.600 tỷ VNĐ). Ngành thầu xây dựng đối mặt với sự cạnh tranh khốc liệt về đơn giá bỏ thầu, biến động giá vật liệu (sắt thép, xi măng, cát đắp nền) và phụ thuộc lớn vào tiến độ giải phóng mặt bằng của chủ đầu tư.
+  - **Biên lợi nhuận mỏng và hiệu quả sinh lời trên vốn thấp:** Mặc dù doanh thu hàng chục nghìn tỷ nhưng biên lợi nhuận gộp mảng xây lắp rất thấp, có những quý mảng xây dựng cốt lõi bị lỗ gộp. Lợi nhuận ròng phụ thuộc nhiều vào doanh thu tài chính từ thoái vốn/chuyển nhượng đầu tư. Chỉ số ROE các năm qua chỉ đạt quanh **4.4% - 5.17% << 10%** (năm 2023: 5.17%, 2024: 5.01%, 2025: 4.40%).
+  - **Thâm dụng nợ vay và rủi ro công nợ đọng vốn:** Vòng quay vốn chậm, các khoản phải thu khách hàng và chi phí sản xuất dở dang chiếm tỷ trọng rất lớn trong tổng tài sản, phải duy trì dư nợ vay tài chính ngắn và dài hạn lớn để bù đắp dòng tiền thi công.
+  - **Quy chuẩn loại trừ:** Nằm trong nhóm nhà thầu xây lắp dân dụng & công nghiệp đại trà ngoài Vòng tròn năng lực của Quỹ. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính nâng cấp)
 
 ---
 
 ### 219. CCM - Công ty Cổ phần Khoáng sản & Xi măng Cần Thơ
 - **Mã cổ phiếu:** `CCM` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Sản xuất Vật liệu Xây dựng (Xi măng, Cát đá) & Kinh doanh Bất động sản
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy Xi măng Cần Thơ trực thuộc Sở Xây dựng Cần Thơ, hoạt động trong lĩnh vực trạm nghiền và kinh doanh xi măng đóng bao, khai thác và cung ứng cát san lấp, đá xây dựng cho các công trình tại khu vực Đồng bằng Sông Cửu Long, đồng thời đầu tư một số dự án bất động sản dân dụng quy mô nhỏ tại Cần Thơ.
+- **Lý do loại trừ tại Bước 1 (Sản xuất xi măng và VLXD đại trà, đầu tư BĐS dân dụng ngoài Vòng tròn năng lực):**
+  - **Sản xuất VLXD đại trà không có mỏ nguyên liệu độc quyền:** Doanh nghiệp chỉ vận hành trạm nghiền xi măng (mua clinker về nghiền thành xi măng thương phẩm), không sở hữu mỏ đá vôi vùng lõi hay công nghệ độc quyền. Ngành xi măng miền Tây và cả nước đang rơi vào tình trạng dư cung trầm trọng, cạnh tranh gay gắt từ các tập đoàn xi măng lớn (Vicem Hà Tiên, Insee, Nghi Sơn...).
+  - **Kết hợp kinh doanh BĐS dân dụng mang tính chu kỳ cao:** Doanh nghiệp mở rộng sang đầu tư BĐS dân dụng, đất nền địa phương - phân khúc chịu ảnh hưởng nặng nề bởi tính thanh khoản đóng băng và vướng mắc pháp lý đất đai.
+  - **Quy chuẩn loại trừ:** Nằm trong nhóm sản xuất vật liệu xây dựng thông thường và kinh doanh BĐS dân dụng đại trà, ngoài Vòng tròn năng lực của Quỹ. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính nâng cấp)
 
 ---
 
-### 220. CCV - Công ty cổ phần Tư vấn Xây dựng Công nghiệp và Đô thị Việt Nam
+### 220. CCV - Công ty cổ phần Tư vấn Xây dựng Công nghiệp và Đô thị Việt Nam (VCC)
 - **Mã cổ phiếu:** `CCV` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Xây dựng & Tư vấn Kỹ thuật / Khảo sát, Thiết kế Quy hoạch & Giám sát Công trình
+- **Hoạt động kinh doanh chính:** Tiền thân là Viện Thiết kế Công nghiệp trực thuộc Bộ Xây dựng (thành lập từ năm 1969). Doanh nghiệp chuyên cung cấp các dịch vụ tư vấn đầu tư xây dựng: khảo sát địa chất, lập quy hoạch tổng mặt bằng, thiết kế kiến trúc - kết cấu, thẩm tra và giám sát thi công cho các công trình dân dụng, công nghiệp và hạ tầng kỹ thuật.
+- **Lý do loại trừ tại Bước 1 (Dịch vụ tư vấn thầu xây lắp công trình ngoài Vòng tròn năng lực, phụ thuộc chu kỳ xây dựng & đọng vốn chủ đầu tư):**
+  - **Mô hình thầu tư vấn kỹ thuật xây dựng:** Bản chất hoạt động của VCC là dịch vụ tư vấn phụ trợ cho ngành xây dựng và bất động sản. Doanh thu và dòng tiền của công ty phụ thuộc hoàn toàn vào chu kỳ khởi công của các dự án xây dựng công nghiệp/đô thị và tiến độ giải ngân vốn đầu tư.
+  - **Rủi ro công nợ đọng kéo dài:** Tương tự các doanh nghiệp tư vấn xây lắp khác trong ngành xây dựng, các hợp đồng tư vấn thiết kế và giám sát thường bị chủ đầu tư đọng vốn nghiệm thu, rủi ro trích lập dự phòng phải thu khó đòi cao khi thị trường bất động sản chững lại.
+  - **Quy chuẩn loại trừ:** Nằm ngoài Vòng tròn năng lực. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính nâng cấp)
 
 ---
 
 ### 221. CDG - Công ty Cổ phần Cầu Đuống
 - **Mã cổ phiếu:** `CDG` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Vật liệu Xây dựng / Sản xuất Gạch, Ngói Đất sét nung & Vật liệu Xây dựng Không nung
+- **Hoạt động kinh doanh chính:** Tiền thân là Xưởng gạch Hưng Ký thành lập từ năm 1905, hiện là đơn vị thành viên trực thuộc Tổng Công ty Đầu tư Phát triển Hạ tầng Đô thị (UDIC nắm giữ 42.68% vốn). Doanh nghiệp chuyên sản xuất gạch xây đất sét nung, ngói lợp và vật liệu xây dựng không nung tại khu vực Gia Lâm, TP. Hà Nội.
+- **Lý do loại trừ tại Bước 1 (Sản xuất gạch ngói đất sét nung đại trà ngoài Vòng tròn năng lực, rủi ro nguyên liệu đất sét & thâm dụng lò nung):**
+  - **Sản phẩm VLXD đại trà không có con hào kinh tế:** Gạch ngói đất sét nung là sản phẩm hàng hóa thông thường (commodity) cạnh tranh gay gắt về giá bán với hàng trăm cơ sở sản xuất tư nhân và các dòng gạch không nung/bê tông khí chưng áp thế hệ mới.
+  - **Rủi ro pháp lý tài nguyên & môi trường:** Việc khai thác đất sét làm gạch nung chịu kiểm soát ngặt nghèo của chính quyền địa phương theo định hướng xóa bỏ lò gạch đất sét nung truyền thống của Chính phủ, chi phí than đốt và vận chuyển lớn làm xói mòn biên lợi nhuận.
+  - **Quy chuẩn loại trừ:** Thuộc nhóm sản xuất Vật liệu xây dựng đại trà ngoài Vòng tròn năng lực. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính nâng cấp)
 
 ---
 
 ### 222. CDO - Công ty Cổ phần Tư vấn thiết kế và Phát triển đô thị
-- **Mã cổ phiếu:** `CDO` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `CDO` (Sàn UPCOM / Hạn chế giao dịch)
+- **Ngành nghề niêm yết:** Bất động sản & Xây dựng / Tư vấn Thiết kế & Thi công Xây lắp Dân dụng, Khách sạn
+- **Hoạt động kinh doanh chính:** Thành lập năm 2009, doanh nghiệp hoạt động trong lĩnh vực tư vấn thiết kế kiến trúc, quản lý dự án và thi công xây lắp các công trình nhà ở cao tầng, khách sạn và khu nghỉ dưỡng.
+- **Lý do loại trừ tại Bước 1 (Xây lắp bất động sản dân dụng ngoài VTNL, rủi ro quản trị nghiêm trọng & cổ phiếu bị hạn chế giao dịch):**
+  - **Lĩnh vực xây lắp & phát triển dự án bất động sản ngoài VTNL:** Hoạt động thi công xây lắp dân dụng và khách sạn có biên lợi nhuận mỏng, thâm dụng vốn và chịu ảnh hưởng trực tiếp từ sự đóng băng của thị trường bất động sản nghỉ dưỡng.
+  - **Rủi ro quản trị & vi phạm nghiêm trọng quy chế thị trường:** CDO từng là tâm điểm của vụ án hình sự thao túng giá chứng khoán chấn động thị trường năm 2016-2017 khiến hàng loạt công ty chứng khoán bị thiệt hại nặng nề. Cổ phiếu sau đó bị hủy niêm yết bắt buộc trên HOSE và bị Sở GDCK Hà Nội đưa vào diện **hạn chế giao dịch** trên UPCoM do liên tục vi phạm nghĩa vụ công bố thông tin BCTC kiểm toán. Kết quả kinh doanh thua lỗ triền miên, EPS âm.
+  - **Quy chuẩn loại trừ:** Nằm ngoài Vòng tròn năng lực, rủi ro quản trị và thanh khoản cực lớn. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính nâng cấp)
 
 ---
 
-### 223. CDR - Công ty Cổ phần Xây dựng Cao su Đồng Nai
+### 223. CDR - Công ty Cổ phần Xây dựng Cao su Đồng Nai (DORUCON)
 - **Mã cổ phiếu:** `CDR` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Bất động sản & Xây dựng / Thi công Xây lắp Công trình Dân dụng, Giao thông & Bê tông
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp Xây dựng & Giao thông thuộc Công ty Cao su Đồng Nai, trụ sở tại TP. Long Khánh, tỉnh Đồng Nai. Doanh nghiệp chuyên thi công xây dựng các công trình công cộng, hạ tầng giao thông, thủy lợi, trạm trộn bê tông thương phẩm và đầu tư phát triển dự án bất động sản nhà ở tại địa phương.
+- **Lý do loại trừ tại Bước 1 (Nhà thầu xây lắp công trình hạ tầng & BĐS ngoài VTNL, biên ròng <1%, kiểm toán ngoại trừ):**
+  - **Mô hình thầu xây lắp biên lợi nhuận mỏng:** Doanh thu hàng năm dao động 60 - 160 tỷ VNĐ nhưng biên lợi nhuận ròng cực thấp (thường < 1%), LNST chỉ đạt 0.4 - 1.2 tỷ VNĐ/năm do cạnh tranh đấu thầu gay gắt và chi phí nguyên vật liệu xây dựng tăng cao.
+  - **Rủi ro công nợ đọng & ý kiến kiểm toán:** BCTC của doanh nghiệp liên tục bị tổ chức kiểm toán đưa ra ý kiến ngoại trừ liên quan đến công nợ tồn đọng lâu năm khó thu hồi và trích lập dự phòng.
+  - **Quy chuẩn loại trừ:** Thuộc nhóm nhà thầu xây lắp hạ tầng và bất động sản dân dụng ngoài Vòng tròn năng lực. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính nâng cấp)
 
 ---
 
-### 224. CGV - Công ty Cổ phần Sành sứ Thủy tinh Việt Nam
+### 224. CGV - Công ty Cổ phần Sành sứ Thủy tinh Việt Nam (VINACEGLASS)
 - **Mã cổ phiếu:** `CGV` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Vật liệu Xây dựng / Sản xuất Vật liệu Chịu lửa, Cách nhiệt, Cơ khí & Cho thuê Kho bãi
+- **Hoạt động kinh doanh chính:** Tiền thân là Công ty Xuất nhập khẩu Sành sứ Thủy tinh Việt Nam thành lập năm 1993 trực thuộc Bộ Thương mại. Hiện doanh nghiệp hoạt động chính trong lĩnh vực sản xuất gạch chịu lửa, bông khoáng cách âm cách nhiệt, gia công cơ khí (máng cáp điện, tủ phòng cháy chữa cháy), kinh doanh hóa chất và cho thuê hệ thống nhà xưởng, kho bãi. *(Lưu ý: Hoàn toàn không liên quan đến chuỗi rạp chiếu phim CJ CGV của Hàn Quốc).*
+- **Lý do loại trừ tại Bước 1 (Sản xuất vật liệu xây dựng đại trà & cho thuê kho bãi ngoài Vòng tròn năng lực):**
+  - **Sản phẩm VLXD đại trà không có con hào kinh tế:** Vật liệu chịu lửa và vật liệu cách nhiệt thông thường là sản phẩm hàng hóa công nghiệp phụ trợ có giá trị gia tăng thấp, biên lợi nhuận mỏng và cạnh tranh trực tiếp với các dòng sản phẩm nhập khẩu giá rẻ từ Trung Quốc.
+  - **Mảng cho thuê kho bãi thông thường:** Hoạt động cho thuê nhà xưởng và kho bãi thứ cấp có quy mô doanh thu nhỏ, không sở hữu vị thế độc quyền hay hạ tầng logistics cảng biển/trung tâm phân phối hiện đại.
+  - **Quy chuẩn loại trừ:** Nằm ngoài Vòng tròn năng lực. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính nâng cấp)
 
 ---
 
-### 225. CH5 - Công ty Cổ phần Xây dựng Số 5 Hà Nội
+### 225. CH5 - Công ty Cổ phần Xây dựng Số 5 Hà Nội (HANCO 5)
 - **Mã cổ phiếu:** `CH5` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Bất động sản & Xây dựng / Thi công Xây lắp Công trình Dân dụng, Công nghiệp & Hạ tầng Kỹ thuật (UDIC)
+- **Hoạt động kinh doanh chính:** Tiền thân là Doanh nghiệp Nhà nước thành lập năm 1971, hiện là công ty liên kết trực thuộc Tổng Công ty Đầu tư Phát triển Hạ tầng Đô thị UDIC (trụ sở tại 101 Láng Hạ, Đống Đa, Hà Nội). Hoạt động cốt lõi là tổng thầu thi công xây lắp các công trình dân dụng, tòa nhà chung cư, trường học, bệnh viện, công trình công nghiệp và hạ tầng kỹ thuật đô thị (cầu đường, cấp thoát nước); kết hợp quản lý cho thuê diện tích văn phòng nhỏ tại trụ sở.
+- **Lý do loại trừ tại Bước 1 (Nhà thầu xây lắp công trình dân dụng đại trà ngoài Vòng tròn năng lực, biên mỏng & rủi ro công nợ đọng):**
+  - **Mô hình nhận thầu xây lắp công trình ngoài Vòng tròn năng lực:** Cạnh tranh gay gắt trong lĩnh vực đấu thầu xây dựng dân dụng, biên lợi nhuận ròng mỏng manh (< 1.5%), phụ thuộc lớn vào tiến độ giải ngân của các chủ đầu tư và biến động giá vật liệu xây dựng (thép, xi măng, cát đá).
+  - **Rủi ro chiếm dụng vốn & Đọng công nợ xây dựng kéo dài:** Ngành thầu xây lắp thường xuyên đối mặt với chu kỳ thanh quyết toán kéo dài hàng năm, thâm dụng vốn lưu động và chi phí lãi vay bào mòn lợi nhuận.
+  - **Không có con hào kinh tế hay tài sản mỏ đá độc quyền:** Doanh nghiệp không sở hữu mỏ đá xây dựng hay lợi thế hạ tầng độc quyền để được xem xét ngoại lệ của Bước 1.
+  - **Quy chuẩn loại trừ:** Nằm ngoài Vòng tròn năng lực. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 12/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
-### 226. CI5 - Công ty cổ phần Đầu tư Xây dựng số 5
+### 226. CI5 - Công ty cổ phần Đầu tư Xây dựng số 5 (CIC.5)
 - **Mã cổ phiếu:** `CI5` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Bất động sản & Xây dựng / Xây dựng Dân dụng & Công nghiệp, Khai thác Đá & Vật liệu Xây dựng
+- **Hoạt động kinh doanh chính:** Trụ sở tại số 22 Lý Tự Trọng, Quận 1, TP. Hồ Chí Minh; là thành viên thuộc Tổng Công ty Xây dựng Công nghiệp Việt Nam (VINAINCON). Hoạt động chính trong lĩnh vực tổng thầu thi công xây lắp các công trình công nghiệp và dân dụng, khai thác và chế biến đá xây dựng, sản xuất vật liệu xây dựng.
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Hoạt động cốt lõi là thi công xây lắp và khai thác VLXD đại trà:** Ngành xây lắp chịu rủi ro cạnh tranh đấu thầu gay gắt, biên lợi nhuận ròng rất mỏng, phụ thuộc tiến độ giải ngân của chủ đầu tư và đọng công nợ dài hạn.
+  - **Quy mô vốn còi cọc & Thanh khoản kém:** Vốn điều lệ chỉ khoảng 27 tỷ VNĐ, vốn hóa thị trường chưa tới 9 tỷ VNĐ, giao dịch cổ phiếu đóng băng.
+  - **Quy chuẩn loại trừ:** Thuộc nhóm xây lắp dân dụng & hạ tầng công nghiệp đại trà, ngoài Vòng tròn năng lực. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 12/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
-### 227. CID - Công ty Cổ phần Xây dựng và Phát triển Cơ sở Hạ tầng
+### 227. CID - Công ty Cổ phần Xây dựng và Phát triển Cơ sở Hạ tầng (CINDE)
 - **Mã cổ phiếu:** `CID` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Bất động sản & Xây dựng / Thi công Công trình Giao thông, Thủy lợi & Kinh doanh Hạ tầng Cụm Công nghiệp
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp Xây dựng tổng hợp thành lập năm 1999 tại Hải Phòng. Hoạt động chính bao gồm thi công xây lắp các công trình công nghiệp, dân dụng, giao thông, thủy lợi; kinh doanh hạ tầng Cụm công nghiệp Vĩnh Niệm (Lê Chân, Hải Phòng); tư vấn đầu tư và kinh doanh bất động sản.
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Bản chất cốt lõi là nhà thầu xây lắp công trình & kinh doanh BĐS:** Lĩnh vực xây lắp hạ tầng công cộng và kinh doanh BĐS dân dụng tiềm ẩn rủi ro chu kỳ kinh tế lớn, đọng vốn xây dựng dở dang và phụ thuộc chính sách đầu tư công địa phương.
+  - **Lịch sử tài chính rủi ro cao:** Từng thua lỗ âm vốn dẫn đến việc bị hủy niêm yết bắt buộc trên sàn HNX vào năm 2016 và phải chuyển xuống giao dịch trên UPCoM trong diện bị kiểm soát/cảnh báo.
+  - **Quy chuẩn loại trừ:** Nằm ngoài Vòng tròn năng lực (nhóm nhà thầu xây lắp & bất động sản). Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 12/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
-### 228. CIP - Công ty Cổ phần Xây lắp và Sản xuất Công nghiệp
+### 228. CIP - Công ty Cổ phần Xây lắp và Sản xuất Công nghiệp (CIPC)
 - **Mã cổ phiếu:** `CIP` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Bất động sản & Xây dựng / Xây lắp Đường dây & Trạm biến áp, Thi công Nhà xưởng, Kết cấu Thép & BĐS Nhà ở
+- **Hoạt động kinh doanh chính:** Thành lập từ năm 1959, trực thuộc Tổng Công ty Xây dựng Công nghiệp Việt Nam (VINAINCON nắm giữ 52.15% vốn). Lĩnh vực hoạt động chủ lực gồm: thi công xây lắp công trình công nghiệp, đường dây tải điện và trạm biến áp; chế tạo và lắp dựng kết cấu thép xây dựng; đầu tư phát triển các dự án bất động sản nhà ở và khu đô thị.
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Bản chất kinh doanh là xây lắp và đầu tư BĐS ngoài VTNL:** Hoạt động nhà thầu xây lắp điện và công nghiệp đòi hỏi vốn lưu động lớn để bảo lãnh dự thầu, biên lợi nhuận ròng mỏng và rủi ro thu hồi công nợ chậm trễ.
+  - **Hiệu quả kinh doanh và thanh khoản thấp:** Doanh nghiệp nhà nước cổ phần hóa hoạt động kém linh hoạt, cổ phiếu thanh khoản thấp trên UPCoM.
+  - **Quy chuẩn loại trừ:** Thuộc nhóm nhà thầu xây lắp và bất động sản dân dụng, ngoài Vòng tròn năng lực. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 12/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
 ### 229. CMD - CTCP Vật liệu Xây dựng và Trang trí Nội thất Thành phố Hồ Chí Minh
 - **Mã cổ phiếu:** `CMD` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Thương mại Phân phối Xi măng, Vật liệu Xây dựng & Thi công Trang trí Nội thất
+- **Hoạt động kinh doanh chính:** Tiền thân là Bộ phận Vật liệu xây dựng thuộc Công ty Vật liệu Xây dựng và Chất đốt TP.HCM thành lập từ năm 1976. Doanh nghiệp hoạt động chính trong lĩnh vực làm đại lý cấp 1 phân phối xi măng (Xi măng Hà Tiên, Insee/Holcim, Nghi Sơn, Chinfon, Fico...) và các sản phẩm vật liệu xây dựng, gạch ốp lát, thiết bị vệ sinh, trang trí nội thất hoàn thiện công trình dân dụng tại TP.HCM và các tỉnh Đông Nam Bộ, Tây Nam Bộ.
+- **Lý do loại trừ tại Bước 1 (Thương mại phân phối VLXD đại trà, thi công nội thất dân dụng ngoài Vòng tròn năng lực):**
+  - **Mô hình kinh doanh phân phối VLXD đại trà cạnh tranh gay gắt:** Doanh thu thuần hàng năm đạt từ **770 – 1,010 tỷ VNĐ**, nhưng hoạt động cốt lõi là làm đại lý trung gian phân phối xi măng và sắt thép, vật liệu xây dựng. Biên lợi nhuận gộp rất mỏng (chỉ dao động từ **9% – 11%**), biên lợi nhuận ròng mỏng (**~3% – 4%**), không có lợi thế định giá (pricing power).
+  - **Rủi ro chu kỳ bất động sản xây dựng và công nợ đọng:** Hoạt động tiêu thụ phụ thuộc trực tiếp vào tiến độ xây dựng của các công trình dân dụng và dự án bất động sản; doanh nghiệp thường xuyên phải đối mặt với rủi ro đọng vốn công nợ phải thu từ các nhà thầu xây dựng khi thị trường BĐS trầm lắng.
+  - **Không sở hữu lợi thế tài nguyên độc quyền đặc thù:** Công ty không sở hữu mỏ khoáng sản đá/cát độc quyền vị trí đắc địa, không có chuỗi trung tâm thương mại bán lẻ chiếm lĩnh thị trường, không sở hữu quỹ đất BĐS khu công nghiệp cho thuê dài hạn.
+  - **Quy chuẩn loại trừ Bước 1:** Nhóm thương mại phân phối vật liệu xây dựng đại trà và thi công nội thất dân dụng nằm ngoài Vòng tròn năng lực của Quỹ. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 13/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
 ### 230. CNN - CTCP Tư vấn công nghệ, thiết bị và kiểm định xây dựng - CONINCO
 - **Mã cổ phiếu:** `CNN` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Dịch vụ Tư vấn Thiết kế, Giám sát & Kiểm định Chất lượng Xây dựng
+- **Hoạt động kinh doanh chính:** Tiền thân là Viện Nghiên cứu về Cơ giới hóa và Công nghệ Xây dựng thuộc Bộ Xây dựng thành lập từ năm 1979, cổ phần hóa năm 2007. CONINCO là thương hiệu tư vấn xây dựng có tiếng, chuyên cung cấp các dịch vụ tư vấn quản lý dự án, giám sát thi công, khảo sát thiết kế và kiểm định an toàn chất lượng công trình cho các dự án xây dựng dân dụng, công nghiệp và hạ tầng giao thông trên toàn quốc.
+- **Lý do loại trừ tại Bước 1 (Dịch vụ tư vấn phụ thuộc chu kỳ xây dựng dân dụng, đọng vốn công nợ chủ đầu tư kéo dài, ngoài Vòng tròn năng lực):**
+  - **Mô hình kinh doanh phụ thuộc nặng nề vào chu kỳ ngành xây dựng & BĐS:** Doanh thu và lợi nhuận của CNN gắn chặt với tiến độ giải ngân vốn đầu tư công và chu kỳ xây dựng bất động sản dân dụng. Khi thị trường bất động sản gặp khó khăn hoặc chậm cấp phép, các hợp đồng tư vấn giám sát và thiết kế lập tức bị đình trệ.
+  - **Biên lợi nhuận mỏng và rủi ro công nợ đọng vốn lớn:** Dù doanh thu hàng năm đạt khoảng 500 – 600 tỷ VNĐ, biên lợi nhuận ròng của mảng tư vấn kỹ thuật chỉ đạt mức mỏng khoảng **4% – 6%** (LNST dao động 21 – 37 tỷ VNĐ). Đặc thù ngành tư vấn xây lắp khiến các khoản phải thu khách hàng và chủ đầu tư dự án luôn chiếm tỷ trọng áp đảo trong tổng tài sản, tiềm ẩn rủi ro nợ khó đòi và chiếm dụng vốn kéo dài.
+  - **Không có yếu tố ngoại lệ bảo vệ:** Doanh nghiệp là đơn vị tư vấn dịch vụ kỹ thuật thuần túy, hoàn toàn không sở hữu mỏ tài nguyên khoáng sản/đá độc quyền hay bất động sản bán lẻ/TTTM vị trí kim cương nào.
+  - **Quy chuẩn loại trừ:** Thuộc nhóm dịch vụ hỗ trợ thi công xây lắp và bất động sản dân dụng, ngoài Vòng tròn năng lực. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 13/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
-### 231. CNT - Công ty Cổ phần Tập đoàn CNT
+### 231. CNT - Công ty Cổ phần Tập đoàn CNT (CNT Group)
 - **Mã cổ phiếu:** `CNT` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Phát triển BĐS Đô thị, Thi công Xây lắp & Sản xuất VLXD
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp Cung ứng Vận tải trực thuộc Tổng Công ty Xây dựng số 1 (CC1) thành lập từ năm 1976, cổ phần hóa và đổi tên thành Tập đoàn CNT. Doanh nghiệp hoạt động theo mô hình đa ngành xoay quanh: (1) Đầu tư kinh doanh bất động sản dân dụng (dự án Khu đô thị mới lấn biển Hà Tiên, Kiên Giang quy mô gần 100 ha...); (2) Thi công xây lắp công trình dân dụng, công nghiệp; (3) Sản xuất và kinh doanh vật liệu xây dựng (xi măng, bao bì PP, bê tông).
+- **Lý do loại trừ tại Bước 1 (Bất động sản dân dụng phân lô bán nền tỉnh lẻ, nhà thầu xây lắp biên mỏng ngoài Vòng tròn năng lực):**
+  - **Mô hình BĐS phân lô bán nền phụ thuộc chu kỳ đầu cơ đất đai:** Trụ cột mang lại kỳ vọng lợi nhuận chính của CNT là dự án Khu đô thị du lịch lấn biển Hà Tiên (Kiên Giang). Đây là mô hình bất động sản đất nền/nhà phố thương mại tỉnh lẻ mang tính chu kỳ cao, thanh khoản phụ thuộc hoàn toàn vào các cơn sốt đất ven biển và chính sách tín dụng ngân hàng, dòng tiền bán hàng bấp bênh và rủi ro tồn kho đất đai kéo dài nhiều năm.
+  - **Xây lắp và VLXD đại trà biên lợi nhuận thấp:** Mảng thi công xây lắp và thương mại VLXD có biên lợi nhuận gộp rất mỏng, chịu sự cạnh tranh gay gắt từ các nhà thầu địa phương và rủi ro công nợ xây dựng khó thu hồi. Doanh nghiệp từng lâm vào khủng hoảng tài chính và thua lỗ kéo dài trong quá khứ do đầu tư dàn trải.
+  - **Không có lợi thế độc quyền phòng thủ:** Không sở hữu mỏ đá độc quyền phục vụ đại dự án trọng điểm, không có TTTM bán lẻ vị trí kim cương.
+  - **Quy chuẩn loại trừ:** Thuộc nhóm bất động sản dân dụng và thi công xây lắp đại trà, nằm ngoài Vòng tròn năng lực. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 13/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
 ### 232. CQT - Công ty cổ phần Xi măng Quán Triều VVMI
 - **Mã cổ phiếu:** `CQT` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Sản xuất và Phân phối Xi măng, Clinker (Nhà máy Xi măng Quán Triều)
+- **Hoạt động kinh doanh chính:** Trực thuộc Tổng công ty Công nghiệp mỏ Việt Bắc TKV - CTCP (Vinacomin), vận hành Nhà máy Xi măng Quán Triều tại xã An Khánh, huyện Đại Từ, tỉnh Thái Nguyên với công suất thiết kế 750.000 tấn clinker/năm (~1 triệu tấn xi măng/năm). Sản phẩm chính là xi măng bao và xi măng rời PCB30, PCB40 tiêu thụ chủ yếu tại thị trường Thái Nguyên và các tỉnh trung du miền núi phía Bắc.
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Sản xuất VLXD xi măng đại trà nằm ngoài Vòng tròn năng lực:** Ngành xi măng Việt Nam nói chung và khu vực miền Bắc nói riêng đang trong tình trạng khủng hoảng dư cung trầm trọng (công suất toàn quốc đạt trên 120 triệu tấn/năm trong khi nhu cầu tiêu thụ nội địa chỉ quanh 60-65 triệu tấn). Các doanh nghiệp sản xuất xi măng đại trà không có thương hiệu áp đảo, phụ thuộc hoàn toàn vào giá bán commodity cạnh tranh khốc liệt.
+  - **Hiệu quả kinh doanh lao dốc, biên lợi nhuận bị bào mòn:** Doanh thu thuần giảm dần từ 717 tỷ VNĐ (2022) xuống 618 tỷ (2023) và chỉ còn 592.69 tỷ VNĐ (2024). LNST năm 2024 sụt giảm nghiêm trọng tới 85.7% xuống vỏn vẹn **3.97 tỷ VNĐ** do gánh nặng chi phí than, điện đầu vào tăng cao cùng chi phí khấu hao và lãi vay lớn.
+  - **Xem xét yếu tố đặc thù:** Doanh nghiệp không sở hữu mỏ tài nguyên đá vôi độc quyền có thể tạo lợi thế cạnh tranh chi phí thấp vượt trội so với các đại gia xi măng như Xi măng Hà Tiên (HT1), Vicem Bỉm Sơn (BCC) hay Nghi Sơn; không có TTTM vị trí kim cương hay bất động sản KCN sạch.
+  - **Quy chuẩn loại trừ:** Thuộc nhóm sản xuất vật liệu xây dựng (xi măng) thông thường, cạnh tranh giá đại trà, nằm ngoài Vòng tròn năng lực. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 15/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
 ### 233. CT3 - Công ty Cổ phần Đầu tư và Xây dựng Công trình 3
 - **Mã cổ phiếu:** `CT3` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Thi công Xây lắp Công trình Giao thông, Cầu đường & Đường sắt
+- **Hoạt động kinh doanh chính:** Tiền thân là Công ty Công trình Đường sắt 3 (thành lập năm 1977), là đơn vị xây lắp thành viên trực thuộc Tổng công ty Đường sắt Việt Nam, đóng trên địa bàn TP. Hồ Chí Minh. Hoạt động cốt lõi là thi công xây dựng các công trình giao thông chuyên ngành gồm cầu đường sắt, kết cấu nền móng đường sắt, công trình đường bộ, dân dụng và sản xuất kết cấu kim loại xây dựng.
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Nhà thầu xây lắp công trình hạ tầng ngoài Vòng tròn năng lực:** Doanh nghiệp hoạt động với tư cách nhà thầu xây lắp giao thông thuần túy. Đặc thù ngành xây lắp hạ tầng công có biên lợi nhuận ròng rất mỏng (thường dưới 1% - 2%), phụ thuộc nặng nề vào tiến độ bố trí vốn đầu tư công và công tác giải phóng mặt bằng của chủ đầu tư.
+  - **Đọng vốn công nợ nghiệm thu & Rủi ro quản trị:** Các khoản phải thu khách hàng tồn đọng kéo dài qua nhiều kỳ kế toán, rủi ro thu hồi nợ cao. Doanh nghiệp từng rơi vào diện hạn chế giao dịch chứng khoán do tổ chức kiểm toán độc lập từ chối đưa ra ý kiến kết luận đối với Báo cáo tài chính.
+  - **Xem xét yếu tố đặc thù:** Doanh nghiệp không sở hữu bất kỳ mỏ tài nguyên đá xây dựng độc quyền nào, không có dự án BĐS hay TTTM vị trí kim cương nào mang lại dòng tiền thương mại đều đặn.
+  - **Quy chuẩn loại trừ:** Thuộc nhóm nhà thầu thi công xây lắp hạ tầng đại trà, biên mỏng, rủi ro kiểm toán cao, nằm ngoài Vòng tròn năng lực. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 15/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
 ### 234. CT6 - Công ty Cổ phần Công trình 6
 - **Mã cổ phiếu:** `CT6` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Thi công Xây lắp Hạ tầng Giao thông (Đường sắt, Đường bộ) & VLXD
+- **Hoạt động kinh doanh chính:** Tiền thân là Đội đại tu đường thuộc Tổng cục Đường sắt Việt Nam (thành lập từ năm 1956), cổ phần hóa và niêm yết trên UPCoM. Hoạt động kinh doanh chính gồm: thi công xây lắp các công trình giao thông đường sắt, đường bộ và hạ tầng kỹ thuật (chiếm 70% – 80% doanh thu); kinh doanh thương mại vật liệu xây dựng, kết cấu thép và bê tông (chiếm 15% – 20% doanh thu).
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Thi công xây lắp hạ tầng biên lợi nhuận siêu mỏng ngoài Vòng tròn năng lực:** Hoạt động kinh doanh dựa trên việc đấu thầu các gói thầu thi công hạ tầng giao thông đường sắt, doanh thu hàng năm chỉ dao động 140 – 170 tỷ VNĐ nhưng biên lợi nhuận ròng siêu mỏng chỉ đạt từ **1.0% – 1.5%** (lợi nhuận cả năm chỉ vỏn vẹn vài tỷ đồng).
+  - **Đọng vốn công nợ lớn & Cổ phiếu bị hạn chế giao dịch:** Vốn điều lệ chỉ 61 tỷ VNĐ nhưng vốn bị chôn chặt trong các khoản phải thu dở dang công trình và thanh toán chậm của các ban quản lý dự án. Cổ phiếu từng bị đưa vào diện hạn chế giao dịch do chậm nộp Báo cáo tài chính kiểm toán định kỳ.
+  - **Xem xét yếu tố đặc thù:** Doanh nghiệp không sở hữu mỏ khai thác đá độc quyền, không có tài sản thương mại hay công nghệ thi công rào cản cao.
+  - **Quy chuẩn loại trừ:** Thuộc nhóm nhà thầu thi công xây lắp công trình giao thông đại trà biên mỏng ngoài Vòng tròn năng lực. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 15/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
 ### 235. CTX - Tổng Công ty Cổ phần Đầu tư Xây dựng và Thương mại Việt Nam
 - **Mã cổ phiếu:** `CTX` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nguyên vật liệu
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Đầu tư Phát triển Bất động sản Nhà ở, Khách sạn & Thi công Xây lắp Dân dụng (CTX Holdings)
+- **Hoạt động kinh doanh chính:** Tiền thân là Công ty Đầu tư Xây lắp và Xuất nhập khẩu (Constrexim Holdings thuộc Bộ Xây dựng), cổ phần hóa năm 2006. Doanh nghiệp hoạt động đa ngành nhưng trọng tâm cốt lõi là đầu tư, kinh doanh bất động sản nhà ở thương mại, tòa nhà văn phòng, khu nghỉ dưỡng (tiêu biểu như tổ hợp Constrexim Complex Cầu Giấy - Hà Nội, khách sạn Pao's Sapa Leisure Hotel tại Sa Pa, các dự án khu đô thị) kết hợp thi công xây dựng công trình dân dụng, công nghiệp và kinh doanh thương mại vật tư nội thất.
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Nguyên vật liệu), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Bất động sản thương mại & Khách sạn nghỉ dưỡng ngoài Vòng tròn Năng lực:** Hoạt động kinh doanh gắn chặt với phân khúc phát triển bất động sản nhà ở, thương mại và condotel/khách sạn du lịch. Đây là phân khúc mang tính chu kỳ cao, phụ thuộc lớn vào tín dụng bất động sản, thủ tục pháp lý giao đất và tiến độ chuyển nhượng dự án. Dòng tiền kinh doanh thiếu tính ổn định, lợi nhuận biến động thất thường theo từng thương vụ bán buôn dự án (năm 2022 lãi mỏng hơn 5 tỷ, năm 2023 lãi 35 tỷ, năm 2024 sụt giảm mạnh về 11 tỷ VNĐ).
+  - **Rủi ro quản trị & Tuân thủ công bố thông tin:** Doanh nghiệp từng bị hủy niêm yết bắt buộc trên sàn HNX vào tháng 12/2023 do vi phạm nghiêm trọng nghĩa vụ công bố thông tin và chậm nộp Báo cáo tài chính kiểm toán nhiều kỳ, sau đó phải chuyển xuống giao dịch trên UPCoM và thường xuyên bị đưa vào diện hạn chế giao dịch.
+  - **Xem xét yếu tố đặc thù:** Doanh nghiệp không sở hữu mỏ tài nguyên khoáng sản đá độc quyền, không có bất động sản khu công nghiệp quỹ đất sạch sẵn sàng cho thuê tạo dòng tiền đều, không có TTTM vị trí kim cương mang lại dòng tiền cho thuê bền vững.
+  - **Quy chuẩn loại trừ:** Thuộc nhóm doanh nghiệp đầu tư kinh doanh bất động sản nhà ở, thương mại và xây dựng dân dụng ngoài Vòng tròn Năng lực. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 19/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
 ### 236. CVN - Công ty cổ phần Vinam
 - **Mã cổ phiếu:** `CVN` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Thi công Nền móng, Xây lắp Dân dụng & Thương mại Thiết bị
+- **Hoạt động kinh doanh chính:** Tiền thân là CTCP Đầu tư Tài nguyên và Năng lượng Việt Nam (thành lập năm 2007), đổi tên thành CTCP Vinam từ năm 2009. Lĩnh vực kinh doanh đăng ký bao gồm thi công xây dựng công trình dân dụng, công nghiệp, thủy lợi; thi công xử lý nền móng công trình (ép cọc nhồi, cọc bê tông cốt thép, cọc barette), thẩm tra hồ sơ dự thầu xây dựng và mở rộng sang buôn bán máy móc thiết bị y tế, thực phẩm.
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Nhà thầu xây lắp & Xử lý nền móng đại trà ngoài Vòng tròn Năng lực:** Hoạt động xây dựng dân dụng và thi công nền móng là lĩnh vực có rào cản gia nhập thấp, cạnh tranh về giá thầu gay gắt, biên lợi nhuận ròng cực kỳ mỏng manh và phụ thuộc nặng nề vào chu kỳ đầu tư xây dựng của các chủ đầu tư.
+  - **Kinh doanh suy yếu, thua lỗ kéo dài & Rủi ro thanh khoản:** Hoạt động kinh doanh thực tế rơi vào tình trạng đình trệ, kết quả kinh doanh giai đoạn 2023 – 2024 liên tục ghi nhận lỗ ròng, dòng tiền thuần từ hoạt động kinh doanh âm, các chỉ số EPS và ROE đều âm, cơ cấu tài sản chứa nhiều rủi ro đọng vốn công nợ khó đòi.
+  - **Xem xét yếu tố đặc thù:** Doanh nghiệp không sở hữu công nghệ thi công độc quyền, không sở hữu mỏ tài nguyên hay bất động sản giá trị sinh lời thực tế. Cổ phiếu mang tính đầu cơ cao (penny).
+  - **Quy chuẩn loại trừ:** Thuộc nhóm nhà thầu thi công xây lắp dân dụng, nền móng đại trà ngoài Vòng tròn Năng lực. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 19/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
 ### 237. CYC - Công ty Cổ phần Gạch men Chang Yih
 - **Mã cổ phiếu:** `CYC` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Sản xuất và Kinh doanh Gạch men, Gạch ốp lát
+- **Hoạt động kinh doanh chính:** Thành lập năm 2000 với vốn đầu tư từ Đài Loan, vận hành nhà máy sản xuất gạch men ốp lát tại KCN Nhơn Trạch 1, tỉnh Đồng Nai. Sản phẩm chủ lực là các chủng loại gạch men lát nền, gạch ốp tường ceramic và gạch porcelain phục vụ công trình xây dựng dân dụng tại thị trường phía Nam và xuất khẩu.
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Sản xuất VLXD gạch men đại trà ngoài Vòng tròn Năng lực:** Thị trường gạch ốp lát ceramic tại Việt Nam chịu áp lực dư cung cực kỳ lớn và cạnh tranh khốc liệt về giá bán từ các thương hiệu lớn nội địa (Viglacera, Prime, Đồng Tâm, Taicera) cũng như làn sóng gạch giá rẻ nhập khẩu từ Trung Quốc, Ấn Độ. Chi phí sản xuất thâm dụng nhiên liệu khí đốt, than đá và nguyên vật liệu đầu vào tăng cao bào mòn toàn bộ biên lợi nhuận.
+  - **Kinh doanh sa sút nghiêm trọng & Hủy đăng ký giao dịch:** Doanh thu thuần giảm liên tục từ 142 tỷ (2023) xuống còn 129 tỷ VNĐ (2024), liên tục ghi nhận mức lợi nhuận âm và EPS âm sâu (-3.290 VNĐ/cp). Do thua lỗ kéo dài và vi phạm nghĩa vụ của công ty đại chúng, cổ phiếu CYC đã chính thức bị hủy đăng ký giao dịch trên UPCoM từ ngày 31/07/2026.
+  - **Xem xét yếu tố đặc thù:** Doanh nghiệp không sở hữu mỏ đất sét/fenspat độc quyền tạo lợi thế chi phí thấp, công nghệ sản xuất thông thường, không có tài sản mang lại dòng tiền thương mại đặc thù.
+  - **Quy chuẩn loại trừ:** Thuộc nhóm sản xuất vật liệu xây dựng (gạch men) đại trà biên mỏng, thua lỗ triền miên ngoài Vòng tròn Năng lực. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 19/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
 ### 238. DAC - Công ty Cổ phần 382 Đông Anh
 - **Mã cổ phiếu:** `DAC` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Sản xuất Gạch ngói đất sét nung & Kinh doanh VLXD
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp Gạch Ngói 382 Đông Anh thuộc Tổng cục Hậu cần - Bộ Quốc phòng (thành lập từ năm 1958), từng mang thương hiệu Viglacera Đông Anh, cổ phần hóa năm 2003. Trụ sở và nhà xưởng đặt tại thị trấn Đông Anh, Hà Nội. Hoạt động chính là sản xuất các loại gạch xây dựng bằng đất sét nung (gạch đặc, gạch lỗ), ngói lợp, gạch chống nóng và kinh doanh thương mại vật liệu xây dựng phụ trợ.
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Sản xuất vật liệu xây dựng gạch ngói công nghệ nung truyền thống ngoài Vòng tròn Năng lực:** Công nghệ lò nung đất sét truyền thống chịu áp lực pháp lý rất lớn từ lộ trình xóa bỏ lò gạch đất sét nung để bảo vệ môi trường và chuyển đổi sang gạch không nung của Chính phủ. Doanh nghiệp gặp khó khăn lớn về nguồn nguyên liệu đất sét và chi phí tuân thủ môi trường.
+  - **Hiệu quả kinh doanh suy kiệt & Âm vốn chủ sở hữu:** Doanh thu teo tóp, chi phí cố định và khấu hao đè nặng khiến doanh nghiệp liên tục thua lỗ trong nhiều năm tài chính liên tiếp, dẫn đến toàn bộ vốn góp bị bào mòn và **Vốn chủ sở hữu bị âm**. Cổ phiếu DAC liên tục bị đưa vào diện hạn chế giao dịch chứng khoán trên UPCoM.
+  - **Xem xét yếu tố đặc thù:** Doanh nghiệp không sở hữu mỏ tài nguyên độc quyền rào cản cao, không có tài sản thương mại vị trí kim cương nào sinh lời đều đặn.
+  - **Quy chuẩn loại trừ:** Thuộc nhóm sản xuất vật liệu xây dựng đất nung đại trà ngoài Vòng tròn Năng lực. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 19/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
 ### 239. DC1 - Công ty cổ phần Đầu tư Phát triển Xây dựng số 1
 - **Mã cổ phiếu:** `DC1` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Thi công Xây lắp Công trình Dân dụng & BĐS
+- **Hoạt động kinh doanh chính:** Công ty cổ phần Đầu tư Phát triển Xây dựng số 1 (DIC số 1, mã CK: DC1), thành viên trong hệ sinh thái Tổng Công ty Cổ phần Đầu tư Phát triển Xây dựng (DIC Corp - DIG). Trụ sở tại TP. Vũng Tàu. Hoạt động cốt lõi là thi công xây lắp các công trình nhà ở cao tầng, công trình dân dụng, công nghiệp, hạ tầng kỹ thuật đô thị và tham gia đầu tư kinh doanh bất động sản.
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Nhà thầu xây dựng dân dụng & cao tầng ngoài Vòng tròn Năng lực:** Hoạt động chính là nhận thầu thi công xây lắp công trình xây dựng cho các chủ đầu tư (trong đó có DIC Corp). Ngành tổng thầu xây lắp dân dụng có rào cản gia nhập thấp, cạnh tranh đấu thầu gay gắt, biên lợi nhuận ròng phụ thuộc nhiều vào tiến độ nghiệm thu và biến động giá vật liệu xây dựng (thép, xi măng, cát đá).
+  - **Rủi ro công nợ đọng vốn & Chu kỳ bất động sản:** Đặc thù nhà thầu xây lắp chịu rủi ro bị chủ đầu tư chiếm dụng vốn, công nợ phải thu lớn, thời gian thu hồi vốn kéo dài. Đồng thời mảng kinh doanh bất động sản chịu ảnh hưởng trực tiếp từ chu kỳ trầm lắng của thị trường BĐS.
+  - **Xem xét yếu tố đặc thù:** Doanh nghiệp không sở hữu mỏ khoáng sản độc quyền hay tài sản thương mại mang lại dòng tiền cho thuê độc quyền.
+  - **Quy chuẩn loại trừ:** Thuộc nhóm xây lắp dân dụng & kinh doanh bất động sản đại trà ngoài Vòng tròn Năng lực. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 19/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
 ### 240. DCF - Công ty Cổ phần Xây dựng và Thiết kế số 1
 - **Mã cổ phiếu:** `DCF` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Tổng thầu Thiết kế & Thi công Xây dựng Công nghiệp (DECOFI)
+- **Hoạt động kinh doanh chính:** Công ty Cổ phần Xây dựng và Thiết kế số 1 (thương hiệu DECOFI), tiền thân là doanh nghiệp Nhà nước trực thuộc Bộ Nông nghiệp & Phát triển Nông thôn (thành lập từ năm 1990). DECOFI hoạt động với tư cách tổng thầu EPC chuyên tư vấn thiết kế, xin phép và thi công xây lắp các công trình nhà xưởng công nghiệp, kho bãi logistics tại các khu chế xuất, khu công nghiệp tại TP.HCM, Bình Dương, Đồng Nai, Long An và các tỉnh phía Nam.
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Tổng thầu thi công xây lắp nhà xưởng công nghiệp ngoài Vòng tròn Năng lực:** Dù có uy tín lâu năm trong phân khúc thi công nhà xưởng KCN, bản chất cốt lõi của DECOFI vẫn là nhà thầu xây dựng nhận thầu theo dự án. Ngành xây dựng công nghiệp có biên lợi nhuận ròng mỏng, rủi ro phát sinh chi phí bảo hành và phụ thuộc lớn vào làn sóng vốn đầu tư FDI/mở rộng nhà máy của các doanh nghiệp sản xuất.
+  - **Áp lực vốn lưu động & Rủi ro đọng vốn công trình:** Hoạt động tổng thầu đòi hỏi lượng vốn lưu động lớn để bảo lãnh dự thầu, bảo lãnh thực hiện hợp đồng, tạm ứng vật tư thi công. Rủi ro công nợ khách hàng chậm quyết toán và các khoản phải thu chiếm tỷ trọng cao trong cơ cấu tài sản.
+  - **Xem xét yếu tố đặc thù:** Doanh nghiệp không sở hữu quỹ đất khu công nghiệp cho thuê dòng tiền đều, không có mỏ vật liệu độc quyền.
+  - **Quy chuẩn loại trừ:** Thuộc nhóm nhà thầu thi công xây dựng dân dụng & công nghiệp ngoài Vòng tròn Năng lực. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 19/10/2026 (Hiệu đính nâng cấp chuẩn hóa)
 
 ---
 
 ### 241. DCR - Công ty cổ phần Gạch men Cosevco
 - **Mã cổ phiếu:** `DCR` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Bất động sản & Xây dựng / Sản xuất & Kinh doanh Gạch men, Gạch ốp lát Ceramic & Thi công Xây lắp Dân dụng (DACERA)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Sản xuất vật liệu xây dựng gạch ốp lát đại trà dư thừa công suất:** DCR (tiền thân thuộc Tổng Công ty Miền Trung - Cosevco) chuyên sản xuất gạch men lát nền, gạch ốp tường nhãn hiệu DACERA tại KCN Hòa Khánh (Đà Nẵng). Thị trường gạch ốp lát Việt Nam đang rơi vào tình trạng dư cung trầm trọng, cạnh tranh khốc liệt về giá bán trước làn sóng gạch giá rẻ nhập khẩu và sự thống lĩnh của các thương hiệu lớn (Viglacera, Prime, Đồng Tâm...).
+  - **Hoạt động thi công xây lắp dân dụng & công nghiệp biên mỏng:** Doanh nghiệp kiêm nhiệm hoạt động thi công xây dựng công trình dân dụng, giao thông, thủy lợi - lĩnh vực có biên lợi nhuận thấp, rủi ro đọng vốn nghiệm thu kéo dài và phụ thuộc nặng nề vào chu kỳ đóng băng của thị trường bất động sản.
+  - **Sức khỏe tài chính kiệt quệ, thua lỗ kéo dài:** Doanh nghiệp liên tục ghi nhận kết quả kinh doanh khó khăn, doanh thu sụt giảm mạnh, thanh khoản cổ phiếu đóng băng trên UPCoM, hoàn toàn nằm ngoài Vòng tròn Năng lực của quỹ.
+- **Ngày Phân Tích:** 19/10/2026
 
 ---
 
 ### 242. DCT - Công ty Cổ phần Tấm lợp Vật liệu xây dựng Đồng Nai
 - **Mã cổ phiếu:** `DCT` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Bất động sản & Xây dựng / Sản xuất Tấm lợp Fibro Xi măng, Amiăng Xi măng & Hoạt động Xây lắp (DONAC)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
-### 243. DDB - Công ty cổ phần Thương mại và Xây Dựng Đông Dương
-- **Mã cổ phiếu:** `DDB` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Chưa phân loại
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Chưa phân loại), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Sản xuất VLXD đại trà công nghệ cũ có nguy cơ bị loại bỏ:** Tiền thân là Nhà máy Amiăng Ximăng do tập đoàn ETERNIT (Pháp) xây dựng từ trước năm 1975, DCT chuyên sản xuất tấm lợp fibro-xi măng (amiăng xi măng) truyền thống. Đây là dòng sản phẩm vật liệu xây dựng đại trà, công nghệ cũ, giá trị gia tăng thấp, biên lợi nhuận mỏng và đang đối mặt với lộ trình hạn chế/cấm sử dụng amiăng trắng do lo ngại tác động môi trường và sức khỏe cộng đồng.
+  - **Thâm hụt vốn trầm trọng & Đình chỉ/Hạn chế giao dịch:** Doanh nghiệp rơi vào khủng hoảng tài chính kéo dài nhiều năm, lỗ lũy kế vượt xa vốn góp dẫn đến **Vốn chủ sở hữu âm nặng**, cổ phiếu bị đưa vào diện hạn chế/đình chỉ giao dịch trên UPCoM. Ngoài ra, việc buộc phải di dời nhà máy ra khỏi KCN Biên Hòa 1 (Đồng Nai) tạo áp lực chi phí giải tỏa và gián đoạn hoạt động sản xuất.
+  - Hoàn toàn thuộc nhóm ngành vật liệu xây dựng đại trà suy thoái và xây lắp ngoài Vòng tròn Năng lực, loại ngay tại Bước 1.
+- **Ngày Phân Tích:** 19/10/2026
 
 ---
 
@@ -4328,3 +4456,41 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
   - **Không có lợi thế tài nguyên độc quyền đặc thù:** Mảng thủy điện có lợi nhuận ổn định nhưng nhỏ so với quy mô tổng thể tập đoàn. Không có mỏ khoáng sản độc quyền, không có TTTM vị trí kim cương, không có BĐS KCN cho thuê dài hạn ổn định.
   - **Tổ hợp rủi ro nhiều mảng:** Sự pha trộn giữa xây lắp biên mỏng, BĐS chu kỳ và thủy điện vốn lớn khiến mô hình kinh doanh khó hiểu và rủi ro khó lượng hóa.
 - **Ngày Phân Tích:** 2026-09-22
+
+---
+
+### 432. C21 - Công ty Cổ phần Thế kỷ 21
+- **Mã cổ phiếu:** `C21` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Đầu tư Phát triển Dự án Khu đô thị, Nhà ở Thương mại & Du lịch Nghỉ dưỡng
+- **Hoạt động kinh doanh chính:** Tiền thân là Công ty TNHH Tuổi Trẻ thành lập từ năm 1994, công ty hoạt động chính trong lĩnh vực đầu tư kinh doanh bất động sản nhà ở dân dụng (Khu dân cư Thế kỷ 21 tại phường Bình Trưng Tây, TP. Thủ Đức/Quận 2 cũ, TP.HCM; Dự án Khu dân cư Ung Văn Khiêm, Bình Thạnh) và bất động sản nghỉ dưỡng (khu du lịch resort Cam Ranh, Bình Thuận).
+- **Lý do loại trừ tại Bước 1:**
+  - **Hoạt động cốt lõi là BĐS nhà ở dân dụng & du lịch nghỉ dưỡng:** Doanh nghiệp đầu tư các dự án phân lô bán nền, nhà phố, biệt thự và căn hộ thương mại. Đây là mô hình kinh doanh BĐS dân dụng mang tính chu kỳ cao, chịu ảnh hưởng nặng nề bởi các đợt siết tín dụng và pháp lý dự án kéo dài, nằm ngoài Vòng tròn năng lực.
+  - **Không sở hữu lợi thế tài nguyên độc quyền đặc thù:** Không phải BĐS khu công nghiệp cho thuê đất sẵn sàng hạ tầng, không sở hữu trung tâm thương mại cho thuê tạo dòng tiền đều đặn, không có mỏ khoáng sản độc quyền.
+  - **Rủi ro chu kỳ và thanh khoản:** Tiến độ triển khai và kinh doanh các dự án bị đình trệ trong nhiều năm qua do vướng mắc pháp lý và thị trường BĐS trầm lắng. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 08/10/2026
+
+---
+
+### 433. C4G - Công ty Cổ phần Tập đoàn CIENCO4
+- **Mã cổ phiếu:** `C4G` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản và Xây dựng / Tổng thầu Xây dựng Hạ tầng Giao thông & Đầu tư Dự án BOT
+- **Hoạt động kinh doanh chính:** Tiền thân là Tổng công ty Xây dựng Công trình Giao thông 4 (Bộ Giao thông Vận tải), CIENCO4 là một trong những nhà thầu xây lắp hạ tầng giao thông lớn nhất Việt Nam. Doanh nghiệp tham gia thi công hàng loạt công trình đường cao tốc Bắc - Nam, cầu đường bộ lớn, sân bay, hầm chui giao thông và trực tiếp đầu tư khai thác một số dự án BOT giao thông.
+- **Lý do loại trừ tại Bước 1:**
+  - **Hoạt động cốt lõi là Xây lắp hạ tầng giao thông:** Mảng thi công xây lắp chiếm phần lớn doanh thu với biên lợi nhuận ròng cực mỏng (chỉ 2% – 4%), phụ thuộc hoàn toàn vào tiến độ giải ngân vốn đầu tư công và biến động giá nguyên vật liệu xây dựng (nhựa đường, thép, cát đá).
+  - **Thâm dụng vốn và đòn bẩy nợ vay khổng lồ:** Đặc thù ngành xây lắp giao thông đòi hỏi vốn lưu động rất lớn, công ty phải duy trì dư nợ vay tài chính hàng nghìn tỷ đồng để tài trợ thi công và các dự án BOT, tạo áp lực chi phí lãi vay thường trực.
+  - **Rủi ro đọng vốn công nợ phải thu:** Khoản phải thu khách hàng từ các Ban Quản lý dự án nhà nước lên đến hàng nghìn tỷ đồng, vòng quay vốn chậm, rủi ro chôn vốn kéo dài. Dừng phân tích tại Bước 1.
+- **Ngày Phân Tích:** 08/10/2026
+
+---
+
+### 434. CCS - Công ty Cổ phần Chíp Sáng
+- **Mã cổ phiếu:** `CCS` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Bất động sản / Quản lý & Cho thuê Văn phòng Tòa nhà SCID
+- **Hoạt động kinh doanh chính:** Tên doanh nghiệp là Chíp Sáng (tiền thân thành lập năm 2006 trong định hướng công nghệ cao), nhưng hoạt động kinh doanh thực tế là quản lý, vận hành và cho thuê diện tích văn phòng tại Tòa nhà SCID (Chíp Sáng Building) tại số 253 Điện Biên Phủ, Phường Võ Thị Sáu, Quận 3, TP.HCM và hoạt động đầu tư tài chính.
+- **Lý do loại trừ tại Bước 1 (Cho thuê BĐS văn phòng thông thường ngoài Vòng tròn năng lực, quy mô nhỏ):**
+  - **Bản chất là Cho thuê BĐS văn phòng thông thường:** Nguồn doanh thu thuần bán hàng và cung cấp dịch vụ của công ty chỉ đạt khoảng **10.5 - 11.0 tỷ VNĐ/năm**, hoàn toàn đến từ dịch vụ cho thuê diện tích sàn văn phòng tại một tòa nhà duy nhất ở trung tâm TP.HCM. Khách thuê có thể dễ dàng chuyển đổi địa điểm, không có rào cản chuyển đổi hay lợi thế độc quyền tự nhiên.
+  - **Không sở hữu lợi thế ngoại lệ đặc thù:** Công ty không phải là đại gia sở hữu chuỗi trung tâm thương mại bán lẻ chiếm lĩnh thị phần áp đảo (như Vincom VRE), không phải BĐS khu công nghiệp có quỹ đất sạch đón dòng vốn FDI, cũng không sở hữu mỏ khoáng sản độc quyền.
+  - **Quy chuẩn loại trừ Bước 1:** Nhóm cho thuê văn phòng, kho bãi thứ cấp thông thường nằm ngoài Vòng tròn năng lực của Quỹ. Dừng phân tích tại Bước 1. *(Hiệu đính loại khỏi File 5 do bot phân loại nhầm ngành "Chưa phân loại" ngày 13/09/2026)*.
+- **Ngày Phân Tích:** 08/10/2026 (Hiệu đính phân loại lại)
+
+
