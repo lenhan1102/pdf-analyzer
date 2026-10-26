@@ -11669,37 +11669,39 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
 ---
 
 ### 371. DOP - Công ty Cổ phần Vận tải Xăng dầu Đồng Tháp
-- **Mã cổ phiếu:** `DOP` (Sàn UPCOM — tỷ lệ sở hữu nước ngoài tối đa 0%)
-- **Ngành nghề niêm yết:** Vận tải & Logistics / Vận tải Xăng dầu Đường thủy, Cho thuê Kho – Bồn chứa Xăng dầu & Dịch vụ Cảng (DOPETCO, Đồng Tháp)
-- **Hoạt động kinh doanh chính:** Cổ phần hóa năm 2004 từ đơn vị vận tải xăng dầu nhà nước. Vận chuyển xăng dầu bằng đường thủy nội địa từ Đông Nam Bộ/TP.HCM về các tỉnh ĐBSCL và tái xuất sang Campuchia; cho thuê kho, bồn chứa xăng dầu, kho ngoại quan; dịch vụ cảng sông và bán buôn nhiên liệu.
+- **Mã cổ phiếu:** `DOP` (Sàn UPCOM — giao dịch từ 10/2015; tỷ lệ sở hữu nước ngoài tối đa 0%)
+- **Ngành nghề niêm yết:** Vận tải & Logistics / Vận tải Xăng dầu Đường thủy Nội địa & Tái xuất sang Campuchia (DOPETCO — công ty con của Petimex Đồng Tháp)
+- **Hoạt động kinh doanh chính:** Cổ phần hóa năm 2004 từ Xí nghiệp Vận tải Xăng dầu thuộc Công ty Thương mại Dầu khí Đồng Tháp (Petimex); hiện CTCP Dầu khí Đồng Tháp (cổ đông Nhà nước) nắm **51%**. Vận chuyển xăng dầu bằng tàu/sà lan đường thủy. Cơ cấu doanh thu 2025 (BCTN 2025, tr.24): **vận chuyển tái xuất sang Campuchia 66,4 tỷ VNĐ (~76%)**, vận chuyển nội địa 17,2 tỷ (~20%), dịch vụ 0,5 tỷ, khác 3,2 tỷ VNĐ. Doanh nghiệp có đăng ký ngành nghề cho thuê kho bồn/dịch vụ cảng nhưng doanh thu từ các mảng này không đáng kể.
 - **Luận điểm cốt lõi:**
-  - **Tài sản hạ tầng chuyên dụng:** Kho – bồn chứa xăng dầu và cảng sông tại Đồng Tháp là tài sản có giấy phép khó nhân bản; biên lợi nhuận gộp **65% – 77%** cho thấy doanh thu chủ yếu là dịch vụ/cho thuê, không phải thương mại xăng dầu biên mỏng.
-  - **Lợi nhuận ổn định, tiền mặt tăng:** LNST 7,2 – 12,4 tỷ VNĐ/năm; tiền mặt tăng từ 2,2 (2021) lên **34,0 tỷ VNĐ** (2025), gần như không vay nợ (~2,2 tỷ VNĐ).
+  - **Nhà vận chuyển "ruột" của Petimex trên tuyến tái xuất Campuchia:** Nguồn hàng gắn với công ty mẹ; có lãi liên tục 7 năm (7,2 – 12,4 tỷ VNĐ/năm), kể cả giai đoạn COVID-19.
+  - **Tiền ròng lớn so với vốn hóa:** Tiền 34,0 tỷ VNĐ (gồm 15 tỷ tiền gửi kỳ hạn), nợ vay 2,2 tỷ ➔ tiền ròng ~31,8 tỷ VNĐ ≈ **56% vốn hóa**; EV chỉ ~25 tỷ VNĐ so với lợi nhuận hoạt động lõi ~10,3 tỷ VNĐ (EV/EBIT ~2,4x) và CFO 13,6 – 17,1 tỷ VNĐ/năm (2023 – 2025).
+  - **Cổ tức & quản trị chi phí:** Cổ tức tiền mặt 12% (1.200 VNĐ/cp) cho năm 2024 ≈ 10% thị giá; thù lao HĐQT chỉ 48 – 60 triệu VNĐ/người/năm; BCTC 2025 được AFC Việt Nam kiểm toán chấp nhận toàn phần.
 - **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
 
-  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | Năm | Doanh thu thuần | LN hoạt động KD | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
   | :---: | :---: | :---: | :---: | :---: | :---: |
-  | 2021 | 72,3 | 75,5% | 7,2 | 72,5 | 9,8% |
-  | 2022 | 83,7 | 64,7% | 8,0 | 75,5 | **10,8%** |
-  | 2023 | 86,6 | 70,4% | 12,4 | 81,7 | **15,8%** |
-  | 2024 | 81,1 | 70,9% | 9,8 | 83,8 | **11,9%** |
-  | 2025 | 84,1 | 68,9% | 11,0 | 87,4 | **12,9%** |
+  | 2021 | 72,3 | 6,9 | 7,2 | 72,5 | 9,8% |
+  | 2022 | 83,7 | 10,2 | 8,0 | 75,5 | **10,8%** |
+  | 2023 | 86,6 | 14,8 | 12,4 | 81,7 | **15,8%** |
+  | 2024 | 81,1 | 15,0 | 9,8 | 83,8 | **11,9%** |
+  | 2025 | 84,1 | 13,0 | 11,0 | 87,4 | **12,9%** |
 
+  - *Lưu ý kế toán:* Biên gộp trên BCTC ~65% – 77% **không phản ánh biên thực** vì phần lớn chi phí vận hành đội tàu (~35 – 38 tỷ VNĐ/năm) được hạch toán vào chi phí bán hàng; biên lợi nhuận hoạt động thực tế ~15%.
 - **Chỉ số định giá & Tài chính:**
-  - **P/E:** **~5,1x** (theo LNST năm 2025; vốn hóa ~56,6 tỷ VNĐ)
-  - **P/B:** **~0,65x** (Thị giá 12.000 VNĐ/cp ngày 26/10/2026 so với BVPS ~18.500 VNĐ/cp)
-  - **Vốn điều lệ:** **47,2 tỷ VNĐ** (4,72 triệu cổ phiếu); tiền mặt 34,0 tỷ VNĐ ≈ 60% vốn hóa
+  - **P/E:** **~5,1x** (theo LNST năm 2025; vốn hóa ~56,6 tỷ VNĐ); loại trừ tiền ròng: ~2,3x
+  - **P/B:** **~0,65x** (Thị giá 12.000 VNĐ/cp ngày 26/10/2026 so với BVPS ~18.500 VNĐ/cp; tiền ròng ~6.700 VNĐ/cp)
+  - **Vốn điều lệ:** **47,2 tỷ VNĐ** (4,72 triệu cổ phiếu)
 - **Kết quả kiểm tra 4 bước:**
-  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Logistics xăng dầu, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Vận tải xăng dầu, không thuộc nhóm BĐS/xây lắp/VLXD.
   - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (12,4 / 9,8 / 11,0 tỷ VNĐ).
-  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Sở hữu kho – bồn – cảng chuyên dụng, biên gộp ~69%; P/B cũng thấp (~0,65x).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ⚠️ Đạt chuẩn (sát ngưỡng): Vận tải hàng nguy hiểm chuyên dụng (yêu cầu đăng kiểm – PCCC) trên tuyến tái xuất xuyên biên giới gắn với công ty mẹ, biên LN hoạt động ~15%, ROE 11 – 16%. Tuy nhiên bản chất là dịch vụ vận tải thuê trong thị trường phân mảnh, cạnh tranh giá cước — nếu áp chuẩn khắt khe, P/B ~0,65 ≥ 0,5 có thể khiến DOP rớt Bước 3.
   - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn: 4/5 năm ROE ≥ 10% (2022 – 2025: 10,8% / 15,8% / 11,9% / 12,9%).
-- **Điểm mạnh đặc biệt:** (1) Tài sản kho – cảng xăng dầu chuyên dụng; (2) Không nợ vay, tiền mặt ~60% vốn hóa; (3) P/E ~5x, P/B ~0,65x.
+- **Điểm mạnh đặc biệt:** (1) Tiền ròng ~56% vốn hóa, EV/EBIT ~2,4x; (2) Có lãi liên tục, không nợ vay; (3) Cổ tức ~10% thị giá; (4) Kiểm toán chấp nhận toàn phần, thù lao lãnh đạo thấp.
 - **Rủi ro cần theo dõi:**
-  - > [!WARNING]
-    > **Quy mô siêu nhỏ, tăng trưởng bằng 0:** Doanh thu đi ngang 72 – 87 tỷ VNĐ/năm suốt 7 năm; phụ thuộc nhu cầu vận chuyển của các đầu mối xăng dầu (Petrolimex/PV Oil) và luồng tái xuất sang Campuchia.
-  - Chưa có số liệu công bố về công suất kho/cảng và tỷ trọng doanh thu cho thuê; thanh khoản thấp (118/400 phiên có khớp lệnh từ 01/2025); room ngoại 0%.
-- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Logistics Năng lượng vốn hóa nhỏ; đọc BCTN để xác định cơ cấu doanh thu vận tải – cho thuê kho – thương mại.
+  - > [!CAUTION]
+    > **Phụ thuộc gần như hoàn toàn vào công ty mẹ và tuyến Campuchia:** ~76% doanh thu từ vận chuyển tái xuất; giá cước và sản lượng do Petimex (51%) chi phối ➔ rủi ro chuyển giá bất lợi cho cổ đông thiểu số. BCTN 2025 tự nhận "nguồn hàng truyền thống có xu hướng sụt giảm", xung đột Thái Lan – Campuchia làm tăng chi phí; kế hoạch LNST 2026 chỉ **8,5 tỷ VNĐ (-23%)**.
+  - **Đội tàu già, tiền mặt có thể bị giữ lại để thay tàu:** TSCĐ đã khấu hao ~65% nguyên giá; nhiều tàu hết niên hạn đang thanh lý, kế hoạch đầu tư thay thế 1 tàu < 1.000 tấn và 1 tàu > 1.000 tấn. Quy mô siêu nhỏ, thanh khoản thấp (118/400 phiên có khớp lệnh từ 01/2025), room ngoại 0%; thuế GTGT được khấu trừ tồn đọng ~10,5 tỷ VNĐ.
+- **Hành động tiếp theo:** Xếp vào Danh mục Theo dõi Giá trị sâu (net-cash); cần BCTC kiểm toán 2025 để xác định tỷ trọng doanh thu từ Petimex (giao dịch bên liên quan), danh sách – tuổi đội tàu và khoản đầu tư dài hạn 15,8 tỷ VNĐ (đã trích lập dự phòng 7,2 tỷ). *(Hiệu đính 26/10/2026: sửa luận điểm "kho bồn – cảng" ban đầu theo cơ cấu doanh thu thực tế trong BCTN 2025.)*
 - **Ngày tốt nghiệp phễu:** 2026-10-26
 
 ---
