@@ -11628,3 +11628,113 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Mảng lưu trú chịu cạnh tranh giá; nhu cầu tiệc cưới – hội nghị phụ thuộc chu kỳ tiêu dùng; thanh khoản rất thấp (43/400 phiên có khớp lệnh từ 01/2025).
 - **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Du lịch – Dịch vụ; tìm hiểu hình thức sử dụng đất (thuê hay giao) của các khách sạn, nhà hàng để đánh giá giá trị tài sản ẩn.
 - **Ngày tốt nghiệp phễu:** 2026-10-26
+
+---
+
+### 370. DNW - Công ty cổ phần Cấp nước Đồng Nai
+- **Mã cổ phiếu:** `DNW` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Tiện ích / Sản xuất & Cung cấp Nước sạch (Dowaco — tỉnh Đồng Nai)
+- **Hoạt động kinh doanh chính:** Đơn vị cấp nước sạch chủ lực của tỉnh Đồng Nai (Dowaco): khai thác, xử lý và phân phối nước cho khu dân cư và các khu công nghiệp Biên Hòa, Long Thành, Nhơn Trạch...; cổ đông lớn là Tổng CTCP Phát triển Khu Công nghiệp (Sonadezi).
+- **Luận điểm cốt lõi:**
+  - **Độc quyền tự nhiên gắn với KCN:** Mạng lưới cấp nước cho vùng công nghiệp lớn nhất phía Nam, nhu cầu tăng theo FDI và sân bay Long Thành; doanh thu tăng đều từ 1.155,8 (2021) lên **1.309,2 tỷ VNĐ** (2025), biên gộp ổn định 36% – 40%.
+  - **Giảm nợ mạnh:** Vay nợ giảm từ 1.509 tỷ (2021) xuống **~698 tỷ VNĐ** (2025), chi phí lãi vay giảm từ 44,5 xuống 27,2 tỷ VNĐ.
+  - **Cổ tức tiền mặt cao:** 1.600 VNĐ/cp cho năm 2024, 1.500 VNĐ/cp cho năm 2025 (~5% thị giá); lợi nhuận 4 quý gần nhất (Q3/2025 – Q2/2026) phục hồi lên ~**333,1 tỷ VNĐ**.
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 1.155,8 | 39,5% | 391,6 | 2.044,0 | **22,1%** |
+  | 2022 | 1.216,6 | 36,2% | 366,0 | 2.199,0 | **17,3%** |
+  | 2023 | 1.196,2 | 37,4% | 321,2 | 2.291,5 | **14,3%** |
+  | 2024 | 1.283,0 | 38,4% | 334,1 | 2.445,8 | **14,1%** |
+  | 2025 | 1.309,2 | 37,1% | 272,2 | 2.484,4 | **11,0%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~10,8x** (theo LNST 4 quý gần nhất ~333,1 tỷ VNĐ; ~13,2x theo LNST năm 2025; vốn hóa ~3.600 tỷ VNĐ)
+  - **P/B:** **~1,37x** (Thị giá 30.000 VNĐ/cp ngày 26/10/2026 so với BVPS ~21.950 VNĐ/cp tại 30/06/2026)
+  - **Vốn điều lệ:** **1.200 tỷ VNĐ** (120 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Tiện ích cấp nước, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (321,2 / 334,1 / 272,2 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Sở hữu – vận hành hạ tầng cấp nước độc quyền theo địa bàn, biên gộp ~37%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn: 5/5 năm ROE ≥ 10% (22,1% / 17,3% / 14,3% / 14,1% / 11,0%).
+- **Điểm mạnh đặc biệt:** (1) Độc quyền cấp nước vùng KCN Đồng Nai; (2) Giảm nợ mạnh; (3) Cổ tức ~5%, thanh khoản tốt (348/400 phiên có khớp lệnh).
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **ROE giảm 4 năm liền, xung đột cổ đông:** ROE trượt từ 22,1% (2021) xuống 11,0% (2025, LNST thấp nhất 6 năm); Sonadezi phủ quyết (63,99% không tán thành) tờ trình điều chỉnh kế hoạch kinh doanh 2025 và thù lao lãnh đạo — rủi ro quản trị giữa cổ đông lớn và ban điều hành.
+  - Giá nước do UBND tỉnh phê duyệt; vốn CSH tăng nhanh hơn lợi nhuận (lợi nhuận chưa phân phối ~697 tỷ VNĐ) làm ROE pha loãng.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Tiện ích Cấp nước; theo dõi kết quả 2026 và quan hệ Sonadezi – ban điều hành.
+- **Ngày tốt nghiệp phễu:** 2026-10-26
+
+---
+
+### 371. DOP - Công ty Cổ phần Vận tải Xăng dầu Đồng Tháp
+- **Mã cổ phiếu:** `DOP` (Sàn UPCOM — tỷ lệ sở hữu nước ngoài tối đa 0%)
+- **Ngành nghề niêm yết:** Vận tải & Logistics / Vận tải Xăng dầu Đường thủy, Cho thuê Kho – Bồn chứa Xăng dầu & Dịch vụ Cảng (DOPETCO, Đồng Tháp)
+- **Hoạt động kinh doanh chính:** Cổ phần hóa năm 2004 từ đơn vị vận tải xăng dầu nhà nước. Vận chuyển xăng dầu bằng đường thủy nội địa từ Đông Nam Bộ/TP.HCM về các tỉnh ĐBSCL và tái xuất sang Campuchia; cho thuê kho, bồn chứa xăng dầu, kho ngoại quan; dịch vụ cảng sông và bán buôn nhiên liệu.
+- **Luận điểm cốt lõi:**
+  - **Tài sản hạ tầng chuyên dụng:** Kho – bồn chứa xăng dầu và cảng sông tại Đồng Tháp là tài sản có giấy phép khó nhân bản; biên lợi nhuận gộp **65% – 77%** cho thấy doanh thu chủ yếu là dịch vụ/cho thuê, không phải thương mại xăng dầu biên mỏng.
+  - **Lợi nhuận ổn định, tiền mặt tăng:** LNST 7,2 – 12,4 tỷ VNĐ/năm; tiền mặt tăng từ 2,2 (2021) lên **34,0 tỷ VNĐ** (2025), gần như không vay nợ (~2,2 tỷ VNĐ).
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 72,3 | 75,5% | 7,2 | 72,5 | 9,8% |
+  | 2022 | 83,7 | 64,7% | 8,0 | 75,5 | **10,8%** |
+  | 2023 | 86,6 | 70,4% | 12,4 | 81,7 | **15,8%** |
+  | 2024 | 81,1 | 70,9% | 9,8 | 83,8 | **11,9%** |
+  | 2025 | 84,1 | 68,9% | 11,0 | 87,4 | **12,9%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~5,1x** (theo LNST năm 2025; vốn hóa ~56,6 tỷ VNĐ)
+  - **P/B:** **~0,65x** (Thị giá 12.000 VNĐ/cp ngày 26/10/2026 so với BVPS ~18.500 VNĐ/cp)
+  - **Vốn điều lệ:** **47,2 tỷ VNĐ** (4,72 triệu cổ phiếu); tiền mặt 34,0 tỷ VNĐ ≈ 60% vốn hóa
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Logistics xăng dầu, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (12,4 / 9,8 / 11,0 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Sở hữu kho – bồn – cảng chuyên dụng, biên gộp ~69%; P/B cũng thấp (~0,65x).
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn: 4/5 năm ROE ≥ 10% (2022 – 2025: 10,8% / 15,8% / 11,9% / 12,9%).
+- **Điểm mạnh đặc biệt:** (1) Tài sản kho – cảng xăng dầu chuyên dụng; (2) Không nợ vay, tiền mặt ~60% vốn hóa; (3) P/E ~5x, P/B ~0,65x.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Quy mô siêu nhỏ, tăng trưởng bằng 0:** Doanh thu đi ngang 72 – 87 tỷ VNĐ/năm suốt 7 năm; phụ thuộc nhu cầu vận chuyển của các đầu mối xăng dầu (Petrolimex/PV Oil) và luồng tái xuất sang Campuchia.
+  - Chưa có số liệu công bố về công suất kho/cảng và tỷ trọng doanh thu cho thuê; thanh khoản thấp (118/400 phiên có khớp lệnh từ 01/2025); room ngoại 0%.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Logistics Năng lượng vốn hóa nhỏ; đọc BCTN để xác định cơ cấu doanh thu vận tải – cho thuê kho – thương mại.
+- **Ngày tốt nghiệp phễu:** 2026-10-26
+
+---
+
+### 372. DP1 - Công ty Cổ phần Dược phẩm Trung ương CPC1
+- **Mã cổ phiếu:** `DP1` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Y tế / Nhập khẩu – Phân phối Độc quyền Dược phẩm & Vật tư Y tế (Vinapharm)
+- **Hoạt động kinh doanh chính:** Doanh nghiệp dược cấp trung ương, công ty con của Tổng Công ty Dược Việt Nam (Vinapharm, sở hữu 65,41%). Nhập khẩu, phân phối dược phẩm – vật tư y tế cho hệ thống bệnh viện, nắm nhiều hợp đồng phân phối độc quyền của các hãng nước ngoài và đang mở rộng sang kênh nhà thuốc (OTC).
+- **Luận điểm cốt lõi:**
+  - **Hợp đồng phân phối độc quyền:** Khác với các nhà phân phối trung gian biên mỏng, DP1 có biên gộp 13,5% – 15,9% và **biên ròng ~5,3%** (2025), ROE 17% – 28% — phản ánh vị thế đàm phán từ quyền phân phối độc quyền và mạng lưới đấu thầu bệnh viện.
+  - **Lợi nhuận tăng gấp đôi từ 2023:** LNST tăng từ 50,5 (2022) lên **103,0 – 113,8 tỷ VNĐ** (2023 – 2025); doanh thu Q2 – Q3/2026 tăng ~24% YoY.
+  - **Cổ tức kỷ lục:** Năm 2024 tỷ lệ 20%, năm 2025 tỷ lệ **25% tiền mặt** (2.500 VNĐ/cp, thanh toán từ 15/10/2026) ≈ 8,5% thị giá.
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 2.182,4 | 11,4% | 45,0 | 264,1 | **17,2%** |
+  | 2022 | 2.159,5 | 13,6% | 50,5 | 271,3 | **18,9%** |
+  | 2023 | 2.158,4 | 15,9% | 103,0 | 457,8 | **28,2%** |
+  | 2024 | 2.025,7 | 15,4% | 113,8 | 511,5 | **23,5%** |
+  | 2025 | 2.134,4 | 13,5% | 113,1 | 589,7 | **20,5%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~5,2x** (theo LNST 4 quý gần nhất Q4/2025 – Q3/2026 ~117,6 tỷ VNĐ; ~5,4x theo LNST năm 2025; vốn hóa ~615 tỷ VNĐ)
+  - **P/B:** **~0,99x** (Thị giá 29.300 VNĐ/cp ngày 26/10/2026 so với BVPS ~29.500 VNĐ/cp tại 30/09/2026)
+  - **Vốn điều lệ:** **209,8 tỷ VNĐ** (~21 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Dược phẩm, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (103,0 / 113,8 / 113,1 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn (sát ngưỡng): Nhà nhập khẩu – phân phối có quyền phân phối độc quyền, biên ròng ~5% (so với < 0,5% của nhà phân phối trung gian như DDN); không phải nhà sản xuất.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn: 5/5 năm ROE ≥ 10% (17,2% / 18,9% / 28,2% / 23,5% / 20,5%).
+- **Điểm mạnh đặc biệt:** (1) ROE 17 – 28%; (2) P/E ~5x, P/B ~1x; (3) Cổ tức tiền mặt 25%; (4) Thanh khoản tốt (362/400 phiên).
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Biên lợi nhuận bị bào mòn, vốn lưu động phình to:** Biên gộp giảm từ 15,9% (2023) xuống 13,5% (2025) do chi phí nhập khẩu tăng; năm 2025 tổng tài sản tăng 38% lên 1.928 tỷ VNĐ, vay ngắn hạn gần gấp đôi lên **610,9 tỷ VNĐ** (~1,04 lần VCSH) — cần theo dõi phải thu bệnh viện và tồn kho.
+  - Rủi ro mất hợp đồng phân phối độc quyền khi hãng gốc đổi đối tác; phụ thuộc đấu thầu thuốc bệnh viện công; lợi nhuận khác 2024 – 2025 (25,2 / 38,5 tỷ VNĐ) đóng góp đáng kể; VCSH năm 2023 tăng 186,5 tỷ VNĐ, lớn hơn LNST 103 tỷ — cần đối chiếu thuyết minh.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Dược phẩm cổ tức cao; đọc thuyết minh về danh mục hợp đồng độc quyền và chất lượng phải thu.
+- **Ngày tốt nghiệp phễu:** 2026-10-26

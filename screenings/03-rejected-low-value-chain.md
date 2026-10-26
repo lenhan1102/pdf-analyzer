@@ -307,3 +307,30 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ ba: 
   - Thực tế: P/B = 0.74 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net.
 - **Lý do bị loại:** DMN là nhà sản xuất thức ăn thủy sản quy mô nhỏ kiêm thương mại cá tra – nguyên liệu, biên gộp bình quân dưới 6%, ở tầng thấp chuỗi giá trị ngành thủy sản; P/B ~0,74 lần chưa đạt ngưỡng P/B < 0.5 nên bị loại tại Bước 3. *(Hiệu đính: trước đây bot quét thô xếp vào Bước 4 với dữ liệu ROE không đầy đủ; thực tế ROE 2022 = 11,3% và 2025 = 13,2% nên nếu qua Bước 3 doanh nghiệp sẽ vượt Bước 4 — kết quả loại phụ thuộc hoàn toàn vào đánh giá chuỗi giá trị.)*
 - **Ngày sàng lọc:** 2026-10-26
+
+---
+
+<a id="doc"></a>
+### 23. DOC - Công ty cổ phần Vật tư nông nghiệp Đồng Nai
+- **Mã cổ phiếu:** `DOC` (Sàn UPCOM — giao dịch từ 12/2016, thanh khoản rất thấp)
+- **Ngành nghề niêm yết:** Nông nghiệp / Thương mại Phân bón, Thuốc Bảo vệ Thực vật & Nông sản (DOCAM, KCN Biên Hòa 1)
+- **Bước 1 (Vòng tròn năng lực):** ✅ Pass. Vật tư nông nghiệp, không thuộc nhóm BĐS/xây lắp/VLXD.
+- **Bước 2 (Lợi nhuận 3 năm):** ✅ Pass. LNST 2023 – 2025 đều dương (4,7 / 3,9 / 6,4 tỷ VNĐ).
+- **Vị thế chuỗi giá trị:**
+  - Hoạt động chủ yếu là mua bán, nhập khẩu phân bón và thuốc bảo vệ thực vật qua 6 cửa hàng vật tư và ~30 khách hàng đại lý tại Đông Nam Bộ, ĐBSCL, Tây Nguyên; có phối trộn/gia công phân bón quy mô nhỏ và kho bãi 2,8 ha — khâu trung gian thương mại, không sở hữu thương hiệu hay công nghệ tạo quyền định giá.
+  - Biên lợi nhuận gộp chỉ **4,5% – 4,8%** giai đoạn 2023 – 2025 (đỉnh 10,1% năm 2022 nhờ giá phân bón tăng vọt), biên ròng 2025 ~2,8%; doanh thu giảm từ 369,9 (2022) còn 231,4 tỷ VNĐ (2025).
+- **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 336,5 | 10,0% | 14,73 | 115,3 | 13,4% |
+  | 2022 | 369,9 | 10,1% | 17,82 | 114,1 | 15,5% |
+  | 2023 | 236,3 | 4,7% | 4,74 | 106,4 | 4,3% |
+  | 2024 | 220,0 | 4,8% | 3,90 | 105,3 | 3,7% |
+  | 2025 | 231,4 | 4,5% | 6,40 | 107,6 | 6,0% |
+
+- **Định giá P/B thực tế:** **~0,63 lần** (Thị giá tham chiếu 6.800 VNĐ/cp ngày 26/10/2026 so với BVPS ~10.760 VNĐ/cp; phiên khớp gần nhất 17/03/2026 ở giá 7.300 VNĐ ➔ P/B ~0,68). P/E ~10,6x theo LNST 2025.
+  - Điều kiện ngoại lệ giữ lại: Định giá phải siêu rẻ với P/B < 0.5.
+  - Thực tế: P/B = 0.63 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net.
+- **Lý do bị loại:** DOC chủ yếu là nhà thương mại vật tư nông nghiệp trung gian, biên gộp ~4,5% trong 3 năm gần nhất, ở tầng thấp chuỗi giá trị ngành phân bón; P/B ~0,63 lần chưa đạt ngưỡng P/B < 0.5 nên bị loại tại Bước 3. *(Hiệu đính: trước đây bot quét thô gán nhãn "Vượt B4"; lưu ý ROE 2021 – 2022 đạt 13,4% / 15,5% nhờ chu kỳ giá phân bón, nên nếu qua Bước 3 doanh nghiệp sẽ vượt Bước 4 — kết quả loại dựa trên đánh giá chuỗi giá trị.)*
+- **Ngày sàng lọc:** 2026-10-26

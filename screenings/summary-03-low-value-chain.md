@@ -1,6 +1,6 @@
 # 📋 Bảng Tóm Tắt Nhanh: Doanh Nghiệp Rớt Bước 3 (Chuỗi Giá Trị Thấp & P/B $\ge$ 0.5)
 
-> **Mục đích:** Bảng tổng hợp rút gọn 22 doanh nghiệp bị loại do sản phẩm đại trà, sơ chế thô, gia công ở đáy chuỗi giá trị và định giá thị trường không đủ rẻ ($P/B \ge 0.5$).
+> **Mục đích:** Bảng tổng hợp rút gọn 23 doanh nghiệp bị loại do sản phẩm đại trà, sơ chế thô, gia công ở đáy chuỗi giá trị và định giá thị trường không đủ rẻ ($P/B \ge 0.5$).
 > 
 > 📁 **Hồ sơ phân tích chi tiết đầy đủ:** [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) | ⚡ **Quay lại:** [Bảng Tổng Hợp Siêu Tốc 1,642 Mã](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md)
 
@@ -30,4 +30,5 @@
 | 20 | `DDB` | CTCP Thương mại và Xây Dựng Đông Dương | Thương mại gỗ, sàn gỗ nội thất & cát xây dựng | **0.66** | ~5.2% (Biên ròng 0.76%) | Thương mại gỗ & cát đại trà biên gộp thu hẹp 9.5% ➔ 5.2%, LNST giảm 3 năm liền, P/B = 0.66 >= 0.5 | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md#ddb) |
 | 21 | `DDN` | CTCP Dược - Thiết bị Y tế Đà Nẵng (Dapharco) | Phân phối dược phẩm & thiết bị y tế | **0.63** | ~4.7% - 8.9% (Biên ròng 0.38%) | Trung gian phân phối dược biên ròng < 0.5%, vay ngắn hạn tăng 20 lần trong 3 năm, P/B = 0.63 >= 0.5 | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md#ddn) |
 | 22 | `DMN` | CTCP Domenal | Sản xuất thức ăn thủy sản & thương mại cá tra (Đồng Tháp) | **0.74** | ~3.8% - 9.4% (Biên ròng 2.2%) | Nhà máy thức ăn thủy sản nhỏ (12 tấn/giờ) kiêm thương mại, biên gộp bình quân < 6%, vay nợ gấp 2 lần VCSH, P/B = 0.74 >= 0.5 | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md#dmn) |
+| 23 | `DOC` | CTCP Vật tư nông nghiệp Đồng Nai (DOCAM) | Thương mại phân bón & thuốc BVTV | **0.63** | ~4.5% - 4.8% giai đoạn 2023-2025 (Biên ròng 2.8%) | Thương mại vật tư nông nghiệp trung gian, doanh thu giảm 37% từ đỉnh 2022, P/B = 0.63 >= 0.5 | [Xem chi tiết](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md#doc) |
 

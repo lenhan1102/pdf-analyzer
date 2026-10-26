@@ -25,6 +25,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
 | 13 | **CPA** | Công ty cổ phần Cà phê Phước An | Trồng trọt & Chế biến Cà phê Robusta | Thua lỗ liên tiếp 4 năm (2021-2024), chi phí lãi vay và tranh chấp đất đai bào mòn vốn, cảnh báo GD | 2026-10-13 |
 | 14 | **DDG** | CTCP Đầu tư Công nghiệp XNK Đông Dương (Đông Dương Corp) | Cung cấp hơi nhiệt công nghiệp & Thương mại | Thua lỗ liên tiếp 3 năm (2023-2025: -205,8 / -63,2 / -334,1 tỷ), lỗ lũy kế >504 tỷ, nợ quá hạn, hủy niêm yết HNX 06/2026 | 2026-10-25 |
 | 15 | **DLD** | Công ty Cổ phần Du lịch Đắk Lắk | Khách sạn, Nhà hàng & Khu du lịch (Đắk Lắk) | Thua lỗ liên tiếp 7 năm (2019-2025; 2023-2025: -8,5 / -10,5 / -18,8 tỷ), lỗ lũy kế -106,8 tỷ, Vốn CSH âm -12,2 tỷ | 2026-10-26 |
+| 16 | **DP2** | Công ty Cổ phần Dược phẩm Trung ương 2 (Dopharma) | Sản xuất Dược phẩm (thương hiệu TW2) | Thua lỗ liên tiếp 7 năm (2019-2025; 2023-2025: -24,1 / -5,6 / -10,8 tỷ), lỗ lũy kế -138,4 tỷ (~69% vốn điều lệ) | 2026-10-26 |
 
 ---
 
@@ -277,5 +278,27 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
 
   - Lợi nhuận gộp chỉ 7 – 8 tỷ VNĐ/năm, không đủ bù chi phí bán hàng – quản lý và lãi vay ~7 – 8 tỷ VNĐ/năm ➔ lỗ hoạt động kinh doanh cả 7 năm (2019 – 2025); năm 2025 thêm lỗ khác -9,9 tỷ VNĐ.
   - **Lỗ lũy kế -106,8 tỷ VNĐ** vượt vốn điều lệ 93,1 tỷ VNĐ ➔ **vốn CSH âm -12,2 tỷ VNĐ** (31/12/2025); nợ ngắn hạn 124,3 tỷ VNĐ (vay ngắn hạn 72,2 tỷ) vượt tổng tài sản 112,4 tỷ VNĐ, tiền mặt chỉ 1,5 tỷ VNĐ.
+  - **Quy chuẩn loại trừ:** LNST công ty mẹ âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2 theo đúng thứ tự tuần tự của phễu lọc)*.
+- **Ngày Phân Tích:** 26/10/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 17. DP2 - Công ty Cổ phần Dược phẩm Trung ương 2
+- **Mã cổ phiếu:** `DP2` (Sàn UPCOM — thanh khoản rất thấp)
+- **Ngành nghề niêm yết:** Y tế / Sản xuất Dược phẩm (Dopharma, thương hiệu TW2 — Hà Nội)
+- **Hoạt động kinh doanh chính:** Sản xuất – kinh doanh thuốc tân dược mang thương hiệu TW2 (Dopharma). Sau cổ phần hóa, doanh nghiệp bị đánh giá "sao nhãng" mảng dược để theo đuổi bất động sản trên các khu đất vàng tại Hà Nội — các khu đất này nằm bất động trong khi mảng dược cốt lõi teo tóp.
+- **Lý do loại trừ tại Bước 2 (Lỗ 7 năm liên tiếp 2019 – 2025):**
+  - **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+    | Năm | Doanh thu thuần | Lợi nhuận gộp | LNST | Vốn CSH cuối kỳ | Trạng thái |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | 2021 | 180,0 | 7,9 | **-17,89** | 134,3 | **Lỗ** |
+    | 2022 | 188,2 | 7,3 | **-23,76** | 110,6 | **Lỗ** |
+    | 2023 | 193,2 | 10,3 | **-24,05** | 86,5 | **Lỗ** |
+    | 2024 | 200,2 | 17,7 | **-5,57** | 81,0 | **Lỗ** (Q4/2024 lãi nhẹ, ngắt chuỗi 20 quý lỗ) |
+    | 2025 | 199,0 | 24,8 | **-10,82** | 70,2 | **Lỗ** |
+
+  - Biên gộp dù cải thiện lên 12,5% (2025) vẫn không đủ bù chi phí bán hàng – quản lý và lãi vay ~13 tỷ VNĐ/năm ➔ lỗ hoạt động kinh doanh liên tục; 9 tháng 2026 tiếp tục lỗ ~-9,2 tỷ VNĐ, VCSH còn 60,9 tỷ VNĐ (30/09/2026).
+  - **Lỗ lũy kế -138,4 tỷ VNĐ** (31/12/2025) ăn mòn ~69% vốn điều lệ 200 tỷ VNĐ; nợ ngắn hạn 246,3 tỷ VNĐ, vay ngắn hạn 97,2 tỷ VNĐ.
   - **Quy chuẩn loại trừ:** LNST công ty mẹ âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2 theo đúng thứ tự tuần tự của phễu lọc)*.
 - **Ngày Phân Tích:** 26/10/2026 (Hiệu đính phân loại lại)
