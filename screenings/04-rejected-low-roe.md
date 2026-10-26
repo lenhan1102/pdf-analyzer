@@ -4059,12 +4059,31 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 195. DHD - Công ty cổ phần Dược Vật tư Y tế Hải Dương
-- **Mã cổ phiếu:** `DHD` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Y tế
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (8.2%, 8.0%, 7.5%, 4.2%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+### 195. DHB - Công ty Cổ phần Phân đạm và Hóa chất Hà Bắc
+- **Mã cổ phiếu:** `DHB` (Sàn UPCOM — diện cảnh báo do kiểm toán ngoại trừ 4 năm liên tiếp)
+- **Ngành nghề niêm yết:** Hóa chất & Phân bón / Sản xuất Phân đạm Urê từ Than (Vinachem)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Sản xuất hóa chất – phân bón, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass (kỹ thuật). LNST 2023 – 2025: **858,3 / 6,8 / 10,9 tỷ VNĐ** — nhưng lãi 2023 đến từ **~1.803 tỷ VNĐ thu nhập khác do tái cơ cấu khoản vay Ngân hàng Phát triển (VDB)**; hoạt động kinh doanh cốt lõi năm 2023 lỗ -944,8 tỷ VNĐ.
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass. Nhà máy sản xuất urê quy mô công nghiệp (không phải gia công/thương mại), xử lý nhất quán với DDV. P/B ~5,1x theo VCSH 31/12/2025.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | Lợi nhuận khác | LNST | Vốn CSH cuối kỳ | ROE |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 4.498,6 | 26,4% | 3,2 | 1,9 | **-1.977,5** | Không xác định (VCSH âm) |
+  | 2022 | 6.441,0 | 44,0% | 2,7 | 1.779,1 | **-252,2** | Không xác định (VCSH âm đầu và cuối kỳ) |
+  | 2023 | 4.413,5 | -0,3% | 1.803,1 | 858,3 | 611,6 | Không có ý nghĩa (lãi từ tái cơ cấu nợ, HĐKD lỗ -944,8) |
+  | 2024 | 4.439,5 | 6,3% | 197,4 | 6,8 | 618,5 | 1,1% |
+  | 2025 | 4.330,5 | 11,2% | -41,5 | 10,9 | 631,6 | 1,7% |
+
+  - Vốn điều lệ 2.722 tỷ VNĐ nhưng lỗ lũy kế **-2.090,4 tỷ VNĐ** (31/12/2025); vay nợ ~2.279 tỷ VNĐ (ngắn hạn 284,0 + dài hạn 1.995,3) gấp ~3,6 lần vốn CSH.
+- **Lý do loại trừ cốt lõi:**
+  - **Không có năm nào tạo ROE ≥ 10% có ý nghĩa từ hoạt động kinh doanh trên vốn chủ dương:** 2021 – 2022 vốn CSH âm (năm đỉnh giá urê 2022 lãi 1.779 tỷ chỉ đủ kéo VCSH về -252 tỷ); 2023 lãi nhờ khoản thu nhập bất thường từ tái cơ cấu nợ VDB; 2024 – 2025 ROE chỉ 1,1% – 1,7%. Xử lý nhất quán với tiền lệ âm vốn CSH (ATA, CPI, DDM).
+  - **Kiểm toán ngoại trừ 4 năm liên tiếp** liên quan dự án mở rộng nhà máy; nhà máy dùng công nghệ khí hóa than, chi phí sản xuất cao hơn các nhà máy urê từ khí (DPM, DCM).
+  - > [!NOTE]
+    > **Phục hồi mạnh năm 2026 — cần chấm lại khi có BCTC năm 2026:** LNST 9 tháng 2026 đạt **~988,6 tỷ VNĐ** (riêng Q2/2026 ~625,8 tỷ VNĐ, biên gộp ~41%), VCSH tăng lên **1.620,3 tỷ VNĐ** (30/09/2026). Theo số liệu 4 quý gần nhất, P/E ~3,1x và P/B ~2,0x. Nếu kết quả cả năm 2026 được kiểm toán xác nhận, ROE 2026 sẽ vượt 10% và DHB có thể vượt Bước 4 ở lần rà soát sau; tuy nhiên lợi nhuận phụ thuộc chu kỳ giá urê và lỗ lũy kế vẫn còn ~1.240 tỷ VNĐ.
+- **Ngày Phân Tích:** 26/10/2026 *(Hiệu đính: chuyển từ File 5 sang File 4 do trước đây bot quét thô gán nhãn nhầm "Vượt B4"; thay thế vị trí #195 của DHD — mã DHD được nâng lên File 5)*
 
 ---
 

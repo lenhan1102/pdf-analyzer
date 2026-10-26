@@ -11183,3 +11183,78 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Tập trung khách hàng vào vài hãng xe lớn (quyền đàm phán giá nghiêng về khách hàng); biên gộp chỉ ~13%; cổ phiếu UPCoM thanh khoản rất thấp.
 - **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Công nghiệp Hỗ trợ cổ tức cao; theo dõi tỷ trọng doanh thu từ xe điện/ô tô để đánh giá rủi ro chuyển đổi.
 - **Ngày tốt nghiệp phễu:** 2026-10-26
+
+---
+
+### 358. DHD - Công ty cổ phần Dược Vật tư Y tế Hải Dương
+- **Mã cổ phiếu:** `DHD` (Sàn UPCOM — có kế hoạch chuyển niêm yết sang HOSE)
+- **Ngành nghề niêm yết:** Y tế / Sản xuất Dược phẩm, Thực phẩm Chức năng & Phân phối Vật tư Y tế (thương hiệu HDPharma)
+- **Hoạt động kinh doanh chính:** Doanh nghiệp dược tỉnh Hải Dương, vận hành **6 dây chuyền sản xuất đạt GMP-WHO** (thuốc viên, thuốc nước, đông dược, thực phẩm chức năng) kết hợp mạng lưới phân phối dược – vật tư y tế trong tỉnh. Đang triển khai cụm 3 dự án nhà máy HDPharma tại Cẩm Thượng (Hải Dương) để mở rộng công suất.
+- **Luận điểm cốt lõi:**
+  - **Chuyển dịch sang sản xuất, biên gộp cải thiện liên tục:** Biên lợi nhuận gộp tăng đều 5 năm từ **27,1% (2021) lên 35,8% (2025)** nhờ tăng tỷ trọng hàng tự sản xuất.
+  - **Lợi nhuận bứt phá 2024 – 2025:** LNST 30,0 ➔ 31,5 ➔ 40,6 ➔ **55,7 tỷ VNĐ** (2025: +37% YoY, vượt ~47% kế hoạch 38 tỷ VNĐ); 4 quý gần nhất (Q3/2025 – Q2/2026) đạt **~63,9 tỷ VNĐ**.
+  - **ROE vừa vượt ngưỡng:** ROE lần đầu vượt 10% trong năm 2025 (11,6%) sau 4 năm quanh 7,7% – 9,3%.
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 620,2 | 27,1% | 29,6 | 371,3 | 8,2% |
+  | 2022 | 615,8 | 28,1% | 30,0 | 394,9 | 7,8% |
+  | 2023 | 614,7 | 30,6% | 31,5 | 420,1 | 7,7% |
+  | 2024 | 665,0 | 31,6% | 40,6 | 454,3 | 9,3% |
+  | 2025 | 683,7 | 35,8% | 55,7 | 503,3 | **11,6%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~20,3x** (theo LNST 4 quý gần nhất Q3/2025 – Q2/2026 ~63,9 tỷ VNĐ; ~23,3x theo LNST năm 2025; vốn hóa ~1.297 tỷ VNĐ)
+  - **P/B:** **~2,45x** (Thị giá 26.700 VNĐ/cp ngày 26/10/2026 so với BVPS ~10.900 VNĐ/cp tại 30/06/2026)
+  - **Vốn điều lệ:** **485,9 tỷ VNĐ** (~48,6 triệu cổ phiếu tại 30/06/2026, tăng từ 120 tỷ VNĐ năm 2021 chủ yếu qua cổ phiếu thưởng/cổ tức bằng cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất dược phẩm, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương và tăng đều 2023 – 2025 (31,5 / 40,6 / 55,7 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Nhà sản xuất dược có nhà máy GMP-WHO và thương hiệu riêng, biên gộp 35,8%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn (sát ngưỡng): ROE 2025 đạt 11,6% nên không rơi vào trường hợp "ROE < 10% cả 5 năm" (2021 – 2024: 8,2% / 7,8% / 7,7% / 9,3%).
+- **Điểm mạnh đặc biệt:** (1) Biên gộp cải thiện 5 năm liền; (2) Lợi nhuận tăng tốc 2024 – 2025; (3) Đầu tư nhà máy mới mở rộng năng lực sản xuất.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Chỉ vượt Bước 4 nhờ đúng 1 năm:** 4/5 năm ROE dưới 10%; nếu lợi nhuận 2026 không duy trì, doanh nghiệp có thể rớt Bước 4 ở lần rà soát sau. Định giá P/E ~20x, P/B ~2,45x không còn rẻ.
+  - **Đòn bẩy tăng cho dự án Cẩm Thượng:** Vay dài hạn tăng từ 6,0 tỷ (2024) lên **237,0 tỷ VNĐ** (2025), tổng tài sản tăng 47% lên 952,6 tỷ VNĐ — rủi ro chậm tiến độ và khấu hao lớn khi nhà máy đi vào hoạt động.
+  - Pha loãng mạnh: số cổ phiếu tăng ~4 lần từ 2021 qua cổ phiếu thưởng; mảng thực phẩm chức năng cạnh tranh gay gắt.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Dược phẩm; kiểm tra lại ROE khi có BCTC năm 2026 và tiến độ – hiệu suất của nhà máy Cẩm Thượng.
+- **Ngày tốt nghiệp phễu:** 2026-10-26
+
+---
+
+### 359. DHN - Công ty Cổ phần Dược phẩm Hà Nội
+- **Mã cổ phiếu:** `DHN` (Sàn UPCOM — giao dịch từ 19/04/2018)
+- **Ngành nghề niêm yết:** Y tế / Sản xuất Thuốc Tân dược, Đông dược & Thuốc nhỏ mắt (Hanoi Pharma)
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp Dược phẩm Hà Nội (thành lập 1993), cổ phần hóa năm 2002. Sản xuất thuốc tân dược, đông dược và mỹ phẩm với công suất ~300 triệu viên, 10 triệu lọ thuốc nhỏ mắt và 1 triệu tuýp thuốc mỡ/năm; sản phẩm tiêu biểu: Kim Tiền Thảo, Hanokan, Terpin-Codein, Berberin, Cimetidin, các loại vitamin.
+- **Luận điểm cốt lõi:**
+  - **ROE cao và ổn định:** ROE 14,9% – 18,8% suốt 2021 – 2025, LNST tăng 5 năm liền từ 11,2 lên 16,2 tỷ VNĐ.
+  - **Biên gộp mở rộng mạnh:** Từ 35,8% (2021) lên **50,5% (2025)** nhờ tập trung vào sản phẩm biên cao.
+  - **Không vay nợ:** Không có nợ vay suốt 2019 – 2025, nợ phải trả chỉ ~13 tỷ VNĐ so với vốn CSH 94,2 tỷ VNĐ; cổ tức tiền mặt năm 2024 tỷ lệ 20% (2.000 VNĐ/cp), năm 2025 1.000 VNĐ/cp (thanh toán 06/03/2026).
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 80,5 | 35,8% | 11,2 | 76,8 | **14,9%** |
+  | 2022 | 88,8 | 35,9% | 12,9 | 80,8 | **16,3%** |
+  | 2023 | 90,0 | 37,6% | 15,4 | 82,7 | **18,8%** |
+  | 2024 | 85,6 | 42,5% | 16,1 | 91,8 | **18,4%** |
+  | 2025 | 73,1 | 50,5% | 16,2 | 94,2 | **17,4%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~7,0x** (theo LNST năm 2025; vốn hóa ~113 tỷ VNĐ)
+  - **P/B:** **~1,19x** (Thị giá 17.900 VNĐ/cp ngày 26/10/2026 so với BVPS ~14.980 VNĐ/cp; khớp với P/B ~1,18x của VNDirect — Simplize hiển thị P/E 10,8x, P/B 1,98x nhưng không khớp BCTC)
+  - **Vốn điều lệ:** **62,9 tỷ VNĐ** (6,29 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất dược phẩm, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (15,4 / 16,1 / 16,2 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Tự sản xuất thuốc mang thương hiệu riêng, biên gộp 50,5%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn: 5/5 năm ROE ≥ 10% (14,9% / 16,3% / 18,8% / 18,4% / 17,4%).
+- **Điểm mạnh đặc biệt:** (1) ROE ổn định 15 – 19%; (2) Không nợ vay; (3) Biên gộp 50%; (4) Định giá P/E ~7x, P/B ~1,2x.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Doanh thu đi lùi 2 năm liền:** Doanh thu giảm từ 90,0 (2023) xuống 73,1 tỷ VNĐ (2025, -14,6% YoY); lợi nhuận đi ngang chỉ nhờ biên gộp tăng — cần làm rõ đây là chủ động cắt sản phẩm biên thấp hay mất thị phần. Cổ tức năm 2025 giảm một nửa so với 2024.
+  - Quy mô rất nhỏ (vốn hóa ~113 tỷ VNĐ), danh mục thuốc generic phổ thông cạnh tranh với hàng trăm nhà sản xuất; thanh khoản UPCoM rất thấp; VNDirect không có BCTC quý 2026 để kiểm tra xu hướng gần nhất.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Dược phẩm vốn hóa nhỏ; tìm BCTC bán niên 2026 và cơ cấu doanh thu theo nhóm sản phẩm để kiểm chứng nguyên nhân doanh thu giảm.
+- **Ngày tốt nghiệp phễu:** 2026-10-26

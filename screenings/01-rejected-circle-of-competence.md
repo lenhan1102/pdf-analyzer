@@ -2782,20 +2782,25 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 ---
 
 ### 246. DIC - Công ty Cổ phần Đầu tư và Thương mại DIC
-- **Mã cổ phiếu:** `DIC` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `DIC` (Sàn UPCOM — chuyển từ HOSE năm 2020, diện cảnh báo/hạn chế giao dịch)
+- **Ngành nghề niêm yết:** Vật liệu Xây dựng / Kinh doanh – Vận chuyển Clinker, Xi măng, Thép, Thạch cao & Sản xuất Ngói màu (Vũng Tàu)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Thương mại VLXD đại trà:** Doanh thu lịch sử chủ yếu từ mua bán clinker, xi măng, thép, thạch cao; mảng sản xuất ngói màu, xi măng và bột trét quy mô nhỏ, không có mỏ tài nguyên hay lợi thế độc quyền — nằm ngoài Vòng tròn Năng lực. *(Hiệu đính: hồ sơ cũ ghi "BĐS dân dụng", thực chất là thương mại VLXD.)*
+  - **Tài chính kiệt quệ (tham khảo, Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** LNST 2021 – 2025: -41,8 / -106,5 / 0,6 / -7,5 / 1,0; doanh thu co lại từ 1.400,1 (2021) còn **27,7 tỷ VNĐ** (2025). Lỗ lũy kế -326,4 tỷ VNĐ khiến **vốn chủ sở hữu âm -57,1 tỷ VNĐ** (31/12/2025) trên vốn điều lệ 265,9 tỷ VNĐ; nợ ngắn hạn 1.185,9 tỷ VNĐ (vay ngắn hạn 599,3 tỷ) vượt tổng tài sản 1.128,8 tỷ VNĐ, tiền mặt chỉ 1,3 tỷ VNĐ.
+  - Thị giá 700 VNĐ/cp (26/10/2026), vốn hóa ~19 tỷ VNĐ — cổ phiếu "penny" mất khả năng thanh toán về mặt sổ sách.
+- **Ngày Phân Tích:** 26/10/2026
 
 ---
 
 ### 247. DID - Công ty Cổ phần DIC - Đồng Tiến
 - **Mã cổ phiếu:** `DID` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Vật liệu Xây dựng & Xây lắp / Sản xuất Bê tông Tươi, San lấp Mặt bằng & Xây dựng Công trình (Đồng Nai, Bà Rịa – Vũng Tàu)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **VLXD đại trà + xây lắp:** Hoạt động chính là sản xuất bê tông thương phẩm và nhận thầu san lấp, xây dựng dân dụng – công nghiệp – giao thông — sản phẩm đồng nhất, cạnh tranh bằng giá, phụ thuộc chu kỳ xây dựng, nằm ngoài Vòng tròn Năng lực. Cổ đông lớn nhất là CTCP Siêu thị VLXD Thế Giới Nhà (~36%).
+  - **Biên lợi nhuận gần như bằng 0 (tham khảo, Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** Biên gộp giảm từ 7,7% (2021) xuống **0,7% (2025)**; LNST 2021 – 2025 chỉ 0,3 – 2,1 tỷ VNĐ/năm, ROE **0,1% – 1,1%** — kể cả nếu xét tiếp, P/B ~0,25 < 0,5 có thể giúp qua ngoại lệ Bước 3 nhưng chắc chắn rớt Bước 4.
+  - Lưu ý dữ liệu: một nguồn ghi nhận LNST hợp nhất 2025 sau kiểm toán là **-8,04 tỷ VNĐ** (BCTC quý 4 báo lãi 90 triệu VNĐ) — chưa đối chiếu được với văn bản gốc.
+  - Thị giá 3.000 VNĐ/cp (26/10/2026), vốn CSH 186,7 tỷ VNĐ, vốn điều lệ 156,2 tỷ VNĐ.
+- **Ngày Phân Tích:** 26/10/2026
 
 ---
 

@@ -16,7 +16,7 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 ```
 
 - **Quy mô toàn bộ vũ trụ cổ phiếu:** **1,641** doanh nghiệp (Toàn bộ 3 sàn HOSE, HNX, UPCoM)
-- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **892 / 1,641** mã (**54.36%** — Đã rà soát chi tiết đến mã `DGT`)
+- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **897 / 1,641** mã (**54.66%** — Đã rà soát chi tiết đến mã `DID`)
 - **Số mã rớt tại Bước 1 (Ngành & VTNL):** **423** mã (25.78%)
 - **Số mã rớt tại Bước 2 (Lỗ 3 năm liên tiếp):** **15** mã (0.91%)
 - **Số mã rớt tại Bước 3 (Chuỗi GT thấp & P/B ≥ 0.5):** **21** mã (1.28%)
@@ -939,6 +939,11 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | 890 | **DFC** | Công ty Cổ phần Xích líp Đông Anh | Công nghiệp Hỗ trợ / Xích, Líp, Phụ tùng Xe máy OEM | ✅ Pass | ✅ Pass (LNST 31-47 tỷ) | ✅ Pass (Nhà cung cấp OEM Honda/Yamaha/Piaggio) | ✅ Pass (ROE 2022-2025 15.4% - 18.7%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 | 891 | **DFF** | Công ty cổ phần Tập đoàn Đua Fat | Bất động sản & Xây dựng / Thi công Nền móng, Cọc nhồi & Tường vây | ❌ Loại (Nhà thầu nền móng xây lắp, vốn CSH âm -487 tỷ, lỗ lũy kế -1.287 tỷ) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 | 892 | **DGT** | Công ty cổ phần Công trình Giao thông Đồng Nai | Bất động sản & Xây dựng / Thi công Giao thông, Khai thác Đá & VLXD | ❌ Loại (Thầu xây lắp giao thông, mỏ đá không đủ ngoại lệ, chậm trả ~310 tỷ trái phiếu) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 893 | **DHB** | Công ty Cổ phần Phân đạm và Hóa chất Hà Bắc | Hóa chất & Phân bón / Urê từ than (Vinachem) | ✅ Pass | ✅ Pass (kỹ thuật — lãi 2023 nhờ tái cơ cấu nợ) | ✅ Pass (Nhà máy urê, chế biến sâu) | ❌ Loại (VCSH âm 2021-2022, ROE 2024-2025 chỉ 1-2%) | Dừng ở Bước 4 | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
+| 894 | **DHD** | Công ty cổ phần Dược Vật tư Y tế Hải Dương | Y tế / Sản xuất Dược phẩm & TPCN (HDPharma) | ✅ Pass | ✅ Pass (LNST 31-56 tỷ) | ✅ Pass (6 dây chuyền GMP-WHO, biên gộp 35.8%) | ✅ Pass (ROE 2025 11.6%, sát ngưỡng) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 895 | **DHN** | Công ty Cổ phần Dược phẩm Hà Nội | Y tế / Sản xuất Thuốc Tân dược, Đông dược & Thuốc nhỏ mắt | ✅ Pass | ✅ Pass (LNST 15-16 tỷ) | ✅ Pass (Tự sản xuất thuốc, biên gộp 50.5%) | ✅ Pass (ROE 5/5 năm 14.9% - 18.8%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 896 | **DIC** | Công ty Cổ phần Đầu tư và Thương mại DIC | Vật liệu Xây dựng / Thương mại Clinker, Xi măng, Thép & Ngói | ❌ Loại (Thương mại VLXD đại trà, vốn CSH âm -57 tỷ) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 897 | **DID** | Công ty Cổ phần DIC - Đồng Tiến | Vật liệu Xây dựng & Xây lắp / Bê tông Tươi & San lấp | ❌ Loại (Bê tông thương phẩm + xây lắp đại trà, biên gộp 0.7%) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 
 ---
 
