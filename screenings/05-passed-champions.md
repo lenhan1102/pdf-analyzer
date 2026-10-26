@@ -11445,3 +11445,186 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Quy mô nhỏ (vốn hóa ~52 tỷ VNĐ), chi phí nhân công lớn; nhà nước (TP. Đà Nẵng) là khách hàng gần như duy nhất.
 - **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Dịch vụ Công ích cổ tức đều; theo dõi chính sách đấu thầu dịch vụ môi trường của TP. Đà Nẵng.
 - **Ngày tốt nghiệp phễu:** 2026-10-26
+
+---
+
+### 365. DNH - Công ty Cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+- **Mã cổ phiếu:** `DNH` (Sàn UPCOM — EVNGENCO1 sở hữu 99,93%, gần như không có cổ phiếu tự do chuyển nhượng)
+- **Ngành nghề niêm yết:** Năng lượng / Sản xuất Thủy điện (Lâm Đồng – Bình Thuận cũ)
+- **Hoạt động kinh doanh chính:** Vận hành cụm nhà máy thủy điện Đa Nhim, Hàm Thuận, Đa Mi và Sông Pha trên hệ thống hồ Đơn Dương – Hàm Thuận, bán điện cho EVN. Sản lượng 2025 đạt **3.202,7 triệu kWh** (111% kế hoạch) nhờ lưu lượng nước về cao hơn trung bình nhiều năm.
+- **Luận điểm cốt lõi:**
+  - **Tài sản hạ tầng không thể sao chép:** Các nhà máy thủy điện đã khấu hao phần lớn, chi phí biên gần như bằng 0 ➔ biên lợi nhuận gộp 52% – 64%.
+  - **ROE cao, cổ tức lớn:** ROE 17,1% – 23,0% suốt 2021 – 2025; cổ tức tiền mặt năm 2024 tỷ lệ 21%, tạm ứng năm 2025 tỷ lệ 14% (~591 tỷ VNĐ, chốt quyền 13/01/2026).
+  - **Lợi nhuận 2026 tăng mạnh:** 4 quý gần nhất (Q3/2025 – Q2/2026) LNST ~**1.199 tỷ VNĐ**, riêng Q2/2026 đạt 396,9 tỷ VNĐ.
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 2.475,1 | 62,0% | 1.367,5 | 6.506,8 | **22,2%** |
+  | 2022 | 2.752,7 | 63,8% | 1.496,9 | 6.492,9 | **23,0%** |
+  | 2023 | 2.373,0 | 57,7% | 1.123,2 | 5.283,1 | **19,1%** |
+  | 2024 | 2.080,6 | 52,2% | 902,8 | 5.265,3 | **17,1%** |
+  | 2025 | 2.284,7 | 52,7% | 915,1 | 5.178,6 | **17,5%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~18,0x** (theo LNST 4 quý gần nhất ~1.199 tỷ VNĐ; ~23,5x theo LNST năm 2025; vốn hóa ~21.542 tỷ VNĐ)
+  - **P/B:** **~3,86x** (Thị giá 51.000 VNĐ/cp ngày 26/10/2026 so với BVPS ~13.200 VNĐ/cp tại 30/06/2026)
+  - **Vốn điều lệ:** **4.224 tỷ VNĐ** (422,4 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất điện, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (1.123,2 / 902,8 / 915,1 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Sở hữu tài nguyên thủy năng và hạ tầng phát điện, biên gộp >50%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn: 5/5 năm ROE ≥ 10% (22,2% / 23,0% / 19,1% / 17,1% / 17,5%).
+- **Điểm mạnh đặc biệt:** (1) Tài sản thủy điện đã khấu hao, biên gộp >50%; (2) ROE ~17 – 23%; (3) Chính sách cổ tức tiền mặt cao; (4) Nợ vay giảm đều xuống ~1.302 tỷ VNĐ.
+- **Rủi ro cần theo dõi:**
+  - > [!CAUTION]
+    > **Gần như không thể đầu tư:** EVNGENCO1 nắm 99,93% vốn, tỷ lệ cổ phiếu tự do chỉ ~0,07% (chỉ 93/400 phiên có khớp lệnh từ 01/2025); giá giao dịch không phản ánh thị trường. P/B ~3,9x là đắt so với doanh nghiệp thủy điện.
+  - Lợi nhuận phụ thuộc thủy văn (năm 2020 khô hạn ROE chỉ 11,0%); giá bán điện cho EVN theo hợp đồng/thị trường điện cạnh tranh; quyết định phân phối lợi nhuận do công ty mẹ chi phối.
+- **Hành động tiếp theo:** Ghi nhận là doanh nghiệp chất lượng nhưng không khả thi để giải ngân; theo dõi nếu EVNGENCO1 thoái vốn/tăng tỷ lệ tự do chuyển nhượng.
+- **Ngày tốt nghiệp phễu:** 2026-10-26
+
+---
+
+### 366. DNL - Công ty cổ phần Logistics Cảng Đà Nẵng
+- **Mã cổ phiếu:** `DNL` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Vận tải & Logistics / Vận tải Hàng hóa, Kho bãi, Giao nhận & Khai thuê Hải quan (hệ sinh thái Cảng Đà Nẵng)
+- **Hoạt động kinh doanh chính:** Hình thành từ đơn vị logistics của Cảng Đà Nẵng (2006), cổ phần hóa năm 2009. Vận chuyển hàng hóa và khai thác kho bãi từ Cảng Đà Nẵng (Tiên Sa), giao nhận, xếp dỡ và khai thuê hải quan cho khách hàng miền Trung; Cảng Đà Nẵng là cổ đông chi phối (~52% theo BCTN gần nhất có công bố).
+- **Luận điểm cốt lõi:**
+  - **Lợi thế vị trí trong hệ sinh thái cảng:** Gắn liền với cảng biển lớn nhất miền Trung, có nguồn hàng ổn định từ cổ đông mẹ.
+  - **ROE ổn định quanh 11% – 16%:** 4/5 năm ROE ≥ 10%; biên gộp cải thiện từ 15,0% (2022) lên **18,2%** (2025), LNST 2025 tăng 37% lên 9,5 tỷ VNĐ.
+  - **Đòn bẩy thấp:** Vay nợ ~14,5 tỷ VNĐ so với vốn CSH 65,0 tỷ VNĐ.
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 217,9 | 15,5% | 9,3 | 59,9 | **15,8%** |
+  | 2022 | 189,9 | 15,0% | 5,6 | 58,0 | 9,5% |
+  | 2023 | 217,4 | 15,1% | 7,3 | 59,6 | **12,5%** |
+  | 2024 | 232,1 | 16,6% | 6,9 | 61,1 | **11,4%** |
+  | 2025 | 214,4 | 18,2% | 9,5 | 65,0 | **15,1%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~15,4x** (theo LNST năm 2025; vốn hóa ~147 tỷ VNĐ)
+  - **P/B:** **~2,25x** (Thị giá 34.000 VNĐ/cp ngày 26/10/2026 so với BVPS ~15.100 VNĐ/cp)
+  - **Vốn điều lệ:** **43,1 tỷ VNĐ** (4,31 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Dịch vụ logistics cảng biển, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (7,3 / 6,9 / 9,5 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Dịch vụ logistics tích hợp gắn với cảng biển (kho bãi, giao nhận, hải quan), biên gộp 15% – 18%, không phải vận tải thuê thuần.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn: 4/5 năm ROE ≥ 10% (15,8% / 9,5% / 12,5% / 11,4% / 15,1%).
+- **Điểm mạnh đặc biệt:** (1) Gắn với Cảng Đà Nẵng; (2) ROE ổn định, nợ thấp; (3) Biên gộp cải thiện 3 năm liền.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Quy mô nhỏ, cạnh tranh với các hãng logistics lớn:** Doanh thu đi ngang ~190 – 232 tỷ VNĐ/năm suốt 5 năm; định giá P/E ~15x, P/B ~2,3x không còn rẻ so với tăng trưởng.
+  - Phụ thuộc sản lượng hàng qua Cảng Đà Nẵng và quan hệ giao dịch với công ty mẹ (cần rà soát giao dịch bên liên quan); tổng tài sản tăng 21% năm 2025 kèm nợ phải trả tăng; thanh khoản UPCoM thấp.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Logistics Cảng biển; đối chiếu tỷ trọng doanh thu từ công ty mẹ Cảng Đà Nẵng.
+- **Ngày tốt nghiệp phễu:** 2026-10-26
+
+---
+
+### 367. DNM - Tổng Công ty cổ phần Y tế Danameco
+- **Mã cổ phiếu:** `DNM` (Sàn UPCOM — từng bị HNX xem xét hủy niêm yết năm 2023 do lỗ lũy kế vượt vốn điều lệ)
+- **Ngành nghề niêm yết:** Y tế / Sản xuất Vật tư Y tế Tiêu hao (Bông băng gạc, Khẩu trang, Đồ bảo hộ) & Thương mại Thiết bị Y tế (Đà Nẵng)
+- **Hoạt động kinh doanh chính:** Sản xuất vật tư y tế tiêu hao (bông, băng, gạc, khẩu trang, quần áo phẫu thuật) và kinh doanh thiết bị y tế cho bệnh viện trong nước. Doanh thu bùng nổ giai đoạn COVID-19 (700,7 tỷ VNĐ năm 2020) rồi sụt mạnh từ 2022.
+- **Luận điểm cốt lõi:**
+  - **Đã qua đáy, có lãi trở lại:** Sau 3 năm lỗ (2022 – 2024, tổng ~-155 tỷ VNĐ), năm 2025 lãi 10,1 tỷ VNĐ, doanh thu tăng 31% lên 257,7 tỷ VNĐ, biên gộp phục hồi lên 16,7%.
+  - **Định giá theo lợi nhuận thấp:** P/E ~2,8x theo LNST 2025 (vốn hóa chỉ ~28 tỷ VNĐ).
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 546,6 | 18,2% | 27,0 | 141,6 | **20,5%** |
+  | 2022 | 317,9 | -5,0% | -100,2 | 43,7 | -108,2% |
+  | 2023 | 217,4 | 2,1% | -54,4 | 5,3 | -222,1% |
+  | 2024 | 196,8 | 16,9% | -0,3 | 4,4 | -5,4% |
+  | 2025 | 257,7 | 16,7% | 10,1 | 14,5 | Không có ý nghĩa (~107% trên nền VCSH quá nhỏ) |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~2,8x** (theo LNST năm 2025; vốn hóa ~28,4 tỷ VNĐ)
+  - **P/B:** **~1,96x** (Thị giá 5.400 VNĐ/cp ngày 26/10/2026 so với BVPS ~2.760 VNĐ/cp)
+  - **Vốn điều lệ:** **52,5 tỷ VNĐ** (5,25 triệu cổ phiếu); lỗ lũy kế **-107,7 tỷ VNĐ** (gấp ~2 lần vốn điều lệ)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất vật tư y tế, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn (kỹ thuật): 2023 – 2024 lỗ (-54,4 / -0,3 tỷ VNĐ) nhưng 2025 lãi 10,1 tỷ VNĐ ➔ không lỗ đủ 3 năm liên tiếp.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Tự sản xuất vật tư y tế, biên gộp ~17%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ⚠️ Đạt chuẩn (kỹ thuật): ROE 2021 đạt 20,5% (lợi nhuận kinh doanh thực từ nhu cầu COVID-19) nên không rơi vào trường hợp "ROE < 10% cả 5 năm"; ROE 2025 bị bóp méo do VCSH chỉ còn 4,4 – 14,5 tỷ VNĐ.
+- **Điểm mạnh đặc biệt:** (1) Có lãi trở lại năm 2025; (2) Biên gộp phục hồi về mức trước COVID.
+- **Rủi ro cần theo dõi:**
+  - > [!CAUTION]
+    > **Bảng cân đối kiệt quệ — chất lượng "đạt chuẩn" rất yếu:** Lỗ lũy kế -107,7 tỷ VNĐ, VCSH chỉ 14,5 tỷ VNĐ trong khi vay nợ **156,1 tỷ VNĐ** (gấp ~10,8 lần VCSH), nợ ngắn hạn 181,7 tỷ VNĐ. Lần duy nhất ROE ≥ 10% có ý nghĩa là năm 2021 nhờ COVID-19; khi cửa sổ 5 năm chuyển sang 2022 – 2026, DNM chỉ vượt Bước 4 nếu ROE 2026 vẫn > 10% trên nền vốn rất mỏng.
+  - Kiểm toán năm 2022 điều chỉnh lỗ tăng thêm 48 tỷ VNĐ do xáo trộn nhân sự kế toán — rủi ro chất lượng báo cáo; lỗ khác lặp lại 2022 – 2025 (-5,5 đến -27,1 tỷ VNĐ/năm); VNDirect không có BCTC quý 2026 để kiểm tra xu hướng.
+- **Hành động tiếp theo:** Xếp vào nhóm "Đạt chuẩn kỹ thuật — ưu tiên thấp / tái cấu trúc"; chỉ xem xét lại khi VCSH được củng cố và BCTC 2026 xác nhận lợi nhuận bền vững.
+- **Ngày tốt nghiệp phễu:** 2026-10-26
+
+---
+
+### 368. DNN - Công ty Cổ phần Cấp nước Đà Nẵng
+- **Mã cổ phiếu:** `DNN` (Sàn UPCOM — thanh khoản rất thấp)
+- **Ngành nghề niêm yết:** Tiện ích / Sản xuất & Cung cấp Nước sạch (TP. Đà Nẵng)
+- **Hoạt động kinh doanh chính:** Đơn vị cấp nước sạch chủ lực của TP. Đà Nẵng — khai thác, xử lý và phân phối nước sinh hoạt, sản xuất qua hệ thống nhà máy nước và mạng lưới đường ống toàn thành phố.
+- **Luận điểm cốt lõi:**
+  - **Độc quyền tự nhiên theo địa bàn:** Mạng lưới cấp nước đô thị không thể sao chép, nhu cầu tăng theo dân số và du lịch Đà Nẵng; doanh thu tăng 4 năm liền từ 467,3 (2021) lên **774,3 tỷ VNĐ** (2025, +20% YoY).
+  - **Lợi nhuận bứt phá:** LNST 2025 đạt **234,0 tỷ VNĐ** (+133% YoY), ROE 28,0%; nửa đầu 2026 tiếp tục tăng 39% YoY lên 136,8 tỷ VNĐ, 4 quý gần nhất ~**270,6 tỷ VNĐ**.
+  - **ROE cao bền vững:** 5/5 năm ROE ≥ 12,6%; biên gộp phục hồi lên 43,9% sau năm 2024 trũng (30,6%).
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 467,3 | 42,8% | 121,4 | 781,5 | **16,1%** |
+  | 2022 | 534,4 | 47,4% | 157,2 | 796,6 | **19,9%** |
+  | 2023 | 596,0 | 42,9% | 155,9 | 810,3 | **19,4%** |
+  | 2024 | 644,7 | 30,6% | 100,4 | 777,1 | **12,6%** |
+  | 2025 | 774,3 | 43,9% | 234,0 | 895,8 | **28,0%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~8,2x** (theo LNST 4 quý gần nhất Q3/2025 – Q2/2026 ~270,6 tỷ VNĐ; ~9,5x theo LNST năm 2025; vốn hóa ~2.214 tỷ VNĐ)
+  - **P/B:** **~2,37x** (Thị giá 38.200 VNĐ/cp ngày 26/10/2026 so với BVPS ~16.140 VNĐ/cp tại 30/06/2026)
+  - **Vốn điều lệ:** **579,6 tỷ VNĐ** (57,96 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Tiện ích cấp nước, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (155,9 / 100,4 / 234,0 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Sở hữu – vận hành hạ tầng cấp nước độc quyền theo địa bàn, biên gộp ~44%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn: 5/5 năm ROE ≥ 10% (16,1% / 19,9% / 19,4% / 12,6% / 28,0%).
+- **Điểm mạnh đặc biệt:** (1) Độc quyền cấp nước đô thị loại 1; (2) Doanh thu tăng 4 năm liền, ROE 28%; (3) P/E ~8x.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Giá nước do UBND thành phố phê duyệt:** Biên gộp từng giảm mạnh xuống 30,6% (2024) khi chi phí tăng chưa được bù bằng giá; nguyên nhân bứt phá lợi nhuận 2025 (giá bán, sản lượng hay chi phí) chưa được xác minh qua nguồn công khai.
+  - Vay nợ ~386 tỷ VNĐ cho đầu tư mạng lưới; cổ đông nhà nước chi phối; thanh khoản rất thấp (37/400 phiên có khớp lệnh từ 01/2025), giá có thể biến động mạnh theo vài lệnh nhỏ.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Tiện ích Cấp nước; đọc BCTN 2025 để xác định động lực tăng lợi nhuận và lộ trình giá nước.
+- **Ngày tốt nghiệp phễu:** 2026-10-26
+
+---
+
+### 369. DNT - Công ty Cổ phần Du lịch Đồng Nai
+- **Mã cổ phiếu:** `DNT` (Sàn UPCOM — thanh khoản rất thấp)
+- **Ngành nghề niêm yết:** Du lịch & Dịch vụ / Khách sạn, Nhà hàng, Lữ hành & Thương mại (Biên Hòa, Đồng Nai)
+- **Hoạt động kinh doanh chính:** Tiền thân là Công ty Du lịch Đồng Nai (1976), cổ phần hóa năm 2006. Quản lý 2 khách sạn và 2 nhà hàng tại Biên Hòa (trong đó có Khách sạn Đồng Nai, nhà hàng Sen Vàng), Trung tâm Dịch vụ Lữ hành và Trung tâm Thương mại Tổng hợp; mảng nhà hàng tiệc cưới – hội nghị là nguồn lợi nhuận lớn nhất.
+- **Luận điểm cốt lõi:**
+  - **Phục hồi sau COVID và giữ ROE quanh 10% – 17%:** ROE 2022 – 2025: 16,8% / 11,7% / 9,9% / 11,8%; biên gộp cải thiện lên 27,3% (2025).
+  - **Không vay nợ:** Không có nợ vay, tiền mặt ~11,2 tỷ VNĐ; lợi nhuận chưa phân phối gần bằng 0 cuối mỗi năm ➔ lợi nhuận được chia/trích quỹ hết.
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 118,8 | 20,3% | -3,9 | 74,8 | -5,0% |
+  | 2022 | 270,1 | 25,1% | 12,8 | 78,3 | **16,8%** |
+  | 2023 | 219,0 | 26,5% | 9,2 | 78,7 | **11,7%** |
+  | 2024 | 211,4 | 25,6% | 7,6 | 74,7 | 9,9% |
+  | 2025 | 206,2 | 27,3% | 8,8 | 74,1 | **11,8%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~31,1x** (theo LNST năm 2025; vốn hóa ~273 tỷ VNĐ)
+  - **P/B:** **~3,68x** (Thị giá 36.600 VNĐ/cp — phiên khớp gần nhất 08/09/2026 — so với BVPS ~9.930 VNĐ/cp)
+  - **Vốn điều lệ:** **74,6 tỷ VNĐ** (7,46 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Dịch vụ du lịch – nhà hàng – khách sạn, không phải phát triển BĐS.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (9,2 / 7,6 / 8,8 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Tự vận hành khách sạn – nhà hàng có thương hiệu địa phương lâu năm, biên gộp ~27%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn: 3/5 năm ROE ≥ 10% (2022: 16,8%; 2023: 11,7%; 2025: 11,8%).
+- **Điểm mạnh đặc biệt:** (1) Không nợ vay; (2) Vị trí kinh doanh trung tâm Biên Hòa lâu năm; (3) Phân phối hết lợi nhuận.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Định giá rất đắt so với lợi nhuận:** P/E ~31x, P/B ~3,7x cho doanh nghiệp có doanh thu giảm 3 năm liền (270,1 ➔ 206,2 tỷ VNĐ) và ROE sát ngưỡng 10% — mức giá có thể đang phản ánh kỳ vọng về quyền sử dụng đất khu trung tâm Biên Hòa (chưa kiểm chứng).
+  - Mảng lưu trú chịu cạnh tranh giá; nhu cầu tiệc cưới – hội nghị phụ thuộc chu kỳ tiêu dùng; thanh khoản rất thấp (43/400 phiên có khớp lệnh từ 01/2025).
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Du lịch – Dịch vụ; tìm hiểu hình thức sử dụng đất (thuê hay giao) của các khách sạn, nhà hàng để đánh giá giá trị tài sản ẩn.
+- **Ngày tốt nghiệp phễu:** 2026-10-26

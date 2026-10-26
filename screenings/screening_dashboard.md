@@ -16,7 +16,7 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 ```
 
 - **Quy mô toàn bộ vũ trụ cổ phiếu:** **1,641** doanh nghiệp (Toàn bộ 3 sàn HOSE, HNX, UPCoM)
-- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **907 / 1,641** mã (**55.27%** — Đã rà soát chi tiết đến mã `DNE`)
+- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **912 / 1,641** mã (**55.58%** — Đã rà soát chi tiết đến mã `DNT`)
 - **Số mã rớt tại Bước 1 (Ngành & VTNL):** **422** mã (25.72%)
 - **Số mã rớt tại Bước 2 (Lỗ 3 năm liên tiếp):** **16** mã (0.98%)
 - **Số mã rớt tại Bước 3 (Chuỗi GT thấp & P/B ≥ 0.5):** **22** mã (1.34%)
@@ -954,6 +954,11 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | 905 | **DNA** | Công ty Cổ phần Điện nước An Giang | Tiện ích / Cấp nước & Phân phối điện An Giang | ✅ Pass | ✅ Pass (LNST 127-164 tỷ) | ✅ Pass (Độc quyền tự nhiên điện – nước) | ✅ Pass (ROE 5/5 năm 13.7% - 19.1%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 | 906 | **DND** | CTCP Đầu tư Xây dựng và Vật liệu Đồng Nai | Vật liệu Xây dựng / Bê tông, Đá, Gạch & Hạ tầng | ❌ Loại (VLXD đại trà + xây lắp, mỏ đá không tạo dòng tiền, doanh thu -87%) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 | 907 | **DNE** | Công ty Cổ phần Môi trường Đô thị Đà Nẵng | Dịch vụ Công ích / Thu gom & Xử lý Rác thải Đà Nẵng | ✅ Pass | ✅ Pass (LNST 5.7-9.1 tỷ) | ✅ Pass (Độc quyền công ích theo địa bàn) | ✅ Pass (ROE 2021 14.1%, 2025 11.3%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 908 | **DNH** | Công ty Cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi | Năng lượng / Thủy điện (EVNGENCO1) | ✅ Pass | ✅ Pass (LNST 903-1.123 tỷ) | ✅ Pass (Tài nguyên thủy năng, biên gộp > 50%) | ✅ Pass (ROE 5/5 năm 17.1% - 23.0%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 909 | **DNL** | Công ty cổ phần Logistic Cảng Đà Nẵng | Logistics Cảng biển / Vận tải, Kho bãi & Giao nhận | ✅ Pass | ✅ Pass (LNST 6.9-9.5 tỷ) | ✅ Pass (Logistics tích hợp gắn với cảng) | ✅ Pass (ROE 4/5 năm >= 10%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 910 | **DNM** | Tổng Công ty cổ phần Y tế Danameco | Y tế / Vật tư Y tế Tiêu hao | ✅ Pass | ⚠️ Pass (Lỗ 2023-2024, lãi 2025) | ✅ Pass (Tự sản xuất vật tư y tế) | ⚠️ Pass (Chỉ ROE 2021 20.5% nhờ COVID) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 911 | **DNN** | Công ty Cổ phần Cấp nước Đà Nẵng | Tiện ích / Cấp nước sạch Đà Nẵng | ✅ Pass | ✅ Pass (LNST 100-234 tỷ) | ✅ Pass (Độc quyền cấp nước đô thị) | ✅ Pass (ROE 5/5 năm 12.6% - 28.0%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 912 | **DNT** | Công ty Cổ phần Du lịch Đồng Nai | Du lịch / Khách sạn, Nhà hàng & Lữ hành | ✅ Pass | ✅ Pass (LNST 7.6-9.2 tỷ) | ✅ Pass (Tự vận hành khách sạn – nhà hàng) | ✅ Pass (ROE 3/5 năm >= 10%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 
 ---
 
