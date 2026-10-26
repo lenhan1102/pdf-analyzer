@@ -4112,15 +4112,6 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 198. DMN - Công ty cổ phần Domenal
-- **Mã cổ phiếu:** `DMN` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nông nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (4.4%, 4.7%, 2.4%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
 ### 199. DP2 - Công ty Cổ phần Dược phẩm Trung ương 2
 - **Mã cổ phiếu:** `DP2` (Sàn UPCOM)
 - **Ngành nghề niêm yết:** Y tế

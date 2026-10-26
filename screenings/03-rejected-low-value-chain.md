@@ -279,3 +279,31 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ ba: 
   - Thực tế: P/B = 0.63 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net.
 - **Lý do bị loại:** DDN là nhà phân phối dược – thiết bị y tế trung gian, biên gộp dưới 9% và biên ròng dưới 0,5%, ở tầng thấp của chuỗi giá trị ngành dược. Định giá P/B ~0,63 lần chưa đạt ngưỡng P/B < 0.5 nên bị loại tại Bước 3. *(Hiệu đính: trước đây bot quét thô xếp vào Bước 4; kể cả nếu qua Bước 3, ROE 5 năm 0,6% – 8,1% vẫn rớt Bước 4).*
 - **Ngày sàng lọc:** 2026-10-26
+
+---
+
+<a id="dmn"></a>
+### 22. DMN - Công ty cổ phần Domenal
+- **Mã cổ phiếu:** `DMN` (Sàn UPCOM — giao dịch từ 22/11/2021)
+- **Ngành nghề niêm yết:** Nông nghiệp / Sản xuất Thức ăn Thủy sản & Thương mại Cá tra, Nguyên liệu (Đồng Tháp)
+- **Bước 1 (Vòng tròn năng lực):** ✅ Pass. Thức ăn thủy sản, không thuộc nhóm BĐS/xây lắp/VLXD.
+- **Bước 2 (Lợi nhuận 3 năm):** ✅ Pass. LNST 2023 – 2025 đều dương (7,2 / 3,8 / 21,9 tỷ VNĐ).
+- **Vị thế chuỗi giá trị:**
+  - Thành lập 2008, vận hành **1 nhà máy thức ăn thủy sản tại Đồng Tháp công suất 12 tấn/giờ** — quy mô nhỏ so với các tập đoàn FDI chi phối thị trường (CP, Cargill, De Heus, Grobest...), không có thương hiệu tạo quyền định giá; đồng thời kinh doanh cá tra nguyên liệu và nguyên liệu sản xuất thức ăn (mảng thương mại thuần).
+  - Biên lợi nhuận gộp chỉ **3,8% – 9,4%** (bình quân 2021 – 2025 ~5,8%), biên ròng 2025 ~2,2% ➔ hàng hóa đại trà, chịu trọn biến động giá bột cá, đậu nành, ngô nhập khẩu.
+  - Đòn bẩy cao: vay nợ **355,2 tỷ VNĐ** (ngắn hạn 233,4 + dài hạn 121,8) gấp ~2 lần vốn CSH 177,0 tỷ VNĐ; chi phí lãi vay 24,6 tỷ VNĐ năm 2025 bằng ~85% lợi nhuận trước thuế.
+- **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 408,1 | 4,4% | 6,77 | 135,6 | 5,0% |
+  | 2022 | 638,5 | 3,8% | 15,80 | 144,2 | 11,3% |
+  | 2023 | 718,8 | 4,6% | 7,20 | 151,4 | 4,8% |
+  | 2024 | 804,3 | 9,4% | 3,82 | 155,2 | 2,5% |
+  | 2025 | 978,3 | 6,9% | 21,88 | 177,0 | 13,2% |
+
+- **Định giá P/B thực tế:** **~0,74 lần** (Thị giá 10.500 VNĐ/cp ngày 26/10/2026 so với BVPS ~14.160 VNĐ/cp; vốn điều lệ 125 tỷ VNĐ). P/E ~6,0x theo LNST 2025.
+  - Điều kiện ngoại lệ giữ lại: Định giá phải siêu rẻ với P/B < 0.5.
+  - Thực tế: P/B = 0.74 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net.
+- **Lý do bị loại:** DMN là nhà sản xuất thức ăn thủy sản quy mô nhỏ kiêm thương mại cá tra – nguyên liệu, biên gộp bình quân dưới 6%, ở tầng thấp chuỗi giá trị ngành thủy sản; P/B ~0,74 lần chưa đạt ngưỡng P/B < 0.5 nên bị loại tại Bước 3. *(Hiệu đính: trước đây bot quét thô xếp vào Bước 4 với dữ liệu ROE không đầy đủ; thực tế ROE 2022 = 11,3% và 2025 = 13,2% nên nếu qua Bước 3 doanh nghiệp sẽ vượt Bước 4 — kết quả loại phụ thuộc hoàn toàn vào đánh giá chuỗi giá trị.)*
+- **Ngày sàng lọc:** 2026-10-26

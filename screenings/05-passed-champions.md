@@ -11334,3 +11334,114 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Biên ròng chỉ ~0,4%, nợ ngắn hạn 438,8 tỷ VNĐ (vay ngắn hạn 127,4 tỷ) gấp ~7,4 lần vốn CSH — vốn lưu động phụ thuộc tín dụng ngân hàng và thanh toán của các đơn vị trong Tập đoàn; quyền lợi cổ đông thiểu số phụ thuộc chính sách của Vinacomin; vốn hóa ~12 tỷ VNĐ, gần như không có thanh khoản.
 - **Hành động tiếp theo:** Xếp vào nhóm "Đạt chuẩn kỹ thuật — ưu tiên thấp"; kiểm tra lại ROE khi có BCTC năm 2026.
 - **Ngày tốt nghiệp phễu:** 2026-10-26
+
+---
+
+### 362. DM7 - Công ty cổ phần Dệt may 7
+- **Mã cổ phiếu:** `DM7` (Sàn UPCOM — giao dịch từ 15/10/2018)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng / Dệt – Nhuộm – May khép kín, Vải bạt & Lều bạt chuyên dụng
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp Dệt Nhuộm P7 (thành lập 1992), cổ phần hóa năm 2017. Sản xuất khép kín từ sợi, dệt, nhuộm đến may hàng may sẵn; sản phẩm gồm quần áo may sẵn, vải bạt chống thấm, lều bạt, sợi – dây – lưới và hàng dệt kim; theo các hồ sơ doanh nghiệp, khách hàng chủ yếu thuộc khối quốc phòng – an ninh bên cạnh thị trường trong và ngoài nước.
+- **Luận điểm cốt lõi:**
+  - **Chuỗi giá trị khép kín, không phải gia công CMT:** Tự chủ khâu dệt – nhuộm và có dòng sản phẩm kỹ thuật (vải bạt, lều bạt), biên gộp cải thiện liên tục từ 10,7% (2022) lên **16,2% (2025)**.
+  - **ROE cao ổn định, không vay nợ:** ROE 14,7% – 21,3% suốt 2021 – 2025, LNST 40 – 55 tỷ VNĐ/năm; không có nợ vay, tiền mặt 52,1 tỷ VNĐ (31/12/2025).
+  - **Cổ tức tiền mặt đều đặn:** Tạm ứng cổ tức năm 2025 tỷ lệ 10% (chốt quyền 23/12/2025); năm 2024 tạm ứng 10% trên kế hoạch 17%.
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 826,5 | 11,4% | 50,6 | 260,1 | **20,4%** |
+  | 2022 | 899,0 | 10,7% | 54,8 | 253,8 | **21,3%** |
+  | 2023 | 620,2 | 13,7% | 39,6 | 285,3 | **14,7%** |
+  | 2024 | 868,2 | 14,8% | 54,7 | 286,4 | **19,1%** |
+  | 2025 | 741,1 | 16,2% | 55,0 | 303,9 | **18,6%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~4,3x** (theo LNST 4 quý gần nhất Q4/2025 – Q3/2026 ~67,6 tỷ VNĐ; ~5,3x theo LNST năm 2025; vốn hóa ~291 tỷ VNĐ)
+  - **P/B:** **~0,98x** (Thị giá 18.900 VNĐ/cp ngày 26/10/2026 so với BVPS ~19.250 VNĐ/cp tại 30/09/2026)
+  - **Vốn điều lệ:** **154,1 tỷ VNĐ** (15,41 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất dệt may, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (39,6 / 54,7 / 55,0 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Dệt – nhuộm – may khép kín và sản phẩm kỹ thuật chuyên dụng (không phải gia công CMT), biên gộp 16,2%; xử lý nhất quán với tiền lệ DCG, BDG.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn: 5/5 năm ROE ≥ 10% (20,4% / 21,3% / 14,7% / 19,1% / 18,6%).
+- **Điểm mạnh đặc biệt:** (1) ROE 15 – 21% bền bỉ; (2) Không vay nợ; (3) P/E ~4 – 5x, P/B < 1x.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Lợi nhuận dồn cục vào quý IV, đơn hàng biến động:** 9 tháng 2025 LNST chỉ 14,5 tỷ VNĐ (-68% YoY, Q3/2025 chỉ 0,8 tỷ) trước khi Q4/2025 đạt 40,4 tỷ VNĐ — kết quả phụ thuộc thời điểm giao các đơn hàng lớn; doanh thu dao động mạnh (620 – 899 tỷ VNĐ/năm).
+  - Phụ thuộc nhóm khách hàng tổ chức lớn (chưa có công bố cơ cấu doanh thu theo khách hàng); hàng tồn kho tăng mạnh trong 2025; thanh khoản UPCoM thấp (78/400 phiên có khớp lệnh từ 01/2025).
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Dệt may chuyên dụng; tìm BCTN để xác định tỷ trọng doanh thu từ khách hàng quốc phòng – an ninh.
+- **Ngày tốt nghiệp phễu:** 2026-10-26
+
+---
+
+### 363. DNA - Công ty Cổ phần Điện nước An Giang
+- **Mã cổ phiếu:** `DNA` (Sàn UPCOM — giao dịch từ 2017)
+- **Ngành nghề niêm yết:** Tiện ích / Sản xuất – Cung cấp Nước sạch, Phân phối Điện & Kinh doanh BĐS (An Giang)
+- **Hoạt động kinh doanh chính:** Doanh nghiệp tiện ích cấp tỉnh tại An Giang: sản xuất và phân phối nước sạch, truyền tải – phân phối điện trên địa bàn được giao, kèm một số hoạt động kinh doanh bất động sản. Doanh thu ~2.750 tỷ VNĐ năm 2025.
+- **Luận điểm cốt lõi:**
+  - **Độc quyền tự nhiên theo địa bàn:** Mạng lưới cấp nước – phân phối điện là hạ tầng thiết yếu, khó bị cạnh tranh; nhu cầu tăng đều theo dân số và đô thị hóa.
+  - **Tăng trưởng đều đặn:** Doanh thu tăng 5 năm liền từ 1.923,8 (2021) lên **2.752,0 tỷ VNĐ** (2025); LNST từ 110,7 lên **163,5 tỷ VNĐ**; biên gộp ổn định 18,1% – 19,6%.
+  - **ROE cải thiện liên tục:** Từ 13,7% (2021) lên **19,1%** (2025); lợi nhuận chưa phân phối đi ngang ~121 – 127 tỷ VNĐ ➔ phần lớn LNST hàng năm được chia cổ tức/trích quỹ.
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 1.923,8 | 18,1% | 110,7 | 822,5 | **13,7%** |
+  | 2022 | 2.054,0 | 18,3% | 114,0 | 829,4 | **13,8%** |
+  | 2023 | 2.332,4 | 18,2% | 126,9 | 832,8 | **15,3%** |
+  | 2024 | 2.630,4 | 19,6% | 157,6 | 845,8 | **18,8%** |
+  | 2025 | 2.752,0 | 19,1% | 163,5 | 865,5 | **19,1%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~8,3x** (theo LNST năm 2025; vốn hóa ~1.352 tỷ VNĐ)
+  - **P/B:** **~1,56x** (Thị giá 24.000 VNĐ/cp ngày 26/10/2026 so với BVPS ~15.360 VNĐ/cp)
+  - **Vốn điều lệ:** **563,3 tỷ VNĐ** (56,33 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Tiện ích điện – nước là mảng cốt lõi; BĐS chỉ là hoạt động phụ.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương và tăng đều 2023 – 2025 (126,9 / 157,6 / 163,5 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Sở hữu – vận hành hạ tầng tiện ích độc quyền theo địa bàn, biên gộp ~19%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn: 5/5 năm ROE ≥ 10% (13,7% / 13,8% / 15,3% / 18,8% / 19,1%).
+- **Điểm mạnh đặc biệt:** (1) Độc quyền tự nhiên điện – nước cấp tỉnh; (2) Doanh thu, lợi nhuận tăng 5 năm liền; (3) ROE ~19%, P/E ~8x.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Giá bán do Nhà nước quản lý:** Biểu giá nước và giá điện phụ thuộc phê duyệt của UBND tỉnh/EVN; tăng chi phí đầu vào không phải lúc nào cũng được chuyển sang giá bán. Vay nợ ~283 tỷ VNĐ (31/12/2025) cho đầu tư mạng lưới.
+  - Vốn CSH giảm mạnh từ 1.763 tỷ (2019) xuống 792 tỷ VNĐ (2020) do tái cấu trúc — cần đọc thuyết minh để hiểu tài sản đã tách ra; cổ đông chi phối là Nhà nước (tỉnh An Giang), ưu tiên mục tiêu công ích.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Tiện ích Điện – Nước; theo dõi lộ trình điều chỉnh giá nước và kế hoạch thoái vốn nhà nước.
+- **Ngày tốt nghiệp phễu:** 2026-10-26
+
+---
+
+### 364. DNE - Công ty Cổ phần Môi trường Đô thị Đà Nẵng
+- **Mã cổ phiếu:** `DNE` (Sàn UPCOM — giao dịch từ 04/2017)
+- **Ngành nghề niêm yết:** Dịch vụ Công ích / Thu gom, Vận chuyển & Xử lý Chất thải rắn, Vệ sinh Đô thị (TP. Đà Nẵng)
+- **Hoạt động kinh doanh chính:** Tiền thân là Công ty Vệ sinh Đà Nẵng (thành lập 1975), cổ phần hóa năm 2015. Là đơn vị duy nhất cung cấp dịch vụ môi trường công cộng tại Đà Nẵng: thu gom – vận chuyển rác sinh hoạt, quét dọn đường phố, xử lý chất thải theo đặt hàng của thành phố.
+- **Luận điểm cốt lõi:**
+  - **Độc quyền tự nhiên công ích theo địa bàn:** Dịch vụ thiết yếu, nhu cầu ổn định, doanh thu tăng đều từ 240,0 (2022) lên **288,3 tỷ VNĐ** (2025).
+  - **Lợi nhuận phục hồi:** LNST tăng 3 năm liền từ 5,7 (2023) lên **9,1 tỷ VNĐ** (2025), ROE 2025 trở lại 11,3%.
+  - **Cổ tức tiền mặt đều đặn:** 500 – 700 VNĐ/cp mỗi năm (năm 2025: 600 VNĐ/cp, tương đương ~6,6% thị giá).
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 254,6 | 9,6% | 10,7 | 76,5 | **14,1%** |
+  | 2022 | 240,0 | 8,1% | 5,9 | 75,1 | 7,8% |
+  | 2023 | 258,9 | 7,1% | 5,7 | 76,4 | 7,5% |
+  | 2024 | 271,0 | 8,1% | 6,8 | 78,9 | 8,7% |
+  | 2025 | 288,3 | 8,4% | 9,1 | 82,8 | **11,3%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~5,8x** (theo LNST năm 2025; vốn hóa ~52,5 tỷ VNĐ)
+  - **P/B:** **~0,63x** (Thị giá 9.100 VNĐ/cp ngày 26/10/2026 so với BVPS ~14.340 VNĐ/cp)
+  - **Vốn điều lệ:** **57,7 tỷ VNĐ** (5,77 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Dịch vụ môi trường công ích, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương và tăng 2023 – 2025 (5,7 / 6,8 / 9,1 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Độc quyền công ích theo địa bàn, xử lý nhất quán với tiền lệ BMD; biên gộp ~8% là đặc thù giá đặt hàng nhà nước.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn: 2/5 năm ROE ≥ 10% (2021: 14,1%; 2025: 11,3%).
+- **Điểm mạnh đặc biệt:** (1) Vị thế duy nhất tại Đà Nẵng; (2) Không vay nợ đáng kể (~9,4 tỷ VNĐ); (3) P/B ~0,63x, cổ tức ~6,6%.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Biên lợi nhuận do đơn giá đặt hàng của thành phố quyết định:** Biên gộp chỉ 7 – 10%, ROE 2022 – 2024 dưới 10%; nếu thành phố đấu thầu cạnh tranh dịch vụ vệ sinh môi trường (xu hướng xã hội hóa), vị thế độc quyền có thể bị phá vỡ.
+  - Quy mô nhỏ (vốn hóa ~52 tỷ VNĐ), chi phí nhân công lớn; nhà nước (TP. Đà Nẵng) là khách hàng gần như duy nhất.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Dịch vụ Công ích cổ tức đều; theo dõi chính sách đấu thầu dịch vụ môi trường của TP. Đà Nẵng.
+- **Ngày tốt nghiệp phễu:** 2026-10-26

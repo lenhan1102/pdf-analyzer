@@ -2816,11 +2816,14 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 ---
 
 ### 250. DND - CTCP Đầu tư Xây dựng và Vật liệu Đồng Nai
-- **Mã cổ phiếu:** `DND` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `DND` (Sàn UPCOM — giao dịch từ cuối 2016)
+- **Ngành nghề niêm yết:** Vật liệu Xây dựng & Xây lắp / Bê tông Thương phẩm, Đá xây dựng, Gạch Tuynel & Hạ tầng (công ty con của Sonadezi Biên Hòa)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **VLXD đại trà + xây lắp hạ tầng:** Vận hành 2 trạm trộn bê tông thương phẩm (600 m³/giờ), nhà máy gạch Tuynel Long Thành (20 triệu viên/năm) và nhận thi công hạ tầng dân dụng – công nghiệp — sản phẩm đồng nhất, cạnh tranh bằng giá, phụ thuộc chu kỳ xây dựng. Nằm ngoài Vòng tròn Năng lực.
+  - **Mỏ đá không đủ điều kiện ngoại lệ:** Doanh nghiệp có giấy phép mỏ đá Tân Cang 5 (cấp 2009, 1 triệu m³/năm) và Thiện Tân 5 (27,7 ha), nhưng tài nguyên này không tạo ra dòng tiền chi phối — doanh thu sụt **87%** từ 262,5 (2019) xuống **34,7 tỷ VNĐ** (2025) và lỗ gộp -4,4 tỷ VNĐ năm 2025.
+  - **Tài chính suy yếu (tham khảo, Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** LNST 2021 – 2025: 4,4 / -24,2 / 5,8 / -7,1 / -26,5; lỗ lũy kế -41,1 tỷ VNĐ (31/12/2025) dù đã tăng vốn điều lệ từ 88,3 lên 128,3 tỷ VNĐ năm 2024. ROE 5 năm từ -22,3% đến 6,1% — **kể cả nếu được xét ngoại lệ mỏ đá, doanh nghiệp vẫn rớt Bước 3 (P/B ~0,74 ≥ 0,5) hoặc Bước 4**.
+  - Định giá: Thị giá 7.900 VNĐ/cp (26/10/2026), P/B ~0,74x.
+- **Ngày Phân Tích:** 26/10/2026
 
 ---
 
