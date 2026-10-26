@@ -2829,10 +2829,13 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 
 ### 251. DPC - Công ty Cổ phần Nhựa Đà Nẵng
 - **Mã cổ phiếu:** `DPC` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Vật liệu Xây dựng & Phụ trợ / Sản xuất Bao bì Xi măng & Ống nhựa Cấp thoát nước (Đà Nẵng)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Sản xuất phụ trợ VLXD đại trà:** Sản phẩm chính là bao bì xi măng (~49% doanh thu) và ống nước các loại — hàng hóa đồng nhất phục vụ ngành xây dựng, cạnh tranh bằng giá; xử lý nhất quán với tiền lệ SDG (bao bì xi măng – VLXD). *(Hiệu đính: hồ sơ cũ ghi nhầm "BĐS dân dụng/phân lô".)*
+  - **Kinh doanh co hẹp mạnh (tham khảo, Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** Doanh thu giảm từ 80,8 (2019) xuống **20,9 tỷ VNĐ** (2025, -74%); lỗ 3 năm 2022 – 2024 (-15,6 / -7,3 / -1,8), lãi trở lại 4,2 tỷ VNĐ năm 2025 với biên gộp bất thường 64,7% (giá vốn chỉ 7,4 tỷ) — chưa xác minh được nguyên nhân. Đầu tư nhà máy mới năm 2021 – 2022 (~39 tỷ VNĐ TSCĐ) bằng vay dài hạn (còn 27,1 tỷ VNĐ) trên vốn CSH chỉ 28,9 tỷ VNĐ.
+  - Kể cả nếu được xét tiếp: ROE 5 năm 10,3% / -36,5% / -24,4% / -6,9% / 15,7%, sản phẩm bao bì – ống nhựa đại trà với P/B ~0,79 ≥ 0,5 ➔ nhiều khả năng rớt Bước 3.
+  - Định giá: Thị giá 10.200 VNĐ/cp (26/10/2026), vốn hóa ~23 tỷ VNĐ.
+- **Ngày Phân Tích:** 26/10/2026
 
 ---
 

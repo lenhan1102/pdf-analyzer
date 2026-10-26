@@ -4113,11 +4113,29 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 ---
 
 ### 200. DRG - Công ty cổ phần Cao su Đắk Lắk
-- **Mã cổ phiếu:** `DRG` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nông nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (1.4%, 1.6%, 4.2%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `DRG` (Sàn UPCOM — cổ đông nhỏ chỉ nắm ~1,06% vốn)
+- **Ngành nghề niêm yết:** Nông nghiệp / Trồng, Khai thác & Chế biến Mủ Cao su (Đắk Lắk, Lào)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Cao su, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. LNST công ty mẹ 2023 – 2025 dương (27,7 / 78,9 / 190,3 tỷ VNĐ).
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass. Sở hữu vườn cây – quỹ đất cao su, nhất quán với các tiền lệ ngành cao su. P/B ~0,69x.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC hợp nhất năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | Doanh thu tài chính | LNST công ty mẹ | Vốn CSH cuối kỳ | ROE |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 1.327,5 | 21,1% | 34,4 | 99,7 | 1.872,8 | 5,3% |
+  | 2022 | 1.195,9 | 22,3% | 37,9 | 49,9 | 1.735,4 | 2,8% |
+  | 2023 | 969,0 | 18,5% | 18,7 | 27,7 | 1.704,6 | 1,6% |
+  | 2024 | 1.186,8 | 24,8% | 21,5 | 78,9 | 1.890,5 | 4,4% |
+  | 2025 | 851,7 | 15,9% | **97,6** | 190,3 | 1.767,9 | 10,4% (bất thường) |
+
+  - **ROE 2025 bị đẩy lên bởi khoản lãi một lần:** Tháng 02 – 03/2025 DRG bán 11,6 triệu cổ phiếu DRI, giảm sở hữu từ 60,84% xuống 45% ➔ DRI chuyển thành công ty liên kết (khoản đầu tư vào công ty liên kết tăng từ 7,9 lên **323,1 tỷ VNĐ**, lợi ích cổ đông thiểu số giảm từ 42,9 xuống 0,5 tỷ VNĐ). Doanh thu tài chính tăng vọt lên 97,6 tỷ VNĐ (2024: 21,5 tỷ) chủ yếu từ lãi thoái vốn; trong khi biên gộp mảng cao su giảm còn 15,9% và **dòng tiền kinh doanh 2025 âm -33,5 tỷ VNĐ**.
+  - **Kiểm chứng bằng số liệu 4 quý gần nhất:** LNST Q3/2025 – Q2/2026 chỉ ~121,8 tỷ VNĐ trên VCSH ~1.750 tỷ VNĐ ➔ ROE ~7%, xác nhận năng lực sinh lời lõi vẫn dưới 10%.
+- **Lý do loại trừ cốt lõi:**
+  - ROE từ hoạt động kinh doanh cốt lõi dưới 10% trong cả 5 năm 2021 – 2025 (1,6% – 5,3% giai đoạn 2021 – 2024); năm 2025 chỉ vượt ngưỡng nhờ lãi thoái vốn DRI — xử lý nhất quán với tiền lệ DHB (loại trừ lợi nhuận bất thường không lặp lại).
+  - Vốn CSH lớn (~1.770 tỷ VNĐ) với chi phí xây dựng cơ bản dở dang ~693 tỷ VNĐ tồn đọng nhiều năm, tài sản sinh lời thấp. Thị giá 7.800 VNĐ/cp (26/10/2026), P/B ~0,69x.
+- **Ngày Phân Tích:** 26/10/2026
 
 ---
 

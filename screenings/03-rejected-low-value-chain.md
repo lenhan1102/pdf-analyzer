@@ -334,3 +334,30 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ ba: 
   - Thực tế: P/B = 0.63 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net.
 - **Lý do bị loại:** DOC chủ yếu là nhà thương mại vật tư nông nghiệp trung gian, biên gộp ~4,5% trong 3 năm gần nhất, ở tầng thấp chuỗi giá trị ngành phân bón; P/B ~0,63 lần chưa đạt ngưỡng P/B < 0.5 nên bị loại tại Bước 3. *(Hiệu đính: trước đây bot quét thô gán nhãn "Vượt B4"; lưu ý ROE 2021 – 2022 đạt 13,4% / 15,5% nhờ chu kỳ giá phân bón, nên nếu qua Bước 3 doanh nghiệp sẽ vượt Bước 4 — kết quả loại dựa trên đánh giá chuỗi giá trị.)*
 - **Ngày sàng lọc:** 2026-10-26
+
+---
+
+<a id="dpp"></a>
+### 24. DPP - Công ty Cổ phần Dược Đồng Nai
+- **Mã cổ phiếu:** `DPP` (Sàn UPCOM — thanh khoản rất thấp, phiên khớp gần nhất 09/10/2025)
+- **Ngành nghề niêm yết:** Y tế / Thương mại – Xuất nhập khẩu Dược phẩm & Sản xuất Thuốc (Donaipharm, Biên Hòa)
+- **Bước 1 (Vòng tròn năng lực):** ✅ Pass. Dược phẩm, không thuộc nhóm BĐS/xây lắp/VLXD.
+- **Bước 2 (Lợi nhuận 3 năm):** ✅ Pass. LNST 2023 – 2025 đều dương (8,3 / 8,9 / 10,9 tỷ VNĐ).
+- **Vị thế chuỗi giá trị:**
+  - Có nhà máy đạt WHO-GMP với hơn 70 sản phẩm được cấp phép, nhưng **thương mại – xuất nhập khẩu thuốc chiếm ~70 – 80% doanh thu** (theo hồ sơ doanh nghiệp) — chủ yếu là phân phối trung gian hàng của hãng khác.
+  - Biên lợi nhuận gộp chỉ **6,3% – 8,4%**, biên ròng 2025 ~2,6% — tương đương nhóm nhà phân phối trung gian (DDN), thấp xa so với nhà phân phối có hợp đồng độc quyền như DP1 (biên gộp 13,5% – 15,9%, biên ròng ~5%).
+- **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 329,9 | 6,7% | 6,85 | 46,2 | 14,8% |
+  | 2022 | 408,5 | 7,8% | 7,83 | 49,4 | 16,3% |
+  | 2023 | 322,9 | 8,4% | 8,27 | 52,7 | 16,2% |
+  | 2024 | 441,5 | 6,3% | 8,86 | 56,7 | 16,2% |
+  | 2025 | 419,1 | 8,4% | 10,95 | 61,8 | 18,5% |
+
+- **Định giá P/B thực tế:** **~1,29 lần** (Giá tham chiếu 26.500 VNĐ/cp ngày 26/10/2026 so với BVPS ~20.600 VNĐ/cp; vốn điều lệ 30 tỷ VNĐ). P/E ~7,3x theo LNST 2025.
+  - Điều kiện ngoại lệ giữ lại: Định giá phải siêu rẻ với P/B < 0.5.
+  - Thực tế: P/B = 1.29 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net.
+- **Lý do bị loại:** DPP chủ yếu là nhà thương mại – phân phối dược trung gian (70 – 80% doanh thu), biên gộp dưới 9%, ở tầng thấp chuỗi giá trị ngành dược; P/B ~1,29 lần nên bị loại tại Bước 3. *(Hiệu đính: trước đây bot quét thô gán nhãn "Vượt B4"; lưu ý ROE 14,8% – 18,5% cả 5 năm nhờ vốn CSH nhỏ và vòng quay cao — nếu qua Bước 3 doanh nghiệp sẽ vượt Bước 4; kết quả loại dựa trên đánh giá chuỗi giá trị.)*
+- **Ngày sàng lọc:** 2026-10-26

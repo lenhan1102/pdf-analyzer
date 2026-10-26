@@ -11740,3 +11740,77 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Rủi ro mất hợp đồng phân phối độc quyền khi hãng gốc đổi đối tác; phụ thuộc đấu thầu thuốc bệnh viện công; lợi nhuận khác 2024 – 2025 (25,2 / 38,5 tỷ VNĐ) đóng góp đáng kể; VCSH năm 2023 tăng 186,5 tỷ VNĐ, lớn hơn LNST 103 tỷ — cần đối chiếu thuyết minh.
 - **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Dược phẩm cổ tức cao; đọc thuyết minh về danh mục hợp đồng độc quyền và chất lượng phải thu.
 - **Ngày tốt nghiệp phễu:** 2026-10-26
+
+---
+
+### 373. DPH - Công ty Cổ phần Dược phẩm Hải Phòng
+- **Mã cổ phiếu:** `DPH` (Sàn UPCOM — giao dịch từ 2017)
+- **Ngành nghề niêm yết:** Y tế / Sản xuất Thuốc Generic & Dược liệu (Hải Phòng)
+- **Hoạt động kinh doanh chính:** Tiền thân là doanh nghiệp quốc doanh thành lập năm 1961, cổ phần hóa năm 2006. Sản xuất – kinh doanh thuốc generic và dược liệu, tiêu thụ chủ yếu tại thị trường miền Bắc.
+- **Luận điểm cốt lõi:**
+  - **Định giá thấp hơn tiền ròng (net-net):** Tiền và tiền gửi ngắn hạn **~202,8 tỷ VNĐ** (31/12/2025: tiền 18,3 + đầu tư tài chính ngắn hạn 184,5), vay nợ chỉ 3,4 tỷ ➔ tiền ròng **~199 tỷ VNĐ ≈ 66.500 VNĐ/cp**, cao hơn ~1,7 lần thị giá 39.100 VNĐ/cp; giá trị doanh nghiệp (EV) **âm ~82 tỷ VNĐ**.
+  - **Biên lợi nhuận cải thiện liên tục:** Biên gộp tăng 5 năm liền từ 22,0% (2021) lên **29,7%** (2025); LNST ổn định 22,8 – 25,9 tỷ VNĐ/năm (2022 – 2025), trong đó lợi nhuận lõi (loại lãi tiền gửi ~9 tỷ) ~19 tỷ VNĐ.
+  - **Cổ tức tiền mặt đều đặn:** 15% (2020 – 2021), 1.500 VNĐ/cp (2022), **2.000 VNĐ/cp cho năm 2025** (thanh toán 06/02/2026) ≈ 5,1% thị giá.
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 189,1 | 22,0% | 17,7 | 172,0 | **10,7%** |
+  | 2022 | 197,8 | 23,9% | 22,8 | 190,1 | **12,6%** |
+  | 2023 | 187,5 | 27,4% | 25,9 | 211,8 | **12,9%** |
+  | 2024 | 182,4 | 28,4% | 24,6 | 231,1 | **11,1%** |
+  | 2025 | 181,3 | 29,7% | 25,9 | 251,9 | **10,7%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~4,5x** (theo LNST năm 2025; vốn hóa ~117 tỷ VNĐ); loại trừ tiền ròng: âm
+  - **P/B:** **~0,47x** (Thị giá 39.100 VNĐ/cp ngày 26/10/2026 so với BVPS ~84.000 VNĐ/cp)
+  - **Vốn điều lệ:** **30 tỷ VNĐ** (3 triệu cổ phiếu); lợi nhuận chưa phân phối tích lũy 180,9 tỷ VNĐ (gấp 6 lần vốn điều lệ)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất dược phẩm, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (25,9 / 24,6 / 25,9 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Tự sản xuất thuốc generic, biên gộp ~30%; P/B cũng < 0,5.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn: 5/5 năm ROE ≥ 10% (10,7% / 12,6% / 12,9% / 11,1% / 10,7%).
+- **Điểm mạnh đặc biệt:** (1) Tiền ròng ~1,7 lần vốn hóa, EV âm; (2) Biên gộp tăng 5 năm liền; (3) Không nợ vay, cổ tức tiền đều.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Tiền mặt bị "chôn" — tỷ lệ chi trả thấp:** Cổ tức chỉ ~5 tỷ VNĐ/năm (~20% LNST) trong khi tiền gửi tăng đều mỗi năm; ROE bị pha loãng xuống sát ngưỡng 10% vì ~70% tài sản là tiền gửi. Giá trị net-net chỉ hiện thực hóa nếu ban lãnh đạo tăng chi trả hoặc dùng tiền hiệu quả.
+  - Doanh thu giảm dần từ 239,5 (2019) xuống 181,3 tỷ VNĐ (2025) — thuốc generic phổ thông cạnh tranh mạnh; chi phí quản lý ~28 tỷ VNĐ (15,6% doanh thu) cao; chưa có thông tin công khai về cổ đông chi phối; thanh khoản thấp (138/400 phiên có khớp lệnh), VNDirect không có BCTC quý.
+- **Hành động tiếp theo:** Xếp vào Danh mục Theo dõi Giá trị sâu (net-net); tìm BCTN gần nhất để xác định cổ đông lớn, chính sách cổ tức và kế hoạch sử dụng tiền mặt.
+- **Ngày tốt nghiệp phễu:** 2026-10-26
+
+---
+
+### 374. DRI - Công ty Cổ phần Đầu tư Cao su Đắk Lắk
+- **Mã cổ phiếu:** `DRI` (Sàn UPCOM — có kế hoạch chuyển niêm yết sang HOSE; thanh khoản tốt 400/400 phiên)
+- **Ngành nghề niêm yết:** Nông nghiệp / Trồng, Khai thác & Chế biến Mủ Cao su tại Lào
+- **Hoạt động kinh doanh chính:** Sở hữu và khai thác các vườn cao su tại Lào (vùng Nam Lào), chế biến và xuất bán mủ cao su. Từ 03/2025, Cao su Đắk Lắk (DRG) giảm sở hữu từ 60,84% xuống **45%** ➔ DRI chuyển từ công ty con thành công ty liên kết của DRG.
+- **Luận điểm cốt lõi:**
+  - **Vườn cây đã vào giai đoạn khai thác, biên cao:** Biên gộp 35,9% – 40,9% suốt 5 năm; quỹ đất – vườn cây tại Lào là tài sản tài nguyên khó nhân bản.
+  - **Lợi nhuận tăng tốc & giảm nợ mạnh:** LNST tăng từ 73,7 (2023) lên **157,4 tỷ VNĐ** (2025), 4 quý gần nhất (Q3/2025 – Q2/2026) ~**221,8 tỷ VNĐ**; vay nợ giảm từ 441,5 tỷ (2019) xuống ~104,7 tỷ VNĐ (2025).
+  - **ROE tăng 5 năm liền:** Từ 11,3% (2021) lên **24,3%** (2025).
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 585,7 | 39,3% | 84,1 | 711,3 | **11,3%** |
+  | 2022 | 496,8 | 40,9% | 80,8 | 571,2 | **12,6%** |
+  | 2023 | 443,5 | 35,9% | 73,7 | 537,3 | **13,3%** |
+  | 2024 | 471,1 | 40,2% | 109,0 | 590,6 | **19,3%** |
+  | 2025 | 684,3 | 38,3% | 157,4 | 706,9 | **24,3%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~4,9x** (theo LNST 4 quý gần nhất ~221,8 tỷ VNĐ; ~6,8x theo LNST năm 2025; vốn hóa ~1.076 tỷ VNĐ)
+  - **P/B:** **~1,34x** (Thị giá 14.700 VNĐ/cp ngày 26/10/2026 so với BVPS ~11.000 VNĐ/cp tại 30/06/2026)
+  - **Vốn điều lệ:** **732 tỷ VNĐ** (73,2 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Trồng – chế biến cao su, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương và tăng 2023 – 2025 (73,7 / 109,0 / 157,4 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Sở hữu vườn cây – quỹ đất (tài nguyên), biên gộp ~38%; nhất quán với các tiền lệ cao su đã đạt chuẩn (PHR, DPR, BRR).
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn: 5/5 năm ROE ≥ 10% (11,3% / 12,6% / 13,3% / 19,3% / 24,3%).
+- **Điểm mạnh đặc biệt:** (1) ROE tăng 5 năm liền lên 24%; (2) Giảm nợ mạnh; (3) P/E ~5x, thanh khoản tốt.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Rủi ro tỷ giá & quốc gia (Lào):** VCSH giảm từ 834 tỷ (2019) xuống 537 tỷ VNĐ (2023) dù có lãi mỗi năm — nhiều khả năng do chênh lệch quy đổi khi đồng Kíp Lào mất giá mạnh (cần đối chiếu thuyết minh); chính sách đất đai, thuế tại Lào có thể thay đổi.
+  - Lợi nhuận phụ thuộc chu kỳ giá cao su thế giới (2025 – 2026 đang ở vùng cao); cổ đông lớn DRG đang thoái vốn — áp lực cung cổ phiếu.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Cao su – Tài nguyên; định giá theo lợi nhuận bình quân chu kỳ và theo dõi tiến trình niêm yết HOSE.
+- **Ngày tốt nghiệp phễu:** 2026-10-26
