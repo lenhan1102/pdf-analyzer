@@ -11258,3 +11258,79 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Quy mô rất nhỏ (vốn hóa ~113 tỷ VNĐ), danh mục thuốc generic phổ thông cạnh tranh với hàng trăm nhà sản xuất; thanh khoản UPCoM rất thấp; VNDirect không có BCTC quý 2026 để kiểm tra xu hướng gần nhất.
 - **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Dược phẩm vốn hóa nhỏ; tìm BCTC bán niên 2026 và cơ cấu doanh thu theo nhóm sản phẩm để kiểm chứng nguyên nhân doanh thu giảm.
 - **Ngày tốt nghiệp phễu:** 2026-10-26
+
+---
+
+### 360. DKC - Công ty cổ phần Chợ Lạng Sơn
+- **Mã cổ phiếu:** `DKC` (Sàn UPCOM — giao dịch từ 07/2020, gần như không có thanh khoản)
+- **Ngành nghề niêm yết:** Dịch vụ / Đầu tư & Quản lý Chợ – Trung tâm Thương mại Biên mậu (TP. Lạng Sơn)
+- **Hoạt động kinh doanh chính:** Tiền thân là doanh nghiệp nhà nước thành lập năm 1995, cổ phần hóa năm 2004. Là chủ đầu tư và đơn vị quản lý **3 chợ trung tâm tại TP. Lạng Sơn — Chợ Đông Kinh, Chợ Kỳ Lừa, Chợ Chi Lăng** — cùng bãi đỗ xe Bờ Sông; doanh thu đến từ cho thuê gian hàng, ki-ốt và dịch vụ đi kèm (trông xe, điện nước, vệ sinh).
+- **Luận điểm cốt lõi:**
+  - **Đủ điều kiện ngoại lệ "TTTM độc quyền" tại Bước 1:** Không phải BĐS phân lô bán nền — DKC sở hữu quyền khai thác các chợ đầu mối trung tâm của thành phố cửa khẩu Lạng Sơn, vị trí không thể sao chép, dòng tiền cho thuê ổn định.
+  - **Doanh thu & biên lợi nhuận ổn định:** Doanh thu đi ngang 17,6 – 20,3 tỷ VNĐ/năm, biên gộp 42,8% – 47,6%, LNST 3,9 – 5,4 tỷ VNĐ/năm suốt 2021 – 2025.
+  - **Không vay nợ, tiền mặt dồi dào:** Không có nợ vay; tiền và tương đương tiền 13,5 tỷ VNĐ (31/12/2025) ≈ 42% vốn CSH. Lợi nhuận chưa phân phối cuối mỗi năm xấp xỉ LNST năm đó ➔ lợi nhuận hàng năm được phân phối gần hết.
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 19,0 | 46,1% | 3,9 | 26,8 | **15,8%** |
+  | 2022 | 20,3 | 47,6% | 4,4 | 29,0 | **15,6%** |
+  | 2023 | 17,6 | 42,8% | 5,4 | 30,6 | **18,2%** |
+  | 2024 | 18,5 | 43,4% | 4,1 | 30,9 | **13,4%** |
+  | 2025 | 18,9 | 46,3% | 4,3 | 32,3 | **13,5%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~0,6x** (theo giá khớp lệnh cuối cùng 1.200 VNĐ/cp ngày 22/05/2025 và EPS 2025 ~1.870 VNĐ)
+  - **P/B:** **~0,08x** (so với BVPS ~14.100 VNĐ/cp)
+  - > [!CAUTION]
+    > **Giá thị trường không có ý nghĩa định giá:** Từ 01/2025 đến 26/10/2026 cổ phiếu chỉ khớp lệnh **1 phiên (100 cổ phiếu)**; giá tham chiếu VNDirect ngày 26/10/2026 chỉ còn 100 VNĐ/cp. P/E và P/B ở trên phản ánh tình trạng mất thanh khoản, không phải mức chiết khấu có thể giao dịch được.
+  - **Vốn điều lệ:** **22,9 tỷ VNĐ** (~2,29 triệu cổ phiếu); UBND tỉnh Lạng Sơn đã phê duyệt chuyển nhượng 36% vốn nhà nước (823.875 cổ phần).
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn (ngoại lệ): Khai thác chợ/TTTM trung tâm có vị trí độc quyền, không phải BĐS dân dụng phân lô.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (5,4 / 4,1 / 4,3 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Chủ sở hữu – vận hành hạ tầng thương mại, biên gộp ~46%; P/B cũng < 0,5.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn: 5/5 năm ROE ≥ 10% (15,8% / 15,6% / 18,2% / 13,4% / 13,5%).
+- **Điểm mạnh đặc biệt:** (1) Tài sản chợ trung tâm vị trí độc quyền tại thành phố cửa khẩu; (2) ROE 13 – 18% ổn định, không nợ vay; (3) Phân phối gần hết lợi nhuận.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Quy mô siêu nhỏ & không thể giao dịch:** Vốn CSH chỉ ~32 tỷ VNĐ, LNST ~4 tỷ VNĐ/năm; cổ phiếu gần như không có người mua bán — không phù hợp để giải ngân thực tế.
+  - Quyền khai thác chợ phụ thuộc hợp đồng thuê đất/giao quản lý của tỉnh; xu hướng dịch chuyển sang bán lẻ hiện đại và thương mại điện tử làm giảm vai trò chợ truyền thống; doanh thu không tăng trưởng 5 năm. Nợ ngắn hạn tăng từ 9,6 lên 16,9 tỷ VNĐ năm 2025 (cần kiểm tra khoản tiền thuê nhận trước).
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Tài sản Hạ tầng Thương mại vốn hóa siêu nhỏ; theo dõi kết quả thoái 36% vốn nhà nước và thời hạn quyền khai thác chợ.
+- **Ngày tốt nghiệp phễu:** 2026-10-26
+
+---
+
+### 361. DLT - Công ty Cổ phần Du lịch và Thương mại - Vinacomin
+- **Mã cổ phiếu:** `DLT` (Sàn UPCOM — diện cảnh báo, thanh khoản rất thấp)
+- **Ngành nghề niêm yết:** Thương mại & Dịch vụ / Kinh doanh Than – Vật tư Thiết bị cho ngành Than & Khách sạn Du lịch (Vinacomin)
+- **Hoạt động kinh doanh chính:** Tiền thân là Công ty Du lịch Than Việt Nam (1996), cổ phần hóa năm 2004, công ty con của Tập đoàn Công nghiệp Than – Khoáng sản Việt Nam (Vinacomin). Doanh thu ~1.250 – 1.440 tỷ VNĐ/năm chủ yếu từ chế biến – kinh doanh than và cung ứng vật tư thiết bị cho các đơn vị trong Tập đoàn; sở hữu 2 khách sạn 2 sao tại Quảng Ninh (Biển Đông, Vân Long) và dịch vụ du lịch, đào tạo.
+- **Luận điểm cốt lõi:**
+  - **Đầu ra ổn định trong hệ sinh thái Vinacomin:** Khách hàng chính là các đơn vị thành viên của Tập đoàn, doanh thu duy trì >1.000 tỷ VNĐ/năm, có lãi đều đặn mọi năm.
+  - **Vượt Bước 3 nhờ ngoại lệ P/B:** Bản chất là thương mại/cung ứng biên mỏng (biên gộp 11,5% – 14,4%, biên ròng ~0,4%), nhưng **P/B chỉ ~0,20x** (< 0,5) nên được giữ lại theo ngoại lệ tài sản.
+  - **Phân phối hết lợi nhuận:** Lợi nhuận chưa phân phối cuối mỗi năm bằng đúng LNST năm đó, vốn CSH đứng yên ~59 tỷ VNĐ suốt 5 năm.
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 1.053,9 | 14,4% | 6,5 | 59,3 | **11,1%** |
+  | 2022 | 1.388,1 | 12,3% | 5,0 | 59,1 | 8,4% |
+  | 2023 | 1.372,5 | 11,5% | 5,0 | 59,1 | 8,4% |
+  | 2024 | 1.441,5 | 13,0% | 4,7 | 59,1 | 8,0% |
+  | 2025 | 1.256,0 | 12,7% | 5,0 | 59,3 | 8,4% |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~2,4x** (theo LNST năm 2025; vốn hóa chỉ ~11,8 tỷ VNĐ)
+  - **P/B:** **~0,20x** (Thị giá 4.700 VNĐ/cp ngày 26/10/2026 so với BVPS ~23.700 VNĐ/cp; phiên khớp gần nhất 07/10/2026 ở giá 5.500 VNĐ)
+  - **Vốn điều lệ:** **25,0 tỷ VNĐ** (2,5 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Thương mại than – vật tư và khách sạn, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (5,0 / 4,7 / 5,0 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ⚠️ Đạt chuẩn theo ngoại lệ: Thương mại biên mỏng ở tầng thấp chuỗi giá trị, nhưng P/B ~0,20x < 0,5.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ⚠️ Đạt chuẩn (sát ngưỡng): ROE 2021 đạt 11,1% nên không rơi vào trường hợp "ROE < 10% cả 5 năm"; 2022 – 2025 chỉ 8,0% – 8,4%.
+- **Điểm mạnh đặc biệt:** (1) Có lãi đều đặn trong hệ sinh thái Vinacomin; (2) Định giá P/E ~2,4x, P/B ~0,2x; (3) Phân phối toàn bộ lợi nhuận.
+- **Rủi ro cần theo dõi:**
+  - > [!CAUTION]
+    > **Chất lượng "đạt chuẩn" yếu:** Vượt Bước 3 nhờ ngoại lệ P/B và vượt Bước 4 nhờ đúng 1 năm (2021) có ROE > 10%. Nếu ở lần rà soát sau cửa sổ 5 năm chuyển sang 2022 – 2026 mà ROE vẫn ~8%, DLT sẽ rớt Bước 4.
+  - Biên ròng chỉ ~0,4%, nợ ngắn hạn 438,8 tỷ VNĐ (vay ngắn hạn 127,4 tỷ) gấp ~7,4 lần vốn CSH — vốn lưu động phụ thuộc tín dụng ngân hàng và thanh toán của các đơn vị trong Tập đoàn; quyền lợi cổ đông thiểu số phụ thuộc chính sách của Vinacomin; vốn hóa ~12 tỷ VNĐ, gần như không có thanh khoản.
+- **Hành động tiếp theo:** Xếp vào nhóm "Đạt chuẩn kỹ thuật — ưu tiên thấp"; kiểm tra lại ROE khi có BCTC năm 2026.
+- **Ngày tốt nghiệp phễu:** 2026-10-26

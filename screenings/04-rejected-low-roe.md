@@ -4088,20 +4088,27 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 ---
 
 ### 196. DKG - Công ty Cổ phần Tập đoàn DamiK
-- **Mã cổ phiếu:** `DKG` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Chưa phân loại
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (9.2%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `DKG` (Sàn UPCOM — giao dịch từ 22/04/2025)
+- **Ngành nghề niêm yết:** Khoáng sản Công nghiệp / Sản xuất Vôi Công nghiệp, Dolomite & Bến Thủy nội địa (Hải Phòng)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Sản xuất vôi công nghiệp (đầu vào cho luyện thép, hóa chất, xử lý môi trường), không phải BĐS/xây lắp/VLXD dân dụng.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. LNST 2023 – 2025 dương (3,7 / 15,5 / 0,4 tỷ VNĐ).
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass (sát ngưỡng). Tự sản xuất với 5 lò nung vôi công nghệ Hàn Quốc (công suất thiết kế 320.000 tấn/năm) và bến thủy nội địa 21.532 m²; tuy nhiên vôi là hàng hóa đồng nhất, biên gộp chỉ 7,5% – 11,6%. P/B ~0,80x.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; chỉ có dữ liệu từ 2023 do mới lên UPCoM):**
 
----
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 – 2022 | — | — | — | — | Chưa công bố |
+  | 2023 | 303,4 | 10,8% | 3,7 | 153,1 | ~2,4% (VCSH cuối kỳ) |
+  | 2024 | 337,5 | 11,6% | 15,5 | 168,6 | 9,6% |
+  | 2025 | 211,3 | 7,5% | 0,4 | 169,0 | 0,2% |
 
-### 197. DLD - Công ty Cổ phần Du lịch Đắk Lắk
-- **Mã cổ phiếu:** `DLD` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Dịch vụ
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-25.3%, -46.1%, -49.5%, -157.4%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+  - Vay nợ ~82,7 tỷ VNĐ (31/12/2025, chủ yếu ngắn hạn 78,4 tỷ); doanh thu 2025 giảm 37% YoY, lợi nhuận gần như bằng 0.
+- **Lý do loại trừ cốt lõi:**
+  - **ROE dưới 10% ở mọi năm có dữ liệu:** Năm tốt nhất 2024 chỉ đạt 9,6%; 2025 lao dốc còn 0,2% khi biên gộp co lại 7,5%.
+  - **Sản phẩm hàng hóa phụ thuộc chu kỳ thép:** Vôi công nghiệp cạnh tranh bằng giá với nhiều lò nung khu vực Hải Phòng – Hải Dương; định giá P/B 0,80x và P/E ~326x (theo LNST 2025, thị giá 9.400 VNĐ ngày 26/10/2026) không tạo biên an toàn.
+- **Ngày Phân Tích:** 26/10/2026
 
 ---
 

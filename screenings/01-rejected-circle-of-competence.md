@@ -2804,21 +2804,14 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 
 ---
 
-### 248. DKC - Công ty cổ phần Chợ Lạng Sơn
-- **Mã cổ phiếu:** `DKC` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
 ### 249. DLR - Công ty Cổ phần Địa ốc Đà Lạt
 - **Mã cổ phiếu:** `DLR` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Bất động sản / Phát triển Dự án BĐS Nhà ở & Nghỉ dưỡng, Kinh doanh Dịch vụ (TP. Đà Lạt)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Chủ đầu tư BĐS dân dụng – nghỉ dưỡng:** Định hướng cốt lõi là phát triển dự án khu đồi An Tôn (Đà Lạt) với tổng vốn đầu tư ~2.500 tỷ VNĐ, kế hoạch phát hành 50 triệu cổ phiếu để huy động 500 tỷ VNĐ — quy mô gấp >30 lần tổng tài sản hiện tại (~68,6 tỷ VNĐ), thiếu hụt gần 2.000 tỷ VNĐ vốn. Nằm ngoài Vòng tròn Năng lực.
+  - **Tài chính yếu (tham khảo, Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** Vốn CSH âm suốt 2019 – 2024 (thấp nhất -17,1 tỷ năm 2022); LNST 2021 – 2025: -5,3 / -0,4 / 0,4 / 10,7 / 20,9 — lãi 2024 nhờ lợi nhuận khác 18,5 tỷ, lãi 2025 dồn vào nửa cuối năm (6 tháng đầu lỗ 1,1 tỷ) với doanh thu cốt lõi chỉ 12,2 tỷ VNĐ ➔ không phải lợi nhuận kinh doanh lặp lại. Lỗ lũy kế -37,2 tỷ VNĐ trên vốn điều lệ 45 tỷ VNĐ (31/12/2025).
+  - Định giá: Thị giá 12.000 VNĐ/cp (26/10/2026), P/B ~3,6x.
+- **Ngày Phân Tích:** 26/10/2026
 
 ---
 
