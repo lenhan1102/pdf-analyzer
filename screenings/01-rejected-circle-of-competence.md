@@ -2757,20 +2757,27 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 ---
 
 ### 244. DFF - Công ty cổ phần Tập đoàn Đua Fat
-- **Mã cổ phiếu:** `DFF` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `DFF` (Sàn UPCOM — diện cảnh báo/hạn chế giao dịch)
+- **Ngành nghề niêm yết:** Bất động sản & Xây dựng / Thi công Nền móng, Khoan Cọc nhồi, Tường vây & Xử lý Nền đất
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Nhà thầu xây lắp nền móng thuần túy:** Doanh thu đến từ thi công khoan cọc nhồi, tường vây, xử lý nền đất cho các dự án BĐS và hạ tầng — mảng xây lắp đại trà biên mỏng, phụ thuộc chu kỳ BĐS và đọng vốn công nợ nghiệm thu, nằm ngoài Vòng tròn Năng lực.
+  - **Khủng hoảng tài chính nghiêm trọng (tham khảo, Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** LNST 2023 – 2025 lỗ liên tiếp **-198,7 / -462,6 / -724,9**; lỗ gộp 2024 – 2025; chi phí lãi vay 177 – 227 tỷ VNĐ/năm trên doanh thu chỉ ~294 tỷ VNĐ. Lỗ lũy kế **-1.287,1 tỷ VNĐ** khiến **vốn chủ sở hữu âm -487,1 tỷ VNĐ** (31/12/2025) trên vốn điều lệ 800 tỷ VNĐ; vay nợ ~1.893 tỷ VNĐ, kiểm toán ngoại trừ.
+  - Nhóm cổ đông Chủ tịch Lê Duy Hưng bị bán giải chấp hàng chục triệu cổ phiếu, tỷ lệ sở hữu giảm còn ~21,9% và mất quyền phủ quyết; thị giá ~400 VNĐ/cp. *(Nếu xét tiếp, doanh nghiệp cũng rớt Bước 2 do lỗ 3 năm liên tiếp.)*
+- **Ngày Phân Tích:** 26/10/2026
 
 ---
 
 ### 245. DGT - Công ty cổ phần Công trình Giao thông Đồng Nai
 - **Mã cổ phiếu:** `DGT` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Ngành nghề niêm yết:** Bất động sản & Xây dựng / Thi công Công trình Giao thông, Khai thác Đá & Kinh doanh VLXD (Đồng Nai, Đắk Nông, ĐBSCL)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Hoạt động cốt lõi là thầu xây lắp giao thông:** Thi công đường bộ, cầu cống theo hợp đồng đầu tư công/BOT — biên lợi nhuận thấp, phụ thuộc giải ngân ngân sách và nghiệm thu, nằm ngoài Vòng tròn Năng lực.
+  - **Mỏ đá không đủ điều kiện ngoại lệ:** Doanh nghiệp có hoạt động khai thác đá và kinh doanh VLXD, nhưng không có bằng chứng về mỏ đá trữ lượng lớn/vị trí độc quyền tạo dòng tiền chi phối; kết quả kinh doanh vẫn do mảng xây lắp quyết định.
+  - **Tài chính suy yếu (tham khảo, Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** LNST 2021 – 2025: 15,7 / -41,4 / 90,0 / 3,7 / -7,5 (lãi 2024 chủ yếu nhờ lợi nhuận khác 34,8 tỷ). Vốn CSH ~988 tỷ VNĐ sau đợt tăng vốn điều lệ từ 200 lên 790 tỷ VNĐ năm 2022, nhưng ROE 5 năm cao nhất chỉ ~9,4% (2023) — **kể cả nếu được xét ngoại lệ mỏ đá, doanh nghiệp vẫn rớt Bước 4**.
+  - > [!CAUTION]
+    > **Chậm thanh toán trái phiếu:** Không thu xếp được ~310 tỷ VNĐ gốc và lãi trái phiếu kỳ thanh toán năm 2026, đang đàm phán gia hạn với trái chủ; kế toán trưởng từ nhiệm cuối 2025.
+  - Định giá: Thị giá 4.200 VNĐ/cp (26/10/2026), P/B ~0,34x.
+- **Ngày Phân Tích:** 26/10/2026
 
 ---
 

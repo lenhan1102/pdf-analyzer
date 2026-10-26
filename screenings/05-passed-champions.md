@@ -11108,3 +11108,78 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Cổ phiếu thuộc diện cảnh báo, quy mô siêu nhỏ (vốn hóa ~10 tỷ VNĐ), thanh khoản gần như bằng 0; phụ thuộc ngân sách đặt hàng dịch vụ công ích.
 - **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi "Deep Value / Net-Net quy mô siêu nhỏ" — không phải doanh nghiệp chất lượng cao; chỉ phù hợp quan sát chiết khấu tài sản.
 - **Ngày tốt nghiệp phễu:** 2026-10-25
+
+---
+
+### 356. DDV - Công ty cổ phần DAP - VINACHEM
+- **Mã cổ phiếu:** `DDV` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Hóa chất & Phân bón / Sản xuất Phân bón DAP (Diammonium Phosphate) & Thương mại Amoniac (Vinachem)
+- **Hoạt động kinh doanh chính:** Đơn vị thành viên của Tập đoàn Hóa chất Việt Nam (Vinachem), vận hành Nhà máy DAP Đình Vũ (KKT Đình Vũ, Hải Phòng) — một trong hai nhà máy sản xuất phân bón DAP quy mô công nghiệp tại Việt Nam. Doanh nghiệp sản xuất DAP từ quặng apatit, lưu huỳnh và amoniac, đồng thời kinh doanh thương mại NH₃ (amoniac) — mảng mới đóng góp đáng kể từ năm 2025.
+- **Luận điểm cốt lõi:**
+  - **Rào cản gia nhập cao:** Nhà máy hóa chất – phân bón quy mô lớn đòi hỏi vốn đầu tư nghìn tỷ, giấy phép môi trường và nguồn quặng apatit nội địa; DAP sản xuất trong nước thay thế hàng nhập khẩu.
+  - **Hưởng lợi chu kỳ giá DAP:** Trung Quốc siết hạn ngạch xuất khẩu DAP (chỉ ~2,5 – 3 triệu tấn năm 2025), Ấn Độ tăng nhập khẩu ➔ giá DAP neo cao, giúp năm 2025 đạt **LNST kỷ lục 630,8 tỷ VNĐ (gấp 3,6 lần 2024)**.
+  - **Bảng cân đối khỏe:** Đã xóa sạch lỗ lũy kế (-210,7 tỷ VNĐ năm 2019) và đến 31/12/2025 có lợi nhuận chưa phân phối **644,3 tỷ VNĐ**; vay nợ chỉ ~123 tỷ VNĐ so với vốn CSH **2.265 tỷ VNĐ**.
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 2.877,9 | 13,2% | 190,9 | 1.455,1 | **14,1%** |
+  | 2022 | 3.270,3 | 15,1% | 360,3 | 1.805,4 | **22,1%** |
+  | 2023 | 3.181,0 | 8,2% | 69,0 | 1.702,1 | 3,9% |
+  | 2024 | 3.365,2 | 11,0% | 174,6 | 1.783,1 | **10,0%** |
+  | 2025 | 5.623,7 | 16,7% | 630,8 | 2.265,2 | **31,2%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~4,0x** (theo LNST năm 2025; vốn hóa ~2.542 tỷ VNĐ)
+  - **P/B:** **~1,12x** (Thị giá 17.400 VNĐ/cp ngày 26/10/2026 so với BVPS ~15.500 VNĐ/cp)
+  - **Vốn điều lệ:** **1.461,1 tỷ VNĐ** (146,1 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất hóa chất – phân bón, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương cả 3 năm 2023 – 2025 (69,0 / 174,6 / 630,8 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Nhà sản xuất chế biến sâu từ quặng apatit (không phải gia công/thương mại thuần), thuộc nhóm 2 nhà máy DAP duy nhất trong nước, biên gộp bình quân 5 năm ~13% (2025: 16,7%).
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn: 4/5 năm ROE ≥ 10% (14,1% / 22,1% / 3,9% / 10,0% / 31,2%).
+- **Điểm mạnh đặc biệt:** (1) Vị thế sản xuất DAP nội địa gần như song độc quyền; (2) Lợi nhuận 2025 kỷ lục, ROE 31%; (3) Gần như không nợ vay; (4) Định giá P/E ~4x.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Lợi nhuận mang tính chu kỳ hàng hóa:** ROE từng rơi xuống 3,9% năm 2023 khi giá DAP giảm; mức lãi 2025 dựa trên giá DAP thế giới cao và chính sách hạn chế xuất khẩu của Trung Quốc — không nên ngoại suy P/E 4x là bền vững.
+  - Phụ thuộc nguồn quặng apatit và lưu huỳnh nhập khẩu; cổ đông chi phối là Vinachem (quản trị theo mô hình DNNN); mảng thương mại NH₃ biên mỏng.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Hóa chất – Phân bón chu kỳ; định giá theo lợi nhuận bình quân chu kỳ thay vì LNST đỉnh 2025.
+- **Ngày tốt nghiệp phễu:** 2026-10-26
+
+---
+
+### 357. DFC - Công ty Cổ phần Xích líp Đông Anh
+- **Mã cổ phiếu:** `DFC` (Sàn UPCOM — giao dịch từ 2017)
+- **Ngành nghề niêm yết:** Công nghiệp / Sản xuất Phụ tùng Xe máy, Ô tô & Xe đạp (Xích, Líp, Đĩa) & Mạ Niken – Crôm
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy Xích xe đạp thành lập năm 1974 tại Đông Anh (Hà Nội), cổ phần hóa năm 2009. DFC sản xuất xích, líp, đĩa và phụ tùng cho xe máy, ô tô, xe đạp; cung cấp dịch vụ mạ niken – crôm, xử lý bề mặt. Khách hàng OEM gồm **Honda, Yamaha, Piaggio** và nhiều nhà sản xuất khác.
+- **Luận điểm cốt lõi:**
+  - **Nhà cung cấp OEM đạt chuẩn của các hãng xe lớn:** Để trở thành nhà cung cấp linh kiện cấp 1 cho Honda/Yamaha cần đáp ứng chuẩn chất lượng và quy trình khắt khe, tạo chi phí chuyển đổi cho khách hàng; DFC là nhà sản xuất xích – líp nội địa hàng đầu với hơn 50 năm kinh nghiệm.
+  - **Lợi nhuận tăng trưởng 4 năm liên tiếp:** LNST 2022 – 2025: 26,9 ➔ 31,4 ➔ 40,0 ➔ **47,2 tỷ VNĐ** (kỷ lục lịch sử, +18% YoY), biên gộp cải thiện từ 9,0% (2021) lên 13,1% (2025).
+  - **Giảm đòn bẩy & cổ tức cao:** Vay nợ giảm từ 277,8 tỷ (2022) xuống ~109,4 tỷ VNĐ (2025); cổ tức tiền mặt năm 2025 **39% (3.900 VNĐ/cp)** — cao nhất kể từ khi lên UPCoM.
+- **Số liệu tài chính 5 năm (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 1.072,1 | 9,0% | 0,46 | 149,5 | 0,3% |
+  | 2022 | 1.423,2 | 11,1% | 26,86 | 172,8 | **16,7%** |
+  | 2023 | 1.202,2 | 12,9% | 31,37 | 234,1 | **15,4%** |
+  | 2024 | 1.303,0 | 12,8% | 40,04 | 248,3 | **16,6%** |
+  | 2025 | 1.311,5 | 13,1% | 47,23 | 255,7 | **18,7%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~6,8x** (theo LNST năm 2025; vốn hóa ~319 tỷ VNĐ)
+  - **P/B:** **~1,25x** (Thị giá 28.000 VNĐ/cp ngày 26/10/2026 so với BVPS ~22.400 VNĐ/cp)
+  - **Tỷ suất cổ tức:** ~13,9% (3.900 VNĐ/cp so với thị giá)
+  - **Vốn điều lệ:** **114 tỷ VNĐ** (11,4 triệu cổ phiếu, tăng từ 60 tỷ VNĐ năm 2023)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất cơ khí phụ tùng công nghiệp hỗ trợ, nằm trong Vòng tròn Năng lực.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương và tăng đều 2023 – 2025 (31,4 / 40,0 / 47,2 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Nhà cung cấp linh kiện OEM có chứng nhận của Honda/Yamaha/Piaggio, tự sản xuất sản phẩm kỹ thuật (không phải gia công CMT hay thương mại); biên gộp 12,8% – 13,1% sát ngưỡng nhưng cải thiện đều.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE 5 năm):** ✅ Đạt chuẩn: 4/5 năm ROE ≥ 10% (2022 – 2025: 16,7% / 15,4% / 16,6% / 18,7%).
+- **Điểm mạnh đặc biệt:** (1) Vị thế nhà cung cấp OEM lâu năm cho các hãng xe máy hàng đầu; (2) Lợi nhuận tăng 4 năm liền, ROE ~18,7%; (3) Giảm nợ mạnh; (4) P/E ~6,8x, cổ tức tiền mặt ~13,9%.
+- **Rủi ro cần theo dõi:**
+  - > [!CAUTION]
+    > **Phụ thuộc thị trường xe máy xăng:** Lộ trình hạn chế xe máy chạy xăng tại các đô thị lớn và xu hướng xe điện (xích truyền động ít hoặc không dùng) là rủi ro cấu trúc dài hạn với sản phẩm xích – líp.
+  - Tập trung khách hàng vào vài hãng xe lớn (quyền đàm phán giá nghiêng về khách hàng); biên gộp chỉ ~13%; cổ phiếu UPCoM thanh khoản rất thấp.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Công nghiệp Hỗ trợ cổ tức cao; theo dõi tỷ trọng doanh thu từ xe điện/ô tô để đánh giá rủi ro chuyển đổi.
+- **Ngày tốt nghiệp phễu:** 2026-10-26

@@ -250,3 +250,32 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ ba: 
   - Thực tế: P/B = 0.66 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net.
 - **Lý do bị loại:** DDB là doanh nghiệp thương mại gỗ và cát xây dựng đại trà ở tầng thấp của chuỗi giá trị, biên gộp chỉ 5 – 6% và đang thu hẹp, LNST giảm liên tục từ 9,6 tỷ (2023) xuống 3,0 tỷ VNĐ (2025, ROE ~2%). Định giá P/B ~0,66 lần chưa đạt ngưỡng an toàn tài sản P/B < 0.5. Doanh nghiệp bị loại tại Bước 3.
 - **Ngày sàng lọc:** 2026-10-25
+
+---
+
+<a id="ddn"></a>
+### 21. DDN - Công ty Cổ phần Dược - Thiết bị Y tế Đà Nẵng (Dapharco)
+- **Mã cổ phiếu:** `DDN` (Sàn UPCOM)
+- **Ngành nghề niêm yết:** Y tế / Thương mại Phân phối Dược phẩm & Thiết bị Y tế (Đà Nẵng – miền Trung)
+- **Bước 1 (Vòng tròn năng lực):** ✅ Pass. Phân phối dược phẩm – thiết bị y tế, không thuộc nhóm BĐS/xây lắp/VLXD.
+- **Bước 2 (Lợi nhuận 3 năm):** ✅ Pass. LNST 2023 – 2025 đều dương (1,11 / 7,62 / 4,09 tỷ VNĐ).
+- **Vị thế chuỗi giá trị:**
+  - Hoạt động cốt lõi là bán buôn, phân phối dược phẩm và thiết bị y tế (doanh thu ~0,9 – 1,8 nghìn tỷ VNĐ/năm) — khâu trung gian thương mại, không sở hữu sản phẩm độc quyền hay thương hiệu thuốc riêng có quyền định giá.
+  - Biên lợi nhuận gộp chỉ **4,7% – 8,9%**, biên ròng 2025 **~0,38%**; lợi nhuận thuần từ HĐKD 2023 – 2025 chỉ 1 – 3 tỷ VNĐ/năm (2024 – 2025 phải dựa vào lợi nhuận khác).
+  - Vay ngắn hạn tăng mạnh từ 6,8 tỷ (2022) lên **144,7 tỷ VNĐ** (2025); nợ phải trả ~813 tỷ VNĐ gấp ~3,9 lần vốn CSH.
+  - Cổ đông chi phối: Megram (51,01%, Chủ tịch Đỗ Thành Trung), Danapha (7,17%).
+- **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 1.546,3 | 4,7% | 14,92 | 192,6 | 8,1% |
+  | 2022 | 1.184,1 | 6,9% | 12,27 | 204,9 | 6,2% |
+  | 2023 | 943,4 | 6,8% | 1,11 | 196,1 | 0,6% |
+  | 2024 | 1.392,7 | 6,5% | 7,62 | 203,8 | 3,8% |
+  | 2025 | 1.067,9 | 8,9% | 4,09 | 207,1 | 2,0% |
+
+- **Định giá P/B thực tế:** **~0,63 lần** (Thị giá 8.100 VNĐ/cp ngày 26/10/2026 so với BVPS ~12.850 VNĐ/cp; vốn điều lệ 161,2 tỷ VNĐ). P/E ~32x theo LNST 2025.
+  - Điều kiện ngoại lệ giữ lại: Định giá phải siêu rẻ với P/B < 0.5.
+  - Thực tế: P/B = 0.63 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net.
+- **Lý do bị loại:** DDN là nhà phân phối dược – thiết bị y tế trung gian, biên gộp dưới 9% và biên ròng dưới 0,5%, ở tầng thấp của chuỗi giá trị ngành dược. Định giá P/B ~0,63 lần chưa đạt ngưỡng P/B < 0.5 nên bị loại tại Bước 3. *(Hiệu đính: trước đây bot quét thô xếp vào Bước 4; kể cả nếu qua Bước 3, ROE 5 năm 0,6% – 8,1% vẫn rớt Bước 4).*
+- **Ngày sàng lọc:** 2026-10-26

@@ -4059,15 +4059,6 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 194. DDN - Công ty Cổ phần Dược - Thiết bị Y tế Đà Nẵng
-- **Mã cổ phiếu:** `DDN` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Y tế
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (8.8%, 0.0%, 0.6%, 3.7%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
 ### 195. DHD - Công ty cổ phần Dược Vật tư Y tế Hải Dương
 - **Mã cổ phiếu:** `DHD` (Sàn UPCOM)
 - **Ngành nghề niêm yết:** Y tế

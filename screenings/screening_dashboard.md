@@ -10,17 +10,17 @@ Tài liệu này theo dõi toàn bộ trạng thái của các mã cổ phiếu 
 pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị Trường)
     "Rớt Bước 1 (Ngành & Vòng tròn năng lực)" : 423
     "Rớt Bước 2 (Lỗ 3 năm liên tiếp)" : 15
-    "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 20
-    "Rớt Bước 4 (ROE 5 năm < 10%)" : 466
+    "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 21
+    "Rớt Bước 4 (ROE 5 năm < 10%)" : 465
     "🏆 Đạt Chuẩn File 5" : 717
 ```
 
 - **Quy mô toàn bộ vũ trụ cổ phiếu:** **1,641** doanh nghiệp (Toàn bộ 3 sàn HOSE, HNX, UPCoM)
-- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **887 / 1,641** mã (**54.05%** — Đã rà soát chi tiết đến mã `DDM`)
+- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **892 / 1,641** mã (**54.36%** — Đã rà soát chi tiết đến mã `DGT`)
 - **Số mã rớt tại Bước 1 (Ngành & VTNL):** **423** mã (25.78%)
 - **Số mã rớt tại Bước 2 (Lỗ 3 năm liên tiếp):** **15** mã (0.91%)
-- **Số mã rớt tại Bước 3 (Chuỗi GT thấp & P/B ≥ 0.5):** **20** mã (1.22%)
-- **Số mã rớt tại Bước 4 (ROE 5 năm < 10%):** **466** mã (28.40%)
+- **Số mã rớt tại Bước 3 (Chuỗi GT thấp & P/B ≥ 0.5):** **21** mã (1.28%)
+- **Số mã rớt tại Bước 4 (ROE 5 năm < 10%):** **465** mã (28.34%)
 - **Số mã đạt chuẩn lọt vào File 5 (Champions):** **717** mã (43.69%)
 - **Tổng số mã trong hệ sinh thái:** **1,641 / 1,641 mã (100.0%)**
 
@@ -35,8 +35,8 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | ⚡ | [00-quick-summary-all.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md) | **Bảng Tổng Hợp Siêu Tốc Toàn Bộ Cổ Phiếu** (Cheat-sheet tra cứu) | **1,641** mã | Xem chi tiết từng mã |
 | 1 | [summary-01-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md) | Bảng tóm tắt các công ty rớt Bước 1 (Ngành nghề ngoài VTNL) | **423** mã | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 | 2 | [summary-02-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-02-consecutive-loss.md) | Bảng tóm tắt các công ty rớt Bước 2 (Lỗ 3 năm liên tiếp) | **15** mã | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
-| 3 | [summary-03-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md) | Bảng tóm tắt các công ty rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5) | **20** mã | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
-| 4 | [summary-04-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md) | Bảng tóm tắt các công ty rớt Bước 4 (ROE 5 năm < 10%) | **466** mã | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
+| 3 | [summary-03-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md) | Bảng tóm tắt các công ty rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5) | **21** mã | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
+| 4 | [summary-04-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md) | Bảng tóm tắt các công ty rớt Bước 4 (ROE 5 năm < 10%) | **465** mã | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
 | 5 | [summary-05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md) | 🏆 **Bảng tóm tắt Doanh Nghiệp Đạt Chuẩn (File 5)** | **717** mã | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 
 
@@ -934,6 +934,11 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | 885 | **DDG** | Công ty cổ phần Đầu tư Công nghiệp Xuất nhập khẩu Đông Dương | Năng lượng / Cung cấp Hơi nhiệt Công nghiệp & Thương mại | ✅ Pass | ❌ Loại (Lỗ 3N liên tiếp 2023-2025: -205.8 / -63.2 / -334.1 tỷ, lỗ lũy kế >504 tỷ, hủy niêm yết HNX) | - | - | Dừng ở Bước 2 | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
 | 886 | **DDH** | CTCP Đảm bảo giao thông đường thủy Hải Phòng | Hạ tầng Giao thông / Quản lý Bảo trì Đường thủy Nội địa & Báo hiệu | ✅ Pass | ✅ Pass (LNST 1.7-5.6 tỷ) | ⚠️ Pass (Dịch vụ đặt hàng biên gộp 10.5-12%, P/B=0.25 < 0.5) | ✅ Pass (ROE 2022: 13.8%, 2023: 14.2% >= 10%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 | 887 | **DDM** | Công ty Cổ phần Hàng hải Đông Đô | Vận tải Biển Hàng khô rời | ✅ Pass | ✅ Pass (Kỹ thuật: lãi 2024-2025 nhờ bán tàu) | ⚠️ Pass (Kỹ thuật: P/B âm do VCSH âm) | ❌ Loại (VCSH âm -722 đến -828 tỷ suốt 5N, ROE không thể >= 10%, kiểm toán ngoại trừ) | Dừng ở Bước 4 | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
+| 888 | **DDN** | Công ty Cổ phần Dược - Thiết bị Y tế Đà Nẵng | Y tế / Phân phối Dược phẩm & Thiết bị Y tế (Dapharco) | ✅ Pass | ✅ Pass (LNST 1.1-7.6 tỷ) | ❌ Loại (Phân phối dược trung gian, biên gộp < 9%, P/B 0.63 >= 0.5) | - | Dừng ở Bước 3 | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
+| 889 | **DDV** | Công ty cổ phần DAP - VINACHEM | Hóa chất & Phân bón / Sản xuất DAP Đình Vũ (Vinachem) | ✅ Pass | ✅ Pass (LNST 69-631 tỷ) | ✅ Pass (1 trong 2 nhà máy DAP nội địa, chế biến sâu từ apatit) | ✅ Pass (ROE 4/5 năm >= 10%, 2025: 31.2%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 890 | **DFC** | Công ty Cổ phần Xích líp Đông Anh | Công nghiệp Hỗ trợ / Xích, Líp, Phụ tùng Xe máy OEM | ✅ Pass | ✅ Pass (LNST 31-47 tỷ) | ✅ Pass (Nhà cung cấp OEM Honda/Yamaha/Piaggio) | ✅ Pass (ROE 2022-2025 15.4% - 18.7%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 891 | **DFF** | Công ty cổ phần Tập đoàn Đua Fat | Bất động sản & Xây dựng / Thi công Nền móng, Cọc nhồi & Tường vây | ❌ Loại (Nhà thầu nền móng xây lắp, vốn CSH âm -487 tỷ, lỗ lũy kế -1.287 tỷ) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 892 | **DGT** | Công ty cổ phần Công trình Giao thông Đồng Nai | Bất động sản & Xây dựng / Thi công Giao thông, Khai thác Đá & VLXD | ❌ Loại (Thầu xây lắp giao thông, mỏ đá không đủ ngoại lệ, chậm trả ~310 tỷ trái phiếu) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 
 ---
 
