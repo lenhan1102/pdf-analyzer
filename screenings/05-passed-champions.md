@@ -11814,3 +11814,42 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Lợi nhuận phụ thuộc chu kỳ giá cao su thế giới (2025 – 2026 đang ở vùng cao); cổ đông lớn DRG đang thoái vốn — áp lực cung cổ phiếu.
 - **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Cao su – Tài nguyên; định giá theo lợi nhuận bình quân chu kỳ và theo dõi tiến trình niêm yết HOSE.
 - **Ngày tốt nghiệp phễu:** 2026-10-26
+
+---
+
+### 375. DSH - Công ty Cổ phần Đông Sơn Holdings (tiền thân CTCP Đầu tư Hạ tầng Đông Sơn)
+- **Mã cổ phiếu:** `DSH` (Sàn **HOSE** từ 26/10/2026 — trước đó giao dịch UPCOM từ 22/04/2025; thanh khoản tốt 348/372 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Hạ tầng Giao thông / Nhà đầu tư BOT Quốc lộ 1 đoạn Hà Nội – Bắc Giang & Xây lắp hạ tầng
+- **Hoạt động kinh doanh chính:** Thành lập năm 2009 (cổ đông sáng lập: Tổng công ty 319, Vina Invest, Thép Châu Âu); ba mảng xây lắp hạ tầng giao thông, đầu tư dự án BOT và phát triển bất động sản. Cuối năm 2025 mua thêm 33% cổ phần **BOT Hà Nội – Bắc Giang** từ Văn Phú Invest (nâng sở hữu từ 25% lên **58%**, tổng mức đầu tư dự án ~4.200 tỷ VNĐ), tài trợ bằng đợt chào bán 25 triệu cổ phiếu giá 10.000 VNĐ (vốn điều lệ 100 ➔ 350 tỷ VNĐ) ➔ dự án trở thành công ty con được hợp nhất.
+- **Luận điểm cốt lõi:**
+  - **Chuyển từ nhà thầu sang chủ tài sản thu phí:** Trước 2025 là nhà thầu biên mỏng (biên gộp 4,2% – 8,2%); sau hợp nhất BOT, 6 tháng đầu 2026 doanh thu **477,3 tỷ VNĐ** (+316% YoY) với biên gộp **~42%** — lợi nhuận gộp nay chủ yếu đến từ phí BOT trên trục Quốc lộ 1 Hà Nội – Bắc Giang (tài sản nhượng quyền độc quyền, tương tự tiền lệ LGC).
+  - **Sinh lời trên vốn mẹ cao:** ROE 2023 – 2024 trên 20%; LNST công ty mẹ 6T/2026 **61,3 tỷ VNĐ** ➔ ROE quy năm ~17%. Kế hoạch LNST 2026: 202,9 tỷ VNĐ (6T đạt 53,7%).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC hợp nhất qua VNDirect Finfo; VNDirect chỉ có dữ liệu từ 2023 do công ty mới đăng ký giao dịch năm 2025):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST công ty mẹ | Vốn CSH công ty mẹ cuối kỳ | ROE |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 – 2022 | n/a | n/a | n/a | n/a | n/a (chưa công bố trên VNDirect) |
+  | 2023 | 400,5 | 8,2% | 37,8 | 172,9 | **~21,9%** (trên VCSH cuối kỳ) |
+  | 2024 | 629,2 | 5,7% | 53,0 | 225,9 | **26,6%** |
+  | 2025 | 422,0 | 4,2% | 213,9 | 688,5 | 46,8% (**bất thường**) |
+  | 6T/2026 | 477,3 | ~42% | 61,3 | 748,4 | ~17% (quy năm) |
+
+  - **LNST 2025 bị đẩy lên bởi kế toán hợp nhất:** Thu nhập khác **223,8 tỷ VNĐ** (gần như toàn bộ LNST năm) phát sinh cùng thương vụ nâng sở hữu BOT lên 58% — nhiều khả năng là lãi mua rẻ/đánh giá lại khoản đầu tư; đồng thời chi phí tài chính ngoài lãi vay ~54,6 tỷ VNĐ. Loại trừ hai khoản này, LNST lõi 2025 chỉ ~45 tỷ VNĐ (ROE ~10%). Báo cáo KQKD 2025 chưa chứa doanh thu BOT (chỉ hợp nhất bảng cân đối tại 31/12/2025).
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~3,4x** (theo LNST công ty mẹ 6T/2026 quy năm ~122,6 tỷ VNĐ; ~2,1x theo kế hoạch 2026 nếu đạt; ~2,0x theo LNST 2025 nhưng không có ý nghĩa vì chứa khoản bất thường); vốn hóa ~420 tỷ VNĐ
+  - **P/B:** **~0,56x** (Thị giá 12.000 VNĐ/cp ngày 27/10/2026 so với BVPS công ty mẹ ~21.400 VNĐ/cp tại 30/06/2026)
+  - **Vốn điều lệ:** **350 tỷ VNĐ** (35 triệu cổ phiếu); Chủ tịch HĐQT Nguyễn Thị Minh Huệ nắm ~10%
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ⚠️ Đạt có điều kiện: Lịch sử là nhà thầu xây lắp (nhóm bị loại như C4G, HHV), nhưng từ 2026 lợi nhuận gộp chủ yếu đến từ quyền thu phí BOT Quốc lộ 1 — tài sản hạ tầng nhượng quyền độc quyền, xử lý tương tự LGC.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (37,8 / 53,0 / 213,9 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Chủ sở hữu tài sản thu phí, biên gộp ~42%; P/B ~0,56x.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE 2023 – 2024 trên 20%; 6T/2026 quy năm ~17% (chỉ có 3 năm dữ liệu công khai; năm 2025 sau khi loại khoản bất thường ~10%).
+- **Điểm mạnh đặc biệt:** (1) Tài sản thu phí trên trục giao thông huyết mạch phía Bắc; (2) P/E ~3,4x, P/B ~0,56x; (3) Vừa chuyển lên HOSE, thanh khoản tốt.
+- **Rủi ro cần theo dõi:**
+  - > [!CAUTION]
+    > **Đòn bẩy tăng vọt & chất lượng lợi nhuận 2025:** Vay dài hạn từ 4,5 tỷ (2024) lên **1.455 tỷ VNĐ** (2025, ~1.289 tỷ tại 30/06/2026) — nợ dự án BOT gấp ~1,7 lần VCSH công ty mẹ; cổ đông thiểu số nắm 42% dự án (lợi ích CĐ thiểu số ~484 tỷ VNĐ). LNST 2025 gần như toàn bộ là khoản kế toán một lần.
+  - > [!WARNING]
+    > **Rủi ro chính sách BOT:** Doanh thu phụ thuộc mức phí, thời hạn thu phí và các quyết định của Nhà nước (giảm phí, dời trạm, đường song hành); mảng xây lắp – BĐS cũ vẫn tồn tại với phải thu, trả trước người bán lớn (~297 tỷ VNĐ).
+  - Chỉ có 3 năm dữ liệu công khai; cần đọc bản cáo bạch niêm yết HOSE để xác minh thời hạn thu phí còn lại, lưu lượng xe và lịch trả nợ.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Hạ tầng BOT; tải bản cáo bạch HOSE và BCTC kiểm toán 2025 để kiểm chứng bản chất khoản thu nhập khác 223,8 tỷ VNĐ, thời hạn BOT và dòng tiền trả nợ.
+- **Ngày tốt nghiệp phễu:** 2026-10-27

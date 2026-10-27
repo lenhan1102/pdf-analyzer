@@ -2840,20 +2840,26 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 ---
 
 ### 252. DSG - Công ty Cổ phần Kính Viglacera Đáp Cầu
-- **Mã cổ phiếu:** `DSG` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `DSG` (Sàn UPCOM — diện hạn chế giao dịch; 55/400 phiên có khớp lệnh). Từ 19/07/2021 đổi tên thành CTCP Kính Đáp Cầu.
+- **Ngành nghề niêm yết:** Vật liệu Xây dựng / Kính xây dựng – Kính cán hoa văn & gia công kính (Bắc Ninh)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **VLXD đại trà không có lợi thế tài nguyên:** Sản phẩm là kính xây dựng phổ thông; lò kính đã hết chu kỳ sản xuất, các dây chuyền kính cán hoa văn dừng năm 2012 và quý I/2016, từ đó chủ yếu gia công – lắp dựng qua đơn vị thành viên. *(Hiệu đính: hồ sơ cũ ghi nhầm "BĐS dân dụng/phân lô".)*
+  - **Kinh doanh suy kiệt (tham khảo, Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** Lỗ **7 năm liên tiếp** 2019 – 2025 (-7,5 / -20,5 / -34,6 / -13,4 / -19,2 / -18,6 / -3,8); doanh thu giảm từ 65,7 xuống 43,2 tỷ VNĐ; lỗ lũy kế -350,5 tỷ trên vốn điều lệ 300 tỷ ➔ **vốn CSH âm** -7,4 tỷ (2025) và -10,3 tỷ VNĐ (30/06/2026); nợ ngắn hạn 110,4 tỷ so với tiền 2,8 tỷ VNĐ.
+  - Kể cả nếu được xét tiếp: lỗ cả 3 năm 2023 – 2025 ➔ rớt Bước 2.
+  - Định giá: Thị giá 6.900 VNĐ/cp (27/10/2026, thanh khoản rất thấp), vốn hóa ~207 tỷ VNĐ trên vốn CSH âm — không có ý nghĩa.
+- **Ngày Phân Tích:** 27/10/2026
 
 ---
 
 ### 253. DTC - Công ty Cổ phần Viglacera Đông Triều
-- **Mã cổ phiếu:** `DTC` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `DTC` (Sàn UPCOM — bị hủy niêm yết bắt buộc trên HNX do lỗ 3 năm 2022 – 2024, giao dịch UPCOM từ 04/2025)
+- **Ngành nghề niêm yết:** Vật liệu Xây dựng / Gạch ngói đất sét nung (Đông Triều, Quảng Ninh)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **VLXD đại trà:** Gạch – ngói đất nung là hàng hóa đồng nhất, cạnh tranh bằng giá, phụ thuộc chu kỳ xây dựng và giá nhiên liệu; không có lợi thế tài nguyên/độc quyền. *(Hiệu đính: hồ sơ cũ ghi nhầm "BĐS dân dụng/phân lô".)*
+  - **Kinh doanh suy kiệt (tham khảo, Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** Doanh thu giảm từ 333,6 (2020) xuống 147,9 tỷ VNĐ (2025); lỗ gộp 2023 – 2025; LNST -7,9 / -43,6 / -37,0 / -22,5 (2022 – 2025) và tiếp tục lỗ 9T/2026 (-19,8 tỷ VNĐ) — chuỗi lỗ ~15 quý liên tiếp. **Vốn CSH âm** -9,2 tỷ (2025), -28,9 tỷ VNĐ (30/09/2026); vay ngắn hạn ~120 tỷ VNĐ (2025) trong khi tiền mặt gần bằng 0.
+  - Kể cả nếu được xét tiếp: lỗ cả 3 năm 2023 – 2025 ➔ rớt Bước 2.
+  - Định giá: Thị giá 2.800 VNĐ/cp (27/10/2026), vốn hóa ~28 tỷ VNĐ trên vốn CSH âm.
+- **Ngày Phân Tích:** 27/10/2026
 
 ---
 

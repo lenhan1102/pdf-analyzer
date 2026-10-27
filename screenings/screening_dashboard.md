@@ -16,7 +16,7 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 ```
 
 - **Quy mô toàn bộ vũ trụ cổ phiếu:** **1,641** doanh nghiệp (Toàn bộ 3 sàn HOSE, HNX, UPCoM)
-- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **922 / 1,641** mã (**56.19%** — Đã rà soát chi tiết đến mã `DRI`)
+- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **927 / 1,641** mã (**56.49%** — Đã rà soát chi tiết đến mã `DTC`)
 - **Số mã rớt tại Bước 1 (Ngành & VTNL):** **422** mã (25.72%)
 - **Số mã rớt tại Bước 2 (Lỗ 3 năm liên tiếp):** **17** mã (1.04%)
 - **Số mã rớt tại Bước 3 (Chuỗi GT thấp & P/B ≥ 0.5):** **24** mã (1.46%)
@@ -969,6 +969,11 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | 920 | **DPP** | Công ty Cổ phần Dược Đồng Nai | Y tế / Thương mại – XNK Dược & Sản xuất Thuốc | ✅ Pass | ✅ Pass (LNST 8.3-10.9 tỷ) | ❌ Loại (Thương mại dược ~70-80% doanh thu, biên gộp < 9%, P/B 1.29) | - | Dừng ở Bước 3 | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
 | 921 | **DRG** | Công ty cổ phần Cao su Đắk Lắk | Nông nghiệp / Trồng & Chế biến Cao su | ✅ Pass | ✅ Pass (LNST 27.7-190.3 tỷ) | ✅ Pass (Vườn cây – quỹ đất cao su) | ❌ Loại (ROE lõi < 10%, 2025 nhờ lãi thoái vốn DRI) | Dừng ở Bước 4 | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
 | 922 | **DRI** | Công ty Cổ phần Đầu tư Cao su Đắk Lắk | Nông nghiệp / Vườn Cao su tại Lào | ✅ Pass | ✅ Pass (LNST 74-157 tỷ) | ✅ Pass (Vườn cây tại Lào, biên gộp ~38%) | ✅ Pass (ROE 5/5 năm 11.3% - 24.3%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 923 | **DSD** | Công ty cổ phần DHC Suối Đôi | Du lịch – Giải trí / Suối khoáng nóng Núi Thần Tài | ✅ Pass | ✅ Pass (LNST 10.1-18.5 tỷ) | ✅ Pass (Chủ điểm đến du lịch, biên gộp 30-40%) | ❌ Loại (ROE 5 năm -27.9% đến 8.7% < 10%) | Dừng ở Bước 4 | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
+| 924 | **DSG** | Công ty Cổ phần Kính Viglacera Đáp Cầu | Vật liệu Xây dựng / Kính xây dựng | ❌ Loại (VLXD đại trà, lỗ 7 năm liền, vốn CSH âm) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 925 | **DSH** | Công ty Cổ phần Đông Sơn Holdings | Hạ tầng Giao thông / BOT Quốc lộ 1 Hà Nội – Bắc Giang | ⚠️ Pass (Chủ BOT độc quyền, tiền lệ LGC) | ✅ Pass (LNST 37.8-213.9 tỷ) | ✅ Pass (Biên gộp ~42% sau hợp nhất BOT, P/B 0.56) | ✅ Pass (ROE 2023-2024 21.9% - 26.6%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 926 | **DSP** | Công ty cổ phần Dịch vụ Du lịch Phú Thọ | Du lịch – Giải trí / Công viên Đầm Sen | ✅ Pass | ✅ Pass (2023 lãi 2.3 tỷ) | ✅ Pass (Chủ thương hiệu Đầm Sen) | ❌ Loại (ROE 5 năm -7.8% đến 0.2%, lỗ gộp do tiền thuê đất) | Dừng ở Bước 4 | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
+| 927 | **DTC** | Công ty Cổ phần Viglacera Đông Triều | Vật liệu Xây dựng / Gạch ngói đất nung | ❌ Loại (VLXD đại trà, lỗ ~15 quý liên tiếp, vốn CSH âm) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 
 ---
 

@@ -4140,20 +4140,54 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 ---
 
 ### 201. DSD - Công ty cổ phần DHC Suối Đôi
-- **Mã cổ phiếu:** `DSD` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Dịch vụ
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-32.4%, 2.8%, 1.8%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `DSD` (Sàn UPCOM — thanh khoản thấp, 61/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Du lịch – Giải trí / Công viên Suối khoáng nóng Núi Thần Tài & Khách sạn (Đà Nẵng)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Vận hành khu du lịch – suối khoáng nóng, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. LNST 2023 – 2025 dương (10,1 / 10,4 / 18,5 tỷ VNĐ).
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass. Sở hữu và vận hành điểm đến du lịch có thương hiệu, biên gộp 30% – 40%. P/B ~1,70x.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 17,4 | -65,0% | -72,5 | 223,9 | -27,9% |
+  | 2022 | 164,1 | 40,7% | 20,4 | 244,3 | 8,7% |
+  | 2023 | 172,2 | 38,8% | 10,1 | 364,2 | 3,3% |
+  | 2024 | 168,0 | 33,2% | 10,4 | 584,4 | 2,2% |
+  | 2025 | 186,6 | 29,9% | 18,5 | 602,9 | 3,1% |
+
+- **Lý do loại trừ cốt lõi:**
+  - ROE dưới 10% trong cả 5 năm 2021 – 2025 (cao nhất 8,7% năm 2022). Doanh thu đi ngang quanh 165 – 187 tỷ VNĐ nhưng vốn điều lệ tăng từ 311 lên **584 tỷ VNĐ** (phát hành riêng lẻ/chào bán 2023 – 2024) và capex ~254 tỷ VNĐ giai đoạn 2023 – 2025 ➔ vốn tăng nhanh hơn lợi nhuận, biên gộp giảm dần từ 40,7% xuống 29,9%.
+  - Mùa vụ rất mạnh: lãi quý II – III, lỗ quý IV – I (Q4/2025: -28,6 tỷ; Q1/2026: -16,1 tỷ VNĐ); LNST 4 quý gần nhất (Q3/2025 – Q2/2026) chỉ ~14,6 tỷ VNĐ ➔ P/E ~72x. Lỗ lũy kế vẫn còn -27,6 tỷ VNĐ.
+  - Định giá: Thị giá 17.900 VNĐ/cp (27/10/2026), vốn hóa ~1.045 tỷ VNĐ, P/B ~1,70x — đắt so với năng lực sinh lời.
+- **Ngày Phân Tích:** 27/10/2026
 
 ---
 
 ### 202. DSP - Công ty cổ phần Dịch vụ Du lịch Phú Thọ
-- **Mã cổ phiếu:** `DSP` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Dịch vụ
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-16.9%, -9.2%, 0.2%, -2.2%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `DSP` (Sàn UPCOM — Phú Thọ Tourist, chủ quản Công viên Văn hóa Đầm Sen)
+- **Ngành nghề niêm yết:** Du lịch – Giải trí / Công viên Văn hóa Đầm Sen & Dịch vụ du lịch (TP.HCM)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Vận hành công viên giải trí, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass (sát nút). 2023 lãi 2,3 tỷ VNĐ (nhờ lãi tiền gửi), 2024 – 2025 lỗ — chưa đủ 3 năm lỗ liên tiếp.
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass. Chủ thương hiệu – điểm đến Đầm Sen, không phải gia công. P/B ~2,0x.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | Doanh thu tài chính | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 55,9 | -202,1% | 50,9 | -81,0 | 994,3 | -7,8% |
+  | 2022 | 221,6 | -18,4% | 38,1 | -41,6 | 943,0 | -4,3% |
+  | 2023 | 212,2 | -10,6% | 64,1 | 2,3 | 945,3 | 0,2% |
+  | 2024 | 194,1 | -20,2% | 47,2 | -20,8 | 924,6 | -2,2% |
+  | 2025 | 171,6 | -38,9% | 28,3 | -57,0 | 867,6 | -6,4% |
+
+- **Lý do loại trừ cốt lõi:**
+  - ROE âm hoặc xấp xỉ 0 trong cả 5 năm; **lỗ gộp liên tục 5 năm** vì tiền thuê đất Đầm Sen (~94 tỷ VNĐ/năm theo báo chí) vượt doanh thu vé – dịch vụ; năm 2025 còn bị truy thu ~42,8 tỷ VNĐ tiền thuê đất giai đoạn 2016 – 2021. Doanh thu giảm từ 306 tỷ (2019) xuống 171,6 tỷ VNĐ (2025).
+  - Chỉ sống nhờ ~550 tỷ VNĐ tiền gửi và đầu tư tài chính (ngắn hạn 260,8 tỷ tại 30/09/2026) nhưng lãi tiền gửi giảm dần; dòng tiền kinh doanh âm liên tục 2020 – 2025 (2025: -121,2 tỷ VNĐ); lỗ lũy kế -388,9 tỷ VNĐ (2025). 4 quý gần nhất (Q4/2025 – Q3/2026) lỗ ~15,2 tỷ VNĐ.
+  - Định giá: Thị giá 14.200 VNĐ/cp (27/10/2026), vốn hóa ~1.685 tỷ VNĐ, P/B ~2,0x (BVPS ~7.070 VNĐ/cp) — giá phản ánh kỳ vọng về quỹ đất chứ không phải năng lực sinh lời.
+- **Ngày Phân Tích:** 27/10/2026
 
 ---
 

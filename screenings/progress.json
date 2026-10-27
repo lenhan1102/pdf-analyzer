@@ -1,9 +1,9 @@
 {
   "project": "Vietnamese Stock Market Multi-Stage Screening Funnel",
   "total_universe": 1641,
-  "screened_count": 922,
-  "remaining_count": 719,
-  "progress_percentage": 56.19,
+  "screened_count": 927,
+  "remaining_count": 714,
+  "progress_percentage": 56.49,
   "current_batch": {
     "batch_number": 31,
     "range": "1551-1642",
@@ -2198,6 +2198,6 @@
       "passed": 75
     }
   ],
-  "last_updated": "2026-10-27T01:00:00+07:00",
-  "current_index": 922
+  "last_updated": "2026-10-27T09:00:00+07:00",
+  "current_index": 927
 }
