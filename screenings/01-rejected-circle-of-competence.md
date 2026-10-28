@@ -2864,20 +2864,29 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 ---
 
 ### 254. DTI - Công ty Cổ phần Đầu tư Đức Trung
-- **Mã cổ phiếu:** `DTI` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `DTI` (Sàn UPCOM từ 01/2018)
+- **Ngành nghề niêm yết:** Bất động sản (khách sạn nghỉ dưỡng) & Thương mại Vật liệu Xây dựng
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **BĐS + thương mại VLXD ngoài VTNL:** Hoạt động chính gồm đầu tư xây dựng, kinh doanh nhà ở – văn phòng – khách sạn (chủ đầu tư dự án khách sạn DTC 130 phòng trong quần thể Sonasea Villas & Resort, Phú Quốc) và bán buôn vật liệu, thiết bị xây dựng. *(Hiệu đính: bổ sung mô tả cụ thể.)*
+  - **Doanh thu "đẩy khống" bằng thương mại biên 0%:** Doanh thu tăng từ 58,2 (2021) lên 620,7 (2024) và 600,1 tỷ VNĐ (2025) nhưng lợi nhuận gộp năm 2025 chỉ **0,5 tỷ VNĐ (biên 0,1%)**; LNST 2023 – 2025 chỉ 0,1 – 0,2 tỷ VNĐ/năm, ROE 2021 – 2025 tối đa 5,2% (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo).
+  - > [!CAUTION]
+    > **Dòng tiền vay để cho vay:** Năm 2025 vay ngắn hạn tăng từ 100,2 lên **313,8 tỷ VNĐ** trong khi chi **231,2 tỷ VNĐ cho vay** đơn vị khác; CFO âm 4/5 năm 2021 – 2025 (-53,6 / -81,4 / +27,6 / -16,9 / -35,5 tỷ VNĐ); tiền mặt chỉ 1,8 tỷ VNĐ (30/09/2026). 9T/2026: doanh thu 357,8 tỷ, LNST ~0,1 tỷ VNĐ.
+  - Kể cả nếu được xét tiếp: qua Bước 3 nhờ ngoại lệ P/B < 0,5 nhưng ROE < 10% cả 5 năm ➔ rớt Bước 4.
+  - Định giá: Thị giá 1.700 VNĐ/cp (28/10/2026), vốn hóa ~22,9 tỷ VNĐ, P/B ~0,17x.
+- **Ngày Phân Tích:** 28/10/2026
 
 ---
 
 ### 255. DTR - Công ty cổ phần Đông Tây Land
-- **Mã cổ phiếu:** `DTR` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Chưa phân loại
+- **Mã cổ phiếu:** `DTR` (Sàn UPCOM — giao dịch từ 25/09/2026 với 80 triệu cổ phiếu, giá tham chiếu 10.500 VNĐ; mục tiêu niêm yết HOSE năm 2027)
+- **Ngành nghề niêm yết:** Bất động sản / Môi giới & Phân phối BĐS (TP.HCM)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Chưa phân loại), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Môi giới BĐS dân dụng ngoài VTNL:** Thành lập năm 2013, dịch vụ môi giới chiếm **92,3% doanh thu** (6T/2026) — phụ thuộc hoàn toàn chu kỳ thị trường nhà ở; đang mở rộng sang phát triển dự án. *(Hiệu đính: hồ sơ cũ ghi "Chưa phân loại".)*
+  - **Kết quả kinh doanh (tham khảo — nguồn: báo chí trích BCTC kiểm toán 2025 & BCTC bán niên 2026, VNDirect chưa có dữ liệu BCTC):** Doanh thu 2025 ~559 tỷ VNĐ (+43%), LNST ~33,2 tỷ VNĐ (~11 lần 2024) ➔ ROE ~4%; 6T/2026 doanh thu 259,4 tỷ, LNST 17,1 tỷ VNĐ (mới đạt 11,2% kế hoạch 151,6 tỷ). Vốn CSH 853,0 tỷ VNĐ, vốn điều lệ 800 tỷ VNĐ (30/06/2026).
+  - > [!CAUTION]
+    > **Phải thu bên liên quan & kiểm toán ngoại trừ:** Phải thu lãnh đạo và bên liên quan **559,8 tỷ VNĐ** (30/06/2026, tăng từ 354,8 tỷ đầu năm) — bằng 40% tổng tài sản và 65,6% vốn CSH, chưa trích lập dự phòng (riêng Chủ tịch Nguyễn Thái Bình 156,9 tỷ, Đông Tây Holding 205,0 tỷ VNĐ). BCTC 2025 bị kiểm toán ngoại trừ vì không xác minh được công nợ; nợ thuế 28,8 tỷ VNĐ (07/2026).
+  - Định giá: Thị giá 9.200 VNĐ/cp (28/10/2026, giảm 12% so với giá chào sàn), vốn hóa ~736 tỷ VNĐ, P/B ~0,86x.
+- **Ngày Phân Tích:** 28/10/2026
 
 ---
 

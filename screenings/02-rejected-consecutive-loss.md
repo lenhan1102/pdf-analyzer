@@ -26,6 +26,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
 | 14 | **DDG** | CTCP Đầu tư Công nghiệp XNK Đông Dương (Đông Dương Corp) | Cung cấp hơi nhiệt công nghiệp & Thương mại | Thua lỗ liên tiếp 3 năm (2023-2025: -205,8 / -63,2 / -334,1 tỷ), lỗ lũy kế >504 tỷ, nợ quá hạn, hủy niêm yết HNX 06/2026 | 2026-10-25 |
 | 15 | **DLD** | Công ty Cổ phần Du lịch Đắk Lắk | Khách sạn, Nhà hàng & Khu du lịch (Đắk Lắk) | Thua lỗ liên tiếp 7 năm (2019-2025; 2023-2025: -8,5 / -10,5 / -18,8 tỷ), lỗ lũy kế -106,8 tỷ, Vốn CSH âm -12,2 tỷ | 2026-10-26 |
 | 16 | **DP2** | Công ty Cổ phần Dược phẩm Trung ương 2 (Dopharma) | Sản xuất Dược phẩm (thương hiệu TW2) | Thua lỗ liên tiếp 7 năm (2019-2025; 2023-2025: -24,1 / -5,6 / -10,8 tỷ), lỗ lũy kế -138,4 tỷ (~69% vốn điều lệ) | 2026-10-26 |
+| 17 | **DUS** | CTCP Dịch vụ Đô thị Đà Lạt | Vệ sinh môi trường công ích & Vườn hoa Đà Lạt | Thua lỗ liên tiếp 3 năm (2023-2025: -2,4 / -19,2 / -6,9 tỷ), Vốn CSH giảm một nửa còn 39,9 tỷ, nghĩa vụ phải nộp Nhà nước 123,6 tỷ | 2026-10-28 |
 
 ---
 
@@ -302,3 +303,26 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
   - **Lỗ lũy kế -138,4 tỷ VNĐ** (31/12/2025) ăn mòn ~69% vốn điều lệ 200 tỷ VNĐ; nợ ngắn hạn 246,3 tỷ VNĐ, vay ngắn hạn 97,2 tỷ VNĐ.
   - **Quy chuẩn loại trừ:** LNST công ty mẹ âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2 theo đúng thứ tự tuần tự của phễu lọc)*.
 - **Ngày Phân Tích:** 26/10/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 18. DUS - CTCP Dịch vụ Đô thị Đà Lạt
+- **Mã cổ phiếu:** `DUS` (Sàn UPCOM — thanh khoản rất thấp, 26/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Dịch vụ Công ích / Vệ sinh môi trường đô thị & Khu du lịch Vườn hoa Đà Lạt (Lâm Đồng)
+- **Hoạt động kinh doanh chính:** Tiền thân là Công ty Quản lý Công trình Đô thị Đà Lạt (thành lập 1996); cung cấp dịch vụ vệ sinh công ích – vệ sinh môi trường trên địa bàn Đà Lạt, vận hành khu du lịch Vườn hoa Đà Lạt và dịch vụ giải trí trên hồ Xuân Hương.
+- **Lý do loại trừ tại Bước 2 (Lỗ 3 năm liên tiếp 2023 – 2025):**
+  - **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+    | Năm | Doanh thu thuần | Lợi nhuận gộp | LNST | Vốn CSH cuối kỳ | Trạng thái |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | 2021 | 116,4 | 9,5 | 1,33 | 68,0 | Lãi |
+    | 2022 | 161,9 | 28,0 | 12,28 | 80,0 | Lãi |
+    | 2023 | 170,1 | 7,0 | **-2,43** | 65,9 | **Lỗ** |
+    | 2024 | 171,6 | **-9,8** | **-19,20** | 46,8 | **Lỗ** (lỗ gộp) |
+    | 2025 | 110,3 | 2,9 | **-6,85** | 39,9 | **Lỗ** |
+
+  - Giá vốn tăng nhanh hơn doanh thu từ 2023 (biên gộp từ 17,3% xuống 4,1% rồi âm 5,7% năm 2024); năm 2025 doanh thu giảm thêm 35,7% còn 110,3 tỷ VNĐ. ROE 2021 – 2025: 1,8% / 16,6% / -3,3% / -34,1% / -15,8%.
+  - **Vốn CSH giảm một nửa** từ 80,0 (2022) xuống 39,9 tỷ VNĐ (2025); lỗ lũy kế -28,7 tỷ VNĐ trên vốn điều lệ 56,1 tỷ VNĐ. Không có vay nợ, nhưng khoản **Thuế và các khoản phải nộp Nhà nước tăng từ 24,4 (2022) lên 123,6 tỷ VNĐ (2025)** — gấp ~3,1 lần vốn CSH (cần đọc thuyết minh để xác định bản chất); phải trả người lao động âm -10,8 tỷ VNĐ.
+  - Định giá: Thị giá 3.700 VNĐ/cp (28/10/2026), vốn hóa ~20,8 tỷ VNĐ, P/B ~0,52x.
+  - **Quy chuẩn loại trừ:** LNST công ty mẹ âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính: hồ sơ cũ xếp nhầm vào File 5 "Đạt chuẩn — ROE > 10%".)*
+- **Ngày Phân Tích:** 28/10/2026 (Hiệu đính phân loại lại)

@@ -11853,3 +11853,43 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Chỉ có 3 năm dữ liệu công khai; cần đọc bản cáo bạch niêm yết HOSE để xác minh thời hạn thu phí còn lại, lưu lượng xe và lịch trả nợ.
 - **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Hạ tầng BOT; tải bản cáo bạch HOSE và BCTC kiểm toán 2025 để kiểm chứng bản chất khoản thu nhập khác 223,8 tỷ VNĐ, thời hạn BOT và dòng tiền trả nợ.
 - **Ngày tốt nghiệp phễu:** 2026-10-27
+
+---
+
+### 376. DTP - Công ty cổ phần Dược phẩm CPC1 Hà Nội
+- **Mã cổ phiếu:** `DTP` (Sàn UPCOM — thanh khoản khá, 348/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Y tế / Sản xuất Thuốc tiêm, Dung dịch & Thực phẩm chức năng (Hà Nội)
+- **Hoạt động kinh doanh chính:** Tự sản xuất và kinh doanh hơn 300 sản phẩm thuốc và thực phẩm chức năng tại nhà máy đạt GMP-WHO (vốn đầu tư gần 300 tỷ VNĐ theo Vietstock); không phải nhà phân phối thương mại — biên gộp ổn định 52% – 55% suốt 7 năm.
+- **Luận điểm cốt lõi:**
+  - **Tăng trưởng kép và sinh lời cao:** Doanh thu tăng từ 576,2 (2021) lên **1.694,9 tỷ VNĐ** (2025), CAGR ~31%; LNST tăng từ 108,3 lên **283,4 tỷ VNĐ**. ROE 23,8% – 31,2% suốt 5 năm mà gần như không dùng đòn bẩy.
+  - **Lợi nhuận là tiền thật:** CFO 2023 – 2025 lần lượt 161,2 / 120,2 / **367,7 tỷ VNĐ** (2025 CFO vượt LNST); chi phí lãi vay chỉ ~4 tỷ VNĐ/năm.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST công ty mẹ | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 576,2 | 54,3% | 108,3 | 450,6 | **26,7%** |
+  | 2022 | 788,0 | 51,7% | 124,8 | 598,0 | **23,8%** |
+  | 2023 | 1.113,5 | 54,9% | 216,9 | 790,8 | **31,2%** |
+  | 2024 | 1.293,3 | 52,6% | 237,2 | 974,5 | **26,9%** |
+  | 2025 | 1.694,9 | 54,0% | 283,4 | 1.200,2 | **26,1%** |
+  | 9T/2026 | 1.351,6 | 49,5% | 187,7 | 1.323,6 | ~20,2% (4 quý gần nhất) |
+
+  - **9 tháng 2026 tăng doanh thu nhưng giảm lãi:** Doanh thu +18,5% YoY nhưng LNST -15,5% YoY (187,7 so với 222,1 tỷ VNĐ); quý III/2026 lãi 74,9 tỷ, giảm 24% so với quý III/2025 (99,1 tỷ VNĐ). Biên gộp quý I – II/2026 chỉ ~47% – 48% trước khi hồi lên 53,2% ở quý III.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~9,3x** (LNST 4 quý gần nhất Q4/2025 – Q3/2026 ~249,0 tỷ VNĐ; EPS ~6.140 VNĐ/cp); ~8,2x theo LNST 2025
+  - **P/B:** **~1,75x** (Thị giá 57.000 VNĐ/cp ngày 28/10/2026 so với BVPS ~32.600 VNĐ/cp tại 30/09/2026); vốn hóa ~2.313 tỷ VNĐ
+  - **Vốn điều lệ:** **405,7 tỷ VNĐ** (40,57 triệu cổ phiếu sau đợt phát hành quý II/2026; trước đó 324,6 tỷ VNĐ — vốn điều lệ tăng ~3,3 lần từ 121,7 tỷ năm 2021, chủ yếu bằng cổ phiếu thưởng; chỉ năm 2022 phát hành thu tiền 42,3 tỷ VNĐ). Cổ tức tiền mặt thấp: 32,5 tỷ VNĐ năm 2025 (~11% LNST)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất dược phẩm — ngành phòng thủ, nhu cầu ổn định.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (216,9 / 237,2 / 283,4 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Tự sản xuất, sở hữu danh mục sản phẩm, biên gộp ~54%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE 5/5 năm trên 23% (23,8% – 31,2%).
+- **Điểm mạnh đặc biệt:** (1) Biên gộp >50% ổn định, ROE >20% liên tục; (2) Doanh thu tăng 6 năm liền 2020 – 2025; (3) Nợ vay thấp, CFO dương mọi năm 2019 – 2025.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Chi phí bán hàng rất lớn & lợi nhuận đang chững lại:** Chi phí bán hàng tăng từ 164,4 (2021) lên **523,1 tỷ VNĐ** (2025, ~30,9% doanh thu) — tăng trưởng đang "mua" bằng chi phí thị trường; 9T/2026 LNST giảm 15,5% dù doanh thu tăng. ROE 4 quý gần nhất giảm về ~20%.
+  - > [!CAUTION]
+    > **Tuân thủ & thuế:** Chi phí khác 2025 tăng vọt lên **22,3 tỷ VNĐ** (2024: 0,6 tỷ); báo chí phản ánh lãi bán niên 2025 bị giảm sau soát xét do ghi nhận chi phí thuế các năm trước và công ty nhiều lần bị xử phạt vì kê khai giá thuốc chưa đầy đủ.
+  - Vay nợ tăng trở lại: vay ngắn hạn 31,1 ➔ 113,3 tỷ và dài hạn 37,2 ➔ 93,2 tỷ VNĐ (30/09/2025 ➔ 30/09/2026) trong khi tiền mặt giảm từ 156,1 xuống 91,8 tỷ VNĐ; capex tăng mạnh (mua sắm TSCĐ 269,4 tỷ VNĐ năm 2025, gấp 2,6 lần 2024) ➔ FCF 2025 chỉ ~98,3 tỷ VNĐ dù CFO 367,7 tỷ.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Dược phẩm; đọc BCTN 2025 để kiểm chứng cơ cấu kênh bán (ETC/OTC), dự án đầu tư đang triển khai (capex 269,4 tỷ năm 2025) và bản chất khoản chi phí khác 22,3 tỷ VNĐ.
+- **Ngày tốt nghiệp phễu:** 2026-10-28

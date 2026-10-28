@@ -4192,11 +4192,28 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 ---
 
 ### 203. DTH - Công ty Cổ phần Dược - Vật tư Y tế Thanh Hóa
-- **Mã cổ phiếu:** `DTH` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Y tế
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (2.9%, 2.6%, 1.9%, 2.5%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `DTH` (Sàn UPCOM — gần như không có thanh khoản, 12/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Y tế / Sản xuất & Phân phối Dược phẩm – Vật tư y tế (Thanh Hóa)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Dược phẩm – vật tư y tế, ngành phòng thủ.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. LNST 2023 – 2025 dương (2,4 / 3,2 / 3,3 tỷ VNĐ).
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass. Biên gộp 31% – 33% (có sản xuất và mạng lưới phân phối riêng). P/B ~0,82x.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (VCSH bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 505,2 | 32,7% | 3,3 | 127,4 | 2,6% |
+  | 2022 | 581,4 | 33,0% | 3,6 | 127,7 | 2,8% |
+  | 2023 | 526,0 | 32,6% | 2,4 | 126,5 | 1,9% |
+  | 2024 | 533,1 | 30,8% | 3,2 | 127,3 | 2,5% |
+  | 2025 | 485,9 | 31,8% | 3,3 | 127,4 | 2,6% |
+
+- **Lý do loại trừ cốt lõi:**
+  - ROE chỉ 1,9% – 2,9% suốt 2020 – 2025. Lợi nhuận gộp ~155 – 190 tỷ VNĐ/năm bị chi phí bán hàng (~24% doanh thu, 117,0 tỷ VNĐ năm 2025), quản lý (~25,9 tỷ) và lãi vay ăn gần hết ➔ LNST gần như "đóng băng" ở 2,4 – 3,7 tỷ VNĐ suốt 7 năm, vốn CSH đứng yên ~127 tỷ VNĐ.
+  - Điểm cải thiện: vay ngắn hạn giảm từ 237,5 (2023) xuống 104,4 tỷ VNĐ (2025), chi phí lãi vay từ 16,0 xuống 8,1 tỷ VNĐ; CFO dương 2022 – 2025 (2025: 61,6 tỷ VNĐ). Doanh thu 2025 giảm 8,9% YoY. VNDirect chưa có BCTC quý 2025 – 2026.
+  - Định giá: Thị giá 14.000 VNĐ/cp (28/10/2026, thanh khoản gần như bằng 0), vốn hóa ~105 tỷ VNĐ, P/B ~0,82x, P/E ~32x.
+- **Ngày Phân Tích:** 28/10/2026
 
 ---
 
