@@ -4217,21 +4217,30 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 204. DVC - Công ty cổ phần Thương mại Dịch vụ Tổng hợp Cảng Hải Phòng
-- **Mã cổ phiếu:** `DVC` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Năng lượng
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (3.9%, 0.0%, 1.8%, 9.5%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
 ### 205. DVG - Công ty Cổ phần Đại Việt Group DVG
-- **Mã cổ phiếu:** `DVG` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nguyên vật liệu
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (2.4%, 3.8%, 1.5%, 0.4%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `DVG` (Sàn UPCOM — thanh khoản thấp, 80/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Hóa chất tiêu dùng / Sản xuất & Thương mại Sơn nước (nhãn Hika, Japont, Persie, Messi)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Sơn nước trang trí (tiền thân Công ty TNHH Xây dựng và Thương mại Đại Việt, thành lập 2006), không phải BĐS/xây lắp.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. 2023 – 2024 có lãi (4,5 / 1,2 tỷ VNĐ), 2025 lỗ -2,6 tỷ VNĐ.
+  - *Bước 3 (Chuỗi giá trị & P/B):* ⚠️ Pass theo ngoại lệ. Biên gộp chỉ 1,4% – 7,1% (2022 – 2025) — thực chất là thương mại/gia công đại trà, nhưng P/B ~0,07x < 0,5.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC hợp nhất năm qua VNDirect Finfo; ROE trên vốn CSH công ty mẹ):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST công ty mẹ | Vốn CSH công ty mẹ cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 344,9 | 9,2% | 13,4 | 305,9 | 4,5% |
+  | 2022 | 126,9 | 7,0% | 1,9 | 298,8 | 0,6% |
+  | 2023 | 82,8 | 7,1% | 4,5 | 303,2 | 1,5% |
+  | 2024 | 174,8 | 3,0% | 1,2 | 304,2 | 0,4% |
+  | 2025 | 209,1 | 1,4% | -2,6 | 301,6 | -0,8% |
+
+- **Lý do loại trừ cốt lõi:**
+  - ROE dưới 5% cả 5 năm; biên gộp co lại từ 11,2% (2020) xuống 1,4% (2025) — doanh thu tăng trở lại nhờ hàng biên gần 0, không phải sơn thương hiệu. Lỗ liên tục 4 quý gần nhất (Q3/2025 – Q2/2026); 6T/2026 doanh thu chỉ 60,9 tỷ VNĐ.
+  - > [!CAUTION]
+    > **Tài sản "giấy":** Phải thu 146,1 tỷ + hàng tồn kho 114,9 tỷ VNĐ = ~75% tổng tài sản (2025); CFO 2025 âm **-76,7 tỷ VNĐ**; lợi ích cổ đông không kiểm soát tăng đột biến từ 9,3 lên 41,0 tỷ VNĐ năm 2025.
+  - Định giá: Thị giá 800 VNĐ/cp (02/11/2026), vốn hóa ~22 tỷ VNĐ, P/B ~0,07x — thị trường định giá tài sản gần như bằng 0.
+- **Ngày Phân Tích:** 02/11/2026
 
 ---
 

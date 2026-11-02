@@ -11,17 +11,17 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
     "Rớt Bước 1 (Ngành & Vòng tròn năng lực)" : 422
     "Rớt Bước 2 (Lỗ 3 năm liên tiếp)" : 18
     "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 24
-    "Rớt Bước 4 (ROE 5 năm < 10%)" : 462
-    "🏆 Đạt Chuẩn File 5" : 715
+    "Rớt Bước 4 (ROE 5 năm < 10%)" : 461
+    "🏆 Đạt Chuẩn File 5" : 716
 ```
 
 - **Quy mô toàn bộ vũ trụ cổ phiếu:** **1,641** doanh nghiệp (Toàn bộ 3 sàn HOSE, HNX, UPCoM)
-- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **932 / 1,641** mã (**56.79%** — Đã rà soát chi tiết đến mã `DUS`)
+- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **937 / 1,641** mã (**57.10%** — Đã rà soát chi tiết đến mã `DWC`)
 - **Số mã rớt tại Bước 1 (Ngành & VTNL):** **422** mã (25.72%)
 - **Số mã rớt tại Bước 2 (Lỗ 3 năm liên tiếp):** **18** mã (1.10%)
 - **Số mã rớt tại Bước 3 (Chuỗi GT thấp & P/B ≥ 0.5):** **24** mã (1.46%)
-- **Số mã rớt tại Bước 4 (ROE 5 năm < 10%):** **462** mã (28.15%)
-- **Số mã đạt chuẩn lọt vào File 5 (Champions):** **715** mã (43.57%)
+- **Số mã rớt tại Bước 4 (ROE 5 năm < 10%):** **461** mã (28.09%)
+- **Số mã đạt chuẩn lọt vào File 5 (Champions):** **716** mã (43.63%)
 - **Tổng số mã trong hệ sinh thái:** **1,641 / 1,641 mã (100.0%)**
 
 ---
@@ -36,8 +36,8 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | 1 | [summary-01-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md) | Bảng tóm tắt các công ty rớt Bước 1 (Ngành nghề ngoài VTNL) | **422** mã | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 | 2 | [summary-02-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-02-consecutive-loss.md) | Bảng tóm tắt các công ty rớt Bước 2 (Lỗ 3 năm liên tiếp) | **18** mã | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
 | 3 | [summary-03-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md) | Bảng tóm tắt các công ty rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5) | **24** mã | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
-| 4 | [summary-04-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md) | Bảng tóm tắt các công ty rớt Bước 4 (ROE 5 năm < 10%) | **462** mã | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
-| 5 | [summary-05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md) | 🏆 **Bảng tóm tắt Doanh Nghiệp Đạt Chuẩn (File 5)** | **715** mã | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 4 | [summary-04-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md) | Bảng tóm tắt các công ty rớt Bước 4 (ROE 5 năm < 10%) | **461** mã | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
+| 5 | [summary-05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md) | 🏆 **Bảng tóm tắt Doanh Nghiệp Đạt Chuẩn (File 5)** | **716** mã | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 
 
 
@@ -979,6 +979,11 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | 930 | **DTP** | Công ty cổ phần Dược phẩm CPC1 Hà Nội | Y tế / Sản xuất Thuốc tiêm, Dung dịch & TPCN | ✅ Pass | ✅ Pass (LNST 216.9-283.4 tỷ) | ✅ Pass (Tự sản xuất, biên gộp ~54%) | ✅ Pass (ROE 5/5 năm 23.8% - 31.2%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 | 931 | **DTR** | Công ty cổ phần Đông Tây Land | Bất động sản / Môi giới BĐS | ❌ Loại (Môi giới BĐS dân dụng 92% doanh thu, kiểm toán ngoại trừ) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 | 932 | **DUS** | CTCP Dịch vụ Đô thị Đà Lạt | Dịch vụ Công ích / Vệ sinh môi trường & Vườn hoa Đà Lạt | ✅ Pass | ❌ Loại (Lỗ 3N liên tiếp 2023-2025: -2.4 / -19.2 / -6.9 tỷ) | - | - | Dừng ở Bước 2 | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
+| 933 | **DVC** | Công ty cổ phần Thương mại Dịch vụ Tổng hợp Cảng Hải Phòng | Dịch vụ Cảng – Kho bãi, Cho thuê & Thương mại xăng dầu | ✅ Pass | ✅ Pass (LNST 3.5-19.3 tỷ) | ✅ Pass (Biên gộp 67%, P/B 0.56) | ✅ Pass (ROE 2024-2025 12.5% / 11.9% trên VCSH mẹ) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 934 | **DVG** | Công ty Cổ phần Đại Việt Group DVG | Hóa chất tiêu dùng / Sơn nước | ✅ Pass | ✅ Pass (2023-2024 có lãi) | ⚠️ Pass (Ngoại lệ P/B 0.07 < 0.5, biên gộp 1.4%) | ❌ Loại (ROE 5 năm -0.8% đến 4.5%) | Dừng ở Bước 4 | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
+| 935 | **DVN** | Tổng Công ty Dược Việt Nam - CTCP | Y tế / Holding Dược – Phân phối & Đầu tư | ✅ Pass | ✅ Pass (LNST 337.5-738.6 tỷ) | ⚠️ Pass (Holding dược, lợi nhuận chủ yếu từ liên kết sản xuất) | ✅ Pass (ROE 2023-2025 12.1% - 21.1%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 936 | **DVW** | Công ty Cổ phần Dịch vụ và Xây dựng Cấp nước Đồng Nai | Tiện ích / Cấp nước sạch Biên Hòa | ✅ Pass | ✅ Pass (LNST 9.3-10.0 tỷ) | ✅ Pass (Độc quyền cấp nước khu vực, biên gộp ~47%) | ✅ Pass (ROE 5/5 năm 17.4% - 20.6%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 937 | **DWC** | CTCP Cấp nước Đắk Lắk | Tiện ích / Cấp nước sạch Đắk Lắk | ✅ Pass | ✅ Pass (LNST 15.1-79.0 tỷ) | ✅ Pass (Chủ hệ thống cấp nước, biên gộp ~60%) | ✅ Pass (ROE 2024-2025 15.1% / 20.5%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 
 ---
 

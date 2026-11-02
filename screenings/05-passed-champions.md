@@ -11893,3 +11893,152 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Vay nợ tăng trở lại: vay ngắn hạn 31,1 ➔ 113,3 tỷ và dài hạn 37,2 ➔ 93,2 tỷ VNĐ (30/09/2025 ➔ 30/09/2026) trong khi tiền mặt giảm từ 156,1 xuống 91,8 tỷ VNĐ; capex tăng mạnh (mua sắm TSCĐ 269,4 tỷ VNĐ năm 2025, gấp 2,6 lần 2024) ➔ FCF 2025 chỉ ~98,3 tỷ VNĐ dù CFO 367,7 tỷ.
 - **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Dược phẩm; đọc BCTN 2025 để kiểm chứng cơ cấu kênh bán (ETC/OTC), dự án đầu tư đang triển khai (capex 269,4 tỷ năm 2025) và bản chất khoản chi phí khác 22,3 tỷ VNĐ.
 - **Ngày tốt nghiệp phễu:** 2026-10-28
+
+---
+
+### 377. DVC - Công ty cổ phần Thương mại Dịch vụ Tổng hợp Cảng Hải Phòng
+- **Mã cổ phiếu:** `DVC` (Sàn UPCOM từ 13/12/2013 — thanh khoản thấp, 128/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Dịch vụ Cảng – Logistics / Xếp dỡ hàng hóa, Kho bãi, Cho thuê văn phòng & Thương mại xăng dầu (Hải Phòng)
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp Kinh doanh Dịch vụ Tổng hợp thuộc Cảng Hải Phòng (cổ phần hóa năm 2000). Kinh doanh dịch vụ hàng hải – xếp dỡ hàng hóa, kho bãi (bãi đỗ xe >25.000 m²), cho thuê văn phòng, nhà hàng – khách sạn và thương mại xăng dầu, đại lý săm lốp.
+- **Luận điểm cốt lõi:**
+  - **Chuyển dịch sang dịch vụ biên cao:** Doanh thu giảm từ 209,2 (2022) xuống 98,2 tỷ VNĐ (2025) nhưng giá vốn giảm mạnh hơn (147,8 ➔ 32,4 tỷ VNĐ) ➔ lợi nhuận gộp tăng lên **65,9 tỷ VNĐ**, biên gộp từ 29,3% lên **67,1%** — mảng thương mại biên thấp thu hẹp, dịch vụ/cho thuê chiếm ưu thế.
+  - **Giảm nợ mạnh, dòng tiền tốt:** Vay dài hạn giảm từ 180,9 (2021) xuống 84,5 tỷ VNĐ (2025), chi phí lãi vay từ 18,2 xuống 9,1 tỷ VNĐ; CFO 2023 – 2025 lần lượt 39,1 / 50,4 / 43,1 tỷ VNĐ trong khi capex chỉ 1 – 3 tỷ VNĐ/năm ➔ FCF ~40 tỷ VNĐ/năm, gần một nửa vốn hóa.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC hợp nhất năm qua VNDirect Finfo; ROE tính trên vốn CSH công ty mẹ, đã loại lợi ích cổ đông không kiểm soát ~49,5 tỷ VNĐ):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST công ty mẹ | Vốn CSH công ty mẹ cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 181,5 | 31,8% | 7,3 | 155,9 | 4,7% |
+  | 2022 | 209,2 | 29,3% | 7,6 | 156,7 | 4,9% |
+  | 2023 | 137,0 | 43,5% | 3,5 | 152,1 | 2,2% |
+  | 2024 | 102,3 | 57,2% | 19,3 | 156,3 | **12,5%** |
+  | 2025 | 98,2 | 67,1% | 19,1 | 165,2 | **11,9%** |
+
+  - Năm 2024 có lợi nhuận khác 10,9 tỷ VNĐ (một lần) — loại trừ khoản này ROE 2024 còn ~8%; năm 2025 lợi nhuận thuần từ HĐKD tăng lên 30,4 tỷ VNĐ (2024: 18,9 tỷ), lợi nhuận khác chỉ 1,2 tỷ ➔ ROE 11,9% là lợi nhuận lõi. VNDirect chưa có BCTC quý 2025 – 2026.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~4,9x** (EPS 2025 ~1.770 VNĐ/cp)
+  - **P/B:** **~0,56x** (Thị giá 8.600 VNĐ/cp ngày 02/11/2026 so với BVPS công ty mẹ ~15.300 VNĐ/cp tại 31/12/2025); vốn hóa ~93 tỷ VNĐ
+  - **Vốn điều lệ:** **107,9 tỷ VNĐ** (10,79 triệu cổ phiếu); cổ tức tiền mặt 9,8 tỷ VNĐ năm 2025 (~51% LNST)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Dịch vụ cảng – kho bãi – cho thuê trong hệ sinh thái Cảng Hải Phòng, không phải BĐS dân dụng/xây lắp.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (3,5 / 19,3 / 19,1 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Biên gộp 67,1% từ dịch vụ và cho thuê; P/B ~0,56x.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE 2024 – 2025 đạt 12,5% và 11,9% (trên vốn CSH công ty mẹ), không rơi vào trường hợp "ROE < 10% cả 5 năm".
+- **Điểm mạnh đặc biệt:** (1) FCF ~40 tỷ VNĐ/năm so với vốn hóa ~93 tỷ VNĐ; (2) P/E ~4,9x, P/B ~0,56x; (3) Nợ vay giảm liên tục.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **"Đạt chuẩn" sát ngưỡng & thiếu minh bạch:** Chỉ 2 năm gần nhất ROE > 10%, năm 2024 nhờ khoản lợi nhuận khác một lần; không có BCTC quý trên VNDirect và chưa có cơ cấu doanh thu theo mảng — chưa xác định được phần lợi nhuận đến từ cho thuê tài sản của Cảng Hải Phòng (rủi ro hợp đồng thuê đất/tài sản).
+  - Cổ đông thiểu số tại công ty con chiếm ~23% lợi nhuận hợp nhất (5,9 / 24,9 tỷ VNĐ năm 2025); quy mô siêu nhỏ, thanh khoản thấp.
+- **Hành động tiếp theo:** Xếp vào nhóm "Đạt chuẩn kỹ thuật — cần kiểm chứng"; đọc BCTN/BCTC kiểm toán 2025 để bóc tách doanh thu dịch vụ – cho thuê – thương mại và hợp đồng thuê đất.
+- **Ngày tốt nghiệp phễu:** 2026-11-02
+
+---
+
+### 378. DVN - Tổng Công ty Dược Việt Nam - CTCP (Vinapharm)
+- **Mã cổ phiếu:** `DVN` (Sàn UPCOM — thanh khoản tốt, 400/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Y tế / Holding Dược phẩm – Phân phối & Đầu tư vào các doanh nghiệp sản xuất dược (Bộ Y tế là cổ đông chi phối)
+- **Hoạt động kinh doanh chính:** Tổng công ty dược nhà nước; hợp nhất các công ty con phân phối – sản xuất dược (doanh thu ~5.600 tỷ VNĐ/năm, biên gộp ~10%) và nắm cổ phần tại nhiều doanh nghiệp sản xuất dược — năm 2025 hoàn tất nâng sở hữu tại **Sanofi Việt Nam từ 15% lên 30%**.
+- **Luận điểm cốt lõi:**
+  - **Giá trị nằm ở danh mục đầu tư dược:** Lãi từ công ty liên kết tăng từ 82,3 (2022) lên 158,8 (2024) và **503,9 tỷ VNĐ** (2025, riêng quý IV/2025 là 333,4 tỷ); 9T/2026 đạt 274,5 tỷ VNĐ. Doanh thu tài chính (cổ tức, lãi tiền gửi) ~260 tỷ VNĐ/năm. Mảng phân phối hợp nhất chỉ tạo lợi nhuận mỏng.
+  - **ROE cải thiện mạnh:** ROE trên vốn CSH công ty mẹ tăng từ 3,1% (2022) lên 12,1% / 13,5% / **21,1%** (2023 – 2025); 9T/2026 quy năm ~13,7%.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC hợp nhất năm & quý qua VNDirect Finfo; vốn CSH công ty mẹ đã loại lợi ích CĐ không kiểm soát ~305 tỷ VNĐ):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST công ty mẹ | Vốn CSH công ty mẹ cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 4.873,6 | 9,0% | 195,4 | 2.824,3 | 7,0% |
+  | 2022 | 5.540,6 | 9,8% | 84,1 | 2.593,6 | 3,1% |
+  | 2023 | 5.583,2 | 10,5% | 337,5 | 3.000,2 | **12,1%** |
+  | 2024 | 5.521,8 | 10,7% | 420,8 | 3.249,3 | **13,5%** |
+  | 2025 | 5.645,6 | 9,8% | 738,6 | 3.740,1 | **21,1%** |
+  | 9T/2026 | 4.094,9 | 11,6% | 391,9 | 3.870,7 | ~13,7% (quy năm) |
+
+  - **LNST 2025 có yếu tố đột biến:** Quý IV/2025 lãi công ty liên kết 333,4 tỷ VNĐ (trùng thời điểm nâng sở hữu Sanofi Việt Nam; báo chí ghi nhận lãi liên kết cả năm 386 tỷ VNĐ — khác số VNDirect, cần đối chiếu BCTC kiểm toán). 9T/2026 LNST công ty mẹ 391,9 tỷ, giảm 3,7% YoY.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~5,6x** (LNST công ty mẹ 4 quý gần nhất Q4/2025 – Q3/2026 ~723,4 tỷ VNĐ); ~7,8x theo 9T/2026 quy năm (loại quý IV/2025 đột biến)
+  - **P/B:** **~1,05x** (Thị giá 17.200 VNĐ/cp ngày 02/11/2026 so với BVPS công ty mẹ ~16.330 VNĐ/cp tại 30/09/2026); vốn hóa ~4.076 tỷ VNĐ
+  - **Vốn điều lệ:** **2.370 tỷ VNĐ** (237 triệu cổ phiếu); cổ tức tiền mặt 251,9 tỷ VNĐ chi năm 2025
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Dược phẩm — ngành phòng thủ.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (337,5 / 420,8 / 738,6 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ⚠️ Đạt có điều kiện: Doanh thu hợp nhất chủ yếu là phân phối biên ~10% (tiền lệ DPP bị loại), nhưng phần lớn lợi nhuận đến từ cổ phần tại các nhà sản xuất dược (Sanofi Việt Nam và các công ty liên kết) — xếp như holding đầu tư dược. P/B ~1,05x.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE 2023 – 2025 đạt 12,1% – 21,1%.
+- **Điểm mạnh đặc biệt:** (1) Danh mục cổ phần dược đầu ngành, Sanofi Việt Nam 30%; (2) P/E ~5,6x – 7,8x, P/B ~1,05x; (3) Cổ tức tiền mặt đều đặn, thanh khoản tốt.
+- **Rủi ro cần theo dõi:**
+  - > [!CAUTION]
+    > **Mảng phân phối đốt tiền:** CFO âm 3 năm liền 2023 – 2025 (-110,8 / -135,5 / **-255,9 tỷ VNĐ**) do hàng tồn kho tăng từ 1.187,6 (2022) lên 2.003,1 tỷ VNĐ (2025) và phải thu ~1.916 tỷ VNĐ; vay ngắn hạn ~1.448 – 1.588 tỷ VNĐ — cổ tức đang được chi trả bằng tiền vay/cổ tức nhận về.
+  - > [!WARNING]
+    > **Lợi nhuận phụ thuộc công ty liên kết & chính sách cổ đông nhà nước:** Lãi liên kết biến động mạnh theo quý (quý II/2025 từng giảm 42% do lỗ liên kết và trích lập dự phòng chứng khoán); Bộ Y tế dự kiến thoái vốn tại Vinapharm — có thể gây áp lực cung cổ phiếu hoặc thay đổi chiến lược.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Dược phẩm (nhóm holding); đọc BCTC kiểm toán 2025 để tách lãi liên kết thường xuyên với khoản ghi nhận một lần khi nâng sở hữu Sanofi, và đánh giá NAV danh mục đầu tư.
+- **Ngày tốt nghiệp phễu:** 2026-11-02
+
+---
+
+### 379. DVW - Công ty Cổ phần Dịch vụ và Xây dựng Cấp nước Đồng Nai
+- **Mã cổ phiếu:** `DVW` (Sàn UPCOM — gần như không có thanh khoản, 18/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Tiện ích / Cấp nước sạch (Tây Nam TP. Biên Hòa) & Xây lắp đường ống cấp nước
+- **Hoạt động kinh doanh chính:** Thành lập năm 2008 từ Xí nghiệp Thiết kế Xây dựng thuộc Cấp nước Đồng Nai (Dowaco – DNW). Vận hành nhà máy nước Hóa An (15.000 m³/ngày đêm), cấp nước cho 4 phường xã Hóa An, Tân Hạnh, Bửu Hòa, Tân Vạn; mảng xây lắp đường ống chủ yếu nhận việc từ Dowaco. Năm 2022, cấp nước chiếm **78,7% doanh thu** (39,7/50,5 tỷ VNĐ) và mảng xây lắp đang thu hẹp (BCTN 2022).
+- **Luận điểm cốt lõi:**
+  - **Độc quyền cấp nước khu vực, ROE cao ổn định:** ROE 17,4% – 20,6% suốt 2021 – 2025; biên gộp tăng từ 32,7% lên 47,1% khi tỷ trọng cấp nước tăng.
+  - **Tiền ròng lớn, chia cổ tức cao:** Tiền + đầu tư ngắn hạn 44,1 tỷ VNĐ (2025) gần như không nợ vay — bằng ~48% vốn hóa; cổ tức tiền mặt ~7 tỷ VNĐ/năm (~73% LNST).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 57,6 | 32,7% | 8,3 | 45,8 | **19,1%** |
+  | 2022 | 50,5 | 42,4% | 9,9 | 50,7 | **20,6%** |
+  | 2023 | 44,3 | 45,6% | 9,3 | 51,2 | **18,4%** |
+  | 2024 | 44,4 | 47,1% | 10,0 | 54,8 | **18,9%** |
+  | 2025 | 44,8 | 47,1% | 9,6 | 55,5 | **17,4%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~9,5x** (EPS 2025 ~4.090 VNĐ/cp; VNDirect chưa có BCTC quý 2025 – 2026)
+  - **P/B:** **~1,65x** (Thị giá 39.000 VNĐ/cp ngày 02/11/2026 so với BVPS ~23.700 VNĐ/cp tại 31/12/2025); vốn hóa ~92 tỷ VNĐ
+  - **Vốn điều lệ:** **23,4 tỷ VNĐ** (2,35 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Cấp nước sạch chiếm phần lớn doanh thu; mảng xây lắp là phụ trợ và đang thu hẹp.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (9,3 / 10,0 / 9,6 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Chủ nhà máy nước, độc quyền khu vực cấp nước, biên gộp ~47%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE 5/5 năm trên 17%.
+- **Điểm mạnh đặc biệt:** (1) Độc quyền cấp nước khu vực; (2) Tiền ròng ~48% vốn hóa; (3) Chi trả cổ tức cao.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Không tăng trưởng & quy mô siêu nhỏ:** Doanh thu giảm từ 63,4 (2019) xuống ~44 tỷ VNĐ và đi ngang 3 năm; LNST chỉ ~10 tỷ VNĐ/năm; kế hoạch nâng công suất Hóa An lên 30.000 m³/ngày đêm chưa thấy phản ánh vào capex (capex 2025 chỉ 0,1 tỷ VNĐ). Gần như không có thanh khoản.
+  - Giá nước do UBND tỉnh quyết định; phụ thuộc Dowaco (đơn vị tiền thân và khách hàng xây lắp chính).
+- **Hành động tiếp theo:** Xếp vào nhóm "Tiện ích nhỏ — cổ tức"; theo dõi tiến độ mở rộng nhà máy Hóa An và BCTN 2025.
+- **Ngày tốt nghiệp phễu:** 2026-11-02
+
+---
+
+### 380. DWC - CTCP Cấp nước Đắk Lắk
+- **Mã cổ phiếu:** `DWC` (Sàn UPCOM — thanh khoản thấp, 142/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Tiện ích / Cấp nước sạch (TP. Buôn Ma Thuột & tỉnh Đắk Lắk)
+- **Hoạt động kinh doanh chính:** Doanh nghiệp cấp nước chính của tỉnh Đắk Lắk — khai thác, sản xuất và phân phối nước sạch cho sinh hoạt và sản xuất; tài sản là hệ thống nhà máy nước và mạng lưới đường ống (đã đầu tư lớn ~140 tỷ VNĐ năm 2021, tài trợ bằng vay dài hạn).
+- **Luận điểm cốt lõi:**
+  - **Bước ngoặt lợi nhuận:** Doanh thu tăng đều từ 178,9 (2021) lên **336,2 tỷ VNĐ** (2025), CAGR ~17%; biên gộp từ 35,4% lên **59,5%** (9T/2026: 63,6%) ➔ từ lỗ 15,4 tỷ (2022) lên lãi **79,0 tỷ VNĐ** (2025); 9T/2026 lãi 86,0 tỷ VNĐ (+47% YoY).
+  - **Dòng tiền mạnh:** CFO 2024 – 2025 lần lượt 210,1 / 194,4 tỷ VNĐ; tiền mặt 277,1 tỷ VNĐ (30/09/2026) so với vay dài hạn 316,0 tỷ VNĐ; bắt đầu chi cổ tức tiền mặt 19,4 tỷ VNĐ năm 2025.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 178,9 | 35,4% | 0,7 | 312,0 | 0,2% |
+  | 2022 | 189,5 | 40,9% | -15,4 | 296,6 | -5,1% |
+  | 2023 | 227,9 | 51,8% | 15,1 | 311,7 | 5,0% |
+  | 2024 | 287,7 | 57,7% | 51,0 | 362,7 | **15,1%** |
+  | 2025 | 336,2 | 59,5% | 79,0 | 410,2 | **20,5%** |
+  | 9T/2026 | 271,8 | 63,6% | 86,0 | 496,2 | ~25% (quy năm) |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~4,3x** (LNST 4 quý gần nhất Q4/2025 – Q3/2026 ~106,6 tỷ VNĐ); ~5,7x theo LNST 2025
+  - **P/B:** **~0,91x** (Thị giá 14.400 VNĐ/cp ngày 02/11/2026 so với BVPS ~15.740 VNĐ/cp tại 30/09/2026); vốn hóa ~454 tỷ VNĐ
+  - **Vốn điều lệ:** **315,2 tỷ VNĐ** (31,52 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Tiện ích cấp nước — nhu cầu thiết yếu, độc quyền tự nhiên.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (15,1 / 51,0 / 79,0 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Chủ hệ thống cấp nước, biên gộp ~60%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE 2024 – 2025 đạt 15,1% và 20,5% (4 quý gần nhất ~23%).
+- **Điểm mạnh đặc biệt:** (1) Lợi nhuận tăng mạnh 3 năm liền với dòng tiền thật; (2) P/E ~4,3x, P/B ~0,91x; (3) Độc quyền cấp nước cấp tỉnh.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Lịch sử ROE thấp & đòn bẩy:** ROE chỉ vượt 10% từ 2024 (2021 – 2023: 0,2% / -5,1% / 5,0%); vay dài hạn 316 tỷ VNĐ ~64% vốn CSH, chi phí lãi vay quý III/2026 tăng lên 9,5 tỷ VNĐ (quý trước 5,3 tỷ). Chưa rõ động lực tăng biên gộp (điều chỉnh giá nước, giảm thất thoát hay mở rộng mạng lưới).
+  - Giá nước do UBND tỉnh phê duyệt; rủi ro hạn hán – nguồn nước mặt Tây Nguyên.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Tiện ích – Cấp nước; đọc BCTN 2025 để kiểm chứng lộ trình giá nước, tỷ lệ thất thoát và công suất.
+- **Ngày tốt nghiệp phễu:** 2026-11-02
