@@ -361,3 +361,31 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ ba: 
   - Thực tế: P/B = 1.29 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net.
 - **Lý do bị loại:** DPP chủ yếu là nhà thương mại – phân phối dược trung gian (70 – 80% doanh thu), biên gộp dưới 9%, ở tầng thấp chuỗi giá trị ngành dược; P/B ~1,29 lần nên bị loại tại Bước 3. *(Hiệu đính: trước đây bot quét thô gán nhãn "Vượt B4"; lưu ý ROE 14,8% – 18,5% cả 5 năm nhờ vốn CSH nhỏ và vòng quay cao — nếu qua Bước 3 doanh nghiệp sẽ vượt Bước 4; kết quả loại dựa trên đánh giá chuỗi giá trị.)*
 - **Ngày sàng lọc:** 2026-10-26
+
+---
+
+### 25. ECO - Công ty cổ phần Nhựa sinh thái Việt Nam
+- **Mã cổ phiếu:** `ECO` (Sàn UPCOM từ 10/2024 — thanh khoản tốt, 362/400 phiên có khớp lệnh; theo báo chí đã nộp hồ sơ chuyển sang HOSE)
+- **Ngành nghề niêm yết:** Công nghiệp / Bao bì nhựa màng mỏng & Thương mại hạt nhựa (Eco Plastic, nhà máy Hưng Yên)
+- **Bước 1 (Vòng tròn năng lực):** ✅ Pass. Sản xuất bao bì nhựa, không thuộc nhóm BĐS/xây lắp/VLXD.
+- **Bước 2 (Lợi nhuận 3 năm):** ✅ Pass. LNST 2023 – 2025 đều dương (12,5 / 14,1 / 13,3 tỷ VNĐ).
+- **Vị thế chuỗi giá trị:**
+  - Thành lập 2015; sản xuất **túi/bao bì nhựa màng mỏng** dùng hằng ngày (HDPE, LDPE) xuất khẩu sang Mỹ, EU, Úc, châu Phi, kết hợp **thương mại hạt nhựa nguyên sinh** và phân phối phụ gia tự hủy D2W, nhựa sinh học gốc tinh bột.
+  - Biên lợi nhuận gộp cả năm chỉ **6,6% – 8,6%** (2023 – 2025), biên ròng ~2,8% — cùng nhóm với An Phát Holdings (APH, đã loại tại Bước 3); nhãn "nhựa sinh thái" chủ yếu đến từ phụ gia phân hủy chứ không phải công nghệ độc quyền.
+- **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo; VNDirect chỉ có BCTC năm từ 2023):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST công ty mẹ | Vốn CSH cuối kỳ (cty mẹ) | ROE | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2023 | 276,5 | 8,6% | 12,5 | 210,3 | ~5,9% (VCSH cuối kỳ) | -29,5 |
+  | 2024 | 454,1 | 6,6% | 14,1 | 224,4 | 6,5% | -11,3 |
+  | 2025 | 467,3 | 8,2% | 13,3 | 237,7 | 5,7% | -44,3 |
+  | 6T/2026 | 178,5 | 14,7% | 12,5 | 350,1 | — | — |
+
+  - 6T/2026: doanh thu giảm ~26% YoY nhưng biên gộp tăng lên 14,7% (Q2/2026 đạt 23,6%), LNST gấp ~2,3 lần cùng kỳ (12,5 so với ~5,4 tỷ VNĐ) — cần thêm nhiều quý để xác nhận cải thiện bền vững.
+  - > [!WARNING]
+    > **CFO âm 3 năm liên tiếp (tổng -85,1 tỷ VNĐ) trong khi LNST dương:** Phải thu tăng từ 84,1 lên 138,5 tỷ, tồn kho từ 40,8 lên 84,6 tỷ VNĐ (2023 – 2025); vay ngắn + dài hạn tăng từ 42,6 lên 176,7 tỷ VNĐ, đầu 2026 phát hành 10 triệu cổ phiếu giá 10.000 VNĐ (70% để trả nợ).
+- **Định giá P/B thực tế:** **~1,71 lần** (Thị giá 19.900 VNĐ/cp ngày 02/11/2026 so với BVPS ~11.670 VNĐ/cp tại 30/06/2026 sau khi tăng vốn điều lệ lên 300 tỷ VNĐ); vốn hóa ~597 tỷ VNĐ; P/E ~29x theo LNST 4 quý gần nhất (~20,3 tỷ VNĐ).
+  - Điều kiện ngoại lệ giữ lại: Định giá phải siêu rẻ với P/B < 0.5.
+  - Thực tế: P/B = 1.71 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net.
+- **Lý do bị loại:** Bao bì nhựa màng mỏng và thương mại hạt nhựa là sản phẩm đại trà, biên gộp cả năm dưới 9%, không có quyền định giá; P/B ~1,71 lần nên bị loại tại Bước 3. *(Hiệu đính: trước đây bot quét thô gán "Rớt B4"; ROE 2023 – 2025 cũng chỉ 5,7% – 6,5%, nên kể cả qua Bước 3 vẫn rớt Bước 4.)*
+- **Ngày sàng lọc:** 2026-11-02

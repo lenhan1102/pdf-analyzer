@@ -4524,4 +4524,16 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
   - **Quy chuẩn loại trừ Bước 1:** Nhóm cho thuê văn phòng, kho bãi thứ cấp thông thường nằm ngoài Vòng tròn năng lực của Quỹ. Dừng phân tích tại Bước 1. *(Hiệu đính loại khỏi File 5 do bot phân loại nhầm ngành "Chưa phân loại" ngày 13/09/2026)*.
 - **Ngày Phân Tích:** 08/10/2026 (Hiệu đính phân loại lại)
 
+---
 
+### 435. EIN - Công ty cổ phần Đầu tư - Thương mại - Dịch vụ Điện lực
+- **Mã cổ phiếu:** `EIN` (Sàn UPCOM từ 2017 — thanh khoản cao, 399/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Bất động sản / Đầu tư – kinh doanh BĐS, Khách sạn & Khu nghỉ dưỡng
+- **Hoạt động kinh doanh chính:** Thành lập 2007; ngành chính là đầu tư, phát triển và kinh doanh bất động sản cùng kinh doanh khách sạn, resort, du lịch. Dự án: nhà ở cao tầng Peridot (An Dương Vương, TP.HCM), Khu dân cư Hoàng Tâm 1 (Cà Mau), Khu khách sạn nghỉ dưỡng Điện lực (Ninh Thuận), Công viên nước Cần Thơ; quản lý Khách sạn Du lịch Điện lực và Khách sạn Điện lực Vũng Tàu.
+- **Lý do loại trừ tại Bước 1:**
+  - **BĐS dân dụng & nghỉ dưỡng ngoài VTNL:** Hoạt động cốt lõi là phát triển dự án nhà ở – khu dân cư và resort, phụ thuộc giải phóng mặt bằng, pháp lý dự án; không có tài nguyên hay TTTM độc quyền.
+  - **Kể cả nếu được xét tiếp cũng rớt Bước 2 (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):** Lỗ 4 năm liên tiếp 2022 – 2025 (-48,4 / -44,5 / -31,9 / **-124,5**), 9T/2026 tiếp tục lỗ -31,3 tỷ VNĐ; doanh thu chỉ 10 – 41 tỷ VNĐ/năm. Vốn CSH giảm từ 492,8 (2021) còn 215,4 tỷ VNĐ (30/09/2026) trên vốn điều lệ 454,1 tỷ VNĐ.
+  - > [!CAUTION]
+    > **Cấu trúc bảng cân đối bất thường:** Khoản "đầu tư giữ đến ngày đáo hạn" 796,3 tỷ VNĐ (~69% tổng tài sản) không phát sinh lãi từ 2023 (doanh thu tài chính 2024 bằng 0) và đã bắt đầu trích dự phòng (29,6 tỷ VNĐ năm 2025); "phải trả ngắn hạn khác" 600,4 tỷ VNĐ; dự phòng phải thu khó đòi tăng lên 137,9 tỷ VNĐ; chi phí lãi vay 2025 vọt lên 66,6 tỷ VNĐ (2024: 3,9 tỷ) trong khi dư nợ vay 167,6 tỷ VNĐ không đổi từ 2023; tiền mặt chỉ 0,1 tỷ VNĐ (30/09/2026).
+  - Định giá: Thị giá 1.500 VNĐ/cp (02/11/2026), vốn hóa ~68 tỷ VNĐ, P/B ~0,32x.
+- **Ngày Phân Tích:** 02/11/2026 (Hiệu đính phân loại lại từ Bước 4)

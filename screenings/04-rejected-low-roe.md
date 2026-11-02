@@ -4270,30 +4270,29 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 208. ECO - Công ty cổ phần Nhựa sinh thái Việt Nam
-- **Mã cổ phiếu:** `ECO` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Chưa phân loại
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (6.3%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
 ### 209. EFI - Công ty Cổ phần Đầu tư Tài chính Giáo dục
-- **Mã cổ phiếu:** `EFI` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Tài chính
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-4.4%, -9.9%, 0.7%, 2.3%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `EFI` (Sàn UPCOM — thanh khoản trung bình, 330/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Tài chính / Đầu tư tài chính (vỏ doanh nghiệp, không còn hoạt động kinh doanh cốt lõi)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Công ty đầu tư tài chính, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. 2023 lãi 0,5 tỷ, 2024 lãi 1,6 tỷ, 2025 lỗ -0,8 tỷ VNĐ.
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass theo ngoại lệ P/B ~0,32x < 0,5.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
 
----
+  | Năm | Doanh thu thuần | Doanh thu tài chính | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 2,9 | 5,2 | -7,7 | 78,1 | -9,4% |
+  | 2022 | 0,0 | 7,4 | -9,0 | 66,6 | -12,5% |
+  | 2023 | 0,0 | 1,5 | 0,5 | 67,1 | 0,7% |
+  | 2024 | 0,0 | 0,3 | 1,6 | 68,7 | 2,3% |
+  | 2025 | 0,0 | 0,5 | -0,8 | 67,9 | -1,1% |
 
-### 210. EIN - Công ty cổ phần Đầu tư - Thương mại - Dịch vụ Điện lực
-- **Mã cổ phiếu:** `EIN` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (5.1%, 0.2%, -11.0%, -8.6%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Lý do loại trừ cốt lõi:**
+  - Không còn doanh thu bán hàng từ 2022; lợi nhuận chỉ đến từ lãi tiền gửi, chứng khoán và thu nhập khác (2024: 3,1 tỷ VNĐ). ROE cao nhất 5 năm chỉ 2,3%.
+  - Lỗ lũy kế -77,7 tỷ VNĐ trên vốn điều lệ 108,8 tỷ VNĐ; tài sản chủ yếu là khoản "đầu tư dài hạn khác" 55,1 tỷ VNĐ (80% tổng tài sản) chưa rõ khả năng sinh lời. Năm 2023 xử lý khoản phải thu khác cùng dự phòng khó đòi ~90 tỷ VNĐ đã trích lập từ trước.
+  - Định giá: Thị giá 2.000 VNĐ/cp (02/11/2026), vốn hóa ~22 tỷ VNĐ, P/B ~0,32x. VNDirect chưa có BCTC quý.
+- **Ngày Phân Tích:** 02/11/2026
 
 ---
 

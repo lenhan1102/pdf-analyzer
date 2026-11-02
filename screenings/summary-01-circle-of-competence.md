@@ -433,3 +433,4 @@
 | 427 | `MHB` | Ngân hàng TMCP Phát triển nhà đồng bằng sông Cửu Long | OTC | Tài chính | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Tài chính), ngoài Vòng tròn năng lực. | 13/09/2026 |
 | 428 | `VLD` | Công ty Cổ phần Bất Động Sản Viettronics | OTC | Chưa phân loại | Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Chưa phân loại), ngoài Vòng tròn năng lực. | 13/09/2026 |
 | 429 | `CCS` | Công ty Cổ phần Chíp Sáng | UPCOM | Bất động sản / Cho thuê Văn phòng Tòa nhà SCID | Cho thuê sàn văn phòng tòa nhà SCID (253 Điện Biên Phủ, Q.3) thông thường ngoài VTNL, quy mô nhỏ | 08/10/2026 |
+| 430 | `EIN` | Công ty cổ phần Đầu tư - Thương mại - Dịch vụ Điện lực | UPCOM | BĐS dân dụng & Khách sạn – Resort | Phát triển dự án nhà ở, khu dân cư và resort ngoài VTNL; lỗ 4 năm liên tiếp 2022-2025, 796 tỷ đầu tư giữ đến đáo hạn không sinh lãi, phải trả khác 600 tỷ (hiệu đính từ B4) | 02/11/2026 |

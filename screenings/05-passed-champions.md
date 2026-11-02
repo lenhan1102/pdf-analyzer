@@ -12080,3 +12080,78 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - ROE chỉ vừa vượt ngưỡng (10% – 14%); giá nước do UBND tỉnh phê duyệt; thanh khoản thấp.
 - **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Tiện ích – Cấp nước; đọc thuyết minh BCTC 2025 để xác định bản chất khoản phải trả dài hạn ~480 tỷ VNĐ và cơ cấu cổ đông Nhà nước.
 - **Ngày tốt nghiệp phễu:** 2026-11-02
+
+---
+
+### 382. EGL - Công ty cổ phần Môi trường đô thị Gia Lâm
+- **Mã cổ phiếu:** `EGL` (Sàn UPCOM từ 06/11/2025 — **chưa có phiên khớp lệnh nào** từ ngày lên sàn, giá tham chiếu 13.100 VNĐ/cp)
+- **Ngành nghề niêm yết:** Tiện ích / Dịch vụ công ích vệ sinh môi trường đô thị (thu gom, vận chuyển rác thải, duy trì vệ sinh – cảnh quan tại Hà Nội)
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp Môi trường đô thị Gia Lâm (thành lập 1994); cung cấp dịch vụ thu gom – vận chuyển rác thải, duy trì vệ sinh và cảnh quan tại các phường, xã khu vực Gia Lâm (Hà Nội) theo hợp đồng dịch vụ công ích. Năm 2021 trúng gói "Duy trì vệ sinh môi trường huyện Gia Lâm giai đoạn 2021 – 2025" trị giá 540,5 tỷ VNĐ (60 tháng, đấu thầu rộng rãi).
+- **Luận điểm cốt lõi:**
+  - **Dịch vụ thiết yếu, khách hàng là ngân sách:** Doanh thu tăng đều từ 163,0 (2021) lên 226,0 tỷ VNĐ (2025); biên gộp ổn định 14,7% – 19,5%; LNST 2025 đạt 19,8 tỷ VNĐ (+27% YoY).
+  - **Không nợ vay, tiền thật:** Không có vay ngân hàng; CFO 2024 – 2025 đạt 32,3 / 44,8 tỷ VNĐ (gấp 2 – 2,3 lần LNST), capex chỉ 7 – 12 tỷ VNĐ/năm; tiền mặt 49,1 tỷ VNĐ (2025, gồm tiền gửi); cổ tức tiền mặt đều đặn 7,3 – 9,9 tỷ VNĐ/năm (~10% – 13% mệnh giá).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect thiếu BCTC năm 2023 và chưa có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 163,0 | 19,5% | 15,8 | 97,8 | ~16,2% (VCSH cuối kỳ) |
+  | 2022 | 171,9 | 14,7% | 9,9 | 96,7 | **10,2%** |
+  | 2023 | n/a | n/a | n/a | n/a | n/a |
+  | 2024 | 202,4 | 17,6% | 15,6 | 107,8 | **~15,3%** (ước tính) |
+  | 2025 | 226,0 | 19,0% | 19,8 | 116,0 | **17,7%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~5,0x** (LNST 2025; EPS ~2.605 VNĐ/cp — chưa có BCTC quý để tính 4 quý gần nhất)
+  - **P/B:** **~0,86x** (Giá tham chiếu 13.100 VNĐ/cp ngày 02/11/2026 so với BVPS ~15.260 VNĐ/cp tại 31/12/2025); vốn hóa ~100 tỷ VNĐ
+  - **Vốn điều lệ:** **76,0 tỷ VNĐ** (7,6 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Dịch vụ công ích môi trường, nhu cầu thiết yếu, không thuộc BĐS/xây lắp.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương mọi năm có số liệu (2022: 9,9; 2024: 15,6; 2025: 19,8 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Nhà cung cấp dịch vụ công ích đương nhiệm hơn 30 năm tại địa bàn, biên gộp ~19%, không phải gia công đại trà.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% ở mọi năm có số liệu (10,2% – 17,7%).
+- **Điểm mạnh đặc biệt:** (1) P/E ~5,0x, P/B ~0,86x, không nợ vay; (2) CFO vượt LNST, chia cổ tức tiền mặt đều; (3) ROE cải thiện từ 10,2% (2022) lên 17,7% (2025).
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Rủi ro tái ký hợp đồng & thanh khoản bằng 0:** Gói dịch vụ công ích Gia Lâm 2021 – 2025 (540,5 tỷ VNĐ) đã hết hạn cuối 2025 — doanh thu 2026 trở đi phụ thuộc kết quả đấu thầu/đặt hàng giai đoạn mới sau sắp xếp địa giới hành chính Hà Nội (chưa xác minh). Cổ phiếu chưa có phiên khớp lệnh nào kể từ khi lên UPCOM, P/B/P/E dựa trên giá tham chiếu.
+  - Phải thu khách hàng 67,2 tỷ VNĐ (~30% doanh thu) phụ thuộc tiến độ giải ngân ngân sách; thiếu BCTC 2023 và BCTC quý trên VNDirect.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Tiện ích – Môi trường; xác minh hợp đồng dịch vụ công ích giai đoạn 2026 – 2030, cơ cấu cổ đông lớn và BCTC 2023.
+- **Ngày tốt nghiệp phễu:** 2026-11-02
+
+---
+
+### 383. EIC - Công ty cổ phần EVN Quốc tế
+- **Mã cổ phiếu:** `EIC` (Sàn UPCOM — thanh khoản trung bình, 355/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Năng lượng / Đầu tư thủy điện tại Campuchia & Lào (EVNI) + Tư vấn giám sát công trình điện
+- **Hoạt động kinh doanh chính:** Tiền thân là CTCP EVN Campuchia (2007). Tài sản sinh lời chính là **10% vốn tại Công ty TNHH Thủy điện Hạ Sê San 2 (HLSS2, 400 MW, BOT tại Stung Treng, Campuchia)** — giá gốc đầu tư dài hạn 231,2 tỷ VNĐ; HLSS2 phân phối lợi nhuận hằng năm từ 2020 (năm 2024 chia cho EVNI 2,5 triệu USD). Mảng tư vấn giám sát (TVGS) công trình lưới điện mang lại doanh thu 8 – 19 tỷ VNĐ/năm. Cổ đông lớn (BCTN 2024): Tổng công ty Phát điện 1 (~26,1%), Nhiệt điện Phả Lại (19,3%), Tập đoàn Cao su Việt Nam (11,8%), ABB (10,3%).
+- **Luận điểm cốt lõi:**
+  - **Dòng cổ tức từ nhà máy thủy điện đã vận hành:** Doanh thu tài chính (chủ yếu cổ tức HLSS2 + lãi tiền gửi) 57,9 – 198,2 tỷ VNĐ/năm giai đoạn 2021 – 2025 trên khoản đầu tư gốc 231,2 tỷ VNĐ; sản lượng HLSS2 năm 2024 đạt 1.771 triệu kWh (lũy kế 12,29 tỷ kWh).
+  - **Không nợ vay, trả cổ tức cao:** Không có vay; tiền gửi có kỳ hạn 135,1 tỷ VNĐ (2025); cổ tức tiền mặt đã trả 2021 – 2025: 35,2 / 165,9 / 94,1 / 61,1 / 22,5 tỷ VNĐ.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo; BCTN 2024):**
+
+  | Năm | Doanh thu thuần | Doanh thu tài chính | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 18,6 | 198,2 | 169,0 | 514,6 | **36,1%** |
+  | 2022 | 14,2 | 127,2 | 103,4 | 482,1 | **20,7%** |
+  | 2023 | 8,0 | 57,9 | 42,6 | 426,9 | 9,4% |
+  | 2024 | 11,0 | 68,0 | 50,5 | 390,9 | **12,3%** |
+  | 2025 | 11,6 | 96,7 | 54,1 | 442,0 | **13,0%** |
+  | 9T/2026 | 2,6 | 59,2 | 19,4 | 421,1 | — |
+
+  - 9T/2026 LNST giảm ~54% YoY (19,4 so với 42,0 tỷ VNĐ) do thời điểm ghi nhận cổ tức HLSS2 (thường dồn vào Q2 và Q4) và chi phí khác 24,3 tỷ VNĐ trong Q2/2026.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~22,1x** (LNST 4 quý gần nhất Q4/2025 – Q3/2026 ~31,5 tỷ VNĐ; EPS ~860 VNĐ/cp); ~12,9x theo LNST 2025
+  - **P/B:** **~1,65x** (Thị giá 19.000 VNĐ/cp ngày 02/11/2026 so với BVPS ~11.480 VNĐ/cp tại 30/09/2026); vốn hóa ~697 tỷ VNĐ
+  - **Vốn điều lệ:** **366,8 tỷ VNĐ** (36,68 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Đầu tư nguồn điện (thủy điện), không thuộc BĐS/xây lắp.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (42,6 / 50,5 / 54,1 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Cổ đông của nhà máy thủy điện BOT đang vận hành, hưởng cổ tức từ bán điện — không phải gia công đại trà.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% ở 4/5 năm 2021 – 2025 (riêng 2023 đạt 9,4%).
+- **Điểm mạnh đặc biệt:** (1) Dòng cổ tức từ thủy điện 400 MW đã vận hành, không nợ vay; (2) Cổ đông là các doanh nghiệp ngành điện và Tập đoàn Cao su; (3) Chia cổ tức tiền mặt cao.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Phụ thuộc một tài sản, cổ đông thiểu số không kiểm soát:** Gần như toàn bộ lợi nhuận đến từ 10% vốn tại HLSS2 — EVNI tự thừa nhận "không chủ động được tỷ lệ và thời gian phân phối cổ tức" (BCTN 2024). Lợi nhuận biến động mạnh theo thủy văn, tỷ giá USD và chính sách chia lợi nhuận của HLSS2; dự án BOT sẽ chuyển giao cho phía Campuchia khi hết thời hạn.
+  - CFO âm mọi năm (-9 đến -15 tỷ VNĐ) vì cổ tức nhận về hạch toán vào dòng tiền đầu tư — mảng TVGS tự thân không tạo tiền; chi phí khác 15,9 tỷ (Q4/2025) và 24,3 tỷ VNĐ (Q2/2026) chưa rõ bản chất (năm 2024 BCTN nêu phí chuyển tiền cổ tức HLSS2 về Việt Nam ~8,8 tỷ VNĐ).
+  - Các dự án Hạ Sê San 1/Sê San 5, Sê Kông, Nậm Mô 1 vẫn chưa tìm được đối tác chuyển giao; P/E TTM ~22x không còn rẻ.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Năng lượng – Holding; theo dõi kế hoạch phân phối lợi nhuận HLSS2 năm 2026, thời hạn BOT và bản chất chi phí khác 2025 – 2026.
+- **Ngày tốt nghiệp phễu:** 2026-11-02
