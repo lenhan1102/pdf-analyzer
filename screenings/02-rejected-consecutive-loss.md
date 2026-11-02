@@ -27,6 +27,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
 | 15 | **DLD** | Công ty Cổ phần Du lịch Đắk Lắk | Khách sạn, Nhà hàng & Khu du lịch (Đắk Lắk) | Thua lỗ liên tiếp 7 năm (2019-2025; 2023-2025: -8,5 / -10,5 / -18,8 tỷ), lỗ lũy kế -106,8 tỷ, Vốn CSH âm -12,2 tỷ | 2026-10-26 |
 | 16 | **DP2** | Công ty Cổ phần Dược phẩm Trung ương 2 (Dopharma) | Sản xuất Dược phẩm (thương hiệu TW2) | Thua lỗ liên tiếp 7 năm (2019-2025; 2023-2025: -24,1 / -5,6 / -10,8 tỷ), lỗ lũy kế -138,4 tỷ (~69% vốn điều lệ) | 2026-10-26 |
 | 17 | **DUS** | CTCP Dịch vụ Đô thị Đà Lạt | Vệ sinh môi trường công ích & Vườn hoa Đà Lạt | Thua lỗ liên tiếp 3 năm (2023-2025: -2,4 / -19,2 / -6,9 tỷ), Vốn CSH giảm một nửa còn 39,9 tỷ, nghĩa vụ phải nộp Nhà nước 123,6 tỷ | 2026-10-28 |
+| 18 | **DZM** | Công ty Cổ phần Cơ điện Dzĩ An | Cơ khí – Thiết bị điện | Thua lỗ liên tiếp 4 năm (2021-2024: -10,1 / -6,7 / -4,1 / -0,9 tỷ), lỗ lũy kế -90,4 tỷ, Vốn CSH âm -7,5 tỷ, không giao dịch từ 01/2025 | 2026-11-02 |
 
 ---
 
@@ -326,3 +327,23 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
   - Định giá: Thị giá 3.700 VNĐ/cp (28/10/2026), vốn hóa ~20,8 tỷ VNĐ, P/B ~0,52x.
   - **Quy chuẩn loại trừ:** LNST công ty mẹ âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính: hồ sơ cũ xếp nhầm vào File 5 "Đạt chuẩn — ROE > 10%".)*
 - **Ngày Phân Tích:** 28/10/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 19. DZM - Công ty Cổ phần Cơ điện Dzĩ An
+- **Mã cổ phiếu:** `DZM` (Sàn UPCOM từ 19/02/2024 sau khi bị hủy niêm yết HNX do vốn CSH âm — không có phiên khớp lệnh nào từ 01/2025, dữ liệu giá dừng ở 2.900 VNĐ/cp ngày 08/07/2026)
+- **Ngành nghề niêm yết:** Công nghiệp / Cơ khí – Thiết bị điện (Dĩ An)
+- **Lý do loại trừ tại Bước 2 (Lỗ 4 năm liên tiếp 2021 – 2024, vốn CSH âm):**
+  - **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect chưa có BCTC năm 2025):**
+
+    | Năm | Doanh thu thuần | Lợi nhuận gộp | LNST | Vốn CSH cuối kỳ | Trạng thái |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | 2020 | 189,9 | 17,1 | 1,14 | 55,9 | Lãi |
+    | 2021 | 44,5 | 3,4 | **-10,10** | 45,6 | **Lỗ** |
+    | 2022 | 28,8 | 5,2 | **-6,73** | 36,8 | **Lỗ** |
+    | 2023 | 24,9 | 3,7 | **-4,09** | **-1,7** | **Lỗ** (vốn CSH âm) |
+    | 2024 | 21,4 | 4,2 | **-0,90** | **-7,5** | **Lỗ** |
+
+  - Doanh thu sụt từ 189,9 (2020) xuống 21,4 tỷ VNĐ (2024); lợi nhuận gộp 3 – 5 tỷ VNĐ/năm không đủ bù chi phí. Năm 2023 lỗ lũy kế tăng 37,8 tỷ VNĐ dù LNST chỉ -4,1 tỷ (điều chỉnh hồi tố) ➔ **lỗ lũy kế -90,4 tỷ VNĐ**, vốn CSH âm -7,5 tỷ VNĐ (2024); vay ngắn hạn 23,9 tỷ VNĐ trong khi tiền mặt chỉ 0,1 tỷ VNĐ.
+  - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất có số liệu (2022, 2023, 2024), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2 theo đúng thứ tự tuần tự của phễu lọc.)*
+- **Ngày Phân Tích:** 02/11/2026 (Hiệu đính phân loại lại)

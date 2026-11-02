@@ -12042,3 +12042,41 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Giá nước do UBND tỉnh phê duyệt; rủi ro hạn hán – nguồn nước mặt Tây Nguyên.
 - **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Tiện ích – Cấp nước; đọc BCTN 2025 để kiểm chứng lộ trình giá nước, tỷ lệ thất thoát và công suất.
 - **Ngày tốt nghiệp phễu:** 2026-11-02
+
+---
+
+### 381. DWS - Công ty cổ phần Cấp nước và Môi trường đô thị Đồng Tháp
+- **Mã cổ phiếu:** `DWS` (Sàn UPCOM — thanh khoản thấp, 95/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Tiện ích / Cấp nước sạch & Dịch vụ môi trường đô thị (tỉnh Đồng Tháp)
+- **Hoạt động kinh doanh chính:** Doanh nghiệp cấp nước – môi trường đô thị cấp tỉnh của Đồng Tháp: sản xuất, phân phối nước sạch và cung cấp dịch vụ môi trường đô thị.
+- **Luận điểm cốt lõi:**
+  - **Tăng trưởng đều đặn kiểu tiện ích:** Doanh thu tăng từ 320,5 (2019) lên 488,8 (2024) và 476,1 tỷ VNĐ (2025); LNST tăng liên tục 2019 – 2025 từ 24,5 lên **51,2 tỷ VNĐ**; ROE tăng dần từ 8,9% (2020) lên 13,5% – 13,7% (2024 – 2025).
+  - **Dòng tiền tốt, nợ vay giảm:** CFO 2023 – 2025 lần lượt 75,5 / 71,9 / 87,4 tỷ VNĐ, đủ trang trải capex (22 – 45 tỷ VNĐ/năm) và cổ tức tiền mặt (~16,8 tỷ VNĐ năm 2025, ~33% LNST); vay ngắn + dài hạn giảm từ 161,7 (2022) xuống 98,1 tỷ VNĐ (2025).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 382,1 | 27,5% | 32,0 | 318,8 | **10,3%** |
+  | 2022 | 417,2 | 29,9% | 36,4 | 332,8 | **11,2%** |
+  | 2023 | 453,1 | 31,2% | 43,1 | 350,4 | **12,6%** |
+  | 2024 | 488,8 | 30,6% | 49,4 | 369,7 | **13,7%** |
+  | 2025 | 476,1 | 32,1% | 51,2 | 386,3 | **13,5%** |
+  | 9T/2026 | 390,4 | 32,5% | 45,8 | 398,9 | ~15,6% (quy năm) |
+
+  - 9T/2026: doanh thu +16,2% YoY, LNST +32,8% YoY (45,8 so với 34,5 tỷ VNĐ).
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~5,2x** (LNST 4 quý gần nhất Q4/2025 – Q3/2026 ~62,5 tỷ VNĐ; EPS ~2.410 VNĐ/cp); ~6,3x theo LNST 2025
+  - **P/B:** **~0,81x** (Thị giá 12.500 VNĐ/cp ngày 02/11/2026 so với BVPS ~15.390 VNĐ/cp tại 30/09/2026); vốn hóa ~324 tỷ VNĐ
+  - **Vốn điều lệ:** **259,2 tỷ VNĐ** (25,92 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Tiện ích cấp nước – môi trường, nhu cầu thiết yếu.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (43,1 / 49,4 / 51,2 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Chủ hệ thống cấp nước độc quyền khu vực, biên gộp ~32%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE 5/5 năm 2021 – 2025 trên 10% (10,3% – 13,7%).
+- **Điểm mạnh đặc biệt:** (1) LNST tăng liên tục 2019 – 2025, ROE cải thiện đều; (2) P/E ~5,2x, P/B ~0,81x; (3) CFO đủ tài trợ capex và cổ tức.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Khoản phải trả dài hạn khác ~480 tỷ VNĐ (~1,2 lần vốn CSH):** Được phân loại lại từ ngắn hạn sang dài hạn năm 2023 (trước đó ~477 tỷ "phải trả ngắn hạn khác") — nhiều khả năng liên quan tài sản/vốn Nhà nước nhận bàn giao nhưng chưa xác minh; nếu là nghĩa vụ thanh toán thực, P/B và ROE thực tế sẽ khác đáng kể.
+  - ROE chỉ vừa vượt ngưỡng (10% – 14%); giá nước do UBND tỉnh phê duyệt; thanh khoản thấp.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Tiện ích – Cấp nước; đọc thuyết minh BCTC 2025 để xác định bản chất khoản phải trả dài hạn ~480 tỷ VNĐ và cơ cấu cổ đông Nhà nước.
+- **Ngày tốt nghiệp phễu:** 2026-11-02

@@ -2891,20 +2891,25 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 ---
 
 ### 256. E12 - CTCP Xây dựng điện Vneco12
-- **Mã cổ phiếu:** `E12` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `E12` (Sàn UPCOM — thanh khoản trung bình, 292/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Xây lắp / Thi công công trình điện (đường dây & trạm biến áp — hệ thống Vneco)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Nhà thầu xây lắp ngoài VTNL:** Doanh thu đến từ thi công công trình điện theo hợp đồng, biên gộp chỉ 7,9% – 10,5% (2019 – 2024), phụ thuộc gói thầu. *(Hiệu đính: hồ sơ cũ ghi "BĐS dân dụng/phân lô".)*
+  - **Kinh doanh suy kiệt (tham khảo, Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):** Doanh thu 2025 giảm còn 23,8 tỷ VNĐ (2024: 66,4 tỷ) và **lỗ gộp -3,6 tỷ VNĐ**; LNST 2023 – 2025: -3,30 / +0,06 / -7,41 tỷ VNĐ; 6T/2026 tiếp tục lỗ -0,8 tỷ VNĐ. Vốn CSH còn 3,6 tỷ VNĐ (30/06/2026) trên vốn điều lệ 12 tỷ VNĐ, trong khi vay ngắn hạn 45,9 tỷ VNĐ (~13 lần vốn CSH).
+  - Định giá: Thị giá 2.900 VNĐ/cp (02/11/2026), vốn hóa ~3,5 tỷ VNĐ, P/B ~0,97x.
+- **Ngày Phân Tích:** 02/11/2026
 
 ---
 
 ### 257. E29 - CTCP Đầu tư xây dựng và kỹ thuật 29
-- **Mã cổ phiếu:** `E29` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `E29` (Sàn UPCOM — diện cảnh báo; thanh khoản thấp, 74/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Xây lắp / Xây dựng công trình dân dụng – công nghiệp (tiền thân Trung đoàn 29 – Sư đoàn 327 – Quân khu 3, cổ phần hóa 2018)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Nhà thầu xây lắp ngoài VTNL:** Doanh thu chủ yếu từ xây lắp theo gói thầu (năm 2026 phụ thuộc các dự án trường học được chỉ định thầu cuối 2025); biên gộp chỉ 2,4% – 7,1% (2019 – 2025). *(Hiệu đính: hồ sơ cũ ghi "BĐS dân dụng/phân lô".)*
+  - **Số liệu tham khảo (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** Doanh thu biến động mạnh 173,6 (2022) ➔ 1.346,7 (2024) ➔ 704,8 (2025); LNST chỉ 3,2 – 5,4 tỷ VNĐ, ROE 2021 – 2025 tối đa 9,9%. Nợ phải trả 408,3 tỷ VNĐ = 88% tổng tài sản; CFO 2024 âm -73,0 tỷ, 2025 dương 100,4 tỷ VNĐ; báo chí phản ánh nợ phải thu khó đòi tăng nhanh 2023 – 2025.
+  - Kể cả nếu được xét tiếp: biên gộp ~4% ở đáy chuỗi giá trị với P/B ~0,78x ≥ 0,5 ➔ rớt Bước 3.
+  - Định giá: Thị giá 8.400 VNĐ/cp (02/11/2026), vốn hóa ~42 tỷ VNĐ, P/B ~0,78x, P/E ~13x.
+- **Ngày Phân Tích:** 02/11/2026
 
 ---
 

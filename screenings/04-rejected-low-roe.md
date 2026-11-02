@@ -4245,20 +4245,28 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 ---
 
 ### 206. DXL - Công ty Cổ phần Du lịch và Xuất nhập khẩu Lạng Sơn
-- **Mã cổ phiếu:** `DXL` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Dịch vụ
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (4.5%, -0.1%, 0.0%, -3.8%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `DXL` (Sàn UPCOM — diện cảnh báo; gần như không có thanh khoản, 17/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Du lịch – Khách sạn / Khách sạn Hoa Sim, Nhà hàng, Lữ hành & Rượu Mẫu Sơn (TP. Lạng Sơn)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Khách sạn – nhà hàng – lữ hành và sản xuất rượu Mẫu Sơn (tiền thân Công ty Du lịch Lạng Sơn, thành lập 1989, cổ phần hóa 2005).
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass (sát nút). 2023 lãi 0,01 tỷ, 2024 lỗ -1,58 tỷ, 2025 lãi 0,02 tỷ VNĐ.
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass. Chủ khách sạn và thương hiệu rượu địa phương. P/B ~0,96x.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
 
----
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 13,9 | 12,9% | -0,04 | 43,1 | -0,1% |
+  | 2022 | 16,3 | 13,4% | 0,51 | 43,6 | 1,2% |
+  | 2023 | 17,7 | 16,6% | 0,01 | 42,9 | 0,0% |
+  | 2024 | 18,1 | 9,5% | -1,58 | 41,3 | -3,8% |
+  | 2025 | 21,0 | 13,6% | 0,02 | 41,3 | 0,1% |
 
-### 207. DZM - Công ty Cổ phần Cơ điện Dzĩ An
-- **Mã cổ phiếu:** `DZM` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Công nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (2.0%, -22.2%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Lý do loại trừ cốt lõi:**
+  - ROE quanh 0% suốt 5 năm (cao nhất 1,2%); doanh thu chỉ ~14 – 21 tỷ VNĐ/năm với biên gộp 10% – 17%, không đủ bù chi phí quản lý. Không có nợ vay.
+  - Tài sản chủ yếu là tiền: 30,7 / 42,7 tỷ VNĐ tổng tài sản (2025) — tiền nằm yên, không được tái đầu tư hay chia cổ tức.
+  - Định giá: Thị giá 10.000 VNĐ/cp (02/11/2026, thanh khoản gần như bằng 0), vốn hóa ~40 tỷ VNĐ, P/B ~0,96x. VNDirect chưa có BCTC quý.
+- **Ngày Phân Tích:** 02/11/2026
 
 ---
 
