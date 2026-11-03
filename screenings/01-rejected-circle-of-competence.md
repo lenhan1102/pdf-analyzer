@@ -2925,11 +2925,13 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 ---
 
 ### 259. FIC - Tổng Công ty Vật liệu Xây dựng số 1 - CTCP
-- **Mã cổ phiếu:** `FIC` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `FIC` (Sàn UPCOM — thanh khoản tốt, 396/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Vật liệu xây dựng / Xi măng, Đá xây dựng – khoáng sản, Bê tông & Kinh doanh BĐS (FICO, TP.HCM)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **VLXD đại trà & BĐS:** Hoạt động chính là xi măng (hệ thống xi măng FICO Tây Ninh, nay hợp tác với tập đoàn YTL), khai thác – chế biến đá xây dựng và kinh doanh BĐS (sàn FiCO-HOME) — VLXD cạnh tranh theo giá, gắn chu kỳ xây dựng – BĐS. Dù có mỏ đá, biên gộp chỉ 13,7% – 17,0% cho thấy không có lợi thế tài nguyên đủ mạnh để áp dụng ngoại lệ. *(Hiệu đính: hồ sơ cũ ghi "BĐS dân dụng/phân lô".)*
+  - **Kể cả nếu được xét tiếp cũng rớt Bước 4 (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):** ROE (trên vốn CSH công ty mẹ) 2021 – 2025 chỉ 6,4% / 6,1% / 3,5% / 5,3% / 7,5%; doanh thu giảm từ 3.853,7 (2019) xuống 1.186,2 tỷ VNĐ (2025); LNST công ty mẹ 2025 đạt 118,6 tỷ VNĐ trên vốn CSH ~1.608 tỷ VNĐ. Vay ngắn hạn 862,4 tỷ VNĐ (2025). ĐHĐCĐ 2026 thông qua đầu tư ~2.800 tỷ VNĐ cho xi măng Tây Ninh, lợi nhuận 2026 dự kiến đi ngang.
+  - Định giá: Thị giá 13.800 VNĐ/cp (03/11/2026), vốn hóa ~1.753 tỷ VNĐ, P/B ~1,09x, P/E ~14,8x.
+- **Ngày Phân Tích:** 03/11/2026
 
 ---
 

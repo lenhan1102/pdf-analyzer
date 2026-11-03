@@ -12340,3 +12340,115 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Cạnh tranh từ sàn thương mại điện tử (Shopee, Tiki) và sách điện tử; cơ cấu cổ đông Nhà nước (nếu có) chưa xác minh.
 - **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Bán lẻ; theo dõi KQKD Q3/2026 (mùa tựu trường), vòng quay tồn kho và trích lập dự phòng hàng tồn kho.
 - **Ngày tốt nghiệp phễu:** 2026-11-03
+
+---
+
+### 389. FOC - Công ty cổ phần Dịch vụ Trực tuyến FPT
+- **Mã cổ phiếu:** `FOC` (Sàn UPCOM — thanh khoản tốt, 400/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Công nghệ – Truyền thông / Báo điện tử & Quảng cáo trực tuyến (FPT Online — VnExpress, hệ thống FPT)
+- **Hoạt động kinh doanh chính:** Công ty con của Tập đoàn FPT, vận hành báo điện tử VnExpress và các nền tảng nội dung số; doanh thu chủ yếu từ quảng cáo trực tuyến và dịch vụ nội dung.
+- **Luận điểm cốt lõi:**
+  - **Mô hình nhẹ tài sản, biên gộp cao:** Biên gộp 43% – 69% (2021 – 2025), capex chỉ 0,1 – 11,7 tỷ VNĐ/năm; ROE 16,4% – 36,4% suốt 5 năm.
+  - **Tiền mặt dồi dào, chia gần hết lợi nhuận:** Không có nợ vay; tiền + tiền gửi ngắn hạn 778,0 tỷ VNĐ (2025, ~80% tổng tài sản); cổ tức tiền mặt 2025 đạt 184,2 tỷ VNĐ (~117% LNST).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST công ty mẹ | Vốn CSH cuối kỳ (cty mẹ) | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 607,7 | 69,2% | 220,1 | 641,2 | **30,2%** |
+  | 2022 | 775,4 | 60,1% | 247,4 | 716,5 | **36,4%** |
+  | 2023 | 620,0 | 43,2% | 118,4 | 730,9 | **16,4%** |
+  | 2024 | 704,5 | 45,3% | 132,8 | 813,7 | **17,2%** |
+  | 2025 | 804,8 | 49,5% | 156,8 | 770,6 | **19,8%** |
+  | 9T/2026 | 544,5 | 46,8% | 115,2 | 701,7 | — |
+
+  - 9T/2026: doanh thu đi ngang (-0,8% YoY), LNST +5,3% YoY (115,2 so với 109,4 tỷ VNĐ).
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~6,6x** (LNST 4 quý gần nhất Q4/2025 – Q3/2026 ~162,6 tỷ VNĐ; EPS ~8.800 VNĐ/cp)
+  - **P/B:** **~1,52x** (Thị giá 57.900 VNĐ/cp ngày 03/11/2026 so với BVPS ~37.990 VNĐ/cp tại 30/09/2026); vốn hóa ~1.070 tỷ VNĐ
+  - **Vốn điều lệ:** **184,7 tỷ VNĐ** (18,47 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Truyền thông số – quảng cáo trực tuyến.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (118,4 / 132,8 / 156,8 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Sở hữu VnExpress — thương hiệu báo điện tử hàng đầu, lợi thế lượng độc giả.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE 5/5 năm 2021 – 2025 trên 10% (16,4% – 36,4%).
+- **Điểm mạnh đặc biệt:** (1) ROE >16% cả 5 năm, không nợ vay; (2) Tiền mặt ~80% tài sản, cổ tức tiền mặt cao; (3) P/E ~6,6x.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Lợi nhuận đã giảm một nửa từ đỉnh và chưa hồi phục:** LNST rơi từ 247,4 (2022) xuống 118,4 tỷ VNĐ (2023) khi biên gộp giảm từ 60% xuống 43%; 2025 mới hồi về 156,8 tỷ VNĐ. Doanh thu quảng cáo bị Google, Meta, TikTok cạnh tranh trực tiếp; 9T/2026 doanh thu không tăng.
+  - Thu nhập tài chính (~37 – 54 tỷ VNĐ/năm, chủ yếu lãi tiền gửi) đóng góp ~21% – 37% LNTT 2023 – 2025; phụ thuộc quyết định phân phối lợi nhuận của công ty mẹ FPT.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Công nghệ – Truyền thông; theo dõi doanh thu quảng cáo theo quý và chính sách cổ tức.
+- **Ngày tốt nghiệp phễu:** 2026-11-03
+
+---
+
+### 390. FOX - Công ty Cổ phần Viễn thông FPT
+- **Mã cổ phiếu:** `FOX` (Sàn UPCOM — thanh khoản tốt, 400/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Viễn thông / Internet băng rộng cố định, Truyền hình trả tiền (FPT Play) & Trung tâm dữ liệu (FPT Telecom)
+- **Hoạt động kinh doanh chính:** Một trong ba nhà cung cấp Internet cáp quang lớn nhất Việt Nam, kèm truyền hình FPT Play, dịch vụ trung tâm dữ liệu và cloud; cổ đông lớn gồm Tập đoàn FPT và SCIC.
+- **Luận điểm cốt lõi:**
+  - **Tăng trưởng đều như tiện ích:** Doanh thu tăng liên tục từ 10.398,4 (2019) lên 19.506,7 tỷ VNĐ (2025); LNST công ty mẹ tăng mỗi năm từ 1.351,4 lên **3.418,0 tỷ VNĐ**; biên gộp ổn định 46% – 50%.
+  - **ROE ~30% bền bỉ:** ROE 29,1% – 33,9% suốt 2020 – 2025; CFO 2023 – 2025 đạt 3.049,6 / 3.826,0 / 3.708,0 tỷ VNĐ, đủ tài trợ capex (~1.000 – 1.840 tỷ VNĐ/năm) và cổ tức (2025: 2.541,7 tỷ VNĐ).
+  - **9T/2026:** Doanh thu +16,8% YoY (16.690,6 so với 14.286,9 tỷ VNĐ), LNST công ty mẹ +13,8% YoY (2.883,8 so với 2.533,4 tỷ VNĐ).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST công ty mẹ | Vốn CSH cuối kỳ (cty mẹ) | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 12.686,4 | 48,0% | 1.820,1 | 6.005,7 | **33,9%** |
+  | 2022 | 14.729,6 | 49,1% | 2.150,8 | 7.603,7 | **31,6%** |
+  | 2023 | 15.805,8 | 46,0% | 2.383,1 | 8.755,9 | **29,1%** |
+  | 2024 | 17.610,4 | 47,2% | 2.803,3 | 10.292,4 | **29,4%** |
+  | 2025 | 19.506,7 | 49,8% | 3.418,0 | 10.895,7 | **32,3%** |
+  | 9T/2026 | 16.690,6 | 45,6% | 2.883,8 | 13.779,4 | — |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~10,6x** (LNST công ty mẹ 4 quý gần nhất Q4/2025 – Q3/2026 ~3.768,4 tỷ VNĐ; EPS ~5.100 VNĐ/cp)
+  - **P/B:** **~2,91x** (Thị giá 54.300 VNĐ/cp ngày 03/11/2026 so với BVPS ~18.650 VNĐ/cp tính trên vốn CSH công ty mẹ 30/09/2026); vốn hóa ~40.100 tỷ VNĐ
+  - **Vốn điều lệ:** **7.387,6 tỷ VNĐ** (738,76 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Hạ tầng viễn thông – Internet, nhu cầu thiết yếu.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương và tăng 2023 – 2025 (2.383,1 / 2.803,3 / 3.418,0 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Sở hữu hạ tầng cáp quang toàn quốc, tệp thuê bao lớn và chi phí chuyển đổi — lợi thế quy mô.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE 5/5 năm 2021 – 2025 trên 10% (29,1% – 33,9%).
+- **Điểm mạnh đặc biệt:** (1) Doanh thu và LNST tăng liên tục 2019 – 2025; (2) ROE ~30% sáu năm liền; (3) Dòng tiền mạnh, cổ tức tiền mặt lớn.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Vay ngắn hạn tăng nhanh, thị trường Internet bão hòa:** Vay ngắn hạn tăng từ 7.359,5 (2025) lên 9.897,7 tỷ VNĐ (30/09/2026), chi phí lãi vay 9T/2026 tăng mạnh (457,3 so với ~263 tỷ VNĐ cùng kỳ) — dù tiền gửi ngắn hạn 12.378,5 tỷ VNĐ (2025) vẫn lớn hơn nợ vay. Internet cố định cạnh tranh giá với Viettel, VNPT; biên gộp 9T/2026 giảm còn 45,6%.
+  - Đầu tư trung tâm dữ liệu cần capex lớn; P/B ~2,9x không rẻ; quyết định chiến lược phụ thuộc FPT và SCIC.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Viễn thông – Hạ tầng số; theo dõi biên gộp, kế hoạch capex trung tâm dữ liệu và cổ tức 2026.
+- **Ngày tốt nghiệp phễu:** 2026-11-03
+
+---
+
+### 391. FRC - Công ty cổ phần Lâm đặc sản Xuất khẩu Quảng Nam
+- **Mã cổ phiếu:** `FRC` (Sàn UPCOM từ 07/2018 — thanh khoản thấp, 116/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Nguyên vật liệu – Đồ gỗ / Trồng rừng FSC, Chế biến & Xuất khẩu đồ gỗ nội – ngoại thất (Forexco, Quảng Nam)
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp liên hiệp Lâm đặc sản xuất khẩu Quảng Nam – Đà Nẵng (1986), cổ phần hóa 2005; chuỗi khép kín từ trồng rừng keo (một phần đạt chứng chỉ FSC, trên đất lâm nghiệp thuê của Nhà nước) đến sơ chế, chế biến và xuất khẩu đồ gỗ nội – ngoại thất sang châu Âu, Mỹ.
+- **Luận điểm cốt lõi:**
+  - **Rẻ theo sổ sách, sạch nợ dài hạn:** P/B ~0,44x, P/E ~9,0x; vốn CSH tăng từ 74,4 (2019) lên 169,5 tỷ VNĐ (2025) nhờ tích lũy lợi nhuận (vốn điều lệ chỉ 30 tỷ VNĐ); tiền + tiền gửi 174,2 tỷ VNĐ (2025) lớn hơn vay ngắn hạn 115,5 tỷ VNĐ.
+  - **Chuỗi giá trị khép kín:** Tự chủ một phần nguyên liệu gỗ rừng trồng chứng chỉ FSC — lợi thế khi thị trường EU/Mỹ siết truy xuất nguồn gốc gỗ.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect chưa có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 336,0 | 27,1% | 33,0 | 129,0 | **29,3%** |
+  | 2022 | 229,2 | 26,8% | 21,4 | 147,3 | **15,5%** |
+  | 2023 | 150,1 | 19,4% | 0,4 | 147,7 | 0,2% |
+  | 2024 | 140,1 | 18,4% | 15,0 | 162,7 | 9,6% |
+  | 2025 | 119,2 | 23,3% | 8,3 | 169,5 | 5,0% |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~9,0x** (LNST 2025; EPS ~2.780 VNĐ/cp)
+  - **P/B:** **~0,44x** (Thị giá 25.000 VNĐ/cp — phiên khớp gần nhất 28/10/2026 — so với BVPS ~56.500 VNĐ/cp tại 31/12/2025); vốn hóa ~75 tỷ VNĐ
+  - **Vốn điều lệ:** **30,0 tỷ VNĐ** (3,0 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Trồng rừng và chế biến đồ gỗ xuất khẩu.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (0,4 / 15,0 / 8,3 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Chuỗi khép kín rừng trồng FSC – thành phẩm, biên gộp 18% – 27%; đồng thời P/B ~0,44x < 0,5 (ngoại lệ).
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn (sát nút): ROE ≥ 10% ở 2/5 năm (2021: 29,3%; 2022: 15,5%) — không phải cả 5 năm đều dưới 10%.
+- **Điểm mạnh đặc biệt:** (1) P/B ~0,44x, tiền mặt lớn hơn nợ vay; (2) Chuỗi giá trị khép kín có chứng chỉ FSC.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Suy giảm 4 năm liền, chỉ vượt Bước 4 nhờ 2021 – 2022:** Doanh thu giảm từ 336,0 (2021) xuống 119,2 tỷ VNĐ (2025, -65%); ROE 3 năm gần nhất chỉ 0,2% / 9,6% / 5,0%. Nếu 2026 tiếp tục ROE < 10%, doanh nghiệp sẽ rớt Bước 4 ở lần sàng lọc sau.
+  - Gần như không chia cổ tức (chỉ 2,8 tỷ VNĐ năm 2022 và 1,4 tỷ VNĐ năm 2025) dù tích lũy tiền mặt; vay ngắn hạn tăng từ 51,8 lên 115,5 tỷ VNĐ và capex 33,6 tỷ VNĐ năm 2025 chưa rõ mục đích; phụ thuộc đơn hàng đồ gỗ xuất khẩu EU/Mỹ (thuế quan, tỷ giá).
+- **Hành động tiếp theo:** Chỉ theo dõi; chờ BCTC 2026 để xác nhận doanh thu ngừng giảm và ROE trở lại ≥ 10%.
+- **Ngày tốt nghiệp phễu:** 2026-11-03

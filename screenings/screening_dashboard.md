@@ -16,7 +16,7 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 ```
 
 - **Quy mô toàn bộ vũ trụ cổ phiếu:** **1,641** doanh nghiệp (Toàn bộ 3 sàn HOSE, HNX, UPCoM)
-- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **957 / 1,641** mã (**58.32%** — Đã rà soát chi tiết đến mã `FHS`)
+- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **962 / 1,641** mã (**58.62%** — Đã rà soát chi tiết đến mã `FRM`)
 - **Số mã rớt tại Bước 1 (Ngành & VTNL):** **424** mã (25.84%)
 - **Số mã rớt tại Bước 2 (Lỗ 3 năm liên tiếp):** **20** mã (1.22%)
 - **Số mã rớt tại Bước 3 (Chuỗi GT thấp & P/B ≥ 0.5):** **25** mã (1.52%)
@@ -1004,6 +1004,11 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | 955 | **FGL** | Công ty cổ phần Cà phê Gia Lai | Trồng & chế biến cà phê | ✅ Pass | ❌ Loại (Lỗ 4N liên tiếp 2022-2025, vốn CSH còn 3.9 tỷ) | - | - | Dừng ở Bước 2 | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
 | 956 | **FHN** | Công Ty Cổ phần Xuất Nhập Khẩu Lương Thực - Thực Phẩm Hà Nội | Thương mại – XNK lương thực thực phẩm | ✅ Pass | ✅ Pass (LNST 2.0-2.8 tỷ) | ✅ Pass (Ngoại lệ P/B 0.26 < 0.5) | ❌ Loại (ROE 5 năm 2.0% - 2.7%) | Dừng ở Bước 4 | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
 | 957 | **FHS** | Công ty cổ phần Phát hành sách T.P Hồ Chí Minh | Bán lẻ / Chuỗi nhà sách FAHASA | ✅ Pass | ✅ Pass (LNST 56.3-58.7 tỷ) | ✅ Pass (Thương hiệu FAHASA dẫn đầu, biên gộp ~26%) | ✅ Pass (ROE 4/5 năm 23.0% - 30.2%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 958 | **FIC** | Tổng Công ty Vật liệu Xây dựng số 1 - CTCP | VLXD / Xi măng, đá xây dựng & BĐS | ❌ Loại (VLXD đại trà & BĐS, biên gộp 14-17%) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 959 | **FOC** | Công ty cổ phần Dịch vụ Trực tuyến FPT | Truyền thông số / VnExpress | ✅ Pass | ✅ Pass (LNST 118.4-156.8 tỷ) | ✅ Pass (Thương hiệu VnExpress, biên gộp 43-69%) | ✅ Pass (ROE 5/5 năm 16.4% - 36.4%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 960 | **FOX** | Công ty Cổ phần Viễn thông FPT | Viễn thông / Internet cáp quang & trung tâm dữ liệu | ✅ Pass | ✅ Pass (LNST 2,383-3,418 tỷ) | ✅ Pass (Hạ tầng cáp quang toàn quốc) | ✅ Pass (ROE 5/5 năm 29.1% - 33.9%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 961 | **FRC** | Công ty cổ phần Lâm đặc sản Xuất khẩu Quảng Nam | Trồng rừng FSC & đồ gỗ xuất khẩu | ✅ Pass | ✅ Pass (LNST 0.4-15.0 tỷ) | ✅ Pass (Chuỗi khép kín FSC, P/B 0.44 < 0.5) | ✅ Pass (ROE 2/5 năm >= 10%, sát nút) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 962 | **FRM** | Công ty cổ phần Lâm nghiệp Sài Gòn | Trồng rừng, chế biến gỗ & nuôi cá sấu | ✅ Pass | ✅ Pass (LNST 5.3-11.2 tỷ) | ✅ Pass (Quỹ đất lâm nghiệp, P/B 0.79) | ❌ Loại (ROE 5 năm 3.3% - 8.5%) | Dừng ở Bước 4 | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
 
 ---
 

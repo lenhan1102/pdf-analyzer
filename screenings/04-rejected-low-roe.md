@@ -4349,11 +4349,28 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 ---
 
 ### 215. FRM - Công ty cổ phần Lâm nghiệp Sài Gòn
-- **Mã cổ phiếu:** `FRM` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nguyên vật liệu
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (6.3%, 3.4%, 8.2%, 3.9%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `FRM` (Sàn UPCOM — thanh khoản thấp, 117/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Nông – Lâm nghiệp / Trồng rừng, Chế biến gỗ & Nuôi cá sấu (Forimex — thành viên Tổng công ty Nông nghiệp Sài Gòn/SAGRI)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Lâm nghiệp – chế biến gỗ – nuôi cá sấu (tiền thân Công ty Lâm sản TP.HCM, 1993).
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. LNST 2023 – 2025: 11,2 / 5,3 / 10,6 tỷ VNĐ.
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass. Quản lý quỹ đất lâm nghiệp lớn, biên gộp 14,5% – 35,7%. P/B ~0,79x.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 40,4 | 29,1% | 4,2 | 125,2 | 3,3% |
+  | 2022 | 33,7 | 34,1% | 6,3 | 126,8 | 5,0% |
+  | 2023 | 27,4 | 14,5% | 11,2 | 137,4 | 8,5% |
+  | 2024 | 32,5 | 21,0% | 5,3 | 137,8 | 3,9% |
+  | 2025 | 23,7 | 35,7% | 10,6 | 147,8 | 7,4% |
+
+- **Lý do loại trừ cốt lõi:**
+  - **Hoạt động chính lỗ 4 năm liền (2022 – 2025):** Doanh thu giảm từ 48,3 (2019) xuống 23,7 tỷ VNĐ (2025); lợi nhuận thuần từ HĐKD âm -1,1 đến -6,7 tỷ VNĐ/năm — LNST dương chỉ nhờ thu nhập khác 12,2 – 15,4 tỷ VNĐ/năm (liên quan khai thác/bồi thường quỹ đất, chưa xác minh chi tiết). ROE cao nhất 5 năm chỉ 8,5%.
+  - Tài sản chủ yếu là tiền gửi (94,5 tỷ VNĐ, 2025); CFO âm 2023 và 2025. Cổ đông cô đặc (4 cổ đông lớn ~96% theo báo chí); từng vướng tranh chấp bàn giao đất dự án Vành đai 3 (Bình Chánh) và quỹ đất Phú Quốc.
+  - Định giá: Thị giá 10.000 VNĐ/cp (phiên khớp gần nhất 14/10/2026), vốn hóa ~117 tỷ VNĐ, P/B ~0,79x, P/E ~11,1x. VNDirect chưa có BCTC quý.
+- **Ngày Phân Tích:** 03/11/2026
 
 ---
 
