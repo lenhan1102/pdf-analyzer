@@ -2914,11 +2914,13 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 ---
 
 ### 258. FCC - Công ty cổ phần Bất động sản Ramond
-- **Mã cổ phiếu:** `FCC` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Hàng tiêu dùng
+- **Mã cổ phiếu:** `FCC` (Sàn UPCOM — thanh khoản rất thấp, 21/400 phiên có khớp lệnh, phiên gần nhất 25/08/2026)
+- **Ngành nghề niêm yết:** Bất động sản / Cho thuê văn phòng – cửa hàng, nhà hàng (tiền thân CTCP Liên hợp Thực phẩm, Hà Nội)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Hàng tiêu dùng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Chuyển hẳn sang BĐS:** Tiền thân là Công ty Liên hợp Thực phẩm (DNNN thuộc Bộ Thương mại, thành lập 1969); HĐQT đã đổi tên thành CTCP Bất động sản Ramond, chuyển trọng tâm sang khai thác quỹ đất ~13.846 m² tại 267 Quang Trung (Hà Đông, Hà Nội) cạnh tuyến metro Cát Linh – Hà Đông. Hoạt động hiện tại là cho thuê văn phòng, cửa hàng và nhà hàng — BĐS cho thuê/phát triển dự án thông thường, ngoài VTNL. *(Hiệu đính: hồ sơ cũ gán ngành "Hàng tiêu dùng".)*
+  - **Số liệu tham khảo (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** Doanh thu chỉ 7,8 – 9,0 tỷ VNĐ/năm (2023 – 2025), LNST 0,5 / 4,1 / 0,8 tỷ VNĐ (2024 nhờ thu nhập khác 4,0 tỷ); lỗ lũy kế -55,4 tỷ VNĐ trên vốn điều lệ 60 tỷ VNĐ, vốn CSH 14,0 tỷ VNĐ.
+  - Định giá: Thị giá 80.000 VNĐ/cp (giá tăng mạnh theo câu chuyện quỹ đất), vốn hóa ~480 tỷ VNĐ, P/B ~34x trên vốn CSH sổ sách.
+- **Ngày Phân Tích:** 03/11/2026
 
 ---
 

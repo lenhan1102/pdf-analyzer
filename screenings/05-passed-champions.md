@@ -12302,3 +12302,41 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - CFO 2025 âm -11,6 tỷ VNĐ do tồn kho tăng từ 95,8 lên 137,5 tỷ VNĐ; tiền mặt giảm từ 126,9 xuống 60,0 tỷ VNĐ sau khi chi cổ tức lớn.
 - **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Cơ khí – Phụ tùng; xác minh cơ cấu cổ đông (VEAM), tỷ trọng doanh thu theo khách hàng và nguyên nhân tồn kho tăng 2025.
 - **Ngày tốt nghiệp phễu:** 2026-11-03
+
+---
+
+### 388. FHS - Công ty cổ phần Phát hành sách T.P Hồ Chí Minh
+- **Mã cổ phiếu:** `FHS` (Sàn UPCOM — thanh khoản thấp, 182/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Bán lẻ / Chuỗi nhà sách, văn phòng phẩm & Thương mại điện tử sách (FAHASA)
+- **Hoạt động kinh doanh chính:** Chuỗi nhà sách FAHASA với gần 140 nhà sách tại 25 tỉnh, thành (theo báo chí, 2025) kèm kênh bán trực tuyến fahasa.com; kinh doanh sách, văn phòng phẩm, đồ chơi, quà lưu niệm; mùa cao điểm là quý III (tựu trường).
+- **Luận điểm cốt lõi:**
+  - **Chuỗi nhà sách lớn nhất, biên gộp cải thiện đều:** Doanh thu tăng từ 2.748,8 (2021) lên 4.325,1 tỷ VNĐ (2025); biên gộp tăng liên tục từ 21,0% lên 26,4%; LNST công ty mẹ từ ~0 (2021) lên 58,7 tỷ VNĐ (2025).
+  - **ROE cao, không nợ vay:** ROE 2022 – 2025 đạt 23,0% – 30,2%; không có vay; tiền + tiền gửi ngắn hạn 510,7 tỷ VNĐ (2025); cổ tức tiền mặt tăng từ 7,7 (2022) lên 26,1 tỷ VNĐ (2025). Tháng 07/2026 chia thưởng cổ phiếu 40% (vốn điều lệ 127,5 ➔ ~178,5 tỷ VNĐ) và tạm ứng cổ tức tiền mặt 8%.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST công ty mẹ | Vốn CSH cuối kỳ (cty mẹ) | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 2.748,8 | 21,0% | -0,02 | 144,8 | -0,0% |
+  | 2022 | 3.923,6 | 23,4% | 36,5 | 173,2 | **23,0%** |
+  | 2023 | 3.996,7 | 24,6% | 56,3 | 200,3 | **30,2%** |
+  | 2024 | 4.093,5 | 25,5% | 57,3 | 218,4 | **27,4%** |
+  | 2025 | 4.325,1 | 26,4% | 58,7 | 234,2 | **25,9%** |
+  | 6T/2026 | 2.166,8 | 27,6% | 25,8 | 228,2 | — |
+
+  - 6T/2026: LNST công ty mẹ +10% YoY (25,8 so với ~23,4 tỷ VNĐ).
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~7,6x** (LNST công ty mẹ 4 quý gần nhất Q3/2025 – Q2/2026 ~61,1 tỷ VNĐ; EPS ~3.420 VNĐ/cp trên ~17,85 triệu cp sau chia thưởng — VNDirect chưa có BCTC Q3/2026)
+  - **P/B:** **~2,03x** (Thị giá 26.000 VNĐ/cp ngày 03/11/2026 so với BVPS ~12.780 VNĐ/cp tính trên vốn CSH công ty mẹ 30/06/2026 và số cổ phiếu sau chia thưởng); vốn hóa ~464 tỷ VNĐ
+  - **Vốn điều lệ:** **~178,5 tỷ VNĐ** sau chia thưởng 40% (07/2026; trước đó 127,5 tỷ VNĐ)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Bán lẻ sách – văn phòng phẩm, mô hình dễ hiểu.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (56,3 / 57,3 / 58,7 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Thương hiệu FAHASA dẫn đầu thị trường nhà sách, mặt bằng bán lẻ phủ rộng, biên gộp ~26%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% ở 4/5 năm 2021 – 2025 (23,0% – 30,2%), riêng 2021 (COVID) hòa vốn.
+- **Điểm mạnh đặc biệt:** (1) ROE 23% – 30% bốn năm liền, không nợ vay; (2) Biên gộp tăng liên tục 2021 – 2025; (3) P/E ~7,6x.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Biên ròng mỏng, tồn kho lớn:** Biên ròng chỉ ~1,4% vì chi phí bán hàng (thuê mặt bằng, nhân sự) chiếm ~22% doanh thu — doanh thu giảm nhẹ là lợi nhuận co mạnh (2021 hòa vốn). Tồn kho 867,3 tỷ VNĐ (~3,7 lần vốn CSH, ~54% tổng tài sản); CFO biến động mạnh (2021: -190,6; 2024: -17,3; 2025: +44,7 tỷ VNĐ).
+  - Cạnh tranh từ sàn thương mại điện tử (Shopee, Tiki) và sách điện tử; cơ cấu cổ đông Nhà nước (nếu có) chưa xác minh.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Bán lẻ; theo dõi KQKD Q3/2026 (mùa tựu trường), vòng quay tồn kho và trích lập dự phòng hàng tồn kho.
+- **Ngày tốt nghiệp phễu:** 2026-11-03

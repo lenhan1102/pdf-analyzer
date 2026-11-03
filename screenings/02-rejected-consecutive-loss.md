@@ -28,6 +28,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
 | 16 | **DP2** | Công ty Cổ phần Dược phẩm Trung ương 2 (Dopharma) | Sản xuất Dược phẩm (thương hiệu TW2) | Thua lỗ liên tiếp 7 năm (2019-2025; 2023-2025: -24,1 / -5,6 / -10,8 tỷ), lỗ lũy kế -138,4 tỷ (~69% vốn điều lệ) | 2026-10-26 |
 | 17 | **DUS** | CTCP Dịch vụ Đô thị Đà Lạt | Vệ sinh môi trường công ích & Vườn hoa Đà Lạt | Thua lỗ liên tiếp 3 năm (2023-2025: -2,4 / -19,2 / -6,9 tỷ), Vốn CSH giảm một nửa còn 39,9 tỷ, nghĩa vụ phải nộp Nhà nước 123,6 tỷ | 2026-10-28 |
 | 18 | **DZM** | Công ty Cổ phần Cơ điện Dzĩ An | Cơ khí – Thiết bị điện | Thua lỗ liên tiếp 4 năm (2021-2024: -10,1 / -6,7 / -4,1 / -0,9 tỷ), lỗ lũy kế -90,4 tỷ, Vốn CSH âm -7,5 tỷ, không giao dịch từ 01/2025 | 2026-11-02 |
+| 19 | **FGL** | Công ty cổ phần Cà phê Gia Lai | Trồng & chế biến cà phê | Thua lỗ liên tiếp 4 năm (2022-2025: -24,8 / -12,4 / -20,5 / -13,3 tỷ), 9T/2026 vẫn lỗ, lỗ lũy kế -139 tỷ, Vốn CSH còn 3,9 tỷ | 2026-11-03 |
 
 ---
 
@@ -347,3 +348,25 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
   - Doanh thu sụt từ 189,9 (2020) xuống 21,4 tỷ VNĐ (2024); lợi nhuận gộp 3 – 5 tỷ VNĐ/năm không đủ bù chi phí. Năm 2023 lỗ lũy kế tăng 37,8 tỷ VNĐ dù LNST chỉ -4,1 tỷ (điều chỉnh hồi tố) ➔ **lỗ lũy kế -90,4 tỷ VNĐ**, vốn CSH âm -7,5 tỷ VNĐ (2024); vay ngắn hạn 23,9 tỷ VNĐ trong khi tiền mặt chỉ 0,1 tỷ VNĐ.
   - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất có số liệu (2022, 2023, 2024), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2 theo đúng thứ tự tuần tự của phễu lọc.)*
 - **Ngày Phân Tích:** 02/11/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 20. FGL - Công ty cổ phần Cà phê Gia Lai
+- **Mã cổ phiếu:** `FGL` (Sàn UPCOM — diện cảnh báo; gần như không có thanh khoản, 19/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Nông nghiệp / Trồng, thu mua & chế biến cà phê (Gia Lai — công ty con của Đức Long Gia Lai/DLG, sở hữu ~51%)
+- **Lý do loại trừ tại Bước 2 (Lỗ 4 năm liên tiếp 2022 – 2025, vốn CSH gần cạn):**
+  - **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+    | Năm | Doanh thu thuần | Lợi nhuận gộp | LNST | Vốn CSH cuối kỳ | Trạng thái |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | 2021 | 39,0 | 2,4 | 0,4 | 97,6 | Lãi (nhờ thu nhập khác 7,8 tỷ) |
+    | 2022 | 13,8 | -5,0 | **-24,8** | 72,5 | **Lỗ** |
+    | 2023 | 11,3 | -0,2 | **-12,4** | 59,8 | **Lỗ** |
+    | 2024 | 15,8 | 6,5 | **-20,5** | 21,7 | **Lỗ** |
+    | 2025 | 21,0 | 7,5 | **-13,3** | 8,0 | **Lỗ** |
+    | 9T/2026 | 4,9 | 0,1 | **-3,6** | 3,9 | **Lỗ** (Q3 lãi 1,7 tỷ nhờ thu hồi nợ) |
+
+  - Doanh thu chỉ 11 – 21 tỷ VNĐ/năm, lợi nhuận gộp không đủ bù lãi vay (5,5 – 7,5 tỷ VNĐ/năm) cộng chi phí quản lý; lỗ lũy kế -139,3 tỷ VNĐ (2025) trên vốn điều lệ 146,8 tỷ VNĐ — vốn CSH chỉ còn **3,9 tỷ VNĐ** (30/09/2026), vay ngắn hạn 5,5 tỷ VNĐ.
+  - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2 theo đúng thứ tự tuần tự của phễu lọc.)*
+  - Định giá: Thị giá 4.900 VNĐ/cp (phiên khớp gần nhất 14/09/2026), vốn hóa ~72 tỷ VNĐ, P/B ~18x trên vốn CSH còn lại.
+- **Ngày Phân Tích:** 03/11/2026 (Hiệu đính phân loại lại)

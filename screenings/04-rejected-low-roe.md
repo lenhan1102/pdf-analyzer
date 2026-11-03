@@ -4297,29 +4297,54 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 ---
 
 ### 212. FCS - Công ty Cổ phần Lương thực Thành phố Hồ Chí Minh
-- **Mã cổ phiếu:** `FCS` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nông nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-45.4%, -32.2%, 1.6%, -2.4%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `FCS` (Sàn UPCOM từ 03/2017 — thanh khoản thấp, 219/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Nông nghiệp – Thực phẩm / Chế biến, kinh doanh gạo & Chuỗi cửa hàng tiện lợi (FOODCOSA, TP.HCM)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Chế biến – kinh doanh lương thực (gạo Hạt Ngọc, Hương Lúa, Đồng Xanh; 7 xí nghiệp lương thực công suất 412.000 tấn/năm) và chuỗi 38 cửa hàng tiện lợi.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass (sát nút). 2023 lãi 1,0 tỷ, 2024 lỗ -1,5 tỷ, 2025 lãi 0,2 tỷ VNĐ.
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass (sát nút). Có thương hiệu gạo và kênh bán lẻ riêng, biên gộp 16,4% – 20,8% từ 2022 (sau khi thu hẹp thương mại gạo biên thấp).
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
 
----
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 895,3 | 7,1% | -19,7 | 61,2 | -27,7% |
+  | 2022 | 392,0 | 16,5% | 0,1 | 61,3 | 0,2% |
+  | 2023 | 404,6 | 16,4% | 1,0 | 62,3 | 1,6% |
+  | 2024 | 405,8 | 16,5% | -1,5 | 60,8 | -2,4% |
+  | 2025 | 327,0 | 20,8% | 0,2 | 61,0 | 0,4% |
 
-### 213. FGL - Công ty cổ phần Cà phê Gia Lai
-- **Mã cổ phiếu:** `FGL` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nông nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-30.4%, 0.4%, -20.8%, -94.2%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Lý do loại trừ cốt lõi:**
+  - **Lỗ từ hoạt động kinh doanh chính 7 năm liền (2019 – 2025):** Lợi nhuận gộp ~62 – 68 tỷ VNĐ/năm không đủ bù chi phí quản lý ~61 – 79 tỷ VNĐ; lãi ròng chỉ có nhờ thu nhập khác. ROE cao nhất 5 năm chỉ 1,6%.
+  - Lỗ lũy kế -194,1 tỷ VNĐ trên vốn điều lệ 255,1 tỷ VNĐ; vốn CSH 66,5 tỷ VNĐ (30/09/2026). Tài sản chủ yếu là quyền sử dụng đất 568,3 tỷ VNĐ, đối ứng "phải trả dài hạn khác" 569,5 tỷ VNĐ (bản chất chưa xác minh). 9T/2026 LNST 5,5 tỷ VNĐ.
+  - Định giá: Thị giá 6.500 VNĐ/cp (03/11/2026), vốn hóa ~166 tỷ VNĐ, P/B ~2,49x (BVPS ~2.610 VNĐ/cp).
+- **Ngày Phân Tích:** 03/11/2026
 
 ---
 
 ### 214. FHN - Công Ty Cổ phần Xuất Nhập Khẩu Lương Thực - Thực Phẩm Hà Nội
-- **Mã cổ phiếu:** `FHN` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nông nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (3.3%, 0.5%, 2.0%, 2.1%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `FHN` (Sàn UPCOM — gần như không có thanh khoản, 2/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Nông nghiệp – Thương mại / Kinh doanh, xuất nhập khẩu lương thực – thực phẩm (Hà Nội)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Thương mại lương thực – thực phẩm, không thuộc nhóm BĐS/xây lắp.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. LNST 2023 – 2025: 2,0 / 2,2 / 2,8 tỷ VNĐ.
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass theo ngoại lệ. Thương mại lương thực biên gộp chỉ 4,5% – 7,7% (đáy chuỗi giá trị) nhưng P/B ~0,26x < 0,5.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 711,9 | 5,5% | 1,0 | 48,1 | 2,0% |
+  | 2022 | 750,9 | 6,3% | 1,6 | 103,4 | 2,1% |
+  | 2023 | 999,9 | 5,1% | 2,0 | 103,3 | 2,0% |
+  | 2024 | 1.111,2 | 4,5% | 2,2 | 104,0 | 2,1% |
+  | 2025 | 714,5 | 7,7% | 2,8 | 103,4 | 2,7% |
+
+- **Lý do loại trừ cốt lõi:**
+  - Doanh thu 700 – 1.100 tỷ VNĐ/năm nhưng biên ròng chỉ ~0,1% – 0,4%; chi phí bán hàng (~27 – 33 tỷ VNĐ/năm) gần bằng toàn bộ lợi nhuận gộp. ROE quanh 2% suốt 5 năm.
+  - Vốn CSH tăng đột biến từ 48,1 lên 103,4 tỷ VNĐ năm 2022 do lợi nhuận chưa phân phối tăng ~55 tỷ VNĐ dù LNST năm chỉ 1,6 tỷ (điều chỉnh không qua KQKD — chưa xác minh bản chất).
+  - Định giá: Thị giá 8.900 VNĐ/cp (phiên khớp gần nhất 26/10/2026), vốn hóa ~27 tỷ VNĐ, P/B ~0,26x, P/E ~9,6x. VNDirect chưa có BCTC quý.
+- **Ngày Phân Tích:** 03/11/2026
 
 ---
 
