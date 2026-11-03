@@ -29,6 +29,8 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
 | 17 | **DUS** | CTCP Dịch vụ Đô thị Đà Lạt | Vệ sinh môi trường công ích & Vườn hoa Đà Lạt | Thua lỗ liên tiếp 3 năm (2023-2025: -2,4 / -19,2 / -6,9 tỷ), Vốn CSH giảm một nửa còn 39,9 tỷ, nghĩa vụ phải nộp Nhà nước 123,6 tỷ | 2026-10-28 |
 | 18 | **DZM** | Công ty Cổ phần Cơ điện Dzĩ An | Cơ khí – Thiết bị điện | Thua lỗ liên tiếp 4 năm (2021-2024: -10,1 / -6,7 / -4,1 / -0,9 tỷ), lỗ lũy kế -90,4 tỷ, Vốn CSH âm -7,5 tỷ, không giao dịch từ 01/2025 | 2026-11-02 |
 | 19 | **FGL** | Công ty cổ phần Cà phê Gia Lai | Trồng & chế biến cà phê | Thua lỗ liên tiếp 4 năm (2022-2025: -24,8 / -12,4 / -20,5 / -13,3 tỷ), 9T/2026 vẫn lỗ, lỗ lũy kế -139 tỷ, Vốn CSH còn 3,9 tỷ | 2026-11-03 |
+| 20 | **FTM** | Công ty Cổ phần Đầu tư và Phát triển Đức Quân | Sản xuất sợi cotton (Fortex) | Thua lỗ liên tiếp 7 năm (2023-2025: -322,4 / -127,3 / -155,3 tỷ), 9T/2026 lỗ -93 tỷ, Vốn CSH âm -1.082 tỷ | 2026-11-03 |
+| 21 | **G20** | Công ty cổ phần Đầu tư Dệt may G.Home | Dệt may (ngừng hoạt động) | Không có doanh thu từ 2019, lỗ liên tục 2019-2023 (2021-2023: -7,6 / -15,2 / -13,2 tỷ), Vốn CSH âm -149 tỷ | 2026-11-03 |
 
 ---
 
@@ -369,4 +371,47 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
   - Doanh thu chỉ 11 – 21 tỷ VNĐ/năm, lợi nhuận gộp không đủ bù lãi vay (5,5 – 7,5 tỷ VNĐ/năm) cộng chi phí quản lý; lỗ lũy kế -139,3 tỷ VNĐ (2025) trên vốn điều lệ 146,8 tỷ VNĐ — vốn CSH chỉ còn **3,9 tỷ VNĐ** (30/09/2026), vay ngắn hạn 5,5 tỷ VNĐ.
   - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2 theo đúng thứ tự tuần tự của phễu lọc.)*
   - Định giá: Thị giá 4.900 VNĐ/cp (phiên khớp gần nhất 14/09/2026), vốn hóa ~72 tỷ VNĐ, P/B ~18x trên vốn CSH còn lại.
+- **Ngày Phân Tích:** 03/11/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 21. FTM - Công ty Cổ phần Đầu tư và Phát triển Đức Quân
+- **Mã cổ phiếu:** `FTM` (Sàn UPCOM từ 05/2022 sau khi bị hủy niêm yết bắt buộc trên HOSE do lỗ 3 năm liên tiếp — thanh khoản thấp, 80/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Dệt may / Sản xuất sợi cotton (Fortex — 3 nhà máy sợi tại Thái Bình, công suất ~17.000 tấn sợi/năm)
+- **Lý do loại trừ tại Bước 2 (Lỗ 7 năm liên tiếp 2019 – 2025, vốn CSH âm sâu):**
+  - **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+    | Năm | Doanh thu thuần | Lợi nhuận gộp | LNST | Vốn CSH cuối kỳ | Trạng thái |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | 2021 | 231,7 | 21,2 | **-224,2** | 88,5 | **Lỗ** |
+    | 2022 | 189,1 | 11,0 | **-473,1** | -384,5 | **Lỗ** |
+    | 2023 | 175,0 | 2,6 | **-322,4** | -707,0 | **Lỗ** |
+    | 2024 | 182,8 | 0,5 | **-127,3** | -834,2 | **Lỗ** |
+    | 2025 | 191,8 | -38,1 | **-155,3** | -989,5 | **Lỗ** |
+    | 9T/2026 | 135,2 | 1,5 | **-93,0** | -1.082,4 | **Lỗ** |
+
+  - Lợi nhuận gộp gần bằng 0 hoặc âm, trong khi chi phí lãi vay 76 – 104 tỷ VNĐ/năm trên dư nợ vay ngắn hạn ~795 tỷ VNĐ (30/09/2026, báo chí từng nêu nợ vay ngân hàng quá hạn hơn 602 tỷ VNĐ và kiểm toán có ý kiến ngoại trừ). Lỗ lũy kế ~1.499 tỷ VNĐ (2025) trên vốn điều lệ 500 tỷ VNĐ.
+  - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ File 5 sang Bước 2 — hồ sơ cũ ghi nhầm "Doanh nghiệp đầu ngành".)*
+  - Định giá: Thị giá 400 VNĐ/cp (phiên khớp gần nhất 30/10/2026), vốn hóa ~20 tỷ VNĐ; vốn CSH âm nên P/B không có ý nghĩa.
+- **Ngày Phân Tích:** 03/11/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 22. G20 - Công ty cổ phần Đầu tư Dệt may G.Home
+- **Mã cổ phiếu:** `G20` (Sàn UPCOM — diện cảnh báo/hạn chế giao dịch; thanh khoản thấp, 75/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Dệt may (tên trên Vietstock: CTCP Đầu tư Dệt may Vĩnh Phúc) — đã ngừng hoạt động sản xuất kinh doanh
+- **Lý do loại trừ tại Bước 2 (Lỗ liên tục, không phát sinh doanh thu, vốn CSH âm):**
+  - **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect chưa có BCTC 2024 – 2025):**
+
+    | Năm | Doanh thu thuần | Chi phí lãi vay | LNST | Vốn CSH cuối kỳ | Trạng thái |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | 2019 | 0,0 | 16,8 | **-54,4** | -101,7 | **Lỗ** |
+    | 2020 | 0,0 | 16,0 | **-11,7** | -113,4 | **Lỗ** |
+    | 2021 | 0,0 | 15,2 | **-7,6** | -121,0 | **Lỗ** |
+    | 2022 | 0,0 | 14,9 | **-15,2** | -136,1 | **Lỗ** |
+    | 2023 | 0,0 | 13,6 | **-13,2** | -149,3 | **Lỗ** |
+
+  - Không có doanh thu từ 2019; tài sản chủ yếu là hàng tồn kho 69,8 tỷ VNĐ và phải thu 23,2 tỷ VNĐ đứng yên nhiều năm; vay ngắn hạn ~99 tỷ VNĐ chỉ phát sinh lãi; lỗ lũy kế -295,4 tỷ VNĐ trên vốn điều lệ 144 tỷ VNĐ. P/E trượt trên Simplize vẫn âm, cho thấy 2024 – 2025 tiếp tục lỗ.
+  - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất có dữ liệu (2021, 2022, 2023), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ File 5 sang Bước 2.)*
+  - Định giá: Thị giá 500 VNĐ/cp (phiên khớp gần nhất 30/10/2026), vốn hóa ~7 tỷ VNĐ; vốn CSH âm nên P/B không có ý nghĩa.
 - **Ngày Phân Tích:** 03/11/2026 (Hiệu đính phân loại lại)

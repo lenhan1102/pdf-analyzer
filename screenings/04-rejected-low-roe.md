@@ -4375,11 +4375,28 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 ---
 
 ### 216. FSO - Công ty Cổ phần Cơ khí đóng tàu thủy sản Việt Nam
-- **Mã cổ phiếu:** `FSO` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Công nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-6.1%, 1.5%, -1.5%, 2.3%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `FSO` (Sàn UPCOM — thanh khoản thấp, 176/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Công nghiệp / Đóng & sửa chữa tàu cá, tàu dịch vụ hậu cần nghề cá; Cho thuê văn phòng, nhà xưởng, kho bãi (FISHIPCO — 2 bãi đóng sửa tàu đến 6.500 DWT)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Cơ khí đóng – sửa tàu thủy sản.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. LNST 2023 – 2025: -0,8 / 1,3 / 3,4 tỷ VNĐ (không lỗ cả 3 năm).
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass. Đóng/sửa tàu theo đơn đặt hàng kèm cho thuê mặt bằng — không phải gia công đại trà điển hình. P/B ~0,78x.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 33,0 | 12,1% | 0,8 | 54,9 | 1,5% |
+  | 2022 | 36,0 | 12,3% | 0,7 | 55,6 | 1,3% |
+  | 2023 | 14,7 | 27,9% | -0,8 | 54,7 | -1,5% |
+  | 2024 | 6,3 | 78,5% | 1,3 | 56,0 | 2,4% |
+  | 2025 | 9,0 | 84,3% | 3,4 | 59,4 | 5,8% |
+
+- **Lý do loại trừ cốt lõi:**
+  - **Mảng đóng tàu thu hẹp mạnh:** Doanh thu giảm từ 42,3 (2019) xuống 6,3 – 9,0 tỷ VNĐ (2024 – 2025); biên gộp tăng vọt lên 78% – 84% cho thấy doanh thu nay chủ yếu từ cho thuê mặt bằng (suy luận từ cơ cấu biên gộp, chưa xác minh thuyết minh). LNST 2025 cải thiện lên 3,4 tỷ VNĐ nhưng ROE cao nhất 5 năm chỉ 5,8%.
+  - Tài sản chủ yếu là tiền gửi kỳ hạn 38,0 tỷ VNĐ (~62% tổng tài sản), không nợ vay; lỗ lũy kế vừa được bù hết (LNST chưa phân phối về 0 năm 2025); không chia cổ tức. *(Hiệu đính: chuỗi ROE cũ "-6.1%, 1.5%, -1.5%, 2.3%" thiếu năm 2025.)*
+  - Định giá: Thị giá 8.200 VNĐ/cp (phiên khớp gần nhất 26/10/2026), vốn hóa ~46 tỷ VNĐ, P/B ~0,78x, P/E ~13,7x. VNDirect chưa có BCTC quý.
+- **Ngày Phân Tích:** 03/11/2026
 
 ---
 

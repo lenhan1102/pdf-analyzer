@@ -4553,3 +4553,14 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
   - **Kể cả nếu được xét tiếp cũng rớt Bước 4 (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** ROE 2021 – 2025 chỉ 8,1% / 8,2% / 5,2% / 6,1% / 5,6%; doanh thu 2025 tăng lên 132,7 tỷ VNĐ nhưng biên gộp giảm còn 12,4% (2021: 31,4%), LNST 4,6 tỷ VNĐ. CFO 2025 âm -27,5 tỷ VNĐ, vay ngắn hạn tăng từ 20,2 (2023) lên 56,3 tỷ VNĐ (2025).
   - Định giá: Thị giá 20.000 VNĐ/cp (phiên khớp gần nhất 29/10/2026), vốn hóa ~76 tỷ VNĐ, P/B ~0,92x, P/E ~16,6x.
 - **Ngày Phân Tích:** 03/11/2026 (Hiệu đính phân loại lại từ Bước 4)
+
+---
+
+### 437. FTI - Công ty Cổ phần Công nghiệp - Thương mại Hữu Nghị
+- **Mã cổ phiếu:** `FTI` (Sàn UPCOM từ 2017 — diện hạn chế giao dịch; gần như không có thanh khoản, 1/400 phiên có khớp lệnh, phiên gần nhất 03/07/2026)
+- **Ngành nghề niêm yết:** Bất động sản / Cho thuê mặt bằng, văn phòng, nhà kho & Trông giữ xe (tiền thân Liên hiệp Xí nghiệp Mô tô Xe đạp, 1985)
+- **Lý do loại trừ tại Bước 1:**
+  - **BĐS cho thuê ngoài VTNL:** Mảng sản xuất phụ tùng cơ khí, xe đạp gần như không còn — doanh thu 7,5 – 9,4 tỷ VNĐ/năm với biên gộp ~92% – 100%, tức là tiền cho thuê mặt bằng và trông giữ xe. Cùng nhóm với CCS, FCC (BĐS cho thuê, đã loại Bước 1). *(Hiệu đính: hồ sơ cũ gán "Doanh nghiệp đầu ngành Công nghiệp", vượt Bước 4.)*
+  - **Lợi nhuận phụ thuộc khoản bất thường (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** LNST 2021 – 2025: 1,2 / 3,0 / **94,3** / 1,0 / 4,0; ROE tương ứng 4,6% / 11,3% / 117,8% / 0,8% / 3,1%. Năm 2023 ghi nhận doanh thu tài chính 94,3 tỷ VNĐ, cùng lúc đầu tư vào công ty liên kết tăng từ 9,8 lên 87,8 tỷ VNĐ — nhiều khả năng là đánh giá lại tài sản đem góp vốn (chưa xác minh). Loại khoản này ra thì ROE các năm còn lại chỉ 0,8% – 11,3%.
+  - Định giá: Giá tham chiếu 2.500 VNĐ/cp không phản ánh giá trị (BVPS ~33.530 VNĐ/cp) — P/B ~0,07x, P/E ~2,5x chỉ mang tính danh nghĩa; vốn hóa ~10 tỷ VNĐ.
+- **Ngày Phân Tích:** 03/11/2026 (Hiệu đính phân loại lại từ File 5)

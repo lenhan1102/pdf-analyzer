@@ -12452,3 +12452,39 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Gần như không chia cổ tức (chỉ 2,8 tỷ VNĐ năm 2022 và 1,4 tỷ VNĐ năm 2025) dù tích lũy tiền mặt; vay ngắn hạn tăng từ 51,8 lên 115,5 tỷ VNĐ và capex 33,6 tỷ VNĐ năm 2025 chưa rõ mục đích; phụ thuộc đơn hàng đồ gỗ xuất khẩu EU/Mỹ (thuế quan, tỷ giá).
 - **Hành động tiếp theo:** Chỉ theo dõi; chờ BCTC 2026 để xác nhận doanh thu ngừng giảm và ROE trở lại ≥ 10%.
 - **Ngày tốt nghiệp phễu:** 2026-11-03
+
+---
+
+### 392. FT1 - Công ty Cổ phần Phụ tùng máy số 1
+- **Mã cổ phiếu:** `FT1` (Sàn UPCOM từ 09/2017 — thanh khoản khá, 307/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Cơ khí chế tạo / Phụ tùng xe máy – ô tô, máy động lực & máy nông nghiệp (FUTU1)
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy Phụ tùng ô tô số 1 (1968), cổ phần hóa 2008; 10 dây chuyền sản xuất chính với hơn 700 thiết bị trên ~13 ha, mỗi năm cung cấp hàng chục triệu chi tiết, linh kiện xe máy và động cơ cho các khách hàng như Honda, Yamaha, Piaggio, VMEP, Schaeffler, DID.
+- **Luận điểm cốt lõi:**
+  - **Nhà cung cấp linh kiện ổn định, ROE rất cao:** ROE 34,3% – 51,7% suốt 2021 – 2025 trên vốn CSH chỉ ~140 – 154 tỷ VNĐ; biên gộp đều 16,3% – 17,4%, LNST 48,3 – 76,0 tỷ VNĐ/năm.
+  - **Không nợ vay, phân phối gần hết lợi nhuận:** Không có vay nợ 2023 – 2025; LNST chưa phân phối cuối mỗi năm xấp xỉ đúng LNST năm đó — lợi nhuận năm trước được chia gần hết (cổ tức tiền mặt 22,1 – 31,9 tỷ VNĐ/năm giai đoạn 2019 – 2024 trên vốn điều lệ 70,8 tỷ VNĐ).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect chưa có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 777,9 | 16,8% | 48,3 | 140,2 | **34,3%** |
+  | 2022 | 1.061,9 | 16,3% | 76,0 | 153,9 | **51,7%** |
+  | 2023 | 908,7 | 16,9% | 59,5 | 137,4 | **40,9%** |
+  | 2024 | 920,5 | 17,4% | 69,4 | 147,3 | **48,8%** |
+  | 2025 | 938,8 | 17,2% | 62,4 | 140,3 | **43,4%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~4,6x** (LNST 2025; EPS ~8.810 VNĐ/cp)
+  - **P/B:** **~2,02x** (Thị giá 40.100 VNĐ/cp ngày 03/11/2026 so với BVPS ~19.810 VNĐ/cp tại 31/12/2025); vốn hóa ~284 tỷ VNĐ
+  - **Vốn điều lệ:** **70,8 tỷ VNĐ** (7,08 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Cơ khí chế tạo phụ tùng xe máy – động cơ.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (59,5 / 69,4 / 62,4 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Nhà cung cấp chi tiết chính xác cho các hãng xe máy lớn — tiêu chuẩn chất lượng OEM và quan hệ khách hàng lâu năm tạo chi phí chuyển đổi (cùng nhóm FBC – Cơ khí Phổ Yên).
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE 5/5 năm 2021 – 2025 trên 10% (34,3% – 51,7%).
+- **Điểm mạnh đặc biệt:** (1) ROE >34% cả 5 năm; (2) Không nợ vay, chia gần hết lợi nhuận; (3) P/E ~4,6x.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Phụ thuộc hãng xe máy xăng, dòng tiền tự do mỏng dần:** Doanh thu gắn với sản lượng xe máy của Honda/Yamaha — thị trường bão hòa và xu hướng chuyển sang xe điện (lộ trình hạn chế xe máy xăng tại đô thị lớn) có thể làm giảm đơn hàng chi tiết động cơ. Capex tăng lên 34,0 – 39,5 tỷ VNĐ/năm (2023 – 2025) trong khi CFO giảm từ 93,6 xuống 38,5 tỷ VNĐ, FCF 2025 ~0.
+  - Biên gộp chỉ ~17%, biên ròng ~6,6% — quyền đàm phán giá thuộc về hãng xe; vốn CSH 2025 giảm 7,0 tỷ VNĐ dù lãi 62,4 tỷ VNĐ (đã trích chia ~69 tỷ VNĐ) nhưng dòng tiền cổ tức 2025 ghi 0 — cần xác minh khoản cổ tức còn phải trả; chưa xác minh cơ cấu cổ đông lớn.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Cơ khí – Phụ tùng; xác minh tỷ trọng doanh thu theo khách hàng, kế hoạch sản phẩm cho xe điện và chính sách cổ tức 2025 – 2026.
+- **Ngày tốt nghiệp phễu:** 2026-11-03
