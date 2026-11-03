@@ -4537,3 +4537,15 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
     > **Cấu trúc bảng cân đối bất thường:** Khoản "đầu tư giữ đến ngày đáo hạn" 796,3 tỷ VNĐ (~69% tổng tài sản) không phát sinh lãi từ 2023 (doanh thu tài chính 2024 bằng 0) và đã bắt đầu trích dự phòng (29,6 tỷ VNĐ năm 2025); "phải trả ngắn hạn khác" 600,4 tỷ VNĐ; dự phòng phải thu khó đòi tăng lên 137,9 tỷ VNĐ; chi phí lãi vay 2025 vọt lên 66,6 tỷ VNĐ (2024: 3,9 tỷ) trong khi dư nợ vay 167,6 tỷ VNĐ không đổi từ 2023; tiền mặt chỉ 0,1 tỷ VNĐ (30/09/2026).
   - Định giá: Thị giá 1.500 VNĐ/cp (02/11/2026), vốn hóa ~68 tỷ VNĐ, P/B ~0,32x.
 - **Ngày Phân Tích:** 02/11/2026 (Hiệu đính phân loại lại từ Bước 4)
+
+---
+
+### 436. EME - Công ty Cổ phần Điện cơ
+- **Mã cổ phiếu:** `EME` (Sàn UPCOM từ 07/2017 — thanh khoản thấp, 48/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Vật liệu xây dựng & Xây lắp / Trụ điện bê tông ly tâm, Cấu kiện bê tông & Thi công lắp đặt cơ điện (TP.HCM)
+- **Hoạt động kinh doanh chính:** Thành lập 1999 (TP.HCM); sản xuất trụ điện bê tông ly tâm (công suất trên 60.000 trụ/năm) và ~120.000 phụ kiện bê tông cốt thép/năm phục vụ xây dựng lưới điện, kèm thi công lắp đặt cơ điện công trình (Bitexco, Everich, Vincom, chiếu sáng cao tốc TP.HCM – Trung Lương).
+- **Lý do loại trừ tại Bước 1:**
+  - **VLXD bê tông đại trà & xây lắp ngoài VTNL:** Trụ điện bê tông và cấu kiện bê tông là vật liệu xây dựng phổ thông, cạnh tranh theo giá trong các gói thầu lưới điện, không có tài nguyên độc quyền — cùng nhóm với VE3 (cột bê tông ly tâm & xây lắp điện, đã loại Bước 1). *(Hiệu đính: hồ sơ cũ gán ngành "Công nghệ", rớt Bước 4.)*
+  - **Kể cả nếu được xét tiếp cũng rớt Bước 4 (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** ROE 2021 – 2025 chỉ 8,1% / 8,2% / 5,2% / 6,1% / 5,6%; doanh thu 2025 tăng lên 132,7 tỷ VNĐ nhưng biên gộp giảm còn 12,4% (2021: 31,4%), LNST 4,6 tỷ VNĐ. CFO 2025 âm -27,5 tỷ VNĐ, vay ngắn hạn tăng từ 20,2 (2023) lên 56,3 tỷ VNĐ (2025).
+  - Định giá: Thị giá 20.000 VNĐ/cp (phiên khớp gần nhất 29/10/2026), vốn hóa ~76 tỷ VNĐ, P/B ~0,92x, P/E ~16,6x.
+- **Ngày Phân Tích:** 03/11/2026 (Hiệu đính phân loại lại từ Bước 4)

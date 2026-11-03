@@ -4296,15 +4296,6 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 211. EME - Công ty Cổ phần Điện cơ
-- **Mã cổ phiếu:** `EME` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Công nghệ
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (2.1%, 7.8%, 5.2%, 6.0%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
 ### 212. FCS - Công ty Cổ phần Lương thực Thành phố Hồ Chí Minh
 - **Mã cổ phiếu:** `FCS` (Sàn UPCOM)
 - **Ngành nghề niêm yết:** Nông nghiệp

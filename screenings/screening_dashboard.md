@@ -8,19 +8,19 @@ Tài liệu này theo dõi toàn bộ trạng thái của các mã cổ phiếu 
 
 ```mermaid
 pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị Trường)
-    "Rớt Bước 1 (Ngành & Vòng tròn năng lực)" : 423
+    "Rớt Bước 1 (Ngành & Vòng tròn năng lực)" : 424
     "Rớt Bước 2 (Lỗ 3 năm liên tiếp)" : 19
     "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 25
-    "Rớt Bước 4 (ROE 5 năm < 10%)" : 458
+    "Rớt Bước 4 (ROE 5 năm < 10%)" : 457
     "🏆 Đạt Chuẩn File 5" : 716
 ```
 
 - **Quy mô toàn bộ vũ trụ cổ phiếu:** **1,641** doanh nghiệp (Toàn bộ 3 sàn HOSE, HNX, UPCoM)
-- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **947 / 1,641** mã (**57.71%** — Đã rà soát chi tiết đến mã `EIN`)
-- **Số mã rớt tại Bước 1 (Ngành & VTNL):** **423** mã (25.78%)
+- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **952 / 1,641** mã (**58.01%** — Đã rà soát chi tiết đến mã `FBC`)
+- **Số mã rớt tại Bước 1 (Ngành & VTNL):** **424** mã (25.84%)
 - **Số mã rớt tại Bước 2 (Lỗ 3 năm liên tiếp):** **19** mã (1.16%)
 - **Số mã rớt tại Bước 3 (Chuỗi GT thấp & P/B ≥ 0.5):** **25** mã (1.52%)
-- **Số mã rớt tại Bước 4 (ROE 5 năm < 10%):** **458** mã (27.91%)
+- **Số mã rớt tại Bước 4 (ROE 5 năm < 10%):** **457** mã (27.85%)
 - **Số mã đạt chuẩn lọt vào File 5 (Champions):** **716** mã (43.63%)
 - **Tổng số mã trong hệ sinh thái:** **1,641 / 1,641 mã (100.0%)**
 
@@ -33,10 +33,10 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | STT | File Bảng Tóm Tắt Rút Gọn | Nội Dung Trọng Tâm | Số Lượng Mã | Bản Phân Tích Đầy Đủ |
 | :---: | :--- | :--- | :--- | :--- |
 | ⚡ | [00-quick-summary-all.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md) | **Bảng Tổng Hợp Siêu Tốc Toàn Bộ Cổ Phiếu** (Cheat-sheet tra cứu) | **1,641** mã | Xem chi tiết từng mã |
-| 1 | [summary-01-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md) | Bảng tóm tắt các công ty rớt Bước 1 (Ngành nghề ngoài VTNL) | **423** mã | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 1 | [summary-01-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md) | Bảng tóm tắt các công ty rớt Bước 1 (Ngành nghề ngoài VTNL) | **424** mã | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 | 2 | [summary-02-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-02-consecutive-loss.md) | Bảng tóm tắt các công ty rớt Bước 2 (Lỗ 3 năm liên tiếp) | **19** mã | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
 | 3 | [summary-03-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md) | Bảng tóm tắt các công ty rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5) | **25** mã | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
-| 4 | [summary-04-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md) | Bảng tóm tắt các công ty rớt Bước 4 (ROE 5 năm < 10%) | **458** mã | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
+| 4 | [summary-04-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md) | Bảng tóm tắt các công ty rớt Bước 4 (ROE 5 năm < 10%) | **457** mã | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
 | 5 | [summary-05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md) | 🏆 **Bảng tóm tắt Doanh Nghiệp Đạt Chuẩn (File 5)** | **716** mã | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 
 
@@ -994,6 +994,11 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | 945 | **EGL** | Công ty cổ phần Môi trường đô thị Gia Lâm | Tiện ích / Dịch vụ công ích vệ sinh môi trường | ✅ Pass | ✅ Pass (LNST 9.9-19.8 tỷ) | ✅ Pass (Dịch vụ công ích đương nhiệm, biên gộp ~19%) | ✅ Pass (ROE 10.2% - 17.7%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 | 946 | **EIC** | Công ty cổ phần EVN Quốc tế | Năng lượng / Đầu tư thủy điện Campuchia | ✅ Pass | ✅ Pass (LNST 42.6-54.1 tỷ) | ✅ Pass (Cổ đông thủy điện BOT đang vận hành) | ✅ Pass (ROE 4/5 năm >= 10%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 | 947 | **EIN** | Công ty cổ phần Đầu tư - Thương mại - Dịch vụ Điện lực | BĐS dân dụng & Khách sạn – Resort | ❌ Loại (Phát triển nhà ở – resort, lỗ 4 năm liên tiếp) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 948 | **EME** | Công ty Cổ phần Điện cơ | VLXD & Xây lắp / Trụ điện bê tông ly tâm & lắp đặt cơ điện | ❌ Loại (Trụ điện – cấu kiện bê tông đại trà kèm xây lắp) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 949 | **EMG** | Công ty Cổ phần Thiết bị Phụ tùng Cơ điện | Thương mại thiết bị – phụ tùng cơ điện | ✅ Pass | ✅ Pass (LNST 12.0-12.4 tỷ) | ✅ Pass (Biên gộp ~51%, P/B 0.43 < 0.5) | ✅ Pass (ROE 5/5 năm 11.5% - 14.9%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 950 | **EMS** | Tổng Công ty Chuyển phát nhanh Bưu Điện - CTCP | Logistics / Chuyển phát nhanh EMS | ✅ Pass | ✅ Pass (LNST 64.7-69.5 tỷ) | ✅ Pass (Thương hiệu EMS & mạng bưu cục VNPost) | ✅ Pass (ROE 5/5 năm 21.2% - 26.7%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 951 | **F88** | Công ty cổ phần Đầu tư F88 | Tài chính / Chuỗi cầm đồ & cho vay tiêu dùng | ✅ Pass | ✅ Pass (Chỉ lỗ 2023; 2024-2025 lãi 351-719 tỷ) | ✅ Pass (Chuỗi cầm đồ thương hiệu toàn quốc) | ✅ Pass (ROE 4/5 năm >= 10%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 952 | **FBC** | Công ty cổ phần Cơ khí Phổ Yên | Cơ khí / Phụ tùng xe máy – ô tô & vòng bi | ✅ Pass | ✅ Pass (LNST 72.7-78.2 tỷ) | ✅ Pass (Nhà cung cấp cấp 1 Honda/Yamaha/Suzuki) | ✅ Pass (ROE 5/5 năm 28.9% - 66.6%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 
 ---
 

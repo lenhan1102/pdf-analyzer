@@ -12155,3 +12155,150 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Các dự án Hạ Sê San 1/Sê San 5, Sê Kông, Nậm Mô 1 vẫn chưa tìm được đối tác chuyển giao; P/E TTM ~22x không còn rẻ.
 - **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Năng lượng – Holding; theo dõi kế hoạch phân phối lợi nhuận HLSS2 năm 2026, thời hạn BOT và bản chất chi phí khác 2025 – 2026.
 - **Ngày tốt nghiệp phễu:** 2026-11-02
+
+---
+
+### 384. EMG - Công ty Cổ phần Thiết bị Phụ tùng Cơ điện
+- **Mã cổ phiếu:** `EMG` (Sàn UPCOM — diện cảnh báo; gần như không có thanh khoản, 4/400 phiên có khớp lệnh, mỗi phiên 100 cp)
+- **Ngành nghề niêm yết:** Thương mại – Dịch vụ / Kinh doanh, XNK vật tư – thiết bị – phụ tùng cơ điện nông nghiệp, thủy lợi (EMESCO, Hà Nội)
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp Thiết bị Phụ tùng Cơ khí Nông nghiệp và Công cụ Nông nghiệp khu vực I (1983), cổ phần hóa 2005; trụ sở tại Kim Liên (Hà Nội). Đăng ký ngành chính là kinh doanh, xuất nhập khẩu, bán buôn – bán lẻ vật tư, thiết bị cơ điện; từ 2022 ghi nhận bất động sản đầu tư (nguyên giá 29,6 tỷ VNĐ) — cơ cấu doanh thu theo mảng chưa được công bố trên các nguồn đã tra.
+- **Luận điểm cốt lõi:**
+  - **Lợi nhuận đều, sạch nợ:** LNST giữ 12,0 – 13,1 tỷ VNĐ/năm suốt 2020 – 2025 dù doanh thu giảm từ 118,4 (2019) xuống 58,2 tỷ VNĐ (2025); đã trả hết nợ vay từ 2024; CFO dương 6 năm liền (2020 – 2025), cổ tức tiền mặt đều 4,5 tỷ VNĐ/năm (15% mệnh giá).
+  - **Rẻ theo sổ sách:** P/E ~3,8x, P/B ~0,43x (giá giao dịch rất mỏng).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect chưa có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 75,1 | 36,4% | 12,5 | 87,3 | **14,9%** |
+  | 2022 | 65,4 | 43,4% | 13,1 | 93,9 | **14,5%** |
+  | 2023 | 57,6 | 45,3% | 12,4 | 99,1 | **12,8%** |
+  | 2024 | 52,2 | 51,3% | 12,0 | 104,8 | **11,8%** |
+  | 2025 | 58,2 | 50,8% | 12,4 | 110,6 | **11,5%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~3,8x** (LNST 2025; EPS ~4.120 VNĐ/cp)
+  - **P/B:** **~0,43x** (Thị giá 15.800 VNĐ/cp — phiên khớp gần nhất 14/10/2026, 100 cp — so với BVPS ~36.860 VNĐ/cp tại 31/12/2025); vốn hóa ~47 tỷ VNĐ
+  - **Vốn điều lệ:** **30,0 tỷ VNĐ** (3,0 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Thương mại thiết bị cơ điện, không thuộc BĐS/xây lắp (BĐS đầu tư chỉ ~1 tỷ VNĐ giá trị còn lại).
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (12,4 / 12,0 / 12,4 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Biên gộp ~51% không giống nhà phân phối trung gian; đồng thời P/B ~0,43x < 0,5 (ngoại lệ).
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE 5/5 năm 2021 – 2025 trên 10% (11,5% – 14,9%).
+- **Điểm mạnh đặc biệt:** (1) P/B ~0,43x, P/E ~3,8x, không nợ vay; (2) LNST ổn định 6 năm, cổ tức tiền mặt đều.
+- **Rủi ro cần theo dõi:**
+  - > [!CAUTION]
+    > **Phải thu khách hàng bất thường:** Phải thu khách hàng 95 – 108 tỷ VNĐ không đổi suốt 2019 – 2025, bằng **~164% doanh thu 2025** và ~76% tổng tài sản (đã dự phòng 12,8 tỷ VNĐ); tồn kho bằng 0 nhưng biên gộp tăng từ 20,8% lên 50,8% khi doanh thu giảm một nửa — chưa rõ nguồn lợi nhuận thực (thương mại hay cho thuê mặt bằng). Cổ phiếu thuộc diện cảnh báo, gần như không giao dịch.
+  - ROE giảm dần từ 16,4% (2020) về 11,5% (2025), sát ngưỡng; năm 2025 bắt đầu góp 14,4 tỷ VNĐ vào công ty liên kết chưa rõ.
+- **Hành động tiếp theo:** Chỉ theo dõi; đọc thuyết minh BCTC kiểm toán 2025 để xác minh đối tượng phải thu, cơ cấu doanh thu theo mảng và lý do bị cảnh báo trước khi xem xét thêm.
+- **Ngày tốt nghiệp phễu:** 2026-11-03
+
+---
+
+### 385. EMS - Tổng Công ty Chuyển phát nhanh Bưu Điện - CTCP
+- **Mã cổ phiếu:** `EMS` (Sàn UPCOM — thanh khoản trung bình, 333/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Logistics / Chuyển phát nhanh bưu chính (EMS Việt Nam — hệ thống Bưu điện Việt Nam)
+- **Hoạt động kinh doanh chính:** Hoạt động từ 01/01/2006, là đơn vị được Tổng công ty Bưu điện Việt Nam giao khai thác dịch vụ chuyển phát nhanh EMS trong nước và quốc tế; tận dụng mạng bưu cục toàn quốc của VNPost; trở thành công ty đại chúng năm 2014.
+- **Luận điểm cốt lõi:**
+  - **ROE cao và ổn định:** ROE 21,2% – 26,7% suốt 2020 – 2025 nhờ mô hình nhẹ tài sản (capex chỉ 0,2 – 19 tỷ VNĐ/năm trên doanh thu ~2.000 tỷ); LNST 64,7 – 71,3 tỷ VNĐ/năm.
+  - **Không nợ vay, tiền thật:** Không có vay; tiền + đầu tư ngắn hạn 206,3 tỷ VNĐ (2025); CFO 2023 – 2025 đạt 133,5 / 105,6 / 57,8 tỷ VNĐ; cổ tức tiền mặt ~20,8 tỷ VNĐ/năm (10% mệnh giá, ~30% LNST).
+  - **Bứt phá 6T/2026:** Doanh thu +7,2% YoY (1.075,5 so với 1.003,7 tỷ VNĐ), LNST gấp ~2 lần cùng kỳ (41,3 so với 20,4 tỷ VNĐ).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 2.495,6 | 18,9% | 67,3 | 271,4 | **26,7%** |
+  | 2022 | 2.235,9 | 16,6% | 71,3 | 308,7 | **24,6%** |
+  | 2023 | 1.797,1 | 18,4% | 64,7 | 302,2 | **21,2%** |
+  | 2024 | 1.848,1 | 16,7% | 65,6 | 316,2 | **21,2%** |
+  | 2025 | 1.973,7 | 15,4% | 69,5 | 333,8 | **21,4%** |
+  | 6T/2026 | 1.075,5 | 13,0% | 41,3 | 340,5 | — |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~4,2x** (LNST 4 quý gần nhất Q3/2025 – Q2/2026 ~90,4 tỷ VNĐ; EPS ~4.300 VNĐ/cp — VNDirect chưa có BCTC Q3/2026); ~5,5x theo LNST 2025
+  - **P/B:** **~1,12x** (Thị giá 18.100 VNĐ/cp ngày 03/11/2026 so với BVPS ~16.210 VNĐ/cp tại 30/06/2026); vốn hóa ~380 tỷ VNĐ
+  - **Vốn điều lệ:** **210,0 tỷ VNĐ** (21,0 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Chuyển phát nhanh – logistics, nhu cầu tăng theo thương mại điện tử.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (64,7 / 65,6 / 69,5 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Thương hiệu EMS và quyền khai thác mạng bưu cục VNPost — lợi thế mạng lưới.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE 5/5 năm 2021 – 2025 trên 10% (21,2% – 26,7%).
+- **Điểm mạnh đặc biệt:** (1) ROE >20% sáu năm liền, không nợ vay; (2) P/E TTM ~4,2x; (3) LNST 6T/2026 gấp đôi cùng kỳ.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Biên gộp mỏng dần trong ngành cạnh tranh gay gắt:** Biên gộp giảm từ 18,9% (2021) xuống 15,4% (2025) và 13,0% (6T/2026) trước Viettel Post, GHN, J&T, SPX; doanh thu 2025 vẫn thấp hơn đỉnh 2021 (2.495,6 tỷ VNĐ). Phải thu 412,6 tỷ VNĐ (~53% tổng tài sản) — cần xác minh tỷ trọng phải thu từ VNPost/bên liên quan.
+  - CFO 2022 âm -157,6 tỷ VNĐ; phụ thuộc mạng lưới và quyết định của công ty mẹ VNPost (tỷ lệ sở hữu chưa xác minh).
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Logistics; xác minh tỷ lệ sở hữu VNPost, giao dịch bên liên quan và nguyên nhân LNST 6T/2026 tăng mạnh.
+- **Ngày tốt nghiệp phễu:** 2026-11-03
+
+---
+
+### 386. F88 - Công ty cổ phần Đầu tư F88
+- **Mã cổ phiếu:** `F88` (Sàn UPCOM từ 08/08/2025 — thanh khoản tốt, 308/308 phiên có khớp lệnh; HĐQT đã thông qua phương án chuyển sang HOSE ngày 24/09/2026)
+- **Ngành nghề niêm yết:** Tài chính / Chuỗi cầm đồ & Cho vay tiêu dùng có tài sản bảo đảm (xe máy, ô tô)
+- **Hoạt động kinh doanh chính:** Chuỗi kinh doanh dịch vụ cầm đồ – cho vay cầm cố tài sản cho phân khúc khách hàng ít tiếp cận ngân hàng, kết hợp phân phối bảo hiểm; tài trợ bằng vay ngân hàng và trái phiếu. Năm 2026 chia cổ phiếu thưởng (vốn điều lệ 1.101,3 ➔ 2.202,5 tỷ VNĐ) và chào bán ra công chúng giá 71.000 VNĐ/cp (vốn điều lệ 2.312,7 tỷ VNĐ tại 30/09/2026).
+- **Luận điểm cốt lõi:**
+  - **Tăng trưởng mạnh sau khủng hoảng 2023:** Doanh thu tăng từ 2.081,6 (2023) lên 3.105,0 tỷ VNĐ (2025); LNST từ lỗ -545,3 tỷ (2023) lên 351,3 (2024) và **719,3 tỷ VNĐ (2025)**; 9T/2026 LNST 863,5 tỷ VNĐ (+80% YoY so với ~479,2 tỷ).
+  - **ROE cao:** ROE 2024 – 2025 đạt 22,6% – 34,4%; vốn CSH tăng lên 4.079,4 tỷ VNĐ (30/09/2026) sau đợt chào bán, giảm đòn bẩy (nợ vay/VCSH ~0,96 lần).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST công ty mẹ | Vốn CSH cuối kỳ (cty mẹ) | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 1.086,9 | 42,7% | 52,3 | 467,2 | **12,0%** |
+  | 2022 | 2.089,0 | 47,9% | 166,3 | 814,1 | **26,0%** |
+  | 2023 | 2.081,6 | -11,6% | **-545,3** | 1.376,4 | -49,8% |
+  | 2024 | 2.280,5 | 27,5% | 351,3 | 1.727,6 | **22,6%** |
+  | 2025 | 3.105,0 | 38,4% | 719,3 | 2.449,0 | **34,4%** |
+  | 9T/2026 | 3.459,9 | 37,5% | 863,5 | 4.079,2 | — |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~9,8x** (LNST 4 quý gần nhất Q4/2025 – Q3/2026 ~1.103,6 tỷ VNĐ; EPS ~4.770 VNĐ/cp trên 231,3 triệu cp)
+  - **P/B:** **~2,65x** (Thị giá 46.700 VNĐ/cp ngày 03/11/2026 so với BVPS ~17.640 VNĐ/cp tại 30/09/2026); vốn hóa ~10.800 tỷ VNĐ — thị giá đã giảm ~34% so với giá chào bán công chúng 71.000 VNĐ/cp
+  - **Vốn điều lệ:** **2.312,7 tỷ VNĐ** (231,27 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Tài chính tiêu dùng có bảo đảm, không thuộc BĐS/xây lắp.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: Chỉ lỗ năm 2023 (-545,3 tỷ VNĐ); 2024 – 2025 lãi 351,3 / 719,3 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Chuỗi cầm đồ có thương hiệu toàn quốc, biên gộp 27% – 48%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% ở 4/5 năm (12,0% – 34,4%), riêng 2023 âm.
+- **Điểm mạnh đặc biệt:** (1) LNST 9T/2026 +80% YoY, ROE 2025 34,4%; (2) Vốn CSH tăng mạnh sau phát hành, đòn bẩy giảm; (3) Chuẩn bị chuyển sang HOSE.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Rủi ro tín dụng & chu kỳ:** Năm 2023 lỗ -545,3 tỷ VNĐ do trích lập/xóa nợ (lợi nhuận gộp âm -241,1 tỷ) — chất lượng danh mục cho vay có thể xấu nhanh khi kinh tế suy giảm. CFO âm mọi năm (2025: -1.752 tỷ VNĐ) vì tăng trưởng dư nợ được tài trợ bằng vay nợ 3.929,7 tỷ VNĐ và phát hành cổ phiếu.
+  - Rủi ro pháp lý ngành cầm đồ/cho vay tiêu dùng (trần lãi suất, quy định thu hồi nợ); pha loãng mạnh năm 2026 (231,3 triệu cp so với 8,5 triệu cp cuối 2025); P/B ~2,65x không rẻ.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Tài chính tiêu dùng; theo dõi tỷ lệ nợ xấu, chi phí dự phòng theo quý và tiến độ niêm yết HOSE.
+- **Ngày tốt nghiệp phễu:** 2026-11-03
+
+---
+
+### 387. FBC - Công ty cổ phần Cơ khí Phổ Yên
+- **Mã cổ phiếu:** `FBC` (Sàn UPCOM từ 10/2017 — **không có phiên khớp lệnh nào** trong dữ liệu 2025 – 2026; giá tham chiếu đứng yên 3.700 VNĐ/cp)
+- **Ngành nghề niêm yết:** Công nghiệp / Phụ tùng xe máy – ô tô & Vòng bi (FOMECO, Thái Nguyên — hệ thống VEAM)
+- **Hoạt động kinh doanh chính:** Cổ phần hóa 2003; sản xuất vòng bi, linh kiện – cụm chi tiết phụ tùng xe máy, ô tô cung cấp trực tiếp cho Honda, Yamaha, Suzuki; phụ tùng máy nông nghiệp, máy công trình và phụ kiện cơ khí xây dựng xuất khẩu sang Nhật Bản (khách hàng như TANAKA), Mỹ, châu Âu.
+- **Luận điểm cốt lõi:**
+  - **Nhà cung cấp cấp 1 cho hãng xe Nhật:** Doanh thu 1.049,7 – 1.309,9 tỷ VNĐ/năm (2021 – 2025); biên gộp cải thiện từ 11,2% (2021) lên 19,3% (2025); LNST tăng liên tục từ 33,8 lên **78,2 tỷ VNĐ**.
+  - **ROE rất cao nhờ chia gần hết lợi nhuận:** ROE 2021 – 2025 từ 28,9% lên 66,6%; không có nợ vay; cổ tức tiền mặt đã trả 2023 – 2025: 44,1 / 73,4 / 39,2 tỷ VNĐ (vốn điều lệ chỉ 37 tỷ VNĐ).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect chưa có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 1.065,3 | 11,2% | 33,8 | 116,5 | **28,9%** |
+  | 2022 | 1.309,9 | 14,3% | 65,9 | 143,4 | **50,7%** |
+  | 2023 | 1.049,7 | 18,3% | 72,7 | 150,2 | **49,5%** |
+  | 2024 | 1.117,1 | 18,5% | 75,7 | 116,2 | **56,8%** |
+  | 2025 | 1.152,0 | 19,3% | 78,2 | 118,7 | **66,6%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~0,2x** (LNST 2025; EPS ~21.130 VNĐ/cp) — *danh nghĩa, tính trên giá tham chiếu không có giao dịch*
+  - **P/B:** **~0,12x** (Giá tham chiếu 3.700 VNĐ/cp ngày 03/11/2026 so với BVPS ~32.080 VNĐ/cp tại 31/12/2025); vốn hóa danh nghĩa ~13,7 tỷ VNĐ
+  - **Vốn điều lệ:** **37,0 tỷ VNĐ** (3,7 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Cơ khí chế tạo phụ tùng, không thuộc BĐS/xây lắp.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (72,7 / 75,7 / 78,2 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Nhà cung cấp cấp 1 đạt chuẩn chất lượng của Honda/Yamaha/Suzuki, biên gộp ~19%; đồng thời P/B danh nghĩa ~0,12x < 0,5.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE 5/5 năm 2021 – 2025 trên 10% (28,9% – 66,6%).
+- **Điểm mạnh đặc biệt:** (1) LNST tăng liên tục 2021 – 2025, biên gộp cải thiện; (2) Không nợ vay, chia cổ tức tiền mặt rất cao; (3) Khách hàng là các hãng xe máy Nhật.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Không thể giao dịch & định giá danh nghĩa:** Cổ phiếu gần như không có người bán từ khi lên UPCOM (theo báo chí), giá tham chiếu 3.700 VNĐ/cp không phản ánh giá trị — P/E/P/B chỉ mang tính tham khảo. Phụ thuộc nhóm khách hàng hãng xe máy (thị trường xe máy bão hòa, xu hướng chuyển sang xe điện).
+  - CFO 2025 âm -11,6 tỷ VNĐ do tồn kho tăng từ 95,8 lên 137,5 tỷ VNĐ; tiền mặt giảm từ 126,9 xuống 60,0 tỷ VNĐ sau khi chi cổ tức lớn.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Cơ khí – Phụ tùng; xác minh cơ cấu cổ đông (VEAM), tỷ trọng doanh thu theo khách hàng và nguyên nhân tồn kho tăng 2025.
+- **Ngày tốt nghiệp phễu:** 2026-11-03
