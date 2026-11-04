@@ -33,6 +33,8 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
 | 21 | **G20** | Công ty cổ phần Đầu tư Dệt may G.Home | Dệt may (ngừng hoạt động) | Không có doanh thu từ 2019, lỗ liên tục 2019-2023 (2021-2023: -7,6 / -15,2 / -13,2 tỷ), Vốn CSH âm -149 tỷ | 2026-11-03 |
 | 22 | **GGG** | Công ty cổ phần Ô tô Giải Phóng | Lắp ráp & phân phối xe tải | Thua lỗ liên tiếp 7 năm (2023-2025: -15,7 / -19,5 / -14,7 tỷ), 9T/2026 lỗ -14,6 tỷ, vốn CSH âm đến Q2/2026 | 2026-11-04 |
 | 23 | **GLC** | Công ty cổ phần Vàng Lào Cai | Khai thác vàng (mỏ Minh Lương) | Thua lỗ liên tiếp 7 năm (2023-2025: -13,9 / -2,1 / -3,6 tỷ), giấy phép mỏ hết hạn từ 2019, vốn CSH âm -13,8 tỷ | 2026-11-04 |
+| 24 | **GMC** | Công ty Cổ phần Garmex Sài Gòn | May mặc xuất khẩu (ngừng sản xuất từ 05/2023) | Thua lỗ liên tiếp 4 năm (2023-2025: -51,9 / -29,9 / -24,0 tỷ), 9T/2026 lỗ -51,0 tỷ, doanh thu gần bằng 0 | 2026-11-04 |
+| 25 | **GTD** | Công ty Cổ phần Giầy Thượng Đình | Sản xuất giày vải, giày thể thao | Thua lỗ liên tiếp 3 năm (2023-2025: -5,0 / -13,0 / -38,7 tỷ), vốn CSH âm -12,4 tỷ | 2026-11-04 |
 
 ---
 
@@ -459,4 +461,47 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
   - Giấy phép khai thác mỏ vàng Minh Lương hết hạn từ 24/06/2019; không có doanh thu 2020 – 2023, doanh thu 2024 – 2025 rất nhỏ với biên gộp ~0. Lỗ lũy kế vượt vốn điều lệ 105 tỷ VNĐ (báo chí: lỗ lũy kế 2023 hơn 113 tỷ VNĐ); vay ngắn hạn 14,4 tỷ VNĐ; lãnh đạo cấp cao biến động liên tục.
   - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ File 5 sang Bước 2.)*
   - Định giá: Giá 3.600 VNĐ/cp (phiên khớp gần nhất 16/10/2026), vốn hóa ~38 tỷ VNĐ; vốn CSH âm nên P/B không có ý nghĩa.
+- **Ngày Phân Tích:** 04/11/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 25. GMC - Công ty Cổ phần Garmex Sài Gòn
+- **Mã cổ phiếu:** `GMC` (Sàn UPCOM từ 12/02/2025 sau khi bị hủy niêm yết bắt buộc trên HOSE — diện hạn chế giao dịch; 141/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Dệt may / Sản xuất hàng may mặc xuất khẩu (đã ngừng sản xuất từ 05/2023)
+- **Lý do loại trừ tại Bước 2 (Lỗ 4 năm liên tiếp 2022 – 2025, tiếp tục lỗ 9T/2026):**
+  - **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+    | Năm | Doanh thu thuần | Lợi nhuận gộp | LNST | Vốn CSH cuối kỳ | Trạng thái |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | 2021 | 1.064,8 | 167,1 | 43,6 | 702,6 | Lãi |
+    | 2022 | 292,2 | -3,3 | **-84,7** | 448,0 | **Lỗ** |
+    | 2023 | 8,3 | -4,0 | **-51,9** | 392,4 | **Lỗ** |
+    | 2024 | 2,1 | 1,9 | **-29,9** | 365,8 | **Lỗ** |
+    | 2025 | 1,8 | 1,6 | **-24,0** | 341,9 | **Lỗ** |
+    | 9T/2026 | 1,6 | 1,6 | **-51,0** | 290,6 | **Lỗ** |
+
+  - Doanh thu sụt 93% năm 2022 khi mất đơn hàng chuỗi cung ứng Amazon; ngừng sản xuất may mặc từ 05/2023, nguồn thu còn lại chủ yếu là cho thuê sân pickleball. Chi phí quản lý 32 – 48 tỷ VNĐ/năm vượt xa doanh thu; lỗ lũy kế 127,8 tỷ VNĐ cuối 2025; Q3/2026 lỗ kỷ lục -24,7 tỷ VNĐ, nhân sự còn 26 người. Công ty đã thông qua chuyển nhượng khu đất >50.000 m² tại Bà Rịa – Vũng Tàu giá 313 tỷ VNĐ.
+  - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2.)*
+  - Định giá: Giá 4.200 VNĐ/cp, vốn hóa ~139 tỷ VNĐ, P/B ~0,48x (BVPS ~8.810 VNĐ/cp tại 30/09/2026).
+- **Ngày Phân Tích:** 04/11/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 26. GTD - Công ty Cổ phần Giầy Thượng Đình
+- **Mã cổ phiếu:** `GTD` (Sàn UPCOM — chỉ giao dịch phiên thứ Sáu từ 09/04/2026 do vốn CSH âm; 158/400 phiên có khớp lệnh, phiên gần nhất 18/09/2026)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng / Sản xuất giày vải, giày thể thao (thương hiệu Thượng Đình, nhà máy tại 277 Nguyễn Trãi, Hà Nội)
+- **Lý do loại trừ tại Bước 2 (Lỗ 3 năm liên tiếp 2023 – 2025, vốn CSH âm):**
+  - **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect chưa có BCTC quý):**
+
+    | Năm | Doanh thu thuần | Lợi nhuận gộp | LNST | Vốn CSH cuối kỳ | Trạng thái |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | 2021 | 108,6 | 21,5 | **-0,8** | 44,2 | **Lỗ** |
+    | 2022 | 108,5 | 25,2 | 0,1 | 44,3 | Hòa vốn |
+    | 2023 | 80,2 | 16,3 | **-5,0** | 39,3 | **Lỗ** |
+    | 2024 | 78,8 | 10,3 | **-13,0** | 26,3 | **Lỗ** |
+    | 2025 | 66,4 | 0,4 | **-38,7** | -12,4 | **Lỗ** |
+
+  - Doanh thu giảm liên tục từ 165,8 tỷ VNĐ (2019); lợi nhuận gộp 2025 chỉ còn 0,4 tỷ VNĐ (-96%). Lỗ lũy kế 105,8 tỷ VNĐ vượt vốn điều lệ 93 tỷ VNĐ; vốn CSH âm -12,4 tỷ VNĐ, mất tư cách công ty đại chúng. Cổ đông cá nhân sở hữu 68,66% sau khi Hà Nội thoái vốn; công ty dự kiến chào bán riêng lẻ 216,5 triệu cổ phiếu giá 10.000 VNĐ/cp để làm dự án trên khu "đất vàng" Nguyễn Trãi — giá cổ phiếu phản ánh kỳ vọng đất đai chứ không phải hoạt động kinh doanh giày.
+  - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2.)*
+  - Định giá: Giá 95.600 VNĐ/cp, vốn hóa ~889 tỷ VNĐ; vốn CSH âm nên P/B không có ý nghĩa.
 - **Ngày Phân Tích:** 04/11/2026 (Hiệu đính phân loại lại)

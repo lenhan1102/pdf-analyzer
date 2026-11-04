@@ -12636,3 +12636,78 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Quy mô rất nhỏ, cạnh tranh trực tiếp với bóng Động Lực và hàng nhập khẩu giá rẻ; cổ phiếu gần như không giao dịch. Năm 2022 sẽ rời khỏi cửa sổ 5 năm ở lần sàng lọc sau nếu ROE 2026 < 10%.
 - **Hành động tiếp theo:** Chỉ theo dõi; không ưu tiên do quy mô nhỏ và lợi nhuận cốt lõi mỏng.
 - **Ngày tốt nghiệp phễu:** 2026-11-04
+
+---
+
+### 397. GPC - CTCP Tập đoàn Green+
+- **Mã cổ phiếu:** `GPC` (Sàn UPCOM từ 06/01/2023 — thanh khoản tốt, 399/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng / Thảo dược, dược phẩm & thực phẩm chức năng (phân phối độc quyền nhân sâm Wisconsin – Hoa Kỳ)
+- **Hoạt động kinh doanh chính:** Tiền thân là CTCP Đầu tư Thảo Dược Xanh (thành lập 2016); sản xuất và phân phối thảo dược, có nhà máy và vùng nguyên liệu tại Kon Tum và Bến Tre (trụ sở KCN Giao Long, Bến Tre), mở rộng sang chuỗi nhà thuốc và bất động sản.
+- **Luận điểm cốt lõi:**
+  - **Vượt Bước 4 nhờ một năm:** ROE 2021 đạt 13,7% (bình quân vốn CSH công ty mẹ) — doanh nghiệp không thuộc diện "ROE < 10% cả 5 năm". *(Hiệu đính: hồ sơ cũ ghi ROE "-0.3%, 0.7%", thiếu các năm 2021 – 2022, và loại tại Bước 4.)*
+  - **Lọt Bước 3 nhờ ngoại lệ P/B:** P/B ~0,18x < 0,5 nên được giữ lại bất kể vị trí chuỗi giá trị.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo; LNST và vốn CSH thuộc công ty mẹ):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 564,4 | 6,9% | 37,8 | 415,2 | **13,7%** |
+  | 2022 | 548,7 | 6,0% | 15,1 | 582,3 | 3,0% |
+  | 2023 | 89,5 | 12,4% | -1,6 | 580,6 | -0,3% |
+  | 2024 | 80,6 | 13,1% | 4,4 | 584,0 | 0,8% |
+  | 2025 | 152,8 | 14,2% | 1,9 | 585,5 | 0,3% |
+  | 6T/2026 | 63,8 | 9,1% | 2,0 | 587,3 | - |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~67x** (LNST 4 quý gần nhất Q3/2025 – Q2/2026 chỉ 1,6 tỷ VNĐ; EPS ~30 VNĐ/cp — không có ý nghĩa)
+  - **P/B:** **~0,18x** (Giá 2.000 VNĐ/cp ngày 04/11/2026 so với BVPS ~10.860 VNĐ/cp tại 30/06/2026); vốn hóa ~108 tỷ VNĐ.
+  - **Vốn điều lệ:** **540,7 tỷ VNĐ** (54,07 triệu cổ phiếu; tăng từ 120 tỷ VNĐ năm 2020)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Thảo dược, dược phẩm & thực phẩm chức năng tiêu dùng.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: Chỉ lỗ năm 2023 (-1,6 tỷ VNĐ); 2024 và 2025 có lãi.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn theo ngoại lệ: Phần lớn là phân phối với biên gộp 6% – 14%, nhưng P/B ~0,18x < 0,5.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn (sát nút): ROE ≥ 10% ở 1/5 năm (2021: 13,7%).
+- **Điểm mạnh đặc biệt:** (1) Giá thị trường chỉ ~18% giá trị sổ sách; (2) Vay nợ giảm từ 173,1 tỷ VNĐ (cuối 2024) xuống 72,9 tỷ VNĐ (30/06/2026), CFO 6T/2026 dương 87,2 tỷ VNĐ nhờ thu hồi phải thu.
+- **Rủi ro cần theo dõi:**
+  - > [!CAUTION]
+    > **Chất lượng tài sản và lợi nhuận đáng ngờ:** Phải thu 272,0 tỷ VNĐ (38% tổng tài sản cuối 2025; đỉnh 395,8 tỷ VNĐ = 51% năm 2024) trong khi doanh thu năm chỉ 80 – 150 tỷ VNĐ. CFO âm 4/5 năm (2021, 2023 – 2025; riêng 2024 -130,5 tỷ VNĐ). Năm ROE ≥ 10% duy nhất (2021) là trước khi lên sàn, khi doanh thu ~560 tỷ VNĐ với biên gộp chỉ 6,9% — doanh thu sau đó sụt ~85% mà chưa rõ cơ cấu. Vốn điều lệ tăng 4,5 lần trong 5 năm nhưng LNST 2023 – 2025 gần bằng 0.
+  - Q3/2025 lỗ -7,4 tỷ VNĐ với lợi nhuận gộp âm; VNDirect chưa có BCTC Q3/2026. Năm 2021 sẽ rời khỏi cửa sổ 5 năm ở lần sàng lọc sau nếu ROE 2026 < 10%.
+- **Hành động tiếp theo:** Chỉ theo dõi; cần kiểm tra thuyết minh phải thu (đối tượng, tuổi nợ, bên liên quan) trước khi xem xét.
+- **Ngày tốt nghiệp phễu:** 2026-11-04
+
+---
+
+### 398. GSM - Công ty cổ phần Thủy điện Hương Sơn
+- **Mã cổ phiếu:** `GSM` (Sàn UPCOM — thanh khoản khá, 373/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Năng lượng / Sản xuất thủy điện (xã Sơn Kim 1, huyện Hương Sơn, Hà Tĩnh)
+- **Hoạt động kinh doanh chính:** Sở hữu và vận hành cụm thủy điện Hương Sơn tổng công suất 39,4 MW: Hương Sơn 1 (33 MW, 2 tổ máy 16 MW tuốc bin gáo, vận hành từ 2011) và Hương Sơn 2 (6,4 MW, tận dụng nước xả của nhà máy 1, vận hành thương mại cuối 2024); bán điện cho EVN.
+- **Luận điểm cốt lõi:**
+  - **Tài sản phát điện đã khấu hao phần lớn, biên gộp rất cao:** Biên gộp 41,7% – 60,8%; LNST 2025 đạt kỷ lục 114,2 tỷ VNĐ (+64% YoY) nhờ thủy văn thuận lợi và nhà máy Hương Sơn 2.
+  - **Hiệu quả vốn đạt chuẩn ở 4/5 năm:** ROE 13,4% / 14,2% / 7,4% / 13,9% / 21,3% (2021 – 2025); chỉ năm 2023 (hạn hán) dưới 10%.
+  - **Dòng tiền thật:** CFO 2021 – 2025 cộng dồn 582,9 tỷ VNĐ, vượt LNST cộng dồn 340,6 tỷ VNĐ; cổ tức tiền mặt 10% (2023), 20% (2024), 20% (2025).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 150,0 | 52,5% | 55,0 | 435,8 | **13,4%** |
+  | 2022 | 174,3 | 53,7% | 65,6 | 488,7 | **14,2%** |
+  | 2023 | 124,4 | 41,7% | 36,2 | 496,3 | 7,4% |
+  | 2024 | 156,7 | 54,7% | 69,6 | 508,8 | **13,9%** |
+  | 2025 | 230,4 | 60,8% | 114,2 | 565,9 | **21,3%** |
+  | 9T/2026 | 140,5 (-9,9% YoY) | 54,4% | 51,3 (-29,6% YoY) | 529,0 | - |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~7,1x** (LNST 4 quý gần nhất Q4/2025 – Q3/2026: 92,6 tỷ VNĐ; EPS ~3.240 VNĐ/cp)
+  - **P/B:** **~1,24x** (Giá 22.900 VNĐ/cp ngày 04/11/2026 so với BVPS ~18.520 VNĐ/cp tại 30/09/2026); vốn hóa ~654 tỷ VNĐ.
+  - **Vốn điều lệ:** **285,6 tỷ VNĐ** (28,56 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất điện – tài nguyên nước, hợp đồng bán điện dài hạn.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 36,2 / 69,6 / 114,2 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Chủ sở hữu tài sản phát điện, biên gộp > 40%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% ở 4/5 năm.
+- **Điểm mạnh đặc biệt:** (1) Nợ vay giảm dần: vay dài hạn 143,7 tỷ VNĐ + ngắn hạn 11,5 tỷ VNĐ tại 30/09/2026, lãi vay 2025 chỉ 13,8 tỷ VNĐ so với lợi nhuận gộp 139,9 tỷ VNĐ; (2) Đã đầu tư xong giai đoạn 2 (chi đầu tư ~337 tỷ VNĐ trong 2021 – 2024), capex 2025 chỉ 4,4 tỷ VNĐ — dư địa trả cổ tức cao.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Lợi nhuận phụ thuộc thủy văn:** Năm 2023 (hạn hán) doanh thu giảm 29% và ROE rơi xuống 7,4%. 9T/2026 LNST giảm 29,6% YoY; vốn CSH giảm ~88 tỷ VNĐ trong Q3/2026 (sau khi cộng LNST quý) và CFO Q3/2026 âm -66,4 tỷ VNĐ — nhiều khả năng liên quan đến chia cổ tức, chưa xác minh.
+  - Quy mô nhỏ (39,4 MW), giá bán phụ thuộc biểu giá EVN/thị trường điện cạnh tranh; rủi ro lũ quét, sạt lở tại vùng núi Hà Tĩnh.
+- **Hành động tiếp theo:** Đưa vào danh sách theo dõi; kiểm tra sản lượng điện theo năm và chính sách cổ tức 2026.
+- **Ngày tốt nghiệp phễu:** 2026-11-04

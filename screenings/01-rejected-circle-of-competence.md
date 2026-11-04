@@ -2958,11 +2958,14 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 ---
 
 ### 262. GND - Công ty Cổ phần Gạch ngói Đồng Nai
-- **Mã cổ phiếu:** `GND` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `GND` (Sàn UPCOM — thanh khoản thấp, 223/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Vật liệu xây dựng / Sản xuất gạch ngói đất sét nung (2 nhà máy tại Đồng Nai, dây chuyền nhập khẩu Đức & Italia)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **VLXD đại trà ngoài VTNL:** Gạch ngói nung là vật liệu xây dựng phổ thông, cầu phụ thuộc chu kỳ xây dựng dân dụng, không có tài nguyên khan hiếm hay vị thế độc quyền — nhất quán với các tiền lệ GMX, MCC, NHC, BTN. *(Hiệu đính lý do: hồ sơ cũ ghi nhầm "Bất động sản dân dụng, phân lô bán nền".)*
+  - **Sức cạnh tranh đang suy yếu (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** Doanh thu giảm từ 370,1 (2022) xuống 270,9 (2025); biên gộp từ 30,1% xuống 22,9% – 26,1%; LNST từ 49,1 xuống 20,9 – 24,9. ROE 2021 – 2025: 13,2% / 15,2% / 10,2% / 6,1% / 7,1%. Nhà máy Đồng Nai 2 (60 triệu viên/năm) dừng hoạt động từ 07/2025 để di dời theo quy hoạch KCN Biên Hòa 1.
+  - Tài chính lành mạnh: tiền & đầu tư ngắn hạn 205,9 tỷ VNĐ, vay ngắn hạn 38,5 tỷ VNĐ, cổ tức ~20%/năm. Kể cả nếu được xét tiếp, cũng rớt Bước 3: sản phẩm đại trà và P/B ~0,61x ≥ 0,5.
+  - Định giá: Giá 23.800 VNĐ/cp, vốn hóa ~214 tỷ VNĐ, P/B ~0,61x, P/E ~8,6x (LNST 2025; VNDirect chưa có BCTC quý).
+- **Ngày Phân Tích:** 04/11/2026
 
 ---
 

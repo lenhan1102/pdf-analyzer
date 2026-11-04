@@ -4426,33 +4426,6 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 221. GMC - Công ty Cổ phần Garmex Sài Gòn
-- **Mã cổ phiếu:** `GMC` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Hàng tiêu dùng
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (7.0%, 6.2%, -13.2%, -8.2%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
-### 222. GPC - CTCP Tập đoàn Green+
-- **Mã cổ phiếu:** `GPC` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Hàng tiêu dùng
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-0.3%, 0.7%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
-### 223. GTD - Công ty Cổ phần Giầy Thượng Đình
-- **Mã cổ phiếu:** `GTD` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Hàng tiêu dùng
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-30.6%, -1.8%, -12.8%, -49.3%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
 ### 224. HAF - Công ty Cổ phần Thực phẩm Hà Nội
 - **Mã cổ phiếu:** `HAF` (Sàn UPCOM)
 - **Ngành nghề niêm yết:** Hàng tiêu dùng
