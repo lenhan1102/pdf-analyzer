@@ -389,3 +389,32 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ ba: 
   - Thực tế: P/B = 1.71 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net.
 - **Lý do bị loại:** Bao bì nhựa màng mỏng và thương mại hạt nhựa là sản phẩm đại trà, biên gộp cả năm dưới 9%, không có quyền định giá; P/B ~1,71 lần nên bị loại tại Bước 3. *(Hiệu đính: trước đây bot quét thô gán "Rớt B4"; ROE 2023 – 2025 cũng chỉ 5,7% – 6,5%, nên kể cả qua Bước 3 vẫn rớt Bước 4.)*
 - **Ngày sàng lọc:** 2026-11-02
+
+---
+
+### 26. GTX - Công ty cổ phần Global Tanker
+- **Mã cổ phiếu:** `GTX` (Sàn UPCOM từ 11/09/2026 — 21/39 phiên có khớp lệnh; giá chào sàn 22.500 VNĐ/cp)
+- **Ngành nghề niêm yết:** Vận tải & Kho bãi / Chủ tàu vận tải xăng dầu, hóa chất (4 tàu: GT Peace, GT Victory, GT Equality, GT Win)
+- **Bước 1 (Vòng tròn năng lực):** ✅ Pass. Vận tải biển, không thuộc nhóm BĐS/xây lắp/VLXD.
+- **Bước 2 (Lợi nhuận 3 năm):** ✅ Pass. LNST 2024 – 2025 dương (56,7 / 54,4 tỷ VNĐ); 2023 VNDirect thiếu KQKD nhưng lợi nhuận chưa phân phối tăng 22,7 tỷ VNĐ trong năm.
+- **Vị thế chuỗi giá trị:**
+  - Chủ tàu nhỏ (4 tàu, 7 nhân sự) cho thuê/khai thác tuyến chở xăng dầu, hóa chất từ Dung Quất, TP.HCM, Hải Phòng đi Singapore, Malaysia, Trung Quốc. Dịch vụ vận tải tàu dầu sản phẩm là hàng hóa đại trà: giá cước do cung cầu tàu khu vực quyết định, không có hợp đồng bao tiêu độc quyền như PVT — cùng nhóm với VOS (đã loại tại Bước 3).
+  - Biên gộp chỉ **6,7% – 12,4%** (2021 – 2025). Lợi nhuận 9T/2026 tăng vọt chủ yếu nhờ thu nhập khác 170,2 tỷ VNĐ từ thanh lý tàu trong Q2/2026, không phải từ khai thác.
+- **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo; thiếu KQKD 2023):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 307,2 | 6,7% | 12,9 | 228,0 | — | 11,7 |
+  | 2022 | 512,0 | 10,8% | 31,7 | 304,4 | 11,9% | -4,5 |
+  | 2023 | — | — | — | 402,1 | — | — |
+  | 2024 | 814,1 | 10,2% | 56,7 | 421,7 | 13,8% | 139,0 |
+  | 2025 | 743,6 | 12,4% | 54,4 | 433,1 | 12,7% | 322,5 |
+  | 9T/2026 | 551,5 | 16,7% | 200,3 | 632,8 | — | — |
+
+  - > [!WARNING]
+    > **Đầu tư tàu bằng nợ vay:** Chi đầu tư 309,8 tỷ VNĐ năm 2025 và 123,5 tỷ VNĐ 6T/2026; vay dài hạn tăng từ 173,7 (cuối 2025) lên 304,5 tỷ VNĐ (30/09/2026) để đóng 2 tàu 13.100 DWT và 1 tàu 7.500 DWT; kế hoạch tăng vốn điều lệ từ 350 lên 550 tỷ VNĐ giai đoạn 2026 – 2027.
+- **Định giá P/B thực tế:** **~0,88 lần** (Thị giá 16.000 VNĐ/cp ngày 03/11/2026 so với BVPS ~18.080 VNĐ/cp tại 30/09/2026); vốn hóa ~560 tỷ VNĐ; P/E ~2,6x theo LNST 4 quý gần nhất (218,3 tỷ VNĐ, gồm lãi bán tàu) — ~7x nếu loại thu nhập khác.
+  - Điều kiện ngoại lệ giữ lại: Định giá phải siêu rẻ với P/B < 0.5.
+  - Thực tế: P/B = 0.88 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net.
+- **Lý do bị loại:** Chủ tàu dầu sản phẩm quy mô nhỏ, cước theo thị trường, biên gộp 7% – 12%, lợi nhuận đột biến 2026 đến từ bán tàu; P/B ~0,88 lần nên bị loại tại Bước 3. *(Hiệu đính: hồ sơ cũ ghi nhầm "Doanh nghiệp đầu ngành… Vượt B4". ROE 2022 – 2025 ~12% – 14% sẽ qua Bước 4 nếu được xét tiếp.)*
+- **Ngày sàng lọc:** 2026-11-04

@@ -35,6 +35,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
 | 23 | **GLC** | Công ty cổ phần Vàng Lào Cai | Khai thác vàng (mỏ Minh Lương) | Thua lỗ liên tiếp 7 năm (2023-2025: -13,9 / -2,1 / -3,6 tỷ), giấy phép mỏ hết hạn từ 2019, vốn CSH âm -13,8 tỷ | 2026-11-04 |
 | 24 | **GMC** | Công ty Cổ phần Garmex Sài Gòn | May mặc xuất khẩu (ngừng sản xuất từ 05/2023) | Thua lỗ liên tiếp 4 năm (2023-2025: -51,9 / -29,9 / -24,0 tỷ), 9T/2026 lỗ -51,0 tỷ, doanh thu gần bằng 0 | 2026-11-04 |
 | 25 | **GTD** | Công ty Cổ phần Giầy Thượng Đình | Sản xuất giày vải, giày thể thao | Thua lỗ liên tiếp 3 năm (2023-2025: -5,0 / -13,0 / -38,7 tỷ), vốn CSH âm -12,4 tỷ | 2026-11-04 |
+| 26 | **GTT** | Công ty Cổ phần Thuận Thảo | Vận tải hành khách, khách sạn & du lịch (Phú Yên) | Lỗ kéo dài (2019: -165,9 tỷ), không công bố BCTC từ 2020, vốn CSH âm -988,8 tỷ, tài sản thế chấp bị kê biên | 2026-11-04 |
 
 ---
 
@@ -504,4 +505,16 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
   - Doanh thu giảm liên tục từ 165,8 tỷ VNĐ (2019); lợi nhuận gộp 2025 chỉ còn 0,4 tỷ VNĐ (-96%). Lỗ lũy kế 105,8 tỷ VNĐ vượt vốn điều lệ 93 tỷ VNĐ; vốn CSH âm -12,4 tỷ VNĐ, mất tư cách công ty đại chúng. Cổ đông cá nhân sở hữu 68,66% sau khi Hà Nội thoái vốn; công ty dự kiến chào bán riêng lẻ 216,5 triệu cổ phiếu giá 10.000 VNĐ/cp để làm dự án trên khu "đất vàng" Nguyễn Trãi — giá cổ phiếu phản ánh kỳ vọng đất đai chứ không phải hoạt động kinh doanh giày.
   - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2.)*
   - Định giá: Giá 95.600 VNĐ/cp, vốn hóa ~889 tỷ VNĐ; vốn CSH âm nên P/B không có ý nghĩa.
+- **Ngày Phân Tích:** 04/11/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 27. GTT - Công ty Cổ phần Thuận Thảo
+- **Mã cổ phiếu:** `GTT` (Sàn UPCOM sau khi bị hủy niêm yết trên HOSE từ 30/05/2016 — diện hạn chế, chỉ giao dịch thứ Sáu; 0/400 phiên có khớp lệnh từ đầu 2025)
+- **Ngành nghề niêm yết:** Dịch vụ / Vận tải hành khách, khách sạn & du lịch (Phú Yên)
+- **Lý do loại trừ tại Bước 2 (Thua lỗ kéo dài, vốn CSH âm sâu, không công bố BCTC từ 2020):**
+  - **Số liệu cuối cùng có trên VNDirect Finfo — BCTC năm 2019 (Tỷ VNĐ):** Doanh thu 24,5; chi phí lãi vay 105,1; LNST **-165,9**; tổng tài sản 713,4 nhưng nợ ngắn hạn 1.657,7; vốn CSH **-988,8**; lỗ lũy kế 1.435,6 (vốn điều lệ 435 tỷ VNĐ).
+  - Theo báo chí, đến 09/2020 lỗ lũy kế vượt 1.500 tỷ VNĐ và vốn CSH âm ~1.075 tỷ VNĐ; công ty đã lỗ nhiều năm liên tiếp trước đó. Tài sản thế chấp tại BIDV (khách sạn 5 sao Cendeluxe, khu du lịch sinh thái Thuận Thảo) bị kê biên, bán đấu giá để thu hồi nợ.
+  - **Quy chuẩn loại trừ:** VNDirect không có BCTC 2020 – 2025, nên không có bằng chứng doanh nghiệp có lãi ở bất kỳ năm nào trong 3 năm gần nhất. Cùng với chuỗi lỗ đến 2020 và vốn CSH âm gần 1.000 tỷ VNĐ, xếp vào Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ File 5 sang Bước 2 — hồ sơ cũ ghi nhầm "Doanh nghiệp đầu ngành".)*
+  - Định giá: Giá tham chiếu 300 VNĐ/cp, không có giao dịch; vốn CSH âm nên P/B không có ý nghĩa.
 - **Ngày Phân Tích:** 04/11/2026 (Hiệu đính phân loại lại)

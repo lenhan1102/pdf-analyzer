@@ -2970,20 +2970,24 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 ---
 
 ### 263. GTS - Công ty cổ phần Công trình Giao thông Sài Gòn
-- **Mã cổ phiếu:** `GTS` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `GTS` (Sàn UPCOM — thanh khoản thấp, 143/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Xây dựng / Thi công, duy tu công trình giao thông – hạ tầng đô thị (TP.HCM)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Xây lắp hạ tầng ngoài VTNL:** Doanh thu đến từ thi công và duy tu đường, cầu theo đấu thầu/đặt hàng; biên gộp chỉ 4,6% – 10,5% (2020 – 2025) và giảm dần khi quy mô tăng. Phải thu 756,8 tỷ VNĐ cuối 2025, gấp ~2,1 lần vốn CSH.
+  - **Số liệu tham khảo (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** Doanh thu 2025 tăng vọt lên 2.463,8 (+64% YoY) nhưng lợi nhuận gộp chỉ 113,2; LNST 26,7 – 45,6/năm (2021 – 2025). ROE 2021 – 2025: 8,1% / 8,5% / 8,6% / 12,3% / 13,2% — nếu được xét tiếp có thể qua Bước 4, nhưng vẫn là xây lắp đại trà nên giữ loại tại Bước 1.
+  - Định giá: Giá 10.400 VNĐ/cp, vốn hóa ~296 tỷ VNĐ, P/B ~0,84x, P/E ~6,5x (LNST 2025).
+- **Ngày Phân Tích:** 04/11/2026
 
 ---
 
-### 264. H11 - Công ty Cổ phần Xây dựng HUD101
-- **Mã cổ phiếu:** `H11` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+### 264. H11 - Công ty Cổ phần Xây dựng HUD101
+- **Mã cổ phiếu:** `H11` (Sàn UPCOM — thanh khoản thấp, 200/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Xây dựng / Thầu thi công công trình dân dụng (thành viên hệ thống HUD)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Thầu xây lắp dân dụng ngoài VTNL:** Biên gộp 3,8% – 9,2% (2021 – 2025), doanh thu biến động mạnh theo hợp đồng (47 – 136 tỷ VNĐ/năm); phải thu 81,9 tỷ VNĐ gấp ~5,8 lần vốn CSH 14,1 tỷ VNĐ.
+  - **Kể cả nếu được xét tiếp cũng rớt Bước 4 (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** LNST chỉ 0,1 – 1,3 tỷ VNĐ/năm; ROE 2021 – 2025: 1,0% / 2,2% / 0,6% / 9,7% / 0,9%.
+  - Định giá: Giá 6.600 VNĐ/cp, vốn hóa ~7 tỷ VNĐ, P/B ~0,50x, P/E ~53x (LNST 2025).
+- **Ngày Phân Tích:** 04/11/2026
 
 ---
 

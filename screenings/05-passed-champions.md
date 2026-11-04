@@ -12711,3 +12711,40 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Quy mô nhỏ (39,4 MW), giá bán phụ thuộc biểu giá EVN/thị trường điện cạnh tranh; rủi ro lũ quét, sạt lở tại vùng núi Hà Tĩnh.
 - **Hành động tiếp theo:** Đưa vào danh sách theo dõi; kiểm tra sản lượng điện theo năm và chính sách cổ tức 2026.
 - **Ngày tốt nghiệp phễu:** 2026-11-04
+
+---
+
+### 399. GVT - Công ty Cổ phần Giấy Việt Trì
+- **Mã cổ phiếu:** `GVT` (Sàn UPCOM — thanh khoản trung bình, 212/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Nguyên vật liệu / Sản xuất giấy bao bì công nghiệp & giấy in viết (Việt Trì, Phú Thọ)
+- **Hoạt động kinh doanh chính:** Sản xuất giấy duplex tráng, giấy kraftliner, giấy sóng, giấy bao xi măng và giấy in viết — đầu vào cho ngành bao bì carton và xi măng.
+- **Luận điểm cốt lõi:**
+  - **Hiệu quả vốn rất cao trên nền vốn điều lệ nhỏ:** Vốn điều lệ chỉ 116,1 tỷ VNĐ nhưng LNST 2025 đạt kỷ lục 197,4 tỷ VNĐ (+77,5% YoY); ROE ≥ 10% ở 4/5 năm (2021 – 2025), chỉ năm 2023 (giá giấy giảm) xuống 8,4%.
+  - **Lợi nhuận là tiền thật:** CFO 2021 – 2025 cộng dồn 932,8 tỷ VNĐ, vượt LNST cộng dồn 703,2 tỷ VNĐ; vay dài hạn đã trả hết cuối 2025, vay ngắn hạn giảm từ 280,9 (2023) xuống 170,7 tỷ VNĐ.
+  - **Cổ tức tiền mặt cao:** Chi 41,8 – 67,3 tỷ VNĐ/năm (2022 – 2025); cổ tức 2025 tổng 60% (tạm ứng 30% năm 2025, còn lại 30% trả 08/2026).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect chưa có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 1.989,3 | 17,1% | 203,2 | 469,6 | **52,2%** |
+  | 2022 | 2.035,1 | 13,6% | 144,0 | 562,2 | **27,9%** |
+  | 2023 | 1.643,7 | 9,6% | 47,4 | 564,7 | 8,4% |
+  | 2024 | 1.798,1 | 12,5% | 111,2 | 603,9 | **19,0%** |
+  | 2025 | 2.020,2 | 16,2% | 197,4 | 759,6 | **29,0%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~4,0x** (LNST 2025; EPS ~17.010 VNĐ/cp)
+  - **P/B:** **~1,05x** (Giá 68.700 VNĐ/cp ngày 04/11/2026 so với BVPS ~65.450 VNĐ/cp tại 31/12/2025 — trước khi trả 30% cổ tức còn lại năm 2025); vốn hóa ~797 tỷ VNĐ.
+  - **Vốn điều lệ:** **116,1 tỷ VNĐ** (11,61 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất giấy công nghiệp, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 47,4 / 111,2 / 197,4 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Nhà sản xuất giấy bao bì có dây chuyền riêng, biên gộp 9,6% – 17,1% — cùng nhóm với DHC (đã qua Bước 3).
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% ở 4/5 năm.
+- **Điểm mạnh đặc biệt:** (1) ROE cao bền bỉ nhờ tài sản đã khấu hao nhiều và vốn điều lệ nhỏ; (2) Dòng tiền mạnh, đòn bẩy giảm dần, tiền & đầu tư ngắn hạn 269,3 tỷ VNĐ cuối 2025.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Ngành giấy có tính chu kỳ cao:** Lợi nhuận phụ thuộc chênh lệch giá giấy thành phẩm và giấy phế liệu/bột giấy nhập khẩu — năm 2023 biên gộp còn 9,6% và LNST giảm 67%. LNST 2025 vượt xa kế hoạch (LNTT 98 tỷ VNĐ) nên khó coi là mức bền vững; VNDirect chưa có số liệu quý 2026 để kiểm chứng.
+  - Phải thu 324,1 tỷ VNĐ và tồn kho 333,7 tỷ VNĐ (cuối 2025) cộng lại chiếm ~60% tổng tài sản; rủi ro môi trường (nước thải nhà máy giấy).
+- **Hành động tiếp theo:** Đưa vào danh sách theo dõi; cần BCTC quý 2026 để đánh giá chu kỳ giá giấy.
+- **Ngày tốt nghiệp phễu:** 2026-11-04
