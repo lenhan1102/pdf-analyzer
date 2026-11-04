@@ -4400,21 +4400,29 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 219. GER - Công ty Cổ phần Thể thao Ngôi sao Geru
-- **Mã cổ phiếu:** `GER` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nguyên vật liệu
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (1.7%, 3.4%, 5.2%, -17.8%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+### 220. GLW - Công ty Cổ phần Cấp thoát nước Gia Lai
+- **Mã cổ phiếu:** `GLW` (Sàn UPCOM — gần như không có thanh khoản, 15/400 phiên có khớp lệnh, phiên gần nhất 28/04/2026)
+- **Ngành nghề niêm yết:** Tiện ích / Sản xuất & cung cấp nước sạch, thoát nước đô thị (Pleiku, Gia Lai)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Cấp nước sạch – nhu cầu thiết yếu.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. LNST 2023 – 2025: 4,4 / 12,4 / 13,8 tỷ VNĐ.
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass. Độc quyền cấp nước theo địa bàn. P/B ~1,19x.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
 
----
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 53,0 | 20,4% | 4,3 | 190,0 | 2,3% |
+  | 2022 | 54,6 | 19,2% | 6,4 | 196,1 | 3,3% |
+  | 2023 | 58,7 | 22,1% | 4,4 | 191,2 | 2,3% |
+  | 2024 | 71,8 | 33,8% | 12,4 | 198,0 | 6,4% |
+  | 2025 | 72,9 | 33,8% | 13,8 | 200,8 | 6,9% |
 
-### 220. GLW - Công ty Cổ phần Cấp thoát nước Gia Lai
-- **Mã cổ phiếu:** `GLW` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Dịch vụ
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (4.8%, 2.3%, 2.3%, 6.3%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Lý do loại trừ cốt lõi:**
+  - **Vốn lớn, sinh lời thấp:** Vốn CSH ~200 tỷ VNĐ (vốn điều lệ 180 tỷ VNĐ) chỉ tạo ra doanh thu ~73 tỷ VNĐ/năm. Biên gộp tăng từ ~20% lên 33,8% từ 2024 (nhiều khả năng nhờ điều chỉnh giá nước — chưa xác minh) giúp LNST gấp ~3 lần, nhưng ROE cao nhất vẫn chỉ 6,9%. 9T/2026 LNST 12,4 tỷ VNĐ (+14,8% YoY) — ước cả năm ROE ~7 – 8%, vẫn dưới ngưỡng.
+  - Không nợ vay, CFO dương ổn định (21,7 – 28,8 tỷ VNĐ 2024 – 2025), cổ tức 5,4 – 9,0 tỷ VNĐ/năm từ 2023 — chất lượng tốt nhưng hiệu quả vốn thấp. *(Hiệu đính: chuỗi ROE cũ "4.8%, 2.3%, 2.3%, 6.3%" thiếu năm 2025.)*
+  - Định giá: Giá tham chiếu 13.300 VNĐ/cp, vốn hóa ~239 tỷ VNĐ, P/B ~1,19x, P/E ~15,5x (TTM).
+- **Ngày Phân Tích:** 04/11/2026
 
 ---
 

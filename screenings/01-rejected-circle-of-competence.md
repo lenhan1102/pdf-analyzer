@@ -2947,11 +2947,13 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 ---
 
 ### 261. GH3 - CTCP Công trình Giao thông Hà Nội
-- **Mã cổ phiếu:** `GH3` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `GH3` (Sàn UPCOM — gần như không có thanh khoản, 4/400 phiên có khớp lệnh, phiên gần nhất 08/10/2026)
+- **Ngành nghề niêm yết:** Xây dựng / Thi công, duy tu công trình giao thông – hạ tầng đô thị (Hà Nội)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Xây lắp hạ tầng ngoài VTNL:** Doanh thu đến từ thi công và duy tu công trình giao thông theo đấu thầu/đặt hàng, biên gộp chỉ 5,7% – 8,2% (2020 – 2025), phải thu ~80 tỷ VNĐ chiếm ~28% tổng tài sản.
+  - **Kể cả nếu được xét tiếp cũng rớt Bước 4 (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** ROE 2021 – 2025 chỉ 6,1% / 6,1% / 6,4% / 6,7% / 8,2%; LNST 7,2 – 9,8 tỷ VNĐ/năm trên vốn CSH 119,5 tỷ VNĐ (giữ nguyên nhiều năm do phân phối gần hết lợi nhuận). Doanh thu 2025 tăng lên 364,9 tỷ VNĐ, không nợ vay dài hạn, tiền gửi 104,0 tỷ VNĐ.
+  - Định giá: Giá 2.800 VNĐ/cp (phiên khớp gần nhất 08/10/2026), vốn hóa ~32 tỷ VNĐ, P/B ~0,27x, P/E ~3,3x — mang tính danh nghĩa do không có thanh khoản.
+- **Ngày Phân Tích:** 04/11/2026
 
 ---
 

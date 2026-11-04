@@ -12600,3 +12600,39 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - CFO biến động mạnh theo tồn kho (2022: -1.104,0; 2024: -553,3 tỷ VNĐ); biên gộp mỏng phụ thuộc giá HRC và chênh lệch giá; rủi ro phòng vệ thương mại tại thị trường xuất khẩu; P/B tính trên giá UPCOM cũ, sát ngưỡng 0,5.
 - **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Thép – Tôn mạ; cập nhật P/B theo giá phiên đầu trên HOSE và theo dõi ROE 2026.
 - **Ngày tốt nghiệp phễu:** 2026-11-04
+
+---
+
+### 396. GER - Công ty Cổ phần Thể thao Ngôi sao Geru
+- **Mã cổ phiếu:** `GER` (Sàn UPCOM — gần như không có thanh khoản, 16/400 phiên có khớp lệnh, phiên gần nhất 24/07/2026)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng / Sản xuất bóng thể thao & dụng cụ thể thao (thương hiệu Geru Star, Geru Sport)
+- **Hoạt động kinh doanh chính:** Tiền thân là doanh nghiệp nhà nước thành lập 1994, cổ phần hóa 2006; sản xuất bóng đá, bóng chuyền, bóng rổ, bóng ném, bóng nước cùng lưới, vợt; phân phối trong nước và xuất khẩu sang ~31 quốc gia.
+- **Luận điểm cốt lõi:**
+  - **Thương hiệu riêng trong ngách nhỏ:** Bóng Geru Star từng đạt chuẩn IMS (SGS) từ 2001; biên gộp ổn định 17,4% – 21,1%, không vay dài hạn.
+  - **Vượt Bước 4 nhờ một năm:** ROE 2022 đạt 14,8% — doanh nghiệp không thuộc diện "ROE < 10% cả 5 năm". *(Hiệu đính: hồ sơ cũ ghi ROE "1.7%, 3.4%, 5.2%, -17.8%" và loại tại Bước 4.)*
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect chưa có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 72,3 | 19,9% | 0,9 | 25,1 | 3,4% |
+  | 2022 | 87,5 | 21,1% | 4,0 | 28,3 | **14,8%** |
+  | 2023 | 81,3 | 20,7% | 1,3 | 25,6 | 4,9% |
+  | 2024 | 77,9 | 17,4% | -3,7 | 20,6 | -15,9% |
+  | 2025 | 83,7 | 18,6% | 0,8 | 21,4 | 3,6% |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~24,7x** (LNST 2025; EPS ~340 VNĐ/cp)
+  - **P/B:** **~0,87x** (Giá 8.500 VNĐ/cp — phiên khớp gần nhất 24/07/2026 — so với BVPS ~9.720 VNĐ/cp tại 31/12/2025); vốn hóa ~19 tỷ VNĐ. *Thanh khoản gần như bằng 0, định giá mang tính danh nghĩa.*
+  - **Vốn điều lệ:** **22,0 tỷ VNĐ** (2,2 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất dụng cụ thể thao tiêu dùng.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: Chỉ lỗ năm 2024 (-3,7 tỷ VNĐ); 2023 và 2025 có lãi.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Có thương hiệu riêng và kênh phân phối trong nước, không phải gia công thuần túy; biên gộp ~17% – 21%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn (sát nút): ROE ≥ 10% ở 1/5 năm (2022: 14,8%).
+- **Điểm mạnh đặc biệt:** (1) Thương hiệu bóng thể thao lâu năm; (2) Nợ vay nhỏ (vay ngắn hạn 5,0 tỷ VNĐ).
+- **Rủi ro cần theo dõi:**
+  - > [!CAUTION]
+    > **Năm ROE ≥ 10% duy nhất đến từ thu nhập khác:** LNTT 2022 (5,0 tỷ VNĐ) có 3,8 tỷ VNĐ là thu nhập khác — lợi nhuận từ HĐKD chỉ 1,2 tỷ VNĐ, ROE cốt lõi ~4%. Doanh thu đi ngang ~72 – 88 tỷ VNĐ suốt 7 năm; CFO âm 2023 – 2025; vốn CSH giảm từ 28,3 xuống 21,4 tỷ VNĐ sau năm lỗ 2024 và cổ tức 2023 (2,4 tỷ VNĐ) vượt LNST.
+  - Quy mô rất nhỏ, cạnh tranh trực tiếp với bóng Động Lực và hàng nhập khẩu giá rẻ; cổ phiếu gần như không giao dịch. Năm 2022 sẽ rời khỏi cửa sổ 5 năm ở lần sàng lọc sau nếu ROE 2026 < 10%.
+- **Hành động tiếp theo:** Chỉ theo dõi; không ưu tiên do quy mô nhỏ và lợi nhuận cốt lõi mỏng.
+- **Ngày tốt nghiệp phễu:** 2026-11-04

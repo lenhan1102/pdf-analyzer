@@ -31,6 +31,8 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
 | 19 | **FGL** | Công ty cổ phần Cà phê Gia Lai | Trồng & chế biến cà phê | Thua lỗ liên tiếp 4 năm (2022-2025: -24,8 / -12,4 / -20,5 / -13,3 tỷ), 9T/2026 vẫn lỗ, lỗ lũy kế -139 tỷ, Vốn CSH còn 3,9 tỷ | 2026-11-03 |
 | 20 | **FTM** | Công ty Cổ phần Đầu tư và Phát triển Đức Quân | Sản xuất sợi cotton (Fortex) | Thua lỗ liên tiếp 7 năm (2023-2025: -322,4 / -127,3 / -155,3 tỷ), 9T/2026 lỗ -93 tỷ, Vốn CSH âm -1.082 tỷ | 2026-11-03 |
 | 21 | **G20** | Công ty cổ phần Đầu tư Dệt may G.Home | Dệt may (ngừng hoạt động) | Không có doanh thu từ 2019, lỗ liên tục 2019-2023 (2021-2023: -7,6 / -15,2 / -13,2 tỷ), Vốn CSH âm -149 tỷ | 2026-11-03 |
+| 22 | **GGG** | Công ty cổ phần Ô tô Giải Phóng | Lắp ráp & phân phối xe tải | Thua lỗ liên tiếp 7 năm (2023-2025: -15,7 / -19,5 / -14,7 tỷ), 9T/2026 lỗ -14,6 tỷ, vốn CSH âm đến Q2/2026 | 2026-11-04 |
+| 23 | **GLC** | Công ty cổ phần Vàng Lào Cai | Khai thác vàng (mỏ Minh Lương) | Thua lỗ liên tiếp 7 năm (2023-2025: -13,9 / -2,1 / -3,6 tỷ), giấy phép mỏ hết hạn từ 2019, vốn CSH âm -13,8 tỷ | 2026-11-04 |
 
 ---
 
@@ -415,3 +417,46 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
   - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất có dữ liệu (2021, 2022, 2023), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ File 5 sang Bước 2.)*
   - Định giá: Thị giá 500 VNĐ/cp (phiên khớp gần nhất 30/10/2026), vốn hóa ~7 tỷ VNĐ; vốn CSH âm nên P/B không có ý nghĩa.
 - **Ngày Phân Tích:** 03/11/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 23. GGG - Công ty cổ phần Ô tô Giải Phóng
+- **Mã cổ phiếu:** `GGG` (Sàn UPCOM — diện hạn chế giao dịch; thanh khoản thấp, 80/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Ô tô / Lắp ráp & phân phối xe tải, xe thương mại (nhà máy tại KKT cửa khẩu Thanh Thủy, Tuyên Quang)
+- **Lý do loại trừ tại Bước 2 (Lỗ 7 năm liên tiếp 2019 – 2025, vốn CSH âm đến hết Q2/2026):**
+  - **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+    | Năm | Doanh thu thuần | Lợi nhuận gộp | LNST | Vốn CSH cuối kỳ | Trạng thái |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | 2021 | 89,9 | 2,5 | **-22,0** | -189,3 | **Lỗ** |
+    | 2022 | 37,2 | -1,4 | **-24,1** | -15,9 | **Lỗ** |
+    | 2023 | 2,4 | -5,4 | **-15,7** | -31,6 | **Lỗ** |
+    | 2024 | 22,6 | -6,4 | **-19,5** | -51,2 | **Lỗ** |
+    | 2025 | 114,9 | -1,1 | **-14,7** | -65,9 | **Lỗ** |
+    | 9T/2026 | 1,3 | -3,7 | **-14,6** | 119,5 | **Lỗ** |
+
+  - Lợi nhuận gộp âm 4 năm liền, lãi vay 6,4 – 16,5 tỷ VNĐ/năm (báo chí nêu công ty từng vay cá nhân lãi suất 18%/năm). Vốn CSH chỉ dương trở lại ở Q3/2026 nhờ phát hành riêng lẻ 20 triệu cổ phiếu (~200 tỷ VNĐ, vốn điều lệ lên 493,9 tỷ VNĐ) cho 4 nhà đầu tư cá nhân để nâng cấp nhà máy và chuyển sang lắp ráp xe điện (hợp tác Chery Commercial Vehicle) — doanh thu 9T/2026 gần như bằng 0.
+  - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ File 5 sang Bước 2 — hồ sơ cũ ghi nhầm "Doanh nghiệp đầu ngành".)*
+  - Định giá: Thị giá 2.300 VNĐ/cp (phiên khớp gần nhất 30/10/2026) — thấp hơn nhiều giá phát hành riêng lẻ 10.000 VNĐ/cp; vốn hóa ~114 tỷ VNĐ.
+- **Ngày Phân Tích:** 04/11/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 24. GLC - Công ty cổ phần Vàng Lào Cai
+- **Mã cổ phiếu:** `GLC` (Sàn UPCOM — diện cảnh báo/hạn chế giao dịch; gần như không có thanh khoản, 3/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Khai khoáng / Khai thác & tuyển quặng vàng (mỏ Minh Lương, Văn Bàn, Lào Cai)
+- **Lý do loại trừ tại Bước 2 (Lỗ 7 năm liên tiếp 2019 – 2025, mất giấy phép khai thác, vốn CSH âm):**
+  - **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect chưa có BCTC quý):**
+
+    | Năm | Doanh thu thuần | Lợi nhuận gộp | LNST | Vốn CSH cuối kỳ | Trạng thái |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | 2021 | 0,0 | -10,2 | **-16,1** | 14,8 | **Lỗ** |
+    | 2022 | 0,0 | -4,8 | **-9,0** | 5,7 | **Lỗ** |
+    | 2023 | 0,0 | -9,9 | **-13,9** | -8,2 | **Lỗ** |
+    | 2024 | 19,1 | -0,0 | **-2,1** | -10,3 | **Lỗ** |
+    | 2025 | 5,6 | 0,1 | **-3,6** | -13,8 | **Lỗ** |
+
+  - Giấy phép khai thác mỏ vàng Minh Lương hết hạn từ 24/06/2019; không có doanh thu 2020 – 2023, doanh thu 2024 – 2025 rất nhỏ với biên gộp ~0. Lỗ lũy kế vượt vốn điều lệ 105 tỷ VNĐ (báo chí: lỗ lũy kế 2023 hơn 113 tỷ VNĐ); vay ngắn hạn 14,4 tỷ VNĐ; lãnh đạo cấp cao biến động liên tục.
+  - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ File 5 sang Bước 2.)*
+  - Định giá: Giá 3.600 VNĐ/cp (phiên khớp gần nhất 16/10/2026), vốn hóa ~38 tỷ VNĐ; vốn CSH âm nên P/B không có ý nghĩa.
+- **Ngày Phân Tích:** 04/11/2026 (Hiệu đính phân loại lại)
