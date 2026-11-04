@@ -2936,11 +2936,13 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 ---
 
 ### 260. G36 - Tổng Công ty 36 - CTCP
-- **Mã cổ phiếu:** `G36` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `G36` (Sàn UPCOM — thanh khoản tốt, 400/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Xây dựng & Bất động sản / Xây lắp hạ tầng giao thông, công trình dân dụng – quốc phòng & Đầu tư dự án BĐS (tiền thân thuộc Bộ Quốc phòng)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Xây lắp & BĐS ngoài VTNL:** Hoạt động chính là nhận thầu thi công công trình và đầu tư dự án BĐS — cạnh tranh theo đấu thầu, biên gộp chỉ 9,2% – 12,1% (2021 – 2025), vốn bị chôn trong phải thu (811,2 tỷ VNĐ) và hàng tồn kho/dở dang (912,7 tỷ VNĐ) năm 2025.
+  - **Kể cả nếu được xét tiếp cũng rớt Bước 4 (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):** ROE (trên vốn CSH công ty mẹ) 2021 – 2025 chỉ 2,1% / 2,1% / 1,6% / 2,4% / 2,4%; LNST 17,3 – 26,7 tỷ VNĐ/năm trên vốn CSH ~1.100 tỷ VNĐ, trong khi chi phí lãi vay 63,2 – 100,7 tỷ VNĐ/năm. 9T/2026 LNST công ty mẹ 39,6 tỷ VNĐ; tổng vay tăng lên ~1.282 tỷ VNĐ (30/09/2026). CFO đổi dấu thất thường (2022: -484,2; 2023: +496,5; 2025: -52,8 tỷ VNĐ).
+  - Định giá: Thị giá 7.800 VNĐ/cp (04/11/2026), vốn hóa ~809 tỷ VNĐ, P/B ~0,71x, P/E ~33x (TTM).
+- **Ngày Phân Tích:** 04/11/2026
 
 ---
 
@@ -4564,3 +4566,14 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
   - **Lợi nhuận phụ thuộc khoản bất thường (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** LNST 2021 – 2025: 1,2 / 3,0 / **94,3** / 1,0 / 4,0; ROE tương ứng 4,6% / 11,3% / 117,8% / 0,8% / 3,1%. Năm 2023 ghi nhận doanh thu tài chính 94,3 tỷ VNĐ, cùng lúc đầu tư vào công ty liên kết tăng từ 9,8 lên 87,8 tỷ VNĐ — nhiều khả năng là đánh giá lại tài sản đem góp vốn (chưa xác minh). Loại khoản này ra thì ROE các năm còn lại chỉ 0,8% – 11,3%.
   - Định giá: Giá tham chiếu 2.500 VNĐ/cp không phản ánh giá trị (BVPS ~33.530 VNĐ/cp) — P/B ~0,07x, P/E ~2,5x chỉ mang tính danh nghĩa; vốn hóa ~10 tỷ VNĐ.
 - **Ngày Phân Tích:** 03/11/2026 (Hiệu đính phân loại lại từ File 5)
+
+---
+
+### 438. GDH - Công ty cổ phần Tập đoàn GDC
+- **Mã cổ phiếu:** `GDH` (Sàn UPCOM từ 11/05/2026 — 110/125 phiên có khớp lệnh; đã thông qua kế hoạch niêm yết HOSE)
+- **Ngành nghề niêm yết:** Xây dựng / Tổng thầu xây dựng dân dụng – công nghiệp, hạ tầng & Hệ thống điện công trình (tiền thân CTCP Đầu tư Xây dựng GDC Hà Nội, 2013)
+- **Lý do loại trừ tại Bước 1:**
+  - **Nhà thầu xây lắp ngoài VTNL:** Doanh thu đến từ thi công xây dựng dân dụng, công nghiệp, hạ tầng và lắp đặt điện; định hướng trở thành doanh nghiệp "xây dựng – hạ tầng – BĐS". Biên gộp chỉ 5,9% – 6,1% (2024 – 2025), cạnh tranh đấu thầu, phụ thuộc chu kỳ đầu tư công – BĐS. *(Hiệu đính: hồ sơ cũ để ngành "Chưa phân loại" và đưa vào File 5.)*
+  - **Số liệu (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo; chỉ có dữ liệu từ 2024):** Doanh thu 915,0 (2024) → 1.839,1 (2025), LNST 9,2 → 39,3 tỷ VNĐ (ROE 2025 ~20,1%); 9T/2026 doanh thu 2.278,5, LNST 57,2 tỷ VNĐ. Kế hoạch 2026 doanh thu >3.600 tỷ VNĐ (+96%) — tăng trưởng nóng dựa trên vốn CSH chỉ ~255 tỷ VNĐ, CFO 2024 âm -54,9 tỷ VNĐ, báo chí nêu áp lực thanh toán nợ vay.
+  - Định giá: Thị giá 8.900 VNĐ/cp (04/11/2026), vốn hóa ~148 tỷ VNĐ, P/B ~0,58x, P/E ~1,9x (TTM).
+- **Ngày Phân Tích:** 04/11/2026 (Hiệu đính phân loại lại từ File 5)

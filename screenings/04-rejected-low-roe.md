@@ -4400,24 +4400,6 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 217. GCB - Công ty Cổ Phần Petec Bình Định
-- **Mã cổ phiếu:** `GCB` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Năng lượng
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (1.7%, 5.5%, 8.7%, -1.8%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
-### 218. GDA - Công ty Cổ phần Tôn Đông Á
-- **Mã cổ phiếu:** `GDA` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nguyên vật liệu
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (7.8%, 9.0%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
 ### 219. GER - Công ty Cổ phần Thể thao Ngôi sao Geru
 - **Mã cổ phiếu:** `GER` (Sàn UPCOM)
 - **Ngành nghề niêm yết:** Nguyên vật liệu

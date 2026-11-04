@@ -12488,3 +12488,115 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Biên gộp chỉ ~17%, biên ròng ~6,6% — quyền đàm phán giá thuộc về hãng xe; vốn CSH 2025 giảm 7,0 tỷ VNĐ dù lãi 62,4 tỷ VNĐ (đã trích chia ~69 tỷ VNĐ) nhưng dòng tiền cổ tức 2025 ghi 0 — cần xác minh khoản cổ tức còn phải trả; chưa xác minh cơ cấu cổ đông lớn.
 - **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Cơ khí – Phụ tùng; xác minh tỷ trọng doanh thu theo khách hàng, kế hoạch sản phẩm cho xe điện và chính sách cổ tức 2025 – 2026.
 - **Ngày tốt nghiệp phễu:** 2026-11-03
+
+---
+
+### 393. GCB - Công ty Cổ Phần Petec Bình Định
+- **Mã cổ phiếu:** `GCB` (Sàn UPCOM — thanh khoản thấp, 221/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Năng lượng / Kinh doanh xăng dầu, hóa chất, khí đốt & VLXD (Quy Nhơn, Bình Định)
+- **Hoạt động kinh doanh chính:** Tiền thân là doanh nghiệp nhà nước thành lập 1989; kinh doanh xăng dầu bán buôn – bán lẻ với hệ thống kho và cảng trung chuyển xăng dầu ~2.000 tấn tại cảng Quy Nhơn, sản lượng bình quân ~70 triệu lít/năm.
+- **Luận điểm cốt lõi:**
+  - **Rẻ sâu theo sổ sách:** P/B ~0,22x, P/E ~2,1x; vốn CSH tăng từ 64,6 (2021) lên 84,5 tỷ VNĐ (2025) nhờ tích lũy lợi nhuận, không chia cổ tức từ 2020.
+  - **Vượt Bước 4 nhờ 2 năm:** ROE 2022 đạt 11,0% và 2025 đạt 11,2% — doanh nghiệp không thuộc diện "ROE < 10% cả 5 năm". *(Hiệu đính: hồ sơ cũ ghi ROE "1.7%, 5.5%, 8.7%, -1.8%" và loại tại Bước 4.)*
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect chưa có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 289,6 | 9,7% | 3,5 | 64,6 | 5,6% |
+  | 2022 | 1.013,8 | 3,5% | 7,5 | 71,8 | **11,0%** |
+  | 2023 | 1.626,8 | 3,1% | 6,8 | 77,9 | 9,1% |
+  | 2024 | 1.219,9 | 2,5% | -1,4 | 75,8 | -1,8% |
+  | 2025 | 714,4 | 3,1% | 9,0 | 84,5 | **11,2%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~2,1x** (LNST 2025; EPS ~2.220 VNĐ/cp)
+  - **P/B:** **~0,22x** (Thị giá 4.600 VNĐ/cp — phiên khớp gần nhất 03/11/2026 — so với BVPS ~20.920 VNĐ/cp tại 31/12/2025); vốn hóa ~19 tỷ VNĐ
+  - **Vốn điều lệ:** **40,4 tỷ VNĐ** (4,04 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Phân phối xăng dầu – nhu cầu thiết yếu.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: Chỉ lỗ năm 2024 (-1,4 tỷ VNĐ); 2023 và 2025 có lãi.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn nhờ ngoại lệ: Thương mại xăng dầu biên gộp chỉ 2,5% – 3,5% (đáy chuỗi giá trị), nhưng P/B ~0,22x < 0,5.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn (sát nút): ROE ≥ 10% ở 2/5 năm (2022: 11,0%; 2025: 11,2%).
+- **Điểm mạnh đặc biệt:** (1) P/B ~0,22x, P/E ~2,1x; (2) Có kho – cảng trung chuyển xăng dầu tại Quy Nhơn.
+- **Rủi ro cần theo dõi:**
+  - > [!CAUTION]
+    > **Phải thu phình to, dòng tiền âm 4 năm liền:** Từ 2022 doanh thu tăng vọt nhưng phải thu nhảy từ 20,2 lên 344,0 – 375,0 tỷ VNĐ (2025: ~88% tổng tài sản, ~52% doanh thu năm); CFO âm liên tục 2022 – 2025 (cộng dồn ~-315 tỷ VNĐ), được tài trợ bằng vay ngắn hạn 310,6 tỷ VNĐ (~3,7 lần vốn CSH). Doanh thu tài chính (~22 – 23 tỷ VNĐ) xấp xỉ lãi vay, cho thấy mô hình bán chịu có tính lãi — rủi ro nợ khó đòi tập trung, chưa xác minh danh tính khách nợ.
+  - LNTT 2025 (14,8 tỷ VNĐ) có 12,0 tỷ VNĐ là thu nhập khác — lợi nhuận cốt lõi chỉ 2,7 tỷ VNĐ; quy mô rất nhỏ, thanh khoản thấp.
+- **Hành động tiếp theo:** Chỉ theo dõi; xác minh thuyết minh phải thu (khách hàng, tuổi nợ, tài sản bảo đảm) và nguồn thu nhập khác 2025 trước khi xem xét.
+- **Ngày tốt nghiệp phễu:** 2026-11-04
+
+---
+
+### 394. GCF - Công ty cổ phần Thực phẩm G.C
+- **Mã cổ phiếu:** `GCF` (Sàn UPCOM — thanh khoản tốt, 391/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Thực phẩm / Chế biến nha đam, thạch dừa & nguyên liệu đồ uống – tráng miệng (GC Food — "vua nha đam")
+- **Hoạt động kinh doanh chính:** Chế biến các sản phẩm nha đam, thạch dừa, thạch trái cây cung cấp cho các hãng đồ uống, sữa chua và xuất khẩu (Mỹ, châu Á); phát triển vùng nguyên liệu nha đam riêng.
+- **Luận điểm cốt lõi:**
+  - **Tăng trưởng doanh thu đều, biên gộp khá:** Doanh thu tăng liên tục từ 334,3 (2021) lên 689,1 tỷ VNĐ (2025, gấp 2,1 lần); biên gộp 27,9% – 35,3% — cao so với chế biến nông sản thông thường.
+  - **Bảng cân đối lành mạnh hơn:** Vay ngắn hạn giảm từ 235,3 (2023) xuống 39,3 tỷ VNĐ (30/06/2026); tiền mặt 189,2 tỷ VNĐ; bắt đầu chia cổ tức tiền mặt (51,9 tỷ VNĐ năm 2025) và tăng vốn lên 432,5 tỷ VNĐ (có đợt phát hành riêng lẻ cho cổ đông chiến lược).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo; VNDirect chỉ có BCTC năm từ 2021):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST công ty mẹ | Vốn CSH cuối kỳ (cty mẹ) | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 334,3 | 28,5% | 35,2 | 311,6 | — |
+  | 2022 | 430,6 | 27,9% | 27,7 | 336,8 | 8,5% |
+  | 2023 | 474,7 | 28,8% | 28,9 | 360,3 | 8,3% |
+  | 2024 | 578,7 | 35,3% | 67,4 | 420,7 | **17,3%** |
+  | 2025 | 689,1 | 31,8% | 43,8 | 635,6 | 8,3% |
+  | 6T/2026 | 395,6 | 33,4% | 33,0 | ~645 | — |
+
+  - 6T/2026: doanh thu +18% YoY nhưng LNST công ty mẹ -33% YoY (33,0 so với ~49,2 tỷ VNĐ) do chi phí quản lý tăng mạnh vì trích lập dự phòng nợ khó đòi; riêng Q2/2026 chỉ lãi 1,7 tỷ VNĐ.
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~27,6x** (LNST công ty mẹ 4 quý gần nhất Q3/2025 – Q2/2026 ~27,6 tỷ VNĐ; EPS ~640 VNĐ/cp — VNDirect chưa có BCTC Q3/2026)
+  - **P/B:** **~1,18x** (Thị giá 17.600 VNĐ/cp ngày 04/11/2026 so với BVPS ~14.900 VNĐ/cp tại 30/06/2026); vốn hóa ~761 tỷ VNĐ
+  - **Vốn điều lệ:** **432,5 tỷ VNĐ** (43,25 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Chế biến thực phẩm – nguyên liệu đồ uống.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST công ty mẹ dương 2023 – 2025 (28,9 / 67,4 / 43,8 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Dẫn đầu ngách nha đam – thạch dừa, biên gộp ~28% – 35%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn (sát nút): ROE ≥ 10% ở 1/4 năm có dữ liệu (2024: 17,3%); các năm còn lại 8,3% – 8,5%.
+- **Điểm mạnh đặc biệt:** (1) Doanh thu tăng liên tục 2021 – 2025; (2) Biên gộp ~30%, vị thế dẫn đầu ngách; (3) Nợ vay giảm mạnh, tiền mặt lớn.
+- **Rủi ro cần theo dõi:**
+  - > [!CAUTION]
+    > **Lợi nhuận đột ngột xấu đi, quản trị có vấn đề:** Q4/2025 lỗ -37,4 tỷ VNĐ (biên gộp quý chỉ 17%, chi phí khác -13,2 tỷ VNĐ), Q2/2026 chỉ lãi 1,7 tỷ VNĐ do trích lập dự phòng nợ khó đòi; lãnh đạo cấp cao xin từ nhiệm; Thanh tra UBCKNN xử phạt 425 triệu VNĐ vì công bố sai LNST bán niên so với số đã soát xét và công bố thông tin chậm.
+  - ROE chỉ một năm vượt 10%; vốn CSH tăng mạnh sau phát hành 2025 làm ROE bị pha loãng; P/E TTM ~27,6x đắt so với chất lượng lợi nhuận; rủi ro thuế quan thị trường Mỹ.
+- **Hành động tiếp theo:** Chỉ theo dõi; chờ BCTC Q3 – Q4/2026 để xác nhận quy mô nợ xấu đã trích lập hết và biên gộp hồi phục.
+- **Ngày tốt nghiệp phễu:** 2026-11-04
+
+---
+
+### 395. GDA - Công ty Cổ phần Tôn Đông Á
+- **Mã cổ phiếu:** `GDA` (Đã được HOSE chấp thuận niêm yết 149,1 triệu cổ phiếu; phiên cuối trên UPCOM 28/10/2026, chờ ngày giao dịch đầu tiên trên HOSE — thanh khoản trên UPCOM tốt, 400/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Nguyên vật liệu / Sản xuất tôn mạ kẽm, mạ hợp kim nhôm kẽm & tôn mạ màu (Tôn Đông Á)
+- **Hoạt động kinh doanh chính:** Một trong các nhà sản xuất tôn mạ lớn nhất Việt Nam (cùng nhóm Hoa Sen, Nam Kim), xuất khẩu sang nhiều thị trường; đang xoay trục về thị trường nội địa và lên kế hoạch đầu tư nhà máy mới.
+- **Luận điểm cốt lõi:**
+  - **Rẻ theo sổ sách, cổ tức đều:** P/B ~0,46x, P/E ~7,1x (TTM); vốn CSH tăng từ 2.138,9 (2019) lên ~4.016 tỷ VNĐ (30/09/2026); chi cổ tức tiền mặt ~113 – 168 tỷ VNĐ/năm (2021 – 2025) và chuẩn bị chi thêm ~149 tỷ VNĐ trước khi lên HOSE.
+  - **Có lãi trong cả chu kỳ xấu:** Ngoại trừ 2022 (lỗ -276,5 tỷ VNĐ khi giá thép lao dốc), lãi đều 271,8 – 341,9 tỷ VNĐ/năm 2023 – 2025; Q3/2026 biên gộp cải thiện lên 8,9%.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên LN gộp | LNST công ty mẹ | Vốn CSH cuối kỳ (cty mẹ) | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 25.261,7 | 11,1% | 1.209,8 | 3.451,9 | **41,2%** |
+  | 2022 | 21.614,5 | 5,5% | -276,5 | 3.448,5 | -8,0% |
+  | 2023 | 17.434,6 | 6,5% | 283,6 | 3.617,1 | 8,0% |
+  | 2024 | 19.135,8 | 7,6% | 341,9 | 3.813,1 | 9,2% |
+  | 2025 | 15.310,4 | 6,5% | 271,8 | 3.940,4 | 7,0% |
+  | 9T/2026 | 11.155,6 | 7,5% | 220,1 | ~3.990 | — |
+
+  - 9T/2026: doanh thu -6,4% YoY, LNST công ty mẹ -6,5% YoY (220,1 so với ~235,4 tỷ VNĐ).
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~7,1x** (LNST công ty mẹ 4 quý gần nhất Q4/2025 – Q3/2026 ~256,5 tỷ VNĐ; EPS ~1.720 VNĐ/cp)
+  - **P/B:** **~0,46x** (Thị giá 12.200 VNĐ/cp — phiên cuối trên UPCOM 28/10/2026 — so với BVPS ~26.750 VNĐ/cp tại 30/09/2026); vốn hóa ~1.819 tỷ VNĐ. *P/B sẽ thay đổi theo giá tham chiếu phiên đầu trên HOSE.*
+  - **Vốn điều lệ:** **1.491,0 tỷ VNĐ** (149,1 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất tôn mạ — cùng nhóm HSG, NKG (đã vào File 5).
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST dương 2023 – 2025 (283,6 / 341,9 / 271,8 tỷ VNĐ).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn nhờ ngoại lệ: Tôn mạ là hàng hóa chu kỳ, biên gộp 5,5% – 7,6% (2022 – 2025), nhưng P/B ~0,46x < 0,5.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn (sát nút): ROE ≥ 10% ở 1/5 năm (2021: 41,2%). *(Hiệu đính: hồ sơ cũ chỉ xét 2 năm "7.8%, 9.0%" và loại tại Bước 4.)*
+- **Điểm mạnh đặc biệt:** (1) P/B ~0,46x, cổ tức tiền mặt đều; (2) Quy mô top đầu ngành tôn mạ; (3) Sắp chuyển lên HOSE, tăng khả năng tiếp cận nhà đầu tư tổ chức.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Chỉ vượt Bước 4 nhờ năm siêu chu kỳ 2021, đòn bẩy cao:** ROE 2022 – 2025 đều dưới 10% (-8,0% – 9,2%); nếu 2026 tiếp tục dưới 10% và năm 2021 rời khỏi cửa sổ 5 năm, doanh nghiệp sẽ rớt Bước 4 ở lần sàng lọc sau. Vay ngắn hạn ~5.689 tỷ VNĐ + vay dài hạn 240 tỷ VNĐ (30/09/2026) ~1,5 lần vốn CSH; chi phí lãi vay quý tăng lên ~109 tỷ VNĐ.
+  - CFO biến động mạnh theo tồn kho (2022: -1.104,0; 2024: -553,3 tỷ VNĐ); biên gộp mỏng phụ thuộc giá HRC và chênh lệch giá; rủi ro phòng vệ thương mại tại thị trường xuất khẩu; P/B tính trên giá UPCOM cũ, sát ngưỡng 0,5.
+- **Hành động tiếp theo:** Đưa vào Danh mục Theo dõi Thép – Tôn mạ; cập nhật P/B theo giá phiên đầu trên HOSE và theo dõi ROE 2026.
+- **Ngày tốt nghiệp phễu:** 2026-11-04
