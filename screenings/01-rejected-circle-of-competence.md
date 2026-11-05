@@ -2992,20 +2992,24 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 ---
 
 ### 265. HAM - Công ty Cổ phần Vật tư Hậu Giang
-- **Mã cổ phiếu:** `HAM` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `HAM` (Sàn UPCOM — thanh khoản thấp, 162/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Thương mại / Phân phối vật liệu xây dựng (thép, xi măng, cát, đá), xăng dầu, gas & dầu nhờn (HAMACO, Cần Thơ – ĐBSCL)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Phân phối VLXD đại trà ngoài VTNL:** Tiền thân là Công ty Vật tư tỉnh Hậu Giang (1976), cổ phần hóa 2003; mạng lưới ~300 đại lý VLXD, ~200 đại lý gas, ~200 đại lý dầu nhờn. Hàng hóa chính là thép, xi măng, cát đá — VLXD phổ thông không có tài nguyên hay vị thế độc quyền, cầu phụ thuộc chu kỳ xây dựng. *(Hiệu đính lý do: hồ sơ cũ ghi nhầm "Bất động sản dân dụng, phân lô bán nền".)*
+  - **Kể cả nếu được xét tiếp cũng rớt Bước 3 (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** Doanh thu 3.000 – 4.000/năm nhưng biên gộp chỉ 8,1% – 12,1% (2021 – 2025), biên ròng ~1,4%; thương mại trung gian với P/B ~1,20x ≥ 0,5. ROE 2021 – 2025 khá cao (27,0% / 13,0% / 16,8% / 17,8% / 17,0%) nhờ vòng quay vốn nhanh, LNST 2025 đạt 45,1 tỷ VNĐ.
+  - Định giá: Giá 35.000 VNĐ/cp, vốn hóa ~337 tỷ VNĐ, P/B ~1,20x, P/E ~7,5x (LNST 2025).
+- **Ngày Phân Tích:** 05/11/2026
 
 ---
 
 ### 266. HAN - Tổng công ty Xây dựng Hà Nội - CTCP
-- **Mã cổ phiếu:** `HAN` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `HAN` (Sàn UPCOM — thanh khoản khá, 323/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Xây dựng / Tổng thầu xây lắp công trình dân dụng, công nghiệp, hạ tầng (Hancorp)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Tổng thầu xây lắp ngoài VTNL:** Biên gộp chỉ 3,0% – 8,8% (2020 – 2025), năm 2025 còn 4,5%; phải thu 3.453,7 tỷ VNĐ cuối 2025, lớn hơn cả doanh thu năm (3.214,8 tỷ VNĐ) — vốn bị chôn trong công nợ công trình.
+  - **Kể cả nếu được xét tiếp cũng rớt Bước 4 (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** LNST công ty mẹ 36,3 – 64,0/năm trên vốn CSH ~1.500; ROE 2021 – 2025: 2,4% / 4,1% / 3,0% / 3,6% / 4,3%.
+  - Định giá: Giá 7.400 VNĐ/cp, vốn hóa ~1.044 tỷ VNĐ, P/B ~0,69x, P/E ~16,3x (LNST 2025).
+- **Ngày Phân Tích:** 05/11/2026
 
 ---
 
@@ -4586,3 +4590,14 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
   - **Số liệu (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo; chỉ có dữ liệu từ 2024):** Doanh thu 915,0 (2024) → 1.839,1 (2025), LNST 9,2 → 39,3 tỷ VNĐ (ROE 2025 ~20,1%); 9T/2026 doanh thu 2.278,5, LNST 57,2 tỷ VNĐ. Kế hoạch 2026 doanh thu >3.600 tỷ VNĐ (+96%) — tăng trưởng nóng dựa trên vốn CSH chỉ ~255 tỷ VNĐ, CFO 2024 âm -54,9 tỷ VNĐ, báo chí nêu áp lực thanh toán nợ vay.
   - Định giá: Thị giá 8.900 VNĐ/cp (04/11/2026), vốn hóa ~148 tỷ VNĐ, P/B ~0,58x, P/E ~1,9x (TTM).
 - **Ngày Phân Tích:** 04/11/2026 (Hiệu đính phân loại lại từ File 5)
+
+---
+
+### 439. HAV - Công ty Cổ phần rượu Hapro
+- **Mã cổ phiếu:** `HAV` (Sàn UPCOM — 236/400 phiên có khớp lệnh, phiên gần nhất 26/10/2026; diện cảnh báo do vốn CSH không đáp ứng quy định, đã báo cáo không còn đủ điều kiện công ty đại chúng 08 – 09/2026)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng (danh nghĩa) / Thực tế: Cho thuê đất & phương tiện vận tải (công ty con của Tổng công ty Thương mại Hà Nội – Hapro)
+- **Lý do loại trừ tại Bước 1:**
+  - **Không còn hoạt động sản xuất rượu:** Theo Báo cáo thường niên 2025, công ty đã tạm dừng sản xuất và thanh lý toàn bộ máy móc thiết bị; doanh thu chủ yếu đến từ hợp đồng hợp tác kinh doanh 3.430 m² đất (trong lô 6.330 m² tại Khu CNTP Hapro) và cho thuê phương tiện vận tải. Nhân sự chỉ còn 3 người. Bản chất là cho thuê bất động sản/tài sản — ngoài VTNL, nhất quán với các tiền lệ cho thuê BĐS (CCS, FCC, FTI). *(Hiệu đính chuyển từ Bước 4 sang Bước 1.)*
+  - **Số liệu (Triệu VNĐ — nguồn: BCTN 2025 của công ty, năm tài chính 01/04 – 31/03; VNDirect không có BCTC):** Doanh thu 1.725 (năm tài chính 2024) và 1.783 (2025); LNST -2.893 (2024, do chi phí khác 3.188) và 838 (2025). Vốn CSH ~4,8 tỷ VNĐ (theo nguồn tổng hợp, chưa kiểm chứng) so với 3,3 triệu cổ phiếu — lỗ lũy kế lớn; không chia cổ tức.
+  - Định giá: Giá 2.300 VNĐ/cp, vốn hóa ~7,6 tỷ VNĐ; P/B ~1,6x theo vốn CSH ~4,8 tỷ VNĐ (Simplize hiển thị 0,52x — số liệu không thống nhất).
+- **Ngày Phân Tích:** 05/11/2026 (Hiệu đính phân loại lại từ Bước 4)

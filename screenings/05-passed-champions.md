@@ -12748,3 +12748,40 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Phải thu 324,1 tỷ VNĐ và tồn kho 333,7 tỷ VNĐ (cuối 2025) cộng lại chiếm ~60% tổng tài sản; rủi ro môi trường (nước thải nhà máy giấy).
 - **Hành động tiếp theo:** Đưa vào danh sách theo dõi; cần BCTC quý 2026 để đánh giá chu kỳ giá giấy.
 - **Ngày tốt nghiệp phễu:** 2026-11-04
+
+---
+
+### 400. HAC - Công ty Cổ phần Chứng khoán Hải Phòng
+- **Mã cổ phiếu:** `HAC` (Sàn UPCOM — thanh khoản khá, 327/400 phiên có khớp lệnh; ĐHĐCĐ 2026 đã bàn phương án chuyển sang HOSE/HNX)
+- **Ngành nghề niêm yết:** Tài chính / Công ty chứng khoán (Haseco — môi giới, tự doanh, cho vay ký quỹ)
+- **Hoạt động kinh doanh chính:** Công ty chứng khoán quy mô nhỏ tại Hải Phòng; thu nhập chủ yếu đến từ tự doanh (lãi FVTPL) và lãi cho vay ký quỹ, doanh thu môi giới chỉ ~10 – 23 tỷ VNĐ/năm. Tháng 01/2026 phát hành riêng lẻ 100 triệu cổ phiếu giá 10.000 VNĐ/cp (thu ~1.000 tỷ VNĐ), vốn điều lệ tăng từ 291,8 lên 1.291,8 tỷ VNĐ.
+- **Luận điểm cốt lõi:**
+  - **Vượt Bước 4 ở 3/5 năm:** ROE 2021 11,7%, 2023 13,6%, 2025 15,6% (bình quân vốn CSH).
+  - **Vốn mới lớn gấp ~4 lần:** Dư nợ cho vay ký quỹ tăng từ 155,2 tỷ VNĐ (cuối 2025) lên 434,9 tỷ VNĐ (30/09/2026); nếu giải ngân hiệu quả, lợi nhuận có thể tăng theo quy mô vốn.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu hoạt động | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 89,2 | 38,9 | 340,8 | **11,7%** |
+  | 2022 | 62,2 | -81,0 | 229,4 | -28,4% |
+  | 2023 | 104,0 | 33,5 | 262,9 | **13,6%** |
+  | 2024 | 62,6 | 2,8 | 265,7 | 1,1% |
+  | 2025 | 85,5 | 44,9 | 310,6 | **15,6%** |
+  | 9T/2026 | — | 28,3 | 1.338,8 | ~2,8% (năm hóa) |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~34x** (LNST 4 quý gần nhất Q4/2025 – Q3/2026: 35,9 tỷ VNĐ; EPS ~280 VNĐ/cp trên 129,18 triệu cổ phiếu sau tăng vốn)
+  - **P/B:** **~0,92x** (Giá 9.500 VNĐ/cp ngày 05/11/2026 so với BVPS ~10.360 VNĐ/cp tại 30/09/2026); vốn hóa ~1.227 tỷ VNĐ.
+  - **Vốn điều lệ:** **1.291,8 tỷ VNĐ** (129,18 triệu cổ phiếu; 100 triệu cổ phiếu phát hành riêng lẻ bị hạn chế chuyển nhượng 1 năm)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Dịch vụ chứng khoán.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 33,5 / 2,8 / 44,9 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Công ty chứng khoán được cấp phép, cùng nhóm các CTCK đã xét qua Bước 3.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% ở 3/5 năm.
+- **Điểm mạnh đặc biệt:** (1) Bộ đệm vốn lớn sau tăng vốn, P/B dưới 1 lần; (2) Ít nợ xấu ký quỹ — chi phí dự phòng tài sản tài chính chỉ 0 – 3,4 tỷ VNĐ/năm.
+- **Rủi ro cần theo dõi:**
+  - > [!CAUTION]
+    > **Lợi nhuận phụ thuộc tự doanh, hiệu quả vốn sau tăng vốn rất thấp:** Năm 2022 lỗ -81,0 tỷ VNĐ do lỗ FVTPL 107,5 tỷ VNĐ; ROE 2024 chỉ 1,1%. 9T/2026 LNST 28,3 tỷ VNĐ trên vốn CSH ~1.339 tỷ VNĐ — ROE năm hóa ~2,8%, xa mục tiêu LNTT 2026 ~79 tỷ VNĐ; báo chí nêu hơn 400 tỷ VNĐ vốn mới được gửi tiết kiệm. Vay ngắn hạn tăng từ 80 lên 1.260 tỷ VNĐ (30/09/2026), tổng tài sản 2.616 tỷ VNĐ — đòn bẩy tăng nhanh.
+  - Cơ cấu cổ đông thay đổi mạnh từ 2024 (nhóm cá nhân mới mua ~40% vốn); dư địa pha loãng ROE kéo dài trong 2026 – 2027.
+- **Hành động tiếp theo:** Chỉ theo dõi; cần xem ROE năm 2026 trên nền vốn mới trước khi đánh giá lại.
+- **Ngày tốt nghiệp phễu:** 2026-11-05

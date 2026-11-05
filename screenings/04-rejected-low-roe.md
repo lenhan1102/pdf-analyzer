@@ -4426,24 +4426,6 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 224. HAF - Công ty Cổ phần Thực phẩm Hà Nội
-- **Mã cổ phiếu:** `HAF` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Hàng tiêu dùng
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-5.3%, -4.0%, -13.9%, -9.9%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
-### 225. HAV - Công ty Cổ phần rượu Hapro
-- **Mã cổ phiếu:** `HAV` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Hàng tiêu dùng
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-6.3%, -4.0%, -73.1%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
 ### 226. HBH - Công ty Cổ phần Habeco - Hải Phòng
 - **Mã cổ phiếu:** `HBH` (Sàn UPCOM)
 - **Ngành nghề niêm yết:** Hàng tiêu dùng

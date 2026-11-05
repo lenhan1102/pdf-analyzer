@@ -36,6 +36,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
 | 24 | **GMC** | Công ty Cổ phần Garmex Sài Gòn | May mặc xuất khẩu (ngừng sản xuất từ 05/2023) | Thua lỗ liên tiếp 4 năm (2023-2025: -51,9 / -29,9 / -24,0 tỷ), 9T/2026 lỗ -51,0 tỷ, doanh thu gần bằng 0 | 2026-11-04 |
 | 25 | **GTD** | Công ty Cổ phần Giầy Thượng Đình | Sản xuất giày vải, giày thể thao | Thua lỗ liên tiếp 3 năm (2023-2025: -5,0 / -13,0 / -38,7 tỷ), vốn CSH âm -12,4 tỷ | 2026-11-04 |
 | 26 | **GTT** | Công ty Cổ phần Thuận Thảo | Vận tải hành khách, khách sạn & du lịch (Phú Yên) | Lỗ kéo dài (2019: -165,9 tỷ), không công bố BCTC từ 2020, vốn CSH âm -988,8 tỷ, tài sản thế chấp bị kê biên | 2026-11-04 |
+| 27 | **HAF** | Công ty Cổ phần Thực phẩm Hà Nội | Thực phẩm, thương mại – dịch vụ | Thua lỗ liên tiếp 6 năm (2023-2025: -18,6 / -14,1 / -31,4 tỷ), 9T/2026 lỗ -3,8 tỷ, kiểm toán ngoại trừ 3 năm | 2026-11-05 |
 
 ---
 
@@ -518,3 +519,25 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
   - **Quy chuẩn loại trừ:** VNDirect không có BCTC 2020 – 2025, nên không có bằng chứng doanh nghiệp có lãi ở bất kỳ năm nào trong 3 năm gần nhất. Cùng với chuỗi lỗ đến 2020 và vốn CSH âm gần 1.000 tỷ VNĐ, xếp vào Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ File 5 sang Bước 2 — hồ sơ cũ ghi nhầm "Doanh nghiệp đầu ngành".)*
   - Định giá: Giá tham chiếu 300 VNĐ/cp, không có giao dịch; vốn CSH âm nên P/B không có ý nghĩa.
 - **Ngày Phân Tích:** 04/11/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 28. HAF - Công ty Cổ phần Thực phẩm Hà Nội
+- **Mã cổ phiếu:** `HAF` (Sàn UPCOM — diện cảnh báo do BCTC bị kiểm toán ngoại trừ 3 năm liên tiếp; 191/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng / Thực phẩm, thương mại – dịch vụ (Haprofood, Hà Nội)
+- **Lý do loại trừ tại Bước 2 (Lỗ 6 năm liên tiếp 2020 – 2025, tiếp tục lỗ 9T/2026):**
+  - **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo; LNST và vốn CSH thuộc công ty mẹ):**
+
+    | Năm | Doanh thu thuần | Lợi nhuận gộp | LNST | Vốn CSH cuối kỳ | Trạng thái |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | 2021 | 140,2 | 35,2 | **-5,7** | 114,1 | **Lỗ** |
+    | 2022 | 113,0 | 29,2 | **-8,0** | 92,0 | **Lỗ** |
+    | 2023 | 85,9 | 24,1 | **-18,6** | 73,2 | **Lỗ** |
+    | 2024 | 87,3 | 32,2 | **-14,1** | 59,1 | **Lỗ** |
+    | 2025 | 42,4 | 19,9 | **-31,4** | 27,6 | **Lỗ** |
+    | 9T/2026 | 34,5 | 17,3 | **-3,8** | — | **Lỗ** |
+
+  - Doanh thu giảm 70% từ 2021; chi phí quản lý 26 – 38 tỷ VNĐ/năm vượt lợi nhuận gộp; Q3/2025 doanh thu âm -4,9 tỷ VNĐ và lỗ khác -12,6 tỷ VNĐ. Lỗ lũy kế 118,0 tỷ VNĐ trên vốn điều lệ 145 tỷ VNĐ; vay ngắn hạn tăng từ 35,4 (2021) lên 79,6 – 94,6 tỷ VNĐ. Chứng khoán Phố Wall thoái toàn bộ 14,76% vốn ngày 29/10/2025.
+  - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2.)*
+  - Định giá: Giá 17.700 VNĐ/cp, vốn hóa ~257 tỷ VNĐ, P/B ~9,3x so với vốn CSH công ty mẹ cuối 2025 (BVPS ~1.900 VNĐ/cp) — giá phản ánh kỳ vọng tài sản/đất đai chứ không phải kinh doanh.
+- **Ngày Phân Tích:** 05/11/2026 (Hiệu đính phân loại lại)
