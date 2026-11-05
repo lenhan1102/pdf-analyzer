@@ -3048,38 +3048,46 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 ---
 
 ### 270. HCI - Công ty Cổ phần Đầu tư - Xây dựng Hà Nội
-- **Mã cổ phiếu:** `HCI` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `HCI` (Sàn UPCOM — gần như không giao dịch, 10/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Xây dựng & Bất động sản / Xây lắp và kinh doanh BĐS (KĐT mới Trung Văn, hạ tầng KCN Thăng Long)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Xây lắp + BĐS dân dụng ngoài VTNL:** Doanh thu chỉ 15,0 – 20,6 tỷ VNĐ/năm (2021 – 2025), 73 nhân sự; phải thu 45,1 tỷ VNĐ (gần 3 lần doanh thu năm) và hàng tồn kho 16,2 tỷ VNĐ đứng yên nhiều năm.
+  - **Kể cả nếu được xét tiếp cũng rớt Bước 2 (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** LNST công ty mẹ 2021 – 2025: -2,3 / -1,4 / -4,8 / -9,2 / -0,6 — lỗ 5 năm liên tiếp do chi phí quản lý 11 – 18 tỷ VNĐ/năm vượt lợi nhuận gộp. Lỗ lũy kế -16,5 tỷ VNĐ trên vốn điều lệ 52,3 tỷ VNĐ. VNDirect không có BCTC quý.
+  - Định giá: Giá 5.700 VNĐ/cp, vốn hóa ~30 tỷ VNĐ, P/B ~0,48x — danh nghĩa do gần như không có thanh khoản.
+- **Ngày Phân Tích:** 05/11/2026
 
 ---
 
 ### 271. HD2 - Công ty cổ phần Đầu tư Phát triển nhà HUD2
-- **Mã cổ phiếu:** `HD2` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `HD2` (Sàn UPCOM — 318/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Bất động sản / Đầu tư phát triển nhà ở & đô thị (thành viên Tổng công ty HUD — Bắc Linh Đàm, Việt Hưng, 777 Giải Phóng, KĐT Trần Hưng Đạo – Thái Bình)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Chủ đầu tư BĐS nhà ở dân dụng ngoài VTNL:** Doanh thu theo nhịp bàn giao dự án (79,8 / 47,1 / 40,9 / 155,0 / 173,9 tỷ VNĐ, 2021 – 2025); hàng tồn kho BĐS tăng từ 21,2 lên 232,7 tỷ VNĐ, CFO âm cộng dồn -323,7 tỷ VNĐ giai đoạn 2021 – 2023 và vay ngắn hạn tăng lên 97,5 – 172,2 tỷ VNĐ.
+  - **Số liệu (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** LNST 0,1 / 0,3 / 0,0 / 8,7 / 12,1; ROE 0,1% / 0,2% / 0,0% / 8,1% / 10,3% — nếu xét tiếp chỉ qua B4 sát nút nhờ năm 2025. VNDirect không có BCTC quý.
+  - Định giá: Giá 7.300 VNĐ/cp, vốn hóa ~65 tỷ VNĐ, P/B ~0,54x, P/E ~5,4x (LNST 2025).
+- **Ngày Phân Tích:** 05/11/2026
 
 ---
 
 ### 272. HD6 - Công ty cổ phần Đầu tư và Phát triển nhà số 6 Hà Nội
-- **Mã cổ phiếu:** `HD6` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `HD6` (Sàn UPCOM — thanh khoản tốt, 398/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Bất động sản / Đầu tư kinh doanh BĐS & xây dựng hạ tầng (thành viên Handico — dự án C1, C2 Trung Hòa – Nhân Chính, 102 Nguyễn Khuyến, 76 Nguyễn Chí Thanh)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Chủ đầu tư BĐS dân dụng ngoài VTNL:** Doanh thu và lợi nhuận phụ thuộc hoàn toàn nhịp bàn giao: doanh thu 440,2 / 382,3 / 367,2 / 906,0 / 121,3 tỷ VNĐ (2021 – 2025). Phải thu 355,9 tỷ VNĐ cuối 2025, gấp ~3 lần doanh thu năm.
+  - **Số liệu (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo, LNST công ty mẹ):** 58,2 / 49,6 / 18,7 / 51,5 / 2,5; ROE 31,4% / 22,6% / 7,9% / 20,1% / 0,9% — nếu xét tiếp sẽ qua B4 nhưng thiếu tính bền vững: 9T/2026 LNST chỉ 3,9 tỷ VNĐ. Lợi ích cổ đông không kiểm soát 131,9 tỷ VNĐ (~1/3 vốn CSH hợp nhất).
+  - Định giá: Giá 7.300 VNĐ/cp, vốn hóa ~110 tỷ VNĐ, P/B ~0,4x (theo vốn CSH công ty mẹ), P/E ~22x (4 quý gần nhất).
+- **Ngày Phân Tích:** 05/11/2026
 
 ---
 
 ### 273. HD8 - CTCP Đầu tư Phát triển Nhà và Đô thị HUD8
-- **Mã cổ phiếu:** `HD8` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `HD8` (Sàn UPCOM — 170/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Bất động sản / Đầu tư kinh doanh BĐS & tư vấn giám sát (thành viên HUD — KĐT Vân Canh, Tây Nam hồ Linh Đàm, Xuân Phương Garden, Lào Cai)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Chủ đầu tư BĐS dân dụng ngoài VTNL, hiện gần như không có dự án:** Doanh thu sụt từ 112,4 tỷ VNĐ (2022) xuống chỉ 0,7 – 1,1 tỷ VNĐ/năm (2023 – 2025); hàng tồn kho BĐS còn 16,3 tỷ VNĐ; chỉ 14 nhân sự. LNST 6,4 / 1,9 / 2,4 tỷ VNĐ (2023 – 2025) chủ yếu từ lãi tiền gửi.
+  - **Kể cả nếu được xét tiếp cũng rớt Bước 4 (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** ROE 2021 – 2025: 4,1% / 11,0% / 5,1% / 1,6% / 2,2% — chỉ chạm 10% năm 2022 nên về kỹ thuật sẽ qua B4 sát nút, nhưng không còn hoạt động kinh doanh cốt lõi. VNDirect không có BCTC quý.
+  - Định giá: Giá 6.000 VNĐ/cp, vốn hóa ~60 tỷ VNĐ, P/B ~0,54x, P/E ~25x (LNST 2025).
+- **Ngày Phân Tích:** 05/11/2026
 
 ---
 

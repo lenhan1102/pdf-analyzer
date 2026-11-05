@@ -16,7 +16,7 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 ```
 
 - **Quy mô toàn bộ vũ trụ cổ phiếu:** **1,641** doanh nghiệp (Toàn bộ 3 sàn HOSE, HNX, UPCoM)
-- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **997 / 1,641** mã (**60.76%** — Đã rà soát chi tiết đến mã `HC3`)
+- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **1,002 / 1,641** mã (**61.06%** — Đã rà soát chi tiết đến mã `HDM`)
 - **Số mã rớt tại Bước 1 (Ngành & VTNL):** **428** mã (26.08%)
 - **Số mã rớt tại Bước 2 (Lỗ 3 năm liên tiếp):** **28** mã (1.71%)
 - **Số mã rớt tại Bước 3 (Chuỗi GT thấp & P/B ≥ 0.5):** **26** mã (1.58%)
@@ -1044,6 +1044,11 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | 995 | **HBH** | Công ty Cổ phần Habeco - Hải Phòng | Sản xuất bia Hà Nội | ✅ Pass | ✅ Pass (LNST 0.9 / 0.2 / 2.8 tỷ) | ✅ Pass (thương hiệu Habeco, P/B ~0.53) | ❌ Loại (ROE 5 năm 0.1-9.7%) | Dừng ở Bước 4 | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
 | 996 | **HC1** | CTCP Xây dựng số 1 Hà Nội | Thi công xây lắp | ❌ Loại (Nhà thầu xây lắp) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 | 997 | **HC3** | Công ty Cổ phần Xây dựng Số 3 Hải Phòng | Xây dựng & cho thuê BĐS | ❌ Loại (Xây lắp + cho thuê BĐS) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 998 | **HCI** | Công ty Cổ phần Đầu tư - Xây dựng Hà Nội | Xây dựng & BĐS | ❌ Loại (Xây lắp + BĐS dân dụng) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 999 | **HD2** | Công ty cổ phần Đầu tư Phát triển nhà HUD2 | Phát triển nhà ở & đô thị | ❌ Loại (BĐS dân dụng) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 1000 | **HD6** | Công ty cổ phần Đầu tư và Phát triển nhà số 6 Hà Nội | Đầu tư kinh doanh BĐS | ❌ Loại (BĐS dân dụng) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 1001 | **HD8** | CTCP Đầu tư Phát triển Nhà và Đô thị HUD8 | Phát triển nhà ở & đô thị | ❌ Loại (BĐS dân dụng, gần như hết dự án) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 1002 | **HDM** | Công ty Cổ phần Dệt May Huế | Dệt may khép kín xuất khẩu | ✅ Pass | ✅ Pass (LNST 95.5 / 109.4 / 150.8 tỷ) | ✅ Pass (Chuỗi sợi - dệt nhuộm - may) | ✅ Pass (ROE 5/5 năm >= 10%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 
 ---
 

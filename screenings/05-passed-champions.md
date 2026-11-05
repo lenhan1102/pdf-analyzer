@@ -12785,3 +12785,42 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Cơ cấu cổ đông thay đổi mạnh từ 2024 (nhóm cá nhân mới mua ~40% vốn); dư địa pha loãng ROE kéo dài trong 2026 – 2027.
 - **Hành động tiếp theo:** Chỉ theo dõi; cần xem ROE năm 2026 trên nền vốn mới trước khi đánh giá lại.
 - **Ngày tốt nghiệp phễu:** 2026-11-05
+
+---
+
+### 401. HDM - Công ty Cổ phần Dệt May Huế
+- **Mã cổ phiếu:** `HDM` (Sàn UPCOM — thanh khoản tốt, 375/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng / Dệt may chuỗi khép kín Sợi – Dệt nhuộm – May xuất khẩu (thành viên Vinatex)
+- **Hoạt động kinh doanh chính:** Sở hữu 3 nhà máy: sợi (3 dây chuyền Đức, Nhật, trên 12.000 tấn sợi/năm), dệt – nhuộm (~1.500 tấn/năm) và may (50 dây chuyền, gần 16 triệu sản phẩm/năm); ~4.700 lao động. Sản phẩm chủ yếu xuất khẩu, thị trường Mỹ chiếm tỷ trọng lớn.
+- **Luận điểm cốt lõi:**
+  - **Vượt Bước 4 với ROE 5/5 năm ≥ 10%:** ROE 2021 – 2025 từ 24,2% đến 45,4% (bình quân vốn CSH); năm 2025 là năm lãi cao nhất lịch sử (LNST 150,8 tỷ VNĐ).
+  - **Chuỗi khép kín giúp biên gộp vượt mặt bằng may gia công:** Biên gộp 13,0% – 15,9% từ 2021 (so với 7,6% – 8,2% năm 2019 – 2020), 9T/2026 cải thiện lên ~15% nhờ tối ưu giá vốn.
+  - **Lợi nhuận là tiền thật:** CFO 2025 đạt 273,3 tỷ VNĐ (1,8 lần LNST), FCF ~189 tỷ VNĐ sau capex 84,2 tỷ VNĐ; cổ tức tiền mặt đều đặn (chi 80,9 tỷ VNĐ năm 2024, 39,6 tỷ VNĐ năm 2025).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 1.858,9 | 15,9% | 112,5 | 300,3 | **45,4%** |
+  | 2022 | 2.010,4 | 15,1% | 145,3 | 415,4 | **40,6%** |
+  | 2023 | 1.842,3 | 13,0% | 95,5 | 375,0 | **24,2%** |
+  | 2024 | 1.953,4 | 13,2% | 109,4 | 413,3 | **27,8%** |
+  | 2025 | 2.271,5 | 15,1% | 150,8 | 519,9 | **32,3%** |
+  | 9T/2026 | 1.607,5 | 15,0% | 117,3 | 581,8 | ~28% (năm hóa) |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~4,7x** (LNST 4 quý gần nhất Q4/2025 – Q3/2026: 148,4 tỷ VNĐ; EPS ~7.380 VNĐ/cp)
+  - **P/B:** **~1,21x** (Giá 35.000 VNĐ/cp ngày 05/11/2026 so với BVPS ~28.950 VNĐ/cp tại 30/09/2026); vốn hóa ~704 tỷ VNĐ.
+  - **Vốn điều lệ:** **201,0 tỷ VNĐ** (20,1 triệu cổ phiếu)
+  - **Nợ vay:** Vay ngắn hạn 256,3 + dài hạn 76,0 = 332,3 tỷ VNĐ (30/09/2026), giảm từ 483,0 tỷ VNĐ cuối 2025.
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất dệt may xuất khẩu.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 95,5 / 109,4 / 150,8 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Chuỗi khép kín sợi – dệt nhuộm – may, biên gộp 13 – 16%, cùng nhóm tiền lệ TCM, DM7 đã qua Bước 3.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% cả 5/5 năm.
+- **Điểm mạnh đặc biệt:** (1) ROE cao bền vững 24 – 45%; (2) Chuỗi sản xuất khép kín từ sợi; (3) P/E dưới 5 lần, CFO vượt LNST.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Đỉnh lợi nhuận 2025 có yếu tố khách hàng đẩy đơn sớm trước thuế đối ứng của Mỹ:** 9T/2026 doanh thu giảm 4% và LNST giảm 2% so với cùng kỳ, chi phí quản lý tăng 29%; công ty dự kiến hạ mục tiêu lợi nhuận 2026. Phải thu tăng từ 148,7 (2021) lên 432,0 tỷ VNĐ (2025), nhanh hơn doanh thu; báo chí ghi nhận khoản phải thu mới 59 tỷ VNĐ từ một đối tác (Aurora Global Sourcing). Năm 2025 bị phạt và truy thu thuế gần 1 tỷ VNĐ.
+  - Biên lợi nhuận mỏng (ròng ~6,6%) và phụ thuộc đơn hàng xuất khẩu, tỷ giá, giá bông/sợi.
+- **Hành động tiếp theo:** Theo dõi sản lượng đơn hàng Mỹ năm 2026 – 2027 và vòng quay phải thu.
+- **Ngày tốt nghiệp phễu:** 2026-11-05
