@@ -4427,11 +4427,28 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 ---
 
 ### 226. HBH - Công ty Cổ phần Habeco - Hải Phòng
-- **Mã cổ phiếu:** `HBH` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Hàng tiêu dùng
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (8.5%, 9.3%, 0.6%, 0.1%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `HBH` (Sàn UPCOM — 259/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Đồ uống / Sản xuất bia Hà Nội tại Nhà máy Bia Hà Nội – Hải Phòng (đơn vị thành viên Habeco, công suất ~30 triệu lít/năm)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Sản xuất đồ uống tiêu dùng.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. 2023 – 2025 đều lãi (0,9 / 0,2 / 2,8 tỷ VNĐ).
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass (sát nút). Sản phẩm mang thương hiệu Bia Hà Nội của công ty mẹ, nhất quán với tiền lệ các đơn vị thành viên Habeco; tuy vậy biên gộp chỉ 3,3% – 4,0% từ 2023 cho thấy vai trò gần như gia công, P/B ~0,53x sát ngưỡng 0,5.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 275,4 | 10,1% | 14,5 | 156,9 | 9,7% |
+  | 2022 | 306,7 | 9,4% | 15,5 | 172,4 | 9,4% |
+  | 2023 | 243,9 | 4,0% | 0,9 | 169,7 | 0,6% |
+  | 2024 | 245,8 | 3,3% | 0,2 | 169,9 | 0,1% |
+  | 2025 | 251,7 | 3,9% | 2,8 | 171,1 | 1,7% |
+
+- **Lý do loại trừ cốt lõi:**
+  - **ROE chưa từng chạm 10% trong 5 năm:** Cao nhất 9,7% (2021) khi biên gộp còn ~10%; từ 2023 biên gộp sụp về 3 – 4%, lợi nhuận gộp ~8 – 10 tỷ VNĐ chỉ vừa đủ bù chi phí quản lý ~9 tỷ VNĐ/năm. *(Hiệu đính chuỗi ROE: hồ sơ cũ ghi 8,5% / 9,3% / 0,6% / 0,1% và thiếu năm 2025.)*
+  - Lỗ lũy kế đã được xóa (LNST chưa phân phối 7,4 tỷ VNĐ trên vốn điều lệ 160 tỷ VNĐ); không vay dài hạn, tiền + tiền gửi ~100,6 tỷ VNĐ cuối 2025. 9T/2026 LNST 6,2 tỷ VNĐ, 4 quý gần nhất 13,0 tỷ VNĐ (ROE năm hóa ~7,6%) — vẫn dưới 10%.
+  - Định giá: Giá 5.700 VNĐ/cp, vốn hóa ~91 tỷ VNĐ, P/B ~0,53x, P/E ~7,0x (4 quý gần nhất).
+- **Ngày Phân Tích:** 05/11/2026 (Hiệu đính số liệu)
 
 ---
 

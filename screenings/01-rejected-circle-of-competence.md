@@ -3014,29 +3014,36 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 ---
 
 ### 267. HBC - Công ty cổ phần Tập đoàn Xây dựng Hoà Bình
-- **Mã cổ phiếu:** `HBC` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `HBC` (Sàn UPCOM — thanh khoản cao, 400/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Xây dựng / Tổng thầu xây dựng dân dụng & công nghiệp (Hòa Bình Corporation)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Tổng thầu xây lắp ngoài VTNL:** Biên gộp chỉ 3,1% – 7,1% (2021 – 2025); doanh thu co lại từ 14.149,0 (2022) xuống 4.620,3 tỷ VNĐ (2025). Phải thu 10.553,4 tỷ VNĐ cuối 2025, gấp 2,3 lần doanh thu năm — vốn bị chôn trong công nợ công trình.
+  - **Lịch sử thua lỗ nặng (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo, LNST công ty mẹ):** 103,0 (2021) / -2.606,1 (2022) / -1.110,7 (2023) / 959,8 (2024) / 250,6 (2025). Lãi 2024 chủ yếu nhờ thu nhập khác 610,5 và hoàn nhập làm chi phí quản lý âm -266,9 chứ không phải từ xây lắp. Lỗ lũy kế -2.084,9 tỷ VNĐ trên vốn điều lệ 3.472,1 tỷ VNĐ; vay ngắn hạn 3.939,9 tỷ VNĐ.
+  - Kể cả nếu được xét tiếp: B2 qua (2024 – 2025 có lãi) nhưng rớt B3 sát nút — xây lắp ở đáy chuỗi giá trị, P/B ~0,50x.
+  - Định giá: Giá 2.900 VNĐ/cp, vốn hóa ~1.007 tỷ VNĐ, P/B ~0,50x (BVPS công ty mẹ ~5.810 VNĐ/cp, 30/09/2026), P/E ~13,6x (4 quý gần nhất, LNST 74,0 tỷ VNĐ).
+- **Ngày Phân Tích:** 05/11/2026
 
 ---
 
 ### 268. HC1 - CTCP Xây dựng số 1 Hà Nội
-- **Mã cổ phiếu:** `HC1` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `HC1` (Sàn UPCOM — thanh khoản rất thấp, 49/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Xây dựng / Thi công xây lắp công trình dân dụng & công nghiệp
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Nhà thầu xây lắp ngoài VTNL:** Biên gộp 3,9% – 12,0% (2021 – 2025); doanh thu biến động mạnh theo công trình (665,1 / 1.455,9 / 600,4 / 284,4 / 582,9 tỷ VNĐ). Phải thu 603,2 tỷ VNĐ cuối 2025, lớn hơn doanh thu năm.
+  - **Kể cả nếu được xét tiếp cũng rớt Bước 4 (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** LNST 9,4 – 17,2/năm trên vốn CSH ~210; ROE 2021 – 2025: 6,3% / 8,4% / 5,8% / 4,5% / 6,1%. Cổ tức tiền mặt đều đặn ~8 tỷ VNĐ/năm (10% mệnh giá). VNDirect không có BCTC quý.
+  - Định giá: Giá tham chiếu 12.700 VNĐ/cp (phiên khớp gần nhất 15.100 VNĐ, 27/10/2026), vốn hóa ~102 – 121 tỷ VNĐ, P/B ~0,46 – 0,55x, P/E ~7,7 – 9,2x (LNST 2025) — danh nghĩa do thanh khoản rất thấp.
+- **Ngày Phân Tích:** 05/11/2026
 
 ---
 
 ### 269. HC3 - Công ty Cổ phần Xây dựng Số 3 Hải Phòng
-- **Mã cổ phiếu:** `HC3` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `HC3` (Sàn UPCOM — 169/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Xây dựng & Bất động sản cho thuê / Thi công xây lắp dân dụng, công nghiệp, hạ tầng và cho thuê căn hộ – văn phòng tòa nhà H Tower (Hải Phòng)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Xây lắp + cho thuê BĐS ngoài VTNL:** Doanh thu cốt lõi chỉ 52,8 – 78,5 tỷ VNĐ/năm (2021 – 2025) từ hợp đồng xây dựng và cho thuê H Tower; doanh thu hợp đồng xây dựng 6T/2025 giảm 38% còn ~9 tỷ VNĐ. Lợi nhuận thực chất đến từ lãi tiền gửi: đầu tư tài chính ngắn hạn 444,6 tỷ VNĐ (~74% tổng tài sản), doanh thu tài chính 32,5 – 77,5 tỷ VNĐ/năm, vượt lợi nhuận gộp (15,5 – 21,1 tỷ VNĐ).
+  - **Số liệu (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):** LNST 109,9 (2021, có thu nhập khác 19,0) / 38,9 / 58,6 / 36,4 / 40,0; ROE 16,7% / 5,6% / 8,4% / 5,2% / 6,3% — nếu xét tiếp sẽ qua B4 nhờ năm 2021. Không vay nợ. Cuối 2025 khoản đầu tư công ty liên kết giảm từ 157,0 xuống 29,4 tỷ VNĐ và LNST chưa phân phối giảm ~131 tỷ VNĐ (nguyên nhân chưa xác minh). 9T/2026 LNST 25,9 tỷ VNĐ.
+  - Định giá: Giá 25.000 VNĐ/cp, vốn hóa ~517 tỷ VNĐ, P/B ~0,91x, P/E ~13,7x (4 quý gần nhất).
+- **Ngày Phân Tích:** 05/11/2026
 
 ---
 
@@ -4601,3 +4608,14 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
   - **Số liệu (Triệu VNĐ — nguồn: BCTN 2025 của công ty, năm tài chính 01/04 – 31/03; VNDirect không có BCTC):** Doanh thu 1.725 (năm tài chính 2024) và 1.783 (2025); LNST -2.893 (2024, do chi phí khác 3.188) và 838 (2025). Vốn CSH ~4,8 tỷ VNĐ (theo nguồn tổng hợp, chưa kiểm chứng) so với 3,3 triệu cổ phiếu — lỗ lũy kế lớn; không chia cổ tức.
   - Định giá: Giá 2.300 VNĐ/cp, vốn hóa ~7,6 tỷ VNĐ; P/B ~1,6x theo vốn CSH ~4,8 tỷ VNĐ (Simplize hiển thị 0,52x — số liệu không thống nhất).
 - **Ngày Phân Tích:** 05/11/2026 (Hiệu đính phân loại lại từ Bước 4)
+
+---
+
+### 440. HBD - Công ty Cổ phần Bao bì PP Bình Dương
+- **Mã cổ phiếu:** `HBD` (Sàn UPCOM — thanh khoản thấp, 128/400 phiên có khớp lệnh; diện cảnh báo từ 06/04/2026 do vốn điều lệ 20,1 tỷ VNĐ không đáp ứng điều kiện công ty đại chúng)
+- **Ngành nghề niêm yết:** Nguyên vật liệu (danh nghĩa) / Thực tế: Cho thuê nhà xưởng tại Lô 89, KCN Sóng Thần 1 (Dĩ An)
+- **Lý do loại trừ tại Bước 1:**
+  - **Không còn sản xuất bao bì:** Theo BCTC kiểm toán 2025, 100% doanh thu (4,93 tỷ VNĐ) là "doanh thu cung cấp dịch vụ"; ngành nghề đăng ký có "cho thuê nhà xưởng"; không có hàng tồn kho, gần như không có phải thu; TSCĐ hữu hình đã khấu hao hết, tài sản hoạt động duy nhất là bất động sản đầu tư (nguyên giá 7,65 tỷ VNĐ) cùng khoản nhận ký quỹ dài hạn 1,16 tỷ VNĐ của bên thuê; nhân sự chỉ 6 người. Hồ sơ "sản xuất vỏ bao xi măng KP 20 – 25 triệu vỏ/năm" trên các trang tổng hợp đã lỗi thời. Bản chất là cho thuê BĐS — ngoài VTNL, nhất quán với các tiền lệ CCS, FCC, FTI, HAV. *(Hiệu đính chuyển từ File 5 sang Bước 1.)*
+  - **Số liệu (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo, BCTC kiểm toán 2025):** Doanh thu 3,98 / 4,08 / 4,05 / 4,38 / 4,93 (2021 – 2025), biên gộp 69% – 81%; LNST 3,3 – 4,9/năm, trong đó lãi tiền gửi & cho vay 1,6 – 3,3/năm. ~34 tỷ VNĐ trên tổng tài sản 39,1 tỷ VNĐ là tiền gửi và cho vay. ROE 13,5% / 10,4% / 12,8% / 14,2% / 11,0% — nếu xét tiếp sẽ qua B4, nhưng quy mô siêu nhỏ, không có hoạt động kinh doanh cốt lõi để mở rộng.
+  - Định giá: Giá 15.700 VNĐ/cp, vốn hóa ~32 tỷ VNĐ, P/B ~0,86x, P/E ~7,9x (LNST 2025) — danh nghĩa do thanh khoản thấp.
+- **Ngày Phân Tích:** 05/11/2026 (Hiệu đính phân loại lại từ File 5)

@@ -8,20 +8,20 @@ Tài liệu này theo dõi toàn bộ trạng thái của các mã cổ phiếu 
 
 ```mermaid
 pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị Trường)
-    "Rớt Bước 1 (Ngành & Vòng tròn năng lực)" : 427
+    "Rớt Bước 1 (Ngành & Vòng tròn năng lực)" : 428
     "Rớt Bước 2 (Lỗ 3 năm liên tiếp)" : 28
     "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 26
     "Rớt Bước 4 (ROE 5 năm < 10%)" : 448
-    "🏆 Đạt Chuẩn File 5" : 712
+    "🏆 Đạt Chuẩn File 5" : 711
 ```
 
 - **Quy mô toàn bộ vũ trụ cổ phiếu:** **1,641** doanh nghiệp (Toàn bộ 3 sàn HOSE, HNX, UPCoM)
-- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **992 / 1,641** mã (**60.45%** — Đã rà soát chi tiết đến mã `HAV`)
-- **Số mã rớt tại Bước 1 (Ngành & VTNL):** **427** mã (26.02%)
+- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **997 / 1,641** mã (**60.76%** — Đã rà soát chi tiết đến mã `HC3`)
+- **Số mã rớt tại Bước 1 (Ngành & VTNL):** **428** mã (26.08%)
 - **Số mã rớt tại Bước 2 (Lỗ 3 năm liên tiếp):** **28** mã (1.71%)
 - **Số mã rớt tại Bước 3 (Chuỗi GT thấp & P/B ≥ 0.5):** **26** mã (1.58%)
 - **Số mã rớt tại Bước 4 (ROE 5 năm < 10%):** **448** mã (27.30%)
-- **Số mã đạt chuẩn lọt vào File 5 (Champions):** **712** mã (43.39%)
+- **Số mã đạt chuẩn lọt vào File 5 (Champions):** **711** mã (43.33%)
 - **Tổng số mã trong hệ sinh thái:** **1,641 / 1,641 mã (100.0%)**
 
 ---
@@ -33,11 +33,11 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | STT | File Bảng Tóm Tắt Rút Gọn | Nội Dung Trọng Tâm | Số Lượng Mã | Bản Phân Tích Đầy Đủ |
 | :---: | :--- | :--- | :--- | :--- |
 | ⚡ | [00-quick-summary-all.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md) | **Bảng Tổng Hợp Siêu Tốc Toàn Bộ Cổ Phiếu** (Cheat-sheet tra cứu) | **1,641** mã | Xem chi tiết từng mã |
-| 1 | [summary-01-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md) | Bảng tóm tắt các công ty rớt Bước 1 (Ngành nghề ngoài VTNL) | **427** mã | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 1 | [summary-01-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md) | Bảng tóm tắt các công ty rớt Bước 1 (Ngành nghề ngoài VTNL) | **428** mã | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 | 2 | [summary-02-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-02-consecutive-loss.md) | Bảng tóm tắt các công ty rớt Bước 2 (Lỗ 3 năm liên tiếp) | **28** mã | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
 | 3 | [summary-03-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md) | Bảng tóm tắt các công ty rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5) | **26** mã | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
 | 4 | [summary-04-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md) | Bảng tóm tắt các công ty rớt Bước 4 (ROE 5 năm < 10%) | **448** mã | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
-| 5 | [summary-05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md) | 🏆 **Bảng tóm tắt Doanh Nghiệp Đạt Chuẩn (File 5)** | **712** mã | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 5 | [summary-05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md) | 🏆 **Bảng tóm tắt Doanh Nghiệp Đạt Chuẩn (File 5)** | **711** mã | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 
 
 
@@ -1039,6 +1039,11 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | 990 | **HAM** | Công ty Cổ phần Vật tư Hậu Giang | Phân phối VLXD, xăng dầu & gas | ❌ Loại (Phân phối VLXD đại trà) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 | 991 | **HAN** | Tổng công ty Xây dựng Hà Nội - CTCP | Tổng thầu xây lắp | ❌ Loại (Xây lắp, biên gộp 3-9%) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 | 992 | **HAV** | Công ty Cổ phần rượu Hapro | Cho thuê đất & phương tiện | ❌ Loại (Đã dừng sản xuất, chỉ còn cho thuê tài sản) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 993 | **HBC** | Công ty cổ phần Tập đoàn Xây dựng Hoà Bình | Tổng thầu xây dựng | ❌ Loại (Tổng thầu xây lắp, biên gộp 3-7%) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 994 | **HBD** | Công ty Cổ phần Bao bì PP Bình Dương | Cho thuê nhà xưởng | ❌ Loại (Đã dừng sản xuất, chỉ còn cho thuê nhà xưởng) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 995 | **HBH** | Công ty Cổ phần Habeco - Hải Phòng | Sản xuất bia Hà Nội | ✅ Pass | ✅ Pass (LNST 0.9 / 0.2 / 2.8 tỷ) | ✅ Pass (thương hiệu Habeco, P/B ~0.53) | ❌ Loại (ROE 5 năm 0.1-9.7%) | Dừng ở Bước 4 | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
+| 996 | **HC1** | CTCP Xây dựng số 1 Hà Nội | Thi công xây lắp | ❌ Loại (Nhà thầu xây lắp) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 997 | **HC3** | Công ty Cổ phần Xây dựng Số 3 Hải Phòng | Xây dựng & cho thuê BĐS | ❌ Loại (Xây lắp + cho thuê BĐS) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 
 ---
 
