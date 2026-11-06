@@ -3091,21 +3091,14 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 
 ---
 
-### 274. HEC - Công ty Cổ phần Tư vấn Xây dựng Thủy lợi II
-- **Mã cổ phiếu:** `HEC` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
 ### 275. HEJ - Tổng Công ty Tư vấn Xây dựng Thủy lợi Việt Nam-CTCP
-- **Mã cổ phiếu:** `HEJ` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `HEJ` (Sàn UPCOM — 240/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Xây dựng / Tư vấn khảo sát, thiết kế công trình thủy lợi, thủy điện (HEC — Hà Nội)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Tư vấn thiết kế phụ thuộc chu kỳ đầu tư xây dựng, ngoài VTNL:** Nhất quán với tiền lệ INC, SDC, TV3, TV4, CCV. Doanh thu giảm liên tục từ 184,2 (2019) xuống 68,6 – 80,3 tỷ VNĐ (2024 – 2025); phải thu 93,2 tỷ VNĐ cuối 2025, lớn hơn doanh thu năm. Khác với HEC (Thủy lợi II), HEJ không có mảng thủy điện tạo lợi nhuận.
+  - **Kể cả nếu được xét tiếp cũng rớt Bước 4 (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** LNST công ty mẹ 2021 – 2025: 4,7 / 3,8 / 1,4 / 0,4 / -13,9 (năm 2025 lỗ khác -14,0); ROE 6,6% / 5,3% / 2,0% / 0,6% / -20,5%. VNDirect không có BCTC quý.
+  - Định giá: Giá 11.000 VNĐ/cp, vốn hóa ~48 tỷ VNĐ, P/B ~0,80x.
+- **Ngày Phân Tích:** 06/11/2026
 
 ---
 

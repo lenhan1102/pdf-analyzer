@@ -12824,3 +12824,147 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Biên lợi nhuận mỏng (ròng ~6,6%) và phụ thuộc đơn hàng xuất khẩu, tỷ giá, giá bông/sợi.
 - **Hành động tiếp theo:** Theo dõi sản lượng đơn hàng Mỹ năm 2026 – 2027 và vòng quay phải thu.
 - **Ngày tốt nghiệp phễu:** 2026-11-05
+
+---
+
+### 402. HDP - Công ty Cổ phần Dược Hà Tĩnh
+- **Mã cổ phiếu:** `HDP` (Sàn UPCOM — 222/400 phiên có khớp lệnh nhưng khối lượng rất nhỏ)
+- **Ngành nghề niêm yết:** Y tế / Sản xuất & phân phối dược phẩm, đông dược (Hadiphar)
+- **Hoạt động kinh doanh chính:** Tiền thân là Quốc doanh Dược phẩm Hà Tĩnh (1960), cổ phần hóa 2004; vận hành 2 nhà máy đạt GMP-WHO tại Hà Tĩnh với hơn 150 số đăng ký thuốc, ~600 lao động. Sản phẩm tiêu biểu: Mộc hoa trắng HT, Hoàn xích hương, Hỗn hợp thần kinh HT3, Rhomantic Gel, Goltakmin.
+- **Luận điểm cốt lõi:**
+  - **Vượt Bước 4 ở 3/5 năm:** ROE 2022 13,5%, 2024 12,3%, 2025 15,2%; LNST tăng 3 năm liền từ 12,4 (2023) lên 20,1 tỷ VNĐ (2025).
+  - **Biên gộp dược phẩm ổn định 25 – 28%:** Danh mục thuốc đông dược có thương hiệu riêng, khác với nhóm phân phối dược thuần túy.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect không có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 346,7 | 26,8% | 9,5 | 118,7 | 8,3% |
+  | 2022 | 473,6 | 28,0% | 16,8 | 130,7 | **13,5%** |
+  | 2023 | 416,2 | 25,0% | 12,4 | 126,3 | 9,7% |
+  | 2024 | 409,3 | 26,5% | 15,8 | 130,1 | **12,3%** |
+  | 2025 | 407,5 | 28,3% | 20,1 | 134,8 | **15,2%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~13,3x** (LNST 2025; EPS ~2.030 VNĐ/cp)
+  - **P/B:** **~1,98x** (Giá 26.900 VNĐ/cp ngày 06/11/2026 so với BVPS ~13.570 VNĐ/cp cuối 2025); vốn hóa ~267 tỷ VNĐ — danh nghĩa do khối lượng khớp rất nhỏ.
+  - **Vốn điều lệ:** **99,3 tỷ VNĐ** (9,93 triệu cổ phiếu)
+  - **Nợ vay:** Ngắn hạn 57,6 + dài hạn 21,1 = 78,7 tỷ VNĐ (cuối 2025), tương đương ~58% vốn CSH.
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất dược phẩm.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 12,4 / 15,8 / 20,1 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Nhà sản xuất dược có nhà máy GMP-WHO và sản phẩm đông dược mang thương hiệu riêng.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% ở 3/5 năm.
+- **Điểm mạnh đặc biệt:** (1) Danh mục đông dược có thương hiệu; (2) CFO dương 5/5 năm (21,2 – 48,0 tỷ VNĐ); (3) Cổ tức tiền mặt đều đặn ~12 – 16 tỷ VNĐ/năm.
+- **Rủi ro cần theo dõi:**
+  - Quy mô nhỏ, biên ròng chỉ ~4,9%; doanh thu đi ngang ~410 tỷ VNĐ từ 2023 sau đỉnh 473,6 tỷ VNĐ (2022). Phụ thuộc kênh đấu thầu bệnh viện và chi phí bán hàng lớn.
+  - P/B ~2x cao hơn mặt bằng dược phẩm quy mô nhỏ; thanh khoản gần như không có.
+- **Hành động tiếp theo:** Chờ BCTC 2026 để xác nhận ROE duy trì trên 10%.
+- **Ngày tốt nghiệp phễu:** 2026-11-06
+
+---
+
+### 403. HDW - Công ty cổ phần Kinh doanh nước sạch Hải Dương
+- **Mã cổ phiếu:** `HDW` (Sàn UPCOM — thanh khoản thấp, 112/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Tiện ích / Khai thác, xử lý & cung cấp nước sạch (Hải Dương)
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy nước Hải Dương (1936), cổ phần hóa 2017; quản lý hệ thống cấp nước tổng công suất ~200.000 m³/ngày đêm, ~940 lao động. Độc quyền tự nhiên cấp nước theo địa bàn.
+- **Luận điểm cốt lõi:**
+  - **ROE ≥ 10% cả 5/5 năm:** 12,4% / 12,3% / 10,2% / 10,3% / 10,4% (2021 – 2025).
+  - **Doanh thu tăng đều mỗi năm:** Từ 510,6 (2021) lên 603,4 tỷ VNĐ (2025) nhờ tăng sản lượng và điều chỉnh giá nước.
+  - **Giảm nợ đều đặn:** Vay dài hạn giảm từ 292,2 (2020) xuống 172,9 tỷ VNĐ (2025); CFO 112 – 138 tỷ VNĐ/năm, đủ cho capex 61 – 90 tỷ VNĐ và cổ tức ~25 tỷ VNĐ/năm.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 510,6 | 29,5% | 51,9 | 427,3 | **12,4%** |
+  | 2022 | 523,2 | 30,4% | 52,9 | 433,9 | **12,3%** |
+  | 2023 | 543,3 | 30,0% | 44,6 | 439,9 | **10,2%** |
+  | 2024 | 569,4 | 28,1% | 46,0 | 458,2 | **10,3%** |
+  | 2025 | 603,4 | 27,0% | 48,5 | 473,9 | **10,4%** |
+  | 9T/2026 | 475,4 | 27,3% | 44,7 | 479,8 | ~12,5% (năm hóa) |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~9,4x** (LNST 4 quý gần nhất Q4/2025 – Q3/2026: 57,3 tỷ VNĐ; EPS ~1.800 VNĐ/cp)
+  - **P/B:** **~1,12x** (Giá 16.900 VNĐ/cp so với BVPS ~15.050 VNĐ/cp tại 30/09/2026); vốn hóa ~539 tỷ VNĐ.
+  - **Vốn điều lệ:** **318,8 tỷ VNĐ** (31,88 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Tiện ích cấp nước.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 44,6 / 46,0 / 48,5 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Độc quyền tự nhiên cấp nước theo địa bàn.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% cả 5/5 năm.
+- **Điểm mạnh đặc biệt:** (1) Độc quyền cấp nước, doanh thu tăng đều; (2) Dòng tiền ổn định, giảm nợ đều; (3) 9T/2026 LNST tăng ~24% so với cùng kỳ.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **ROE sát ngưỡng 10% suốt 2023 – 2025:** Biên gộp giảm dần từ 32,4% (2020) xuống 27,0% (2025) do giá nước phải được UBND tỉnh phê duyệt trong khi chi phí điện, hóa chất tăng. Nếu không được điều chỉnh giá, ROE dễ rơi dưới 10%.
+  - Thanh khoản thấp; cổ đông Nhà nước/chiến lược nắm phần lớn vốn.
+- **Hành động tiếp theo:** Theo dõi lộ trình điều chỉnh giá nước và kết quả cả năm 2026.
+- **Ngày tốt nghiệp phễu:** 2026-11-06
+
+---
+
+### 404. HEC - Công ty Cổ phần Tư vấn Xây dựng Thủy lợi II
+- **Mã cổ phiếu:** `HEC` (Sàn UPCOM — 255/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Tiện ích – Thủy điện & Dịch vụ kỹ thuật / Tư vấn, khảo sát, thiết kế công trình thủy lợi – thủy điện và sản xuất, cung cấp điện (thủy điện Phước Hòa qua công ty con)
+- **Hoạt động kinh doanh chính:** Tiền thân là Phân viện Khảo sát Thiết kế Thủy lợi Nam Bộ (1982); 179 nhân sự (cuối 2025), 3 công ty con trực tiếp. Hai mảng theo báo cáo bộ phận: (1) xây dựng, dịch vụ tư vấn, khảo sát; (2) cung cấp điện.
+- **Hiệu đính phân loại (Bước 1 → File 5):** Hồ sơ cũ xếp vào nhóm "BĐS dân dụng/xây lắp". Theo báo cáo bộ phận trong BCTC hợp nhất kiểm toán 2025 (trang 36 – 37), **mảng cung cấp điện tạo 63% lợi nhuận trước thuế năm 2025** (47,9/75,4 tỷ VNĐ) và **80% năm 2024** (52,7/65,9 tỷ VNĐ), chiếm 62% tổng tài sản (401,5/644,4 tỷ VNĐ). Lợi nhuận cốt lõi đến từ thủy điện — ngành khai thác tài nguyên nước, thuộc ngoại lệ tài nguyên của Bước 1; mảng tư vấn thiết kế (doanh thu 155,7 tỷ VNĐ, biên gộp ~31%) là phần phụ.
+- **Luận điểm cốt lõi:**
+  - **ROE ≥ 10% cả 5/5 năm:** 22,2% / 16,9% / 16,3% / 12,5% / 13,3% (2021 – 2025, trên vốn CSH công ty mẹ, đã loại lợi ích cổ đông không kiểm soát 93,1 tỷ VNĐ).
+  - **Tài chính rất lành mạnh:** Vay dài hạn giảm từ 233,8 (2019) xuống 22,8 tỷ VNĐ (2025); tiền và đầu tư ngắn hạn 227,4 tỷ VNĐ. Cổ tức tiền mặt ~37,9 tỷ VNĐ/năm (~63% mệnh giá).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo & BCTC hợp nhất kiểm toán 2025; VNDirect không có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST công ty mẹ | Vốn CSH công ty mẹ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 245,0 | 37,4% | 41,3 | 195,9 | **22,2%** |
+  | 2022 | 244,4 | 40,2% | 43,9 | 325,2 | **16,9%** |
+  | 2023 | 276,7 | 41,1% | 55,6 | 356,6 | **16,3%** |
+  | 2024 | 220,9 | 45,4% | 45,8 | 374,9 | **12,5%** |
+  | 2025 | 251,4 | 40,3% | 51,6 | 399,1 | **13,3%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~3,2x** (LNST công ty mẹ 2025; EPS ~8.590 VNĐ/cp)
+  - **P/B:** **~0,42x** (Giá 27.700 VNĐ/cp ngày 06/11/2026 so với BVPS ~66.520 VNĐ/cp cuối 2025); vốn hóa ~166 tỷ VNĐ.
+  - **Vốn điều lệ:** **60,0 tỷ VNĐ** (6,0 triệu cổ phiếu)
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn (hiệu đính): Lợi nhuận chủ yếu từ thủy điện — ngoại lệ tài nguyên.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST công ty mẹ 2023 – 2025 lần lượt 55,6 / 45,8 / 51,6 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Thủy điện và tư vấn kỹ thuật biên gộp 40 – 45%; P/B ~0,42x < 0,5 nên cũng thuộc ngoại lệ P/B.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% cả 5/5 năm.
+- **Điểm mạnh đặc biệt:** (1) P/E ~3x, P/B ~0,4x; (2) Gần như hết nợ vay; (3) Cổ tức tiền mặt cao và đều.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Lợi nhuận phụ thuộc thủy văn và mảng tư vấn phụ thuộc đầu tư công:** Lợi nhuận trước thuế mảng điện giảm từ 52,7 (2024) xuống 47,9 tỷ VNĐ (2025). Cổ đông thiểu số nắm phần đáng kể tại công ty con thủy điện (lợi ích cổ đông không kiểm soát 93,1 tỷ VNĐ), nên chỉ một phần lợi nhuận điện thuộc về cổ đông HEC. Nhóm công ty mua thêm 1 công ty con trong năm 2025 — cần theo dõi hiệu quả khoản đầu tư mới.
+- **Hành động tiếp theo:** Đọc BCTN 2025 để xác định tỷ lệ sở hữu tại công ty con thủy điện và công suất nhà máy.
+- **Ngày tốt nghiệp phễu:** 2026-11-06
+
+---
+
+### 405. HEP - Công ty Cổ phần Môi trường và Công trình Đô thị Huế
+- **Mã cổ phiếu:** `HEP` (Sàn UPCOM — 182/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Dịch vụ công ích / Vệ sinh môi trường, thu gom – xử lý rác & quản lý bảo trì công trình đô thị (TP. Huế)
+- **Hoạt động kinh doanh chính:** Tiền thân là Phòng Công trình công cộng và Quản lý nhà đất (sau 1975), cổ phần hóa 2015; thu gom, vận chuyển, xử lý ~200 tấn rác/ngày, vệ sinh hơn 500 km đường phố, nạo vét ~190 km mương cống; ~640 lao động.
+- **Hiệu đính phân loại (Bước 4 → File 5) — cách tính ROE:** Hồ sơ cũ tính ROE trên tổng "Vốn chủ sở hữu" (282,0 tỷ VNĐ cuối 2025), nhưng phần lớn khoản này là **"Nguồn kinh phí đã hình thành TSCĐ" — vốn ngân sách Nhà nước cấp để hình thành tài sản công ích** (479,7 tỷ VNĐ năm 2023, giảm còn 160,2 tỷ VNĐ năm 2024 và 191,5 tỷ VNĐ năm 2025), không phải vốn cổ đông góp. Phần thuộc cổ đông ("Vốn và các quỹ") chỉ 85,9 – 98,0 tỷ VNĐ. Tính trên phần này, ROE 2021 – 2025 đạt 10,9% – 17,8%; tính trên tổng vốn CSH chỉ 1,8% – 6,0%. Cách xử lý tương tự quy tắc loại lợi ích cổ đông không kiểm soát khỏi mẫu số ROE.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect không có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn & các quỹ (cổ đông) | ROE trên vốn cổ đông | ROE trên tổng VCSH |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 325,4 | 13,0% | 10,5 | 98,0 | **10,9%** | 1,8% |
+  | 2022 | 347,1 | 13,6% | 11,5 | 93,0 | **12,0%** | 2,0% |
+  | 2023 | 292,9 | 15,2% | 12,5 | 91,9 | **13,5%** | 2,2% |
+  | 2024 | 325,9 | 15,6% | 14,4 | 85,9 | **16,2%** | 3,5% |
+  | 2025 | 311,2 | 17,5% | 15,7 | 90,5 | **17,8%** | 6,0% |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~4,2x** (LNST 2025; EPS ~2.620 VNĐ/cp)
+  - **P/B:** **~0,73x** trên vốn cổ đông (Giá 11.000 VNĐ/cp so với BVPS ~15.080 VNĐ/cp); ~0,23x nếu tính cả nguồn kinh phí. Vốn hóa ~66 tỷ VNĐ.
+  - **Vốn điều lệ:** **60,0 tỷ VNĐ** (6,0 triệu cổ phiếu); không vay nợ.
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Dịch vụ môi trường công ích (tiền lệ BMD, DNE, EGL).
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 12,5 / 14,4 / 15,7 tỷ VNĐ, tăng đều.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Độc quyền công ích theo địa bàn, nhất quán với tiền lệ BMD, DNE.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn (hiệu đính): ROE trên vốn cổ đông ≥ 10% cả 5/5 năm.
+- **Điểm mạnh đặc biệt:** (1) LNST tăng 4 năm liền; (2) Biên gộp cải thiện từ 13,0% lên 17,5%; (3) Không vay nợ, cổ tức tiền mặt 5 – 7 tỷ VNĐ/năm.
+- **Rủi ro cần theo dõi:**
+  - > [!CAUTION]
+    > **Lợi nhuận không chuyển thành tiền:** CFO 2021 – 2025 lần lượt 0,0 / -20,1 / 0,1 / 31,6 / -23,0 tỷ VNĐ — cộng dồn âm -11,4 tỷ VNĐ trong khi LNST cộng dồn 64,6 tỷ VNĐ. Phải thu tăng vọt từ 21,3 lên 79,8 tỷ VNĐ năm 2025, tiền mặt giảm từ 51,0 xuống 11,0 tỷ VNĐ — nhiều khả năng do ngân sách thành phố chậm thanh toán đơn hàng công ích.
+  - ROE cao một phần nhờ tài sản công ích do Nhà nước cấp (khấu hao trừ vào nguồn kinh phí, không vào giá vốn); năm 2024 nguồn kinh phí giảm ~320 tỷ VNĐ cùng TSCĐ (nguyên nhân chưa xác minh). Nếu tài sản phải tự đầu tư, hiệu quả thực sẽ thấp hơn nhiều.
+- **Hành động tiếp theo:** Theo dõi thu hồi phải thu từ ngân sách và cơ chế giao/đấu thầu dịch vụ công ích của TP. Huế.
+- **Ngày tốt nghiệp phễu:** 2026-11-06

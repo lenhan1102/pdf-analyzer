@@ -4452,15 +4452,6 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 227. HEP - Công ty Cổ phần Môi trường và Công trình Đô thị Huế
-- **Mã cổ phiếu:** `HEP` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Dịch vụ
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (1.7%, 1.8%, 2.2%, 5.8%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
 ### 228. HFX - Công ty cổ phần Sản xuất - Xuất nhập khẩu Thanh Hà
 - **Mã cổ phiếu:** `HFX` (Sàn UPCOM)
 - **Ngành nghề niêm yết:** Nông nghiệp

@@ -8,20 +8,20 @@ Tài liệu này theo dõi toàn bộ trạng thái của các mã cổ phiếu 
 
 ```mermaid
 pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị Trường)
-    "Rớt Bước 1 (Ngành & Vòng tròn năng lực)" : 428
+    "Rớt Bước 1 (Ngành & Vòng tròn năng lực)" : 427
     "Rớt Bước 2 (Lỗ 3 năm liên tiếp)" : 28
     "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 26
-    "Rớt Bước 4 (ROE 5 năm < 10%)" : 448
-    "🏆 Đạt Chuẩn File 5" : 711
+    "Rớt Bước 4 (ROE 5 năm < 10%)" : 447
+    "🏆 Đạt Chuẩn File 5" : 713
 ```
 
 - **Quy mô toàn bộ vũ trụ cổ phiếu:** **1,641** doanh nghiệp (Toàn bộ 3 sàn HOSE, HNX, UPCoM)
-- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **1,002 / 1,641** mã (**61.06%** — Đã rà soát chi tiết đến mã `HDM`)
-- **Số mã rớt tại Bước 1 (Ngành & VTNL):** **428** mã (26.08%)
+- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **1,007 / 1,641** mã (**61.37%** — Đã rà soát chi tiết đến mã `HEP`)
+- **Số mã rớt tại Bước 1 (Ngành & VTNL):** **427** mã (26.02%)
 - **Số mã rớt tại Bước 2 (Lỗ 3 năm liên tiếp):** **28** mã (1.71%)
 - **Số mã rớt tại Bước 3 (Chuỗi GT thấp & P/B ≥ 0.5):** **26** mã (1.58%)
-- **Số mã rớt tại Bước 4 (ROE 5 năm < 10%):** **448** mã (27.30%)
-- **Số mã đạt chuẩn lọt vào File 5 (Champions):** **711** mã (43.33%)
+- **Số mã rớt tại Bước 4 (ROE 5 năm < 10%):** **447** mã (27.24%)
+- **Số mã đạt chuẩn lọt vào File 5 (Champions):** **713** mã (43.45%)
 - **Tổng số mã trong hệ sinh thái:** **1,641 / 1,641 mã (100.0%)**
 
 ---
@@ -33,11 +33,11 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | STT | File Bảng Tóm Tắt Rút Gọn | Nội Dung Trọng Tâm | Số Lượng Mã | Bản Phân Tích Đầy Đủ |
 | :---: | :--- | :--- | :--- | :--- |
 | ⚡ | [00-quick-summary-all.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md) | **Bảng Tổng Hợp Siêu Tốc Toàn Bộ Cổ Phiếu** (Cheat-sheet tra cứu) | **1,641** mã | Xem chi tiết từng mã |
-| 1 | [summary-01-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md) | Bảng tóm tắt các công ty rớt Bước 1 (Ngành nghề ngoài VTNL) | **428** mã | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 1 | [summary-01-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md) | Bảng tóm tắt các công ty rớt Bước 1 (Ngành nghề ngoài VTNL) | **427** mã | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 | 2 | [summary-02-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-02-consecutive-loss.md) | Bảng tóm tắt các công ty rớt Bước 2 (Lỗ 3 năm liên tiếp) | **28** mã | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
 | 3 | [summary-03-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md) | Bảng tóm tắt các công ty rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5) | **26** mã | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
-| 4 | [summary-04-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md) | Bảng tóm tắt các công ty rớt Bước 4 (ROE 5 năm < 10%) | **448** mã | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
-| 5 | [summary-05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md) | 🏆 **Bảng tóm tắt Doanh Nghiệp Đạt Chuẩn (File 5)** | **711** mã | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 4 | [summary-04-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md) | Bảng tóm tắt các công ty rớt Bước 4 (ROE 5 năm < 10%) | **447** mã | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
+| 5 | [summary-05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md) | 🏆 **Bảng tóm tắt Doanh Nghiệp Đạt Chuẩn (File 5)** | **713** mã | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 
 
 
@@ -1049,6 +1049,11 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | 1000 | **HD6** | Công ty cổ phần Đầu tư và Phát triển nhà số 6 Hà Nội | Đầu tư kinh doanh BĐS | ❌ Loại (BĐS dân dụng) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 | 1001 | **HD8** | CTCP Đầu tư Phát triển Nhà và Đô thị HUD8 | Phát triển nhà ở & đô thị | ❌ Loại (BĐS dân dụng, gần như hết dự án) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 | 1002 | **HDM** | Công ty Cổ phần Dệt May Huế | Dệt may khép kín xuất khẩu | ✅ Pass | ✅ Pass (LNST 95.5 / 109.4 / 150.8 tỷ) | ✅ Pass (Chuỗi sợi - dệt nhuộm - may) | ✅ Pass (ROE 5/5 năm >= 10%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 1003 | **HDP** | Công ty Cổ phần Dược Hà Tĩnh | Sản xuất dược phẩm & đông dược | ✅ Pass | ✅ Pass (LNST 12.4 / 15.8 / 20.1 tỷ) | ✅ Pass (Nhà máy GMP-WHO, thương hiệu riêng) | ✅ Pass (ROE 3/5 năm >= 10%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 1004 | **HDW** | Công ty cổ phần Kinh doanh nước sạch Hải Dương | Cấp nước sạch | ✅ Pass | ✅ Pass (LNST 44.6 / 46.0 / 48.5 tỷ) | ✅ Pass (Độc quyền cấp nước) | ✅ Pass (ROE 5/5 năm >= 10%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 1005 | **HEC** | Công ty Cổ phần Tư vấn Xây dựng Thủy lợi II | Thủy điện & Tư vấn thiết kế | ✅ Pass (Ngoại lệ tài nguyên: thủy điện tạo 63-80% LNTT) | ✅ Pass (LNST 55.6 / 45.8 / 51.6 tỷ) | ✅ Pass (P/B 0.42 < 0.5) | ✅ Pass (ROE 5/5 năm >= 10%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 1006 | **HEJ** | Tổng Công ty Tư vấn Xây dựng Thủy lợi Việt Nam-CTCP | Tư vấn thiết kế thủy lợi | ❌ Loại (Tư vấn xây dựng phụ thuộc chu kỳ đầu tư) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 1007 | **HEP** | Công ty Cổ phần Môi trường và Công trình Đô thị Huế | Vệ sinh môi trường công ích | ✅ Pass | ✅ Pass (LNST 12.5 / 14.4 / 15.7 tỷ) | ✅ Pass (Độc quyền công ích địa bàn) | ✅ Pass (ROE trên vốn cổ đông 5/5 năm >= 10%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 
 ---
 
