@@ -3103,11 +3103,14 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 ---
 
 ### 276. HFB - Công ty Cổ phần Công trình Cầu phà Thành phố Hồ Chí Minh
-- **Mã cổ phiếu:** `HFB` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `HFB` (Sàn UPCOM — 101/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Xây dựng / Duy tu, sửa chữa cầu – vận hành phà đường bộ (dịch vụ công ích) & thi công xây lắp (TP.HCM)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Bản chất là nhà thầu duy tu – xây lắp hạ tầng giao thông, ngoài VTNL:** Tách từ Công ty Quản lý Công trình Giao thông Sài Gòn (1999), cổ phần hóa 2016; cung ứng dịch vụ công ích quản lý, bảo dưỡng, duy tu sửa chữa cầu phà trên địa bàn TP.HCM, kèm thi công xây lắp dân dụng – công nghiệp, bãi đỗ xe và cho thuê máy móc thi công; 344 lao động. Khác với nhóm vệ sinh môi trường công ích (BMD, DNE, EGL, HEP), doanh thu của HFB là các gói duy tu – sửa chữa công trình mang tính xây lắp. *(Hiệu đính lý do: hồ sơ cũ ghi nhầm "BĐS dân dụng, phân lô bán nền".)*
+  - **Biên gộp kiểu nhà thầu và vốn bị chôn trong phải thu:** Biên gộp giảm từ 10,9% (2019) xuống 5,7% – 6,1% (2024 – 2025); phải thu 262,7 tỷ VNĐ và hàng tồn kho (chi phí dở dang) 106,1 tỷ VNĐ cuối 2025 so với doanh thu 573,1 tỷ VNĐ — chờ nghiệm thu, quyết toán ngân sách.
+  - **Kể cả nếu được xét tiếp cũng rớt Bước 4 (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect không có BCTC quý):** LNST 2021 – 2025: 9,9 / 9,4 / 8,8 / 7,1 / 7,6; ROE 9,7% / 9,3% / 8,7% / 7,0% / 7,5% — chưa năm nào chạm 10%. Cổ tức tiền mặt đều ~5,8 – 8,9 tỷ VNĐ/năm.
+  - Định giá: Giá 10.000 VNĐ/cp, vốn hóa ~91 tỷ VNĐ, P/B ~0,89x, P/E ~12,0x.
+- **Ngày Phân Tích:** 09/11/2026 (Hiệu đính lý do)
 
 ---
 

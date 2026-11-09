@@ -4452,12 +4452,31 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 228. HFX - Công ty cổ phần Sản xuất - Xuất nhập khẩu Thanh Hà
-- **Mã cổ phiếu:** `HFX` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nông nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (2.4%, 2.2%, 6.5%, 4.0%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+### 228. HGT - Công ty cổ phần Du lịch Hương Giang
+- **Mã cổ phiếu:** `HGT` (Sàn UPCOM — chỉ 5/400 phiên có khớp lệnh, giao dịch gần nhất 29/12/2025; HĐQT đã phê duyệt phương án thủ tục hủy tư cách công ty đại chúng ngày 16/12/2025)
+- **Ngành nghề niêm yết:** Dịch vụ / Khách sạn, nhà hàng & lữ hành (TP. Huế)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Dịch vụ lưu trú – du lịch.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. 2023 – 2024 có lãi (1,0 / 64,6 tỷ VNĐ), 2025 lỗ -19,9 tỷ VNĐ.
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass. Sở hữu khách sạn Hương Giang (4 sao) bên sông Hương, đồng sở hữu Saigon Morin Huế và Azerai La Residence Hue (khoản đầu tư liên doanh, liên kết 112,2 tỷ VNĐ).
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo; giải trình BCTC kiểm toán 2024 số 21/CV-CTHG):**
+
+  | Năm | Doanh thu thuần | Biên gộp | Doanh thu tài chính | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 9,0 | -63,1% | 1,1 | -31,2 | 146,7 | -19,0% |
+  | 2022 | 36,6 | 21,6% | 1,1 | -6,0 | 140,7 | -4,2% |
+  | 2023 | 51,1 | 28,9% | 1,5 | 1,0 | 141,7 | 0,7% |
+  | 2024 | 57,4 | 23,4% | **80,5** | 64,6 | 206,3 | 37,1%* |
+  | 2025 | 38,5 | 13,1% | 7,2 | -19,9 | 186,4 | -10,1% |
+  | 9T/2026 | 47,0 | 22,0% | 5,4 | 3,5 | 190,0 | ~2,5% (năm hóa) |
+
+  *\* ROE 2024 đến từ khoản lãi một lần.*
+- **Lý do loại trừ cốt lõi:**
+  - **ROE 2024 là đột biến một lần, không phải hiệu quả kinh doanh:** Theo giải trình BCTC kiểm toán 2024, lợi nhuận tăng do **chuyển nhượng toàn bộ phần vốn góp tại Công ty TNHH Du lịch Lăng Cô với giá 84 tỷ VNĐ** (Quyết định 10/QĐ-HĐQT ngày 01/08/2024). Loại khoản này, lợi nhuận trước thuế 2024 trừ doanh thu tài chính còn âm ~-13,7 tỷ VNĐ. Nhất quán với tiền lệ KLB, DRG (loại thu nhập đột biến khi xét ROE), **ROE cốt lõi chưa từng chạm 10% trong 5 năm**.
+  - Kinh doanh khách sạn yếu kéo dài: doanh thu 2025 chỉ 38,5 tỷ VNĐ trên vốn điều lệ 200 tỷ VNĐ; chi phí quản lý tăng từ 12,9 (2023) lên 26,8 tỷ VNĐ (2025) vượt lợi nhuận gộp; CFO âm 3/5 năm (2021, 2024, 2025). Lỗ lũy kế -60,8 tỷ VNĐ. 9T/2026 LNST 3,5 tỷ VNĐ, trong đó Q1 có 4,2 tỷ VNĐ doanh thu tài chính.
+  - Định giá: Giá 12.100 VNĐ/cp (danh nghĩa — không khớp lệnh từ 29/12/2025), vốn hóa ~242 tỷ VNĐ, P/B ~1,27x (BVPS ~9.500 VNĐ/cp tại 30/09/2026); P/E không có ý nghĩa do lỗ.
+- **Ngày Phân Tích:** 09/11/2026 (Hiệu đính chuyển từ File 5 sang Bước 4: hồ sơ cũ ghi nhầm "Doanh nghiệp đầu ngành… Vượt B4")
 
 ---
 

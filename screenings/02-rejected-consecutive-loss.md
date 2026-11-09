@@ -37,6 +37,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
 | 25 | **GTD** | Công ty Cổ phần Giầy Thượng Đình | Sản xuất giày vải, giày thể thao | Thua lỗ liên tiếp 3 năm (2023-2025: -5,0 / -13,0 / -38,7 tỷ), vốn CSH âm -12,4 tỷ | 2026-11-04 |
 | 26 | **GTT** | Công ty Cổ phần Thuận Thảo | Vận tải hành khách, khách sạn & du lịch (Phú Yên) | Lỗ kéo dài (2019: -165,9 tỷ), không công bố BCTC từ 2020, vốn CSH âm -988,8 tỷ, tài sản thế chấp bị kê biên | 2026-11-04 |
 | 27 | **HAF** | Công ty Cổ phần Thực phẩm Hà Nội | Thực phẩm, thương mại – dịch vụ | Thua lỗ liên tiếp 6 năm (2023-2025: -18,6 / -14,1 / -31,4 tỷ), 9T/2026 lỗ -3,8 tỷ, kiểm toán ngoại trừ 3 năm | 2026-11-05 |
+| 28 | **HFX** | Công ty cổ phần Sản xuất - Xuất nhập khẩu Thanh Hà | Sơ chế & xuất khẩu nông sản | Lỗ 7 năm liên tiếp 2019-2025 (2023-2025: -15,2 / -11,1 / -15,3 tỷ), vốn CSH âm -253,2 tỷ | 2026-11-09 |
 
 ---
 
@@ -541,3 +542,24 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
   - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2.)*
   - Định giá: Giá 17.700 VNĐ/cp, vốn hóa ~257 tỷ VNĐ, P/B ~9,3x so với vốn CSH công ty mẹ cuối 2025 (BVPS ~1.900 VNĐ/cp) — giá phản ánh kỳ vọng tài sản/đất đai chứ không phải kinh doanh.
 - **Ngày Phân Tích:** 05/11/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 29. HFX - Công ty cổ phần Sản xuất - Xuất nhập khẩu Thanh Hà
+- **Mã cổ phiếu:** `HFX` (Sàn UPCOM — chỉ 15/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Nông nghiệp / Sơ chế & xuất khẩu nông sản (cà phê, tiêu, quế)
+- **Lý do loại trừ tại Bước 2 (Lỗ ít nhất 7 năm liên tiếp 2019 – 2025, vốn CSH âm):**
+  - **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect không có BCTC quý):**
+
+    | Năm | Doanh thu thuần | Lợi nhuận gộp | Chi phí lãi vay | LNST | Vốn CSH cuối kỳ | Trạng thái |
+    | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | 2021 | 21,9 | 3,9 | 5,4 | **-5,1** | -204,5 | **Lỗ** |
+    | 2022 | 24,9 | 4,7 | 7,3 | **-7,1** | -211,6 | **Lỗ** |
+    | 2023 | 22,0 | 4,5 | 7,4 | **-15,2** | -226,8 | **Lỗ** |
+    | 2024 | 22,9 | 3,8 | 8,9 | **-11,1** | -237,9 | **Lỗ** |
+    | 2025 | 23,6 | 4,7 | 14,0 | **-15,3** | -253,2 | **Lỗ** |
+
+  - Doanh thu giảm từ 49,1 (2019) xuống ~22 – 24 tỷ VNĐ; lợi nhuận gộp ~4 – 5 tỷ VNĐ/năm không đủ trả lãi vay 5,4 – 14,0 tỷ VNĐ. Lỗ lũy kế 280,3 tỷ VNĐ trên vốn điều lệ chỉ 12,7 tỷ VNĐ; nợ ngắn hạn 274,4 tỷ VNĐ (gồm vay ngắn hạn 95,2 tỷ VNĐ) so với tổng tài sản 21,2 tỷ VNĐ — mất khả năng thanh toán về mặt kế toán. Chỉ còn 13 lao động.
+  - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2: hồ sơ cũ ghi "ROE 2,4% – 6,5%" do chia lỗ cho vốn CSH âm.)*
+  - Định giá: Giá 5.100 VNĐ/cp, vốn hóa ~6,5 tỷ VNĐ; BVPS âm ~-199.000 VNĐ/cp nên P/B không có ý nghĩa.
+- **Ngày Phân Tích:** 09/11/2026 (Hiệu đính phân loại lại)

@@ -418,3 +418,30 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ ba: 
   - Thực tế: P/B = 0.88 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net.
 - **Lý do bị loại:** Chủ tàu dầu sản phẩm quy mô nhỏ, cước theo thị trường, biên gộp 7% – 12%, lợi nhuận đột biến 2026 đến từ bán tàu; P/B ~0,88 lần nên bị loại tại Bước 3. *(Hiệu đính: hồ sơ cũ ghi nhầm "Doanh nghiệp đầu ngành… Vượt B4". ROE 2022 – 2025 ~12% – 14% sẽ qua Bước 4 nếu được xét tiếp.)*
 - **Ngày sàng lọc:** 2026-11-04
+
+---
+
+### 27. HFC - Công ty Cổ phần Xăng dầu HFC
+- **Mã cổ phiếu:** `HFC` (Sàn UPCOM — 95/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Năng lượng / Bán buôn, bán lẻ xăng dầu & LPG tại Hà Nội (tiền thân Công ty Chất đốt Hà Nội, 1978)
+- **Bước 1 (Vòng tròn năng lực):** ✅ Pass. Phân phối nhiên liệu, không thuộc nhóm BĐS/xây lắp/VLXD.
+- **Bước 2 (Lợi nhuận 3 năm):** ✅ Pass. LNST 2023 – 2025 dương (3,0 / 9,3 / 14,3 tỷ VNĐ).
+- **Vị thế chuỗi giá trị:**
+  - Đại lý phân phối xăng dầu ở khâu cuối chuỗi: 15 cửa hàng xăng dầu và 9 trạm cấp tại Hà Nội, 1 cửa hàng tại Hải Phòng, sản lượng ~120.000 – 150.000 lít/ngày; 235 lao động. Giá bán và chiết khấu đầu mối do Nhà nước điều hành và nhà cung cấp quyết định — cùng nhóm với COM, CMV (đã loại tại Bước 3). Khác với PLX (đầu mối thống trị), SFC (đất vàng nội đô TP.HCM) hay GCB (P/B ~0,22x), HFC không có lợi thế đầu mối, kho cảng hay định giá siêu rẻ.
+  - Biên gộp chỉ **2,8% – 6,1%** (2019 – 2025), biên ròng 2025 ~0,8%; một phần lợi nhuận đến từ thu nhập khác (5,4 tỷ VNĐ năm 2025 — rửa xe, cho thuê mặt bằng).
+- **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect không có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 1.513,3 | 5,4% | 3,0 | 74,8 | 4,5% | 23,4 |
+  | 2022 | 2.233,1 | 2,8% | -12,4 | 60,8 | -18,4% | -32,1 |
+  | 2023 | 2.005,1 | 4,2% | 3,0 | 80,8 | 4,3% | -14,8 |
+  | 2024 | 2.029,2 | 5,7% | 9,3 | 87,0 | 11,0% | 27,9 |
+  | 2025 | 1.802,7 | 6,0% | 14,3 | 98,1 | 15,4% | 67,1 |
+
+  - Vay ngắn hạn giảm từ 200,0 (2022) xuống 103,7 tỷ VNĐ (2025) nhờ CFO 2025 đạt 67,1 tỷ VNĐ; lỗ lũy kế còn -3,8 tỷ VNĐ, chưa chia cổ tức.
+- **Định giá P/B thực tế:** **~0,88 lần** (Thị giá 8.500 VNĐ/cp ngày 06/11/2026 so với BVPS ~9.620 VNĐ/cp cuối 2025); vốn hóa ~87 tỷ VNĐ; P/E ~6,1x (LNST 2025).
+  - Điều kiện ngoại lệ giữ lại: Định giá phải siêu rẻ với P/B < 0.5.
+  - Thực tế: P/B = 0.88 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net.
+- **Lý do bị loại:** Đại lý bán lẻ xăng dầu biên gộp 3% – 6%, không có hào kinh tế, P/B ~0,88 lần nên bị loại tại Bước 3. *(Hiệu đính: hồ sơ cũ ghi nhầm "Doanh nghiệp đầu ngành… Vượt B4". ROE 2024 – 2025 đạt 11,0% – 15,4% sẽ qua Bước 4 nếu được xét tiếp.)*
+- **Ngày sàng lọc:** 2026-11-09

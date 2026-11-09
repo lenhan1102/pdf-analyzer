@@ -12968,3 +12968,40 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - ROE cao một phần nhờ tài sản công ích do Nhà nước cấp (khấu hao trừ vào nguồn kinh phí, không vào giá vốn); năm 2024 nguồn kinh phí giảm ~320 tỷ VNĐ cùng TSCĐ (nguyên nhân chưa xác minh). Nếu tài sản phải tự đầu tư, hiệu quả thực sẽ thấp hơn nhiều.
 - **Hành động tiếp theo:** Theo dõi thu hồi phải thu từ ngân sách và cơ chế giao/đấu thầu dịch vụ công ích của TP. Huế.
 - **Ngày tốt nghiệp phễu:** 2026-11-06
+
+---
+
+### 406. HES - Công ty Cổ phần Dịch vụ Giải trí Hà Nội
+- **Mã cổ phiếu:** `HES` (Sàn UPCOM — chỉ 46/400 phiên có khớp lệnh, giao dịch gần nhất 15/09/2026)
+- **Ngành nghề niêm yết:** Dịch vụ / Vui chơi giải trí, công viên nước & tổ chức sự kiện (HASECO — Hà Nội)
+- **Hoạt động kinh doanh chính:** Thành lập 1998, đơn vị thành viên Tổng Công ty Du lịch Hà Nội (Hanoitourist); quản lý tổ hợp vui chơi giải trí Hồ Tây trên diện tích 8,1 ha (Công viên nước Hồ Tây, công viên Mặt Trời Mới, trung tâm dịch vụ đa năng), kèm mảng tổ chức sự kiện và lữ hành HASECO Travel; 171 lao động.
+- **Luận điểm cốt lõi:**
+  - **Vượt Bước 4 ở 3/5 năm:** ROE 2022 24,1%, 2023 14,1%, 2024 12,4% sau khi phục hồi từ Covid (2020 – 2021 lỗ -13,1 / -29,1 tỷ VNĐ).
+  - **Tài sản giải trí vị trí hiếm tại nội đô Hà Nội:** Công viên nước Hồ Tây là một trong số ít công viên nước quy mô lớn trong nội thành, biên gộp 32% – 42% từ 2022.
+  - **Bảng cân đối sạch:** Không vay nợ; tiền và tiền gửi ngắn hạn 80,6 tỷ VNĐ cuối 2025 (~69% vốn CSH); CFO dương 4 năm liền (9,3 – 28,2 tỷ VNĐ).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect không có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 19,0 | -27,3% | -29,1 | 67,9 | -35,3% |
+  | 2022 | 136,1 | 41,8% | 18,6 | 86,5 | **24,1%** |
+  | 2023 | 152,4 | 38,8% | 13,1 | 99,6 | **14,1%** |
+  | 2024 | 156,2 | 34,0% | 13,2 | 112,8 | **12,4%** |
+  | 2025 | 152,3 | 31,9% | 9,0 | 117,2 | 7,8% |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~15,0x** (LNST 2025; EPS ~970 VNĐ/cp)
+  - **P/B:** **~1,15x** (Giá tham chiếu 14.500 VNĐ/cp ngày 09/11/2026 so với BVPS ~12.610 VNĐ/cp cuối 2025); vốn hóa ~135 tỷ VNĐ — danh nghĩa do giao dịch rất thưa (khớp gần nhất 15.600 VNĐ/cp ngày 15/09/2026).
+  - **Vốn điều lệ:** **93,0 tỷ VNĐ** (9,3 triệu cổ phiếu); không vay nợ.
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Dịch vụ vui chơi giải trí tiêu dùng.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 13,1 / 13,2 / 9,0 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Vận hành trực tiếp tổ hợp giải trí có vị trí khó sao chép, biên gộp 32% – 42%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% ở 3/5 năm (2022 – 2024).
+- **Điểm mạnh đặc biệt:** (1) Tài sản giải trí vị trí đắc địa Hồ Tây; (2) Không nợ vay, tiền gửi lớn; (3) Lỗ lũy kế thời Covid (-40,3 tỷ VNĐ năm 2021) đã được xóa, LNST chưa phân phối 9,0 tỷ VNĐ cuối 2025 và đã chia lại cổ tức tiền mặt 3,7 tỷ VNĐ năm 2025.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Lợi nhuận giảm 3 năm liền, ROE 2025 rơi xuống 7,8%:** Doanh thu đi ngang ~152 – 156 tỷ VNĐ từ 2023 trong khi biên gộp giảm từ 41,8% xuống 31,9% và năm 2025 phát sinh lỗ khác -3,2 tỷ VNĐ. Mảng công viên nước phụ thuộc thời tiết mùa hè và cạnh tranh từ các khu vui chơi mới; capex tăng lên 8,1 – 9,4 tỷ VNĐ/năm để nâng cấp thiết bị. Nợ dài hạn khác tăng từ 0,6 lên 13,4 tỷ VNĐ (2023 – 2025, chưa xác minh bản chất).
+  - Khu đất 8,1 ha nhiều khả năng là đất thuê của Nhà nước — quyền khai thác dài hạn chưa được kiểm chứng; thanh khoản cổ phiếu gần như không có.
+- **Hành động tiếp theo:** Chờ BCTC 2026 để xác nhận ROE có quay lại trên 10% hay không; xác minh thời hạn thuê đất khu Hồ Tây.
+- **Ngày tốt nghiệp phễu:** 2026-11-09
