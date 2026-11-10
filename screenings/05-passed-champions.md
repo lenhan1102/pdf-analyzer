@@ -13038,3 +13038,110 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - P/B ~2,4x và P/E ~18x cao so với các đơn vị thành viên Habeco khác; cổ đông lớn nắm 75% vốn, thanh khoản gần như không có.
 - **Hành động tiếp theo:** Tìm BCTC 2021 – 2023 (bản công bố thông tin trước khi đăng ký giao dịch) để kiểm chứng chuỗi ROE 5 năm.
 - **Ngày tốt nghiệp phễu:** 2026-11-10
+
+---
+
+### 408. HLB - Công ty Cổ phần Bia và Nước giải khát Hạ Long
+- **Mã cổ phiếu:** `HLB` (Sàn UPCOM — 160/400 phiên có khớp lệnh, khối lượng rất nhỏ; thị giá 500.000 VNĐ/cp do chỉ có 3,09 triệu cổ phiếu)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Đồ uống / Sản xuất bia và nước giải khát (Quảng Ninh)
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy liên hợp thực phẩm Hòn Gai (1967), cổ phần hóa 2003; vận hành 2 nhà máy tổng công suất 35 triệu lít bia/năm (số liệu hồ sơ công ty, có thể đã lỗi thời so với quy mô doanh thu hiện tại); 706 lao động.
+- **Luận điểm cốt lõi:**
+  - **ROE ≥ 25% cả 5/5 năm:** 33,7% / 38,6% / 27,3% / 27,3% / 25,6% (2021 – 2025); LNST tăng từ 81,8 lên 155,5 tỷ VNĐ.
+  - **Doanh thu tăng gấp 3 trong 6 năm:** Từ 585,3 (2019) lên 1.834,9 tỷ VNĐ (2025), biên gộp ổn định 19% – 23%.
+  - **Bảng cân đối cực mạnh:** Không vay nợ; tiền và tiền gửi ngắn hạn 730,7 tỷ VNĐ cuối 2025, lớn hơn cả vốn CSH (668,6 tỷ VNĐ). CFO 129 – 252 tỷ VNĐ/năm, vượt LNST.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect không có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST công ty mẹ | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 980,9 | 19,9% | 81,8 | 280,6 | **33,7%** | 129,1 |
+  | 2022 | 1.369,3 | 20,4% | 126,3 | 375,2 | **38,6%** | 154,2 |
+  | 2023 | 1.469,6 | 19,0% | 111,3 | 439,9 | **27,3%** | 184,8 |
+  | 2024 | 1.572,6 | 19,6% | 134,7 | 546,9 | **27,3%** | 252,1 |
+  | 2025 | 1.834,9 | 20,1% | 155,5 | 668,6 | **25,6%** | 222,0 |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~9,9x** (LNST 2025; EPS ~50.300 VNĐ/cp)
+  - **P/B:** **~2,31x** (Giá 500.000 VNĐ/cp ngày 10/11/2026 so với BVPS ~216.100 VNĐ/cp cuối 2025); vốn hóa ~1.545 tỷ VNĐ. Loại tiền và tiền gửi (~236.000 VNĐ/cp), P/E phần kinh doanh chỉ ~5x.
+  - **Vốn điều lệ:** **30,9 tỷ VNĐ** (3,09 triệu cổ phiếu) — rất nhỏ so với vốn CSH; LNST chưa phân phối 469,4 tỷ VNĐ.
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất đồ uống tiêu dùng.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 111,3 / 134,7 / 155,5 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Nhà sản xuất bia có thương hiệu riêng tại Quảng Ninh, CFO vượt lợi nhuận.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% cả 5/5 năm.
+- **Điểm mạnh đặc biệt:** (1) ROE 25 – 39% không dùng đòn bẩy; (2) Tăng trưởng doanh thu và lợi nhuận đều; (3) Tiền mặt dư thừa lớn hơn vốn CSH.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Tiền mặt tích lũy nhưng chia cổ tức ít:** Cổ tức tiền mặt chỉ 27,9 – 46,4 tỷ VNĐ/năm (~20 – 40% LNST) trong khi tiền gửi tăng lên 730,7 tỷ VNĐ — cổ đông thiểu số phụ thuộc chính sách phân phối của cổ đông lớn. Chưa xác minh cơ cấu sở hữu và nguồn tăng trưởng doanh thu (sản lượng bia, nước giải khát hay thương mại).
+  - Ngành bia chịu thuế tiêu thụ đặc biệt tăng theo lộ trình và Nghị định 100; cổ phiếu thanh khoản thấp, thị giá cao.
+- **Hành động tiếp theo:** Đọc BCTN 2025 để xác định cơ cấu cổ đông, sản lượng và cơ cấu doanh thu.
+- **Ngày tốt nghiệp phễu:** 2026-11-10
+
+---
+
+### 409. HLO - Công ty Cổ phần Công nghệ Ha Lô
+- **Mã cổ phiếu:** `HLO` (Sàn UPCOM từ 24/06/2024 — 41/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Hóa chất / Bán buôn hóa chất xử lý bề mặt kim loại; sản xuất, lắp đặt hệ thống xi mạ, xử lý nước thải, lọc không khí (Bình Dương)
+- **Hoạt động kinh doanh chính:** Thành lập 2014; cung cấp hóa chất và giải pháp xi mạ – xử lý bề mặt cho các nhà máy cơ khí, điện tử tại Bình Dương, TP.HCM, Long An, Hà Nội, Đồng Nai, Đà Nẵng, Bắc Giang; 88 lao động.
+- **Hiệu đính phân loại (Bước 4 → File 5):** Hồ sơ cũ chỉ ghi một mức ROE 6,2%. Theo số liệu 2022 – 2025, ROE đạt **13,7% năm 2025** và ~13,1% năm 2022 (trên vốn CSH cuối kỳ), đều đến từ lợi nhuận kinh doanh cốt lõi (thu nhập khác và tài chính chỉ 3,4 tỷ VNĐ trên LNTT 26,0 tỷ VNĐ năm 2025).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect có số liệu từ 2022, không có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2022 | 139,3 | 25,3% | 16,6 | 126,7 | **~13,1%** (trên VCSH cuối kỳ) | 17,6 |
+  | 2023 | 100,6 | 16,5% | 5,4 | 132,1 | 4,2% | 11,8 |
+  | 2024 | 109,5 | 24,5% | 8,7 | 140,7 | 6,4% | 23,5 |
+  | 2025 | 143,4 | 26,0% | 20,8 | 161,5 | **13,7%** | 1,3 |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~7,7x** (LNST 2025; EPS ~2.080 VNĐ/cp trên 10 triệu cổ phiếu cuối 2025)
+  - **P/B:** **~0,99x** (Giá 16.000 VNĐ/cp ngày 09/11/2026 so với BVPS ~16.150 VNĐ/cp cuối 2025); vốn hóa ~160 tỷ VNĐ — danh nghĩa do thanh khoản thấp. Năm 2026 công ty phát hành cổ phiếu trả cổ tức 2025, nên EPS/BVPS sau pha loãng sẽ thấp hơn.
+  - **Vốn điều lệ:** **100,0 tỷ VNĐ** cuối 2025 (tăng từ 80 tỷ VNĐ bằng cổ phiếu thưởng/cổ tức); không vay nợ.
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Hóa chất công nghiệp và thiết bị xử lý môi trường cho nhà máy — không phải xây dựng dân dụng.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 5,4 / 8,7 / 20,8 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Hóa chất chuyên dụng kèm giải pháp kỹ thuật xi mạ, biên gộp 25% – 26% (cao hơn nhiều so với phân phối hàng hóa đại trà).
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn (hiệu đính): ROE ≥ 10% năm 2022 và 2025.
+- **Điểm mạnh đặc biệt:** (1) Không vay nợ, tiền và tiền gửi 49,9 tỷ VNĐ; (2) LNST 2025 tăng 2,4 lần; (3) Ngách hóa chất xử lý bề mặt gắn với làn sóng FDI cơ khí – điện tử.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Lợi nhuận 2025 chưa chuyển thành tiền:** CFO 2025 chỉ 1,3 tỷ VNĐ so với LNST 20,8 tỷ VNĐ; tiền mặt giảm từ 25,8 xuống 13,7 tỷ VNĐ. ROE biến động mạnh (4,2% – 13,7%) theo chu kỳ đầu tư nhà máy của khách hàng; mảng thi công hệ thống mang tính dự án. Chưa xác minh tỷ trọng doanh thu giữa hóa chất và thi công hệ thống.
+  - 09/2026 công ty thông báo thay đổi mô hình công ty và loại hình BCTC — cần theo dõi BCTC 2026 (có thể chuyển sang hợp nhất).
+- **Hành động tiếp theo:** Chờ BCTC 2026 để xác nhận ROE duy trì trên 10% và dòng tiền cải thiện.
+- **Ngày tốt nghiệp phễu:** 2026-11-10
+
+---
+
+### 410. HLS - Công ty Cổ phần Sứ kỹ thuật Hoàng Liên Sơn
+- **Mã cổ phiếu:** `HLS` (Sàn UPCOM — chỉ 21/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Công nghiệp / Thiết kế, sản xuất sứ cách điện & sứ kỹ thuật (Yên Bái)
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp Sứ Hoàng Liên Sơn (1979), cổ phần hóa 2004; sản xuất bình quân trên 3.200 tấn sản phẩm/năm, chiếm ~10% thị phần trong nước, xuất khẩu sang Thái Lan, Singapore, Nhật Bản, Malaysia, Campuchia, Lào; 202 lao động.
+- **Luận điểm cốt lõi:**
+  - **ROE ≥ 10% cả 5/5 năm:** 26,9% / 13,6% / 13,5% / 18,6% / 25,4% (2021 – 2025); LNST 2025 đạt 42,5 tỷ VNĐ, cao nhất 7 năm.
+  - **Biên gộp 36% – 47%:** Sứ cách điện là sản phẩm kỹ thuật phục vụ lưới điện, hưởng lợi từ đầu tư lưới truyền tải – phân phối.
+  - **Bảng cân đối sạch:** Không vay nợ; tiền và tiền gửi 103,2 tỷ VNĐ cuối 2025 (~58% vốn CSH); CFO dương 7/7 năm; cổ tức tiền mặt đều.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect không có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 146,6 | 46,9% | 34,4 | 140,0 | **26,9%** | 40,1 |
+  | 2022 | 122,4 | 36,3% | 18,4 | 131,6 | **13,6%** | 9,6 |
+  | 2023 | 109,3 | 39,6% | 18,4 | 140,8 | **13,5%** | 24,3 |
+  | 2024 | 142,0 | 40,9% | 27,6 | 155,7 | **18,6%** | 37,8 |
+  | 2025 | 181,1 | 42,0% | 42,5 | 179,3 | **25,4%** | 46,9 |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~3,6x** (LNST 2025; EPS ~3.810 VNĐ/cp)
+  - **P/B:** **~0,85x** (Giá 13.600 VNĐ/cp so với BVPS ~16.050 VNĐ/cp cuối 2025); vốn hóa ~152 tỷ VNĐ — danh nghĩa do giao dịch rất thưa (khớp gần nhất 29/10/2026).
+  - **Vốn điều lệ:** **111,7 tỷ VNĐ** (11,17 triệu cổ phiếu); không vay nợ; cổ tức tiền mặt 16,8 tỷ VNĐ năm 2025.
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất thiết bị điện (sứ cách điện) — không phải VLXD đại trà.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 18,4 / 27,6 / 42,5 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Sản phẩm kỹ thuật có thị phần ~10%, biên gộp ~40%, có xuất khẩu.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% cả 5/5 năm.
+- **Điểm mạnh đặc biệt:** (1) P/E ~3,6x với ROE ~25%; (2) Không nợ vay, dòng tiền mạnh; (3) Hưởng lợi đầu tư lưới điện (Quy hoạch điện VIII).
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Phụ thuộc chu kỳ đầu tư lưới điện và đấu thầu EVN:** Lợi nhuận giảm gần một nửa năm 2022 – 2023 (18,4 tỷ VNĐ) khi doanh thu giảm còn 109,3 tỷ VNĐ; có thể chịu cạnh tranh từ sứ/composite nhập khẩu.
+  - Quy mô nhỏ, thanh khoản gần như không có.
+- **Hành động tiếp theo:** Theo dõi kết quả 2026 và tỷ trọng khách hàng EVN/xuất khẩu.
+- **Ngày tốt nghiệp phễu:** 2026-11-10

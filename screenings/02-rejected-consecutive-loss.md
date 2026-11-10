@@ -39,6 +39,8 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
 | 27 | **HAF** | Công ty Cổ phần Thực phẩm Hà Nội | Thực phẩm, thương mại – dịch vụ | Thua lỗ liên tiếp 6 năm (2023-2025: -18,6 / -14,1 / -31,4 tỷ), 9T/2026 lỗ -3,8 tỷ, kiểm toán ngoại trừ 3 năm | 2026-11-05 |
 | 28 | **HFX** | Công ty cổ phần Sản xuất - Xuất nhập khẩu Thanh Hà | Sơ chế & xuất khẩu nông sản | Lỗ 7 năm liên tiếp 2019-2025 (2023-2025: -15,2 / -11,1 / -15,3 tỷ), vốn CSH âm -253,2 tỷ | 2026-11-09 |
 | 29 | **HHG** | Công ty Cổ phần Hoàng Hà | Vận tải hành khách, xe buýt, taxi (Thái Bình) | Lỗ 6 năm liên tiếp 2020-2025 (2023-2025: -43,2 / -33,3 / -67,4 tỷ), 9T/2026 lỗ -4,7 tỷ, lỗ lũy kế 336,5 tỷ/vốn điều lệ 349 tỷ | 2026-11-10 |
+| 30 | **HKB** | Công ty Cổ phần Nông nghiệp và Thực phẩm Hà Nội - Kinh Bắc | Kinh doanh nông sản & nguyên liệu TACN | Lỗ 6 năm liên tiếp 2020-2025 (~-58 tỷ/năm), 9T/2026 lỗ -43,9 tỷ, vốn CSH âm -15,0 tỷ (30/09/2026) | 2026-11-10 |
+| 31 | **HLA** | Công ty Cổ phần Hữu Liên Á Châu | Ống thép, ống inox, xà gồ | Lỗ 2019-2020 (-121,9 / -135,4 tỷ), không công bố BCTC từ 2021, vốn CSH âm -1.618 tỷ, đình chỉ giao dịch | 2026-11-10 |
 
 ---
 
@@ -585,4 +587,44 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
   - Doanh thu giảm từ 222,6 (2019) xuống 22,3 tỷ VNĐ (2025), lợi nhuận gộp âm 6 năm liền — giá vé không bù nổi khấu hao và chi phí vận hành đội xe. Tổng tài sản giảm từ 514,3 (2019) xuống 51,5 tỷ VNĐ (2025); lỗ lũy kế 336,5 tỷ VNĐ trên vốn điều lệ 349 tỷ VNĐ; CFO âm 3 năm 2023 – 2025.
   - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2.)*
   - Định giá: Giá 800 VNĐ/cp, vốn hóa ~28 tỷ VNĐ, P/B ~2,0x so với BVPS ~400 VNĐ/cp tại 30/09/2026.
+- **Ngày Phân Tích:** 10/11/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 31. HKB - Công ty Cổ phần Nông nghiệp và Thực phẩm Hà Nội - Kinh Bắc
+- **Mã cổ phiếu:** `HKB` (Sàn UPCOM — 80/400 phiên có khớp lệnh, thị giá ~400 VNĐ/cp)
+- **Ngành nghề niêm yết:** Nông nghiệp / Thu mua, kinh doanh nông sản & nguyên liệu thức ăn chăn nuôi
+- **Lý do loại trừ tại Bước 2 (Lỗ 6 năm liên tiếp 2020 – 2025, tiếp tục lỗ 9T/2026, vốn CSH đã âm):**
+  - **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+    | Năm | Doanh thu thuần | Lợi nhuận gộp | LNST công ty mẹ | Vốn CSH cuối kỳ | Trạng thái |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | 2021 | 5,4 | 3,8 | **-58,2** | 263,6 | **Lỗ** |
+    | 2022 | 5,6 | 4,0 | **-58,5** | 204,8 | **Lỗ** |
+    | 2023 | 6,2 | 3,8 | **-58,0** | 146,5 | **Lỗ** |
+    | 2024 | 6,0 | 2,1 | **-58,7** | 87,5 | **Lỗ** |
+    | 2025 | 6,3 | 2,5 | **-58,4** | 29,0 | **Lỗ** |
+    | 9T/2026 | 4,7 | — | **-43,9** | -15,0 | **Lỗ** |
+
+  - Hoạt động kinh doanh gần như đã ngừng (doanh thu ~6 tỷ VNĐ/năm, 12 lao động) nhưng mỗi năm lỗ đều ~58 tỷ VNĐ — khoản lỗ cố định trên khối tài sản 218,9 tỷ VNĐ không còn tạo doanh thu (nguyên nhân chi tiết chưa xác minh, nhiều khả năng là khấu hao/phân bổ hoặc dự phòng). Lỗ lũy kế 503,1 tỷ VNĐ trên vốn điều lệ 516 tỷ VNĐ; vốn CSH chuyển âm -15,0 tỷ VNĐ tại 30/09/2026; vay ngắn hạn 84,1 tỷ VNĐ không thay đổi nhiều năm.
+  - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2.)*
+  - Định giá: Giá 400 VNĐ/cp, vốn hóa ~21 tỷ VNĐ; vốn CSH âm nên P/B không có ý nghĩa.
+- **Ngày Phân Tích:** 10/11/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 32. HLA - Công ty Cổ phần Hữu Liên Á Châu
+- **Mã cổ phiếu:** `HLA` (Sàn UPCOM — đang bị **đình chỉ giao dịch**, quyết định duy trì đình chỉ gần nhất ngày 07/10/2026; không có phiên khớp lệnh nào trong 400 phiên)
+- **Ngành nghề niêm yết:** Nguyên vật liệu / Sản xuất ống thép đen, ống inox, xà gồ thép (TP.HCM)
+- **Lý do loại trừ tại Bước 2 (Lỗ kéo dài, không công bố BCTC từ sau năm 2020, vốn CSH âm sâu):**
+  - **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; không có số liệu từ 2021):**
+
+    | Năm | Doanh thu thuần | Lợi nhuận gộp | LNST | Vốn CSH cuối kỳ | Trạng thái |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | 2019 | 10,0 | 0,6 | **-121,9** | -1.483,0 | **Lỗ** |
+    | 2020 | 6,9 | -0,9 | **-135,4** | -1.618,3 | **Lỗ** |
+
+  - Doanh thu sụp về 6,9 tỷ VNĐ (2020) so với công suất cán nguội 3.000 tấn/tháng trong hồ sơ; lỗ lũy kế 2.107,4 tỷ VNĐ trên vốn điều lệ 344,6 tỷ VNĐ, vay ngắn hạn 676,1 tỷ VNĐ quá hạn so với tổng tài sản 222,8 tỷ VNĐ. Từ 2021 không có BCTC trên VNDirect; cổ phiếu liên tục bị hạn chế/đình chỉ giao dịch từ 2024. Hồ sơ chỉ ghi 1 lao động.
+  - **Quy chuẩn loại trừ:** Lỗ liên tục trong các năm có số liệu, không công bố BCTC 5 năm gần nhất và vốn CSH âm sâu — nhất quán với tiền lệ GTT. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ File 5 sang Bước 2: hồ sơ cũ ghi nhầm "Doanh nghiệp đầu ngành… Vượt B4".)*
+  - Định giá: Không giao dịch; BVPS âm ~-47.000 VNĐ/cp.
 - **Ngày Phân Tích:** 10/11/2026 (Hiệu đính phân loại lại)

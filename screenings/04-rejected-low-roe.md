@@ -4534,24 +4534,6 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 231. HKB - Công ty Cổ phần Nông nghiệp và Thực phẩm Hà Nội - Kinh Bắc
-- **Mã cổ phiếu:** `HKB` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nông nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-20.0%, -22.1%, -39.6%, -67.1%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
-### 232. HLO - Công ty Cổ phần Công nghệ Ha Lô
-- **Mã cổ phiếu:** `HLO` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Chưa phân loại
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (6.2%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
 ### 233. HNB - Công ty cổ phần Bến xe Hà Nội
 - **Mã cổ phiếu:** `HNB` (Sàn UPCOM)
 - **Ngành nghề niêm yết:** Công nghiệp
