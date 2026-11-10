@@ -38,6 +38,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
 | 26 | **GTT** | Công ty Cổ phần Thuận Thảo | Vận tải hành khách, khách sạn & du lịch (Phú Yên) | Lỗ kéo dài (2019: -165,9 tỷ), không công bố BCTC từ 2020, vốn CSH âm -988,8 tỷ, tài sản thế chấp bị kê biên | 2026-11-04 |
 | 27 | **HAF** | Công ty Cổ phần Thực phẩm Hà Nội | Thực phẩm, thương mại – dịch vụ | Thua lỗ liên tiếp 6 năm (2023-2025: -18,6 / -14,1 / -31,4 tỷ), 9T/2026 lỗ -3,8 tỷ, kiểm toán ngoại trừ 3 năm | 2026-11-05 |
 | 28 | **HFX** | Công ty cổ phần Sản xuất - Xuất nhập khẩu Thanh Hà | Sơ chế & xuất khẩu nông sản | Lỗ 7 năm liên tiếp 2019-2025 (2023-2025: -15,2 / -11,1 / -15,3 tỷ), vốn CSH âm -253,2 tỷ | 2026-11-09 |
+| 29 | **HHG** | Công ty Cổ phần Hoàng Hà | Vận tải hành khách, xe buýt, taxi (Thái Bình) | Lỗ 6 năm liên tiếp 2020-2025 (2023-2025: -43,2 / -33,3 / -67,4 tỷ), 9T/2026 lỗ -4,7 tỷ, lỗ lũy kế 336,5 tỷ/vốn điều lệ 349 tỷ | 2026-11-10 |
 
 ---
 
@@ -563,3 +564,25 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
   - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2: hồ sơ cũ ghi "ROE 2,4% – 6,5%" do chia lỗ cho vốn CSH âm.)*
   - Định giá: Giá 5.100 VNĐ/cp, vốn hóa ~6,5 tỷ VNĐ; BVPS âm ~-199.000 VNĐ/cp nên P/B không có ý nghĩa.
 - **Ngày Phân Tích:** 09/11/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 30. HHG - Công ty Cổ phần Hoàng Hà
+- **Mã cổ phiếu:** `HHG` (Sàn UPCOM — 399/400 phiên có khớp lệnh, thị giá ~800 VNĐ/cp)
+- **Ngành nghề niêm yết:** Vận tải / Vận chuyển hành khách tuyến cố định, xe buýt, taxi & khai thác bến xe (Thái Bình)
+- **Lý do loại trừ tại Bước 2 (Lỗ 6 năm liên tiếp 2020 – 2025, tiếp tục lỗ 9T/2026):**
+  - **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+    | Năm | Doanh thu thuần | Lợi nhuận gộp | LNST | Vốn CSH cuối kỳ | Trạng thái |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | 2021 | 94,3 | -34,3 | **-68,6** | 220,5 | **Lỗ** |
+    | 2022 | 104,4 | -30,4 | **-57,8** | 162,7 | **Lỗ** |
+    | 2023 | 61,5 | -25,8 | **-43,2** | 119,5 | **Lỗ** |
+    | 2024 | 40,8 | -20,9 | **-33,3** | 86,2 | **Lỗ** |
+    | 2025 | 22,3 | -16,7 | **-67,4** | 18,7 | **Lỗ** |
+    | 9T/2026 | 12,0 | -2,5 | **-4,7** | 13,9 | **Lỗ** |
+
+  - Doanh thu giảm từ 222,6 (2019) xuống 22,3 tỷ VNĐ (2025), lợi nhuận gộp âm 6 năm liền — giá vé không bù nổi khấu hao và chi phí vận hành đội xe. Tổng tài sản giảm từ 514,3 (2019) xuống 51,5 tỷ VNĐ (2025); lỗ lũy kế 336,5 tỷ VNĐ trên vốn điều lệ 349 tỷ VNĐ; CFO âm 3 năm 2023 – 2025.
+  - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2.)*
+  - Định giá: Giá 800 VNĐ/cp, vốn hóa ~28 tỷ VNĐ, P/B ~2,0x so với BVPS ~400 VNĐ/cp tại 30/09/2026.
+- **Ngày Phân Tích:** 10/11/2026 (Hiệu đính phân loại lại)

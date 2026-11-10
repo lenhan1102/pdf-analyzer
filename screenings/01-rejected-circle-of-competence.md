@@ -4623,3 +4623,15 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
   - **Số liệu (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo, BCTC kiểm toán 2025):** Doanh thu 3,98 / 4,08 / 4,05 / 4,38 / 4,93 (2021 – 2025), biên gộp 69% – 81%; LNST 3,3 – 4,9/năm, trong đó lãi tiền gửi & cho vay 1,6 – 3,3/năm. ~34 tỷ VNĐ trên tổng tài sản 39,1 tỷ VNĐ là tiền gửi và cho vay. ROE 13,5% / 10,4% / 12,8% / 14,2% / 11,0% — nếu xét tiếp sẽ qua B4, nhưng quy mô siêu nhỏ, không có hoạt động kinh doanh cốt lõi để mở rộng.
   - Định giá: Giá 15.700 VNĐ/cp, vốn hóa ~32 tỷ VNĐ, P/B ~0,86x, P/E ~7,9x (LNST 2025) — danh nghĩa do thanh khoản thấp.
 - **Ngày Phân Tích:** 05/11/2026 (Hiệu đính phân loại lại từ File 5)
+
+---
+
+### 441. HHN - Công ty Cổ Phần Vận tải và Dịch vụ Hàng hóa Hà Nội
+- **Mã cổ phiếu:** `HHN` (Sàn UPCOM — không có phiên khớp lệnh nào trong 400 phiên gần nhất)
+- **Ngành nghề niêm yết:** Công nghiệp – Vận tải (danh nghĩa) / Thực tế: Cho thuê bến bãi, kho xưởng, quầy quán trên đất thuê của Nhà nước tại Hà Nội
+- **Lý do loại trừ tại Bước 1:**
+  - **Không còn kinh doanh vận tải:** Theo BCTC 2025 (thuyết minh VI.1 – VI.2, trang 23), doanh thu và giá vốn chỉ gồm **"dịch vụ bến bãi, kho xưởng, quầy quán, điện, nước"**. Phương tiện vận tải (nguyên giá 1,32 tỷ VNĐ) đã khấu hao hết; tài sản chính là nhà cửa, vật kiến trúc trên các khu đất thuê: 34.902 m² tại 27/785 Trương Định (thuê đến 20/05/2030), 10.636 m² cùng địa chỉ và 2.751 m² tại 2 Lãng Yên (thuê trả tiền hàng năm), cùng 159,2 m² tại 23 Hàn Thuyên (bất động sản đầu tư cho thuê văn phòng, thuê đến 2049). Bản chất là cho thuê BĐS — ngoài VTNL, nhất quán với các tiền lệ CCS, FCC, FTI, HAV, HBD. *(Hiệu đính chuyển từ File 5 sang Bước 1.)*
+  - **Rủi ro sinh tồn của mô hình:** Hợp đồng thuê khu đất chính hết hạn năm 2030; cam kết tiền thuê đất tối thiểu 104,3 tỷ VNĐ (gấp ~3 lần doanh thu năm).
+  - **Số liệu (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo, BCTC 2025):** Doanh thu 27,7 / 29,6 / 30,5 / 33,4 / 35,3 (2021 – 2025), biên gộp 29% – 38%; LNST 2,6 / 2,8 / 2,7 / 1,4 / 5,1; ROE 12,7% / 13,3% / 11,6% / 5,6% / 19,2% — nếu xét tiếp sẽ qua B4. Vốn điều lệ 14,4 tỷ VNĐ, Nhà nước nắm 51,07%; cổ tức 3% mệnh giá.
+  - Định giá: Không có giao dịch nên không xác định được P/B, P/E; BVPS ~19.930 VNĐ/cp cuối 2025.
+- **Ngày Phân Tích:** 10/11/2026 (Hiệu đính phân loại lại từ File 5)

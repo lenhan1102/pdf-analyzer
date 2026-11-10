@@ -8,20 +8,20 @@ Tài liệu này theo dõi toàn bộ trạng thái của các mã cổ phiếu 
 
 ```mermaid
 pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị Trường)
-    "Rớt Bước 1 (Ngành & Vòng tròn năng lực)" : 427
-    "Rớt Bước 2 (Lỗ 3 năm liên tiếp)" : 29
+    "Rớt Bước 1 (Ngành & Vòng tròn năng lực)" : 428
+    "Rớt Bước 2 (Lỗ 3 năm liên tiếp)" : 30
     "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 27
     "Rớt Bước 4 (ROE 5 năm < 10%)" : 447
-    "🏆 Đạt Chuẩn File 5" : 711
+    "🏆 Đạt Chuẩn File 5" : 709
 ```
 
 - **Quy mô toàn bộ vũ trụ cổ phiếu:** **1,641** doanh nghiệp (Toàn bộ 3 sàn HOSE, HNX, UPCoM)
-- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **1,012 / 1,641** mã (**61.67%** — Đã rà soát chi tiết đến mã `HGT`)
-- **Số mã rớt tại Bước 1 (Ngành & VTNL):** **427** mã (26.02%)
-- **Số mã rớt tại Bước 2 (Lỗ 3 năm liên tiếp):** **29** mã (1.77%)
+- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **1,017 / 1,641** mã (**61.97%** — Đã rà soát chi tiết đến mã `HJC`)
+- **Số mã rớt tại Bước 1 (Ngành & VTNL):** **428** mã (26.08%)
+- **Số mã rớt tại Bước 2 (Lỗ 3 năm liên tiếp):** **30** mã (1.83%)
 - **Số mã rớt tại Bước 3 (Chuỗi GT thấp & P/B ≥ 0.5):** **27** mã (1.65%)
 - **Số mã rớt tại Bước 4 (ROE 5 năm < 10%):** **447** mã (27.24%)
-- **Số mã đạt chuẩn lọt vào File 5 (Champions):** **711** mã (43.33%)
+- **Số mã đạt chuẩn lọt vào File 5 (Champions):** **709** mã (43.21%)
 - **Tổng số mã trong hệ sinh thái:** **1,641 / 1,641 mã (100.0%)**
 
 ---
@@ -33,11 +33,11 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | STT | File Bảng Tóm Tắt Rút Gọn | Nội Dung Trọng Tâm | Số Lượng Mã | Bản Phân Tích Đầy Đủ |
 | :---: | :--- | :--- | :--- | :--- |
 | ⚡ | [00-quick-summary-all.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md) | **Bảng Tổng Hợp Siêu Tốc Toàn Bộ Cổ Phiếu** (Cheat-sheet tra cứu) | **1,641** mã | Xem chi tiết từng mã |
-| 1 | [summary-01-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md) | Bảng tóm tắt các công ty rớt Bước 1 (Ngành nghề ngoài VTNL) | **427** mã | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
-| 2 | [summary-02-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-02-consecutive-loss.md) | Bảng tóm tắt các công ty rớt Bước 2 (Lỗ 3 năm liên tiếp) | **29** mã | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
+| 1 | [summary-01-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md) | Bảng tóm tắt các công ty rớt Bước 1 (Ngành nghề ngoài VTNL) | **428** mã | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 2 | [summary-02-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-02-consecutive-loss.md) | Bảng tóm tắt các công ty rớt Bước 2 (Lỗ 3 năm liên tiếp) | **30** mã | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
 | 3 | [summary-03-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md) | Bảng tóm tắt các công ty rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5) | **27** mã | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
 | 4 | [summary-04-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md) | Bảng tóm tắt các công ty rớt Bước 4 (ROE 5 năm < 10%) | **447** mã | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
-| 5 | [summary-05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md) | 🏆 **Bảng tóm tắt Doanh Nghiệp Đạt Chuẩn (File 5)** | **711** mã | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 5 | [summary-05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md) | 🏆 **Bảng tóm tắt Doanh Nghiệp Đạt Chuẩn (File 5)** | **709** mã | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 
 
 
@@ -1059,6 +1059,11 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | 1010 | **HFC** | Công ty Cổ phần Xăng dầu HFC | Bán lẻ xăng dầu & LPG | ✅ Pass | ✅ Pass (LNST 3.0 / 9.3 / 14.3 tỷ) | ❌ Loại (Đại lý bán lẻ xăng dầu biên mỏng, P/B 0.88) | - | Dừng ở Bước 3 | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
 | 1011 | **HFX** | Công ty cổ phần Sản xuất - Xuất nhập khẩu Thanh Hà | Xuất khẩu nông sản | ✅ Pass | ❌ Loại (Lỗ 7N liên tiếp 2019-2025, vốn CSH âm) | - | - | Dừng ở Bước 2 | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
 | 1012 | **HGT** | Công ty cổ phần Du lịch Hương Giang | Khách sạn & lữ hành Huế | ✅ Pass | ✅ Pass (LNST 1.0 / 64.6 / -19.9 tỷ) | ✅ Pass (Sở hữu khách sạn 4 sao Huế) | ❌ Loại (ROE cốt lõi < 10%; 2024 nhờ lãi bán vốn một lần) | Dừng ở Bước 4 | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
+| 1013 | **HHB** | Công ty cổ phần Bia Hà Nội - Hồng Hà | Sản xuất bia Hà Nội | ✅ Pass | ✅ Pass (LNST 13.3 / 16.3 tỷ 2024-2025) | ✅ Pass (thương hiệu Habeco, biên gộp 43%) | ✅ Pass (ROE 2024-2025 >= 10%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 1014 | **HHG** | Công ty Cổ phần Hoàng Hà | Vận tải hành khách | ✅ Pass | ❌ Loại (Lỗ 6N liên tiếp 2020-2025) | - | - | Dừng ở Bước 2 | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
+| 1015 | **HHN** | Công ty Cổ Phần Vận tải và Dịch vụ Hàng hóa Hà Nội | Cho thuê bến bãi, kho xưởng | ❌ Loại (Cho thuê BĐS trên đất thuê Nhà nước, không còn vận tải) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 1016 | **HIO** | Công ty cổ phần Helio Energy | Điện mặt trời mái nhà | ✅ Pass | ✅ Pass (LNST 10.1 / 21.1 / 13.6 tỷ) | ✅ Pass (Chủ sở hữu tài sản phát điện) | ❌ Loại (ROE 2022-2025 2.8-8.6%) | Dừng ở Bước 4 | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
+| 1017 | **HJC** | Công ty Cổ phần Hòa Việt | Sơ chế nguyên liệu thuốc lá | ✅ Pass | ✅ Pass (LNST 8.9 / 12.7 / 17.1 tỷ) | ✅ Pass (P/B 0.38 < 0.5) | ❌ Loại (ROE cốt lõi < 10%; 2021 nhờ thu nhập khác) | Dừng ở Bước 4 | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
 
 ---
 

@@ -13005,3 +13005,36 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Khu đất 8,1 ha nhiều khả năng là đất thuê của Nhà nước — quyền khai thác dài hạn chưa được kiểm chứng; thanh khoản cổ phiếu gần như không có.
 - **Hành động tiếp theo:** Chờ BCTC 2026 để xác nhận ROE có quay lại trên 10% hay không; xác minh thời hạn thuê đất khu Hồ Tây.
 - **Ngày tốt nghiệp phễu:** 2026-11-09
+
+---
+
+### 407. HHB - Công ty cổ phần Bia Hà Nội - Hồng Hà
+- **Mã cổ phiếu:** `HHB` (Sàn UPCOM từ 27/10/2025 — chỉ 11/259 phiên có khớp lệnh, giao dịch gần nhất 13/08/2026)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng & Đồ uống / Sản xuất bia Hà Nội tại Phú Thọ (HABECO-HHA, đơn vị thành viên Habeco)
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp Bia Hồng Hà (1994); nhà máy bia Hà Nội – Hồng Hà công suất 50 triệu lít/năm hoạt động từ 2010; 112 lao động. Tổng CTCP Bia – Rượu – NGK Hà Nội (Habeco) nắm 53,89% vốn.
+- **Luận điểm cốt lõi:**
+  - **ROE ≥ 10% ở cả 2 năm có số liệu:** ~11% (2024) và 13,2% (2025); LNST tăng 22,9% lên 16,3 tỷ VNĐ năm 2025, sản lượng tiêu thụ tăng 14,33%, vượt kế hoạch hơn 7%.
+  - **Biên gộp cao:** 43,0% năm 2025 (so với 3 – 4% của HBH, một đơn vị thành viên Habeco khác), không vay nợ, tiền và tiền gửi 56,4 tỷ VNĐ.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC 2025 qua VNDirect Finfo & BCTN 2025 của công ty; VNDirect chỉ có số liệu năm 2025, công ty mới đăng ký giao dịch 10/2025, không có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2024 | 179,1 | — | 13,3 | 123,0 | **~11%** (BCTN: LNST/VCSH 0,11) |
+  | 2025 | 201,5 | 43,0% | 16,3 | 124,4 | **13,2%** |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~18,4x** (LNST 2025; EPS ~1.635 VNĐ/cp)
+  - **P/B:** **~2,41x** (Giá 30.000 VNĐ/cp so với BVPS ~12.440 VNĐ/cp cuối 2025); vốn hóa ~300 tỷ VNĐ — danh nghĩa do gần như không có giao dịch.
+  - **Vốn điều lệ:** **100,0 tỷ VNĐ** (10,0 triệu cổ phiếu); không vay nợ; cổ tức tiền mặt 8,4 tỷ VNĐ năm 2025.
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất đồ uống tiêu dùng.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2024 – 2025 lần lượt 13,3 / 16,3 tỷ VNĐ (2023 chưa có số liệu công khai).
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Sản phẩm mang thương hiệu Bia Hà Nội, nhất quán với tiền lệ các đơn vị thành viên Habeco; biên gộp 43%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% năm 2024 và 2025.
+- **Điểm mạnh đặc biệt:** (1) Thương hiệu Bia Hà Nội và hệ thống phân phối của Habeco; (2) Không vay nợ, chi trả gần như toàn bộ lợi nhuận; (3) Sản lượng tăng trưởng 2 con số năm 2025.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Chuỗi dữ liệu ngắn và phụ thuộc công ty mẹ:** Chỉ có số liệu công khai 2024 – 2025, chưa kiểm chứng được ROE 2021 – 2023. Chi phí bán hàng 44,2 tỷ VNĐ (~22% doanh thu) — hợp đồng sản xuất, giá bán và kênh phân phối phụ thuộc Habeco (nắm 53,89%); ngành bia chịu thuế tiêu thụ đặc biệt tăng theo lộ trình và Nghị định 100 về nồng độ cồn.
+  - P/B ~2,4x và P/E ~18x cao so với các đơn vị thành viên Habeco khác; cổ đông lớn nắm 75% vốn, thanh khoản gần như không có.
+- **Hành động tiếp theo:** Tìm BCTC 2021 – 2023 (bản công bố thông tin trước khi đăng ký giao dịch) để kiểm chứng chuỗi ROE 5 năm.
+- **Ngày tốt nghiệp phễu:** 2026-11-10

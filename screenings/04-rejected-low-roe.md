@@ -4480,21 +4480,57 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 229. HHG - Công ty Cổ phần Hoàng Hà
-- **Mã cổ phiếu:** `HHG` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Công nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-22.9%, -31.1%, -36.2%, -38.6%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+### 229. HIO - Công ty cổ phần Helio Energy
+- **Mã cổ phiếu:** `HIO` (Sàn UPCOM từ 23/10/2023 — 382/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Tiện ích / Đầu tư, vận hành điện mặt trời mái nhà (37,16 MWp tại Nam Bộ, Nam Trung Bộ, Tây Nguyên)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Sản xuất điện tái tạo.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. 2023 – 2025 đều lãi (10,1 / 21,1 / 13,6 tỷ VNĐ).
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass. Chủ sở hữu và vận hành tài sản phát điện, biên gộp 37% – 44%.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo; công ty thành lập 2020, VNDirect có số liệu từ 2022):**
+
+  | Năm | Doanh thu thuần | Biên gộp | Chi phí lãi vay | LNST | Vốn CSH cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2022 | 102,2 | 42,7% | 34,4 | 6,3 | 223,5 | ~2,8% (trên VCSH cuối kỳ) |
+  | 2023 | 124,0 | 43,4% | 36,0 | 10,1 | 233,6 | 4,4% |
+  | 2024 | 119,3 | 43,6% | 22,3 | 21,1 | 253,9 | 8,6% |
+  | 2025 | 109,6 | 37,1% | 15,4 | 13,6 | 265,8 | 5,2% |
+  | 9T/2026 | 182,7 | 53,3% | 24,5 | 114,1 (công ty mẹ) | 798,5 (gồm CĐKKS 210,1) | — |
+
+- **Lý do loại trừ cốt lõi:**
+  - **ROE chưa từng chạm 10% trong các năm có số liệu:** Lãi vay ăn mòn phần lớn lợi nhuận gộp của danh mục điện mặt trời mái nhà vay nợ cao (vay dài hạn 306,5 tỷ VNĐ năm 2022); ROE cao nhất 8,6% (2024, có 4,5 tỷ VNĐ thu nhập khác). Doanh thu giảm từ 124,0 (2023) xuống 109,6 tỷ VNĐ (2025). *(Hiệu đính chuỗi ROE: hồ sơ cũ chỉ ghi 4,3% / 8,3%.)*
+  - **Thay đổi lớn năm 2026 — cần xét lại khi có BCTC 2026:** Vốn điều lệ tăng gấp đôi lên 420 tỷ VNĐ trong Q1/2026, tổng tài sản tăng từ 447,6 lên 1.266,7 tỷ VNĐ và xuất hiện lợi ích cổ đông không kiểm soát 195,6 tỷ VNĐ — công ty hợp nhất thêm danh mục dự án mới (chưa xác minh chi tiết). LNST công ty mẹ 9T/2026 đạt 114,1 tỷ VNĐ nhưng gồm **71,8 tỷ VNĐ thu nhập khác một lần trong Q1/2026**; riêng Q2 – Q3/2026 LNST 35,2 tỷ VNĐ, ROE năm hóa trên VCSH công ty mẹ (~580 tỷ VNĐ) khoảng 12%. Vay nợ cũng tăng lên 424,2 tỷ VNĐ (30/09/2026).
+  - Định giá: Giá 11.500 VNĐ/cp ngày 05/11/2026, vốn hóa ~483 tỷ VNĐ (42 triệu cp), P/B ~0,82x so với BVPS công ty mẹ ~14.010 VNĐ/cp tại 30/09/2026; P/E ~4,2x theo 4 quý gần nhất (gồm khoản thu nhập một lần).
+- **Ngày Phân Tích:** 10/11/2026 (Hiệu đính số liệu)
 
 ---
 
-### 230. HIO - Công ty cổ phần Helio Energy
-- **Mã cổ phiếu:** `HIO` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Chưa phân loại
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (4.3%, 8.3%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+### 230. HJC - Công ty Cổ phần Hòa Việt
+- **Mã cổ phiếu:** `HJC` (Sàn UPCOM — 138/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng (danh nghĩa) / Trồng, thu mua, sơ chế tách cọng & xuất nhập khẩu nguyên liệu thuốc lá; kho bãi, kho ngoại quan
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Chế biến nông sản.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. 2023 – 2025 đều lãi (8,9 / 12,7 / 17,1 tỷ VNĐ).
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass nhờ ngoại lệ P/B. Sơ chế nguyên liệu thuốc lá (dây chuyền tách cọng 24.000 tấn/năm) là khâu thấp của chuỗi giá trị, biên gộp chỉ 10% – 11%; nhưng P/B ~0,38x < 0,5.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | Thu nhập khác (thuần) | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 495,0 | 10,9% | **9,6** | 15,9 | 158,6 | 10,5%* | -47,2 |
+  | 2022 | 551,6 | 10,9% | 0,0 | 7,7 | 165,1 | 4,7% | 20,0 |
+  | 2023 | 608,7 | 11,1% | 0,1 | 8,9 | 172,4 | 5,3% | 52,2 |
+  | 2024 | 852,5 | 10,1% | 0,1 | 12,7 | 181,4 | 7,2% | -120,8 |
+  | 2025 | 1.083,1 | 11,0% | 0,1 | 17,1 | 191,9 | 9,2% | -45,1 |
+
+  *\* ROE 2021 vượt 10% nhờ thu nhập khác 9,6 tỷ VNĐ (57% LNTT); các năm khác khoản này chỉ ~0,1 tỷ VNĐ.*
+- **Lý do loại trừ cốt lõi:**
+  - **ROE cốt lõi chưa từng chạm 10%:** Loại khoản thu nhập khác bất thường năm 2021 (bản chất chưa xác minh), LNST cốt lõi 2021 chỉ ~6,3 tỷ VNĐ (ROE ~4,2%). Nhất quán với tiền lệ KLB, DRG, HGT (loại thu nhập đột biến khi xét ROE). Năm 2025 ROE 9,2% là mức cao nhất, nhưng 4 quý gần nhất (Q4/2025 – Q3/2026) LNST chỉ 11,2 tỷ VNĐ, ROE ~5,7%.
+  - > [!WARNING]
+    > **Tăng trưởng doanh thu bằng vốn lưu động vay nợ:** Doanh thu tăng gấp đôi 2023 – 2025 nhưng hàng tồn kho tăng từ 50,8 lên 292,2 tỷ VNĐ, phải thu từ 85,0 lên 167,1 tỷ VNĐ; CFO cộng dồn 2024 – 2025 âm -165,9 tỷ VNĐ, vay ngắn hạn tăng từ 4,4 lên 121,1 tỷ VNĐ. Không chia cổ tức.
+  - Định giá: Giá 5.700 VNĐ/cp, vốn hóa ~73 tỷ VNĐ, P/B ~0,36x (BVPS ~15.860 VNĐ/cp tại 30/09/2026), P/E ~6,5x (4 quý gần nhất).
+- **Ngày Phân Tích:** 10/11/2026 (Hiệu đính chuyển từ File 5 sang Bước 4: hồ sơ cũ ghi nhầm "Doanh nghiệp đầu ngành… Vượt B4")
 
 ---
 
