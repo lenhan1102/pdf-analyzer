@@ -13145,3 +13145,38 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Quy mô nhỏ, thanh khoản gần như không có.
 - **Hành động tiếp theo:** Theo dõi kết quả 2026 và tỷ trọng khách hàng EVN/xuất khẩu.
 - **Ngày tốt nghiệp phễu:** 2026-11-10
+
+---
+
+### 411. HMD - Công ty Cổ phần Hóa chất Minh Đức
+- **Mã cổ phiếu:** `HMD` (Sàn UPCOM từ 27/12/2024 — 112/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Khoáng sản công nghiệp / Sản xuất bột nặng CaCO3, bột nhẹ CaCO3, bột Talc làm nguyên liệu cho các ngành công nghiệp
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp Hóa chất Minh Đức (1979); nhà máy rộng 45.837 m², năng lực 150.000 tấn/năm, tiêu thụ trong nước và xuất khẩu sang Hàn Quốc, Trung Quốc, Ấn Độ; 209 lao động.
+- **Luận điểm cốt lõi:**
+  - **Vượt Bước 4 ở 3/4 năm có số liệu:** ROE ~27,9% (2022, trên vốn CSH cuối kỳ), 13,0% (2023), 22,1% (2024), đều từ lợi nhuận kinh doanh cốt lõi.
+  - **Biên gộp 26% – 28% giai đoạn 2022 – 2024**, CFO dương 4/4 năm, cổ tức tiền mặt đều 5 – 10 tỷ VNĐ/năm.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect có số liệu từ 2022, không có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2022 | 144,5 | 27,2% | 20,2 | 72,5 | **~27,9%** (trên VCSH cuối kỳ) | 9,8 |
+  | 2023 | 119,4 | 27,7% | 9,5 | 74,0 | **13,0%** | 15,5 |
+  | 2024 | 133,1 | 26,4% | 16,9 | 78,8 | **22,1%** | 32,3 |
+  | 2025 | 132,4 | 16,2% | **-7,6** | 63,7 | -10,6% | 15,4 |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **Không xác định theo LNST 2025 (lỗ)**; ~5,8x theo LNST 2024 (EPS ~2.430 VNĐ/cp trên 6,96 triệu cổ phiếu hiện tại). VNDirect không có BCTC quý để tính 4 quý gần nhất.
+  - **P/B:** **~1,53x** (Giá 14.000 VNĐ/cp ngày 10/11/2026 so với BVPS ~9.140 VNĐ/cp cuối 2025); vốn hóa ~98 tỷ VNĐ.
+  - **Vốn điều lệ:** **69,6 tỷ VNĐ** (tăng từ 49,7 tỷ VNĐ năm 2025 bằng cổ phiếu từ lợi nhuận giữ lại); vay ngắn hạn 44,7 tỷ VNĐ.
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Chế biến khoáng sản công nghiệp (bột CaCO3, Talc) — không phải VLXD đại trà.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2024 dương (9,5 / 16,9 tỷ VNĐ); 2025 lỗ -7,6 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Nhất quán với tiền lệ YBM, AMC (bột đá CaCO3 được xét tiếp tới Bước 4); HMD có thêm bột nhẹ CaCO3 (kết tủa) và bột Talc, biên gộp 26% – 28% giai đoạn 2022 – 2024.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% ở 2022 – 2024.
+- **Điểm mạnh đặc biệt:** (1) ROE cao giai đoạn 2022 – 2024 khi biên gộp ~27%; (2) Có thị trường xuất khẩu; (3) Cổ tức tiền mặt đều.
+- **Rủi ro cần theo dõi:**
+  - > [!CAUTION]
+    > **Năm 2025 chuyển lỗ -7,6 tỷ VNĐ:** Biên gộp sụp từ 26,4% xuống 16,2% với doanh thu đi ngang; lợi nhuận gộp 21,4 tỷ VNĐ không đủ bù chi phí. Phải thu giảm từ 39,1 xuống 19,6 tỷ VNĐ (có thể đã xử lý/dự phòng nợ khó đòi — chưa xác minh), lỗ năm 2025 xóa toàn bộ lợi nhuận giữ lại sau đợt chia cổ phiếu. Nếu 2026 tiếp tục lỗ, công ty sẽ lỗ 2/3 năm gần nhất.
+  - Tiền mặt chỉ 1,7 tỷ VNĐ cuối 2025 trong khi vay ngắn hạn 44,7 tỷ VNĐ; capex 2023 – 2025 tổng 60,3 tỷ VNĐ chưa cho thấy hiệu quả. Chưa xác minh công ty có tự chủ nguồn đá nguyên liệu (mỏ) hay phải mua ngoài.
+- **Hành động tiếp theo:** Đọc BCTC kiểm toán 2025 để tìm nguyên nhân lỗ; xét lại khi có BCTC 2026.
+- **Ngày tốt nghiệp phễu:** 2026-11-13

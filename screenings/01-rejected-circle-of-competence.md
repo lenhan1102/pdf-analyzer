@@ -3115,20 +3115,25 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 ---
 
 ### 277. HLY - Công ty Cổ phần Gốm Xây dựng Hưng Yên
-- **Mã cổ phiếu:** `HLY` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `HLY` (Sàn UPCOM — 27/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Vật liệu xây dựng / Gạch xây đất sét nung (hồ sơ VNDirect mô tả là Viglacera Hạ Long I: 2 hệ lò tuynel công suất 36 triệu viên QTC/năm, tiêu thụ tại Quảng Ninh, Hải Phòng, Hà Nội)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Gạch xây đất sét nung là VLXD đại trà, không có tài nguyên hay vị thế độc quyền:** Ngoài VTNL theo quy chuẩn Bước 1. *(Hiệu đính lý do: hồ sơ cũ ghi nhầm "BĐS dân dụng, phân lô bán nền".)*
+  - **Sản xuất gần như đã ngừng và vốn CSH âm:** Doanh thu giảm từ 51,1 (2019) xuống 10,7 (2023), 1,5 (2024) và 0,7 tỷ VNĐ (2025); lỗ 6 năm liên tiếp 2020 – 2025 (2023 – 2025: -14,2 / -10,1 / -9,7 tỷ VNĐ). Vốn CSH âm -53,1 tỷ VNĐ trên vốn điều lệ 10 tỷ VNĐ, vay ngắn hạn 33,5 tỷ VNĐ — nếu xét tiếp cũng rớt Bước 2. (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo.)
+  - Định giá: Giá 9.900 VNĐ/cp, vốn hóa ~10 tỷ VNĐ; BVPS âm nên P/B không có ý nghĩa.
+- **Ngày Phân Tích:** 13/11/2026 (Hiệu đính lý do)
 
 ---
 
 ### 278. HMS - Công ty Cổ phần Xây dựng bảo tàng Hồ Chí Minh
-- **Mã cổ phiếu:** `HMS` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `HMS` (Sàn UPCOM — 371/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Xây dựng / Xây lắp công trình dân dụng, công nghiệp, giao thông thủy lợi; đầu tư phát triển bất động sản & sản xuất VLXD
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Tổng thầu xây lắp kiêm đầu tư BĐS, ngoài VTNL:** Tiền thân là Công ty Xây dựng 75808 (1975), ~2.000 lao động; công trình tiêu biểu: Bảo tàng Hồ Chí Minh, trụ sở Bộ Công Thương, Garden Suites. Nhất quán với tiền lệ HBC, HC1, HC3. *(Hiệu đính lý do: hồ sơ cũ chỉ ghi chung "BĐS dân dụng, phân lô bán nền".)*
+  - **Vốn lưu động và dòng tiền kiểu nhà thầu – chủ đầu tư:** Phải thu 470,7 tỷ VNĐ và hàng tồn kho 637,7 tỷ VNĐ cuối 2025 trên doanh thu 1.130,6 tỷ VNĐ; CFO âm 4/6 năm 2020 – 2025 (2025: -123,5 tỷ VNĐ); vay dài hạn tăng vọt từ 123,6 lên 527,4 tỷ VNĐ và capex 198,9 tỷ VNĐ năm 2025.
+  - **Số liệu (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** LNST công ty mẹ 2021 – 2025: 32,9 / 82,9 / 4,5 / 34,0 / 136,2; ROE 8,4% / 18,7% / 0,9% / 6,7% / 23,3% — biến động theo bàn giao dự án; thu nhập khác chiếm phần lớn lợi nhuận 2020 – 2022.
+  - Định giá: Giá 28.200 VNĐ/cp, vốn hóa ~308 tỷ VNĐ, P/B ~0,48x, P/E ~2,3x (LNST 2025).
+- **Ngày Phân Tích:** 13/11/2026 (Hiệu đính lý do)
 
 ---
 

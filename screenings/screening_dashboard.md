@@ -9,19 +9,19 @@ Tài liệu này theo dõi toàn bộ trạng thái của các mã cổ phiếu 
 ```mermaid
 pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị Trường)
     "Rớt Bước 1 (Ngành & Vòng tròn năng lực)" : 428
-    "Rớt Bước 2 (Lỗ 3 năm liên tiếp)" : 32
+    "Rớt Bước 2 (Lỗ 3 năm liên tiếp)" : 33
     "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 27
     "Rớt Bước 4 (ROE 5 năm < 10%)" : 445
-    "🏆 Đạt Chuẩn File 5" : 709
+    "🏆 Đạt Chuẩn File 5" : 708
 ```
 
 - **Quy mô toàn bộ vũ trụ cổ phiếu:** **1,641** doanh nghiệp (Toàn bộ 3 sàn HOSE, HNX, UPCoM)
-- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **1,022 / 1,641** mã (**62.28%** — Đã rà soát chi tiết đến mã `HLS`)
+- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **1,027 / 1,641** mã (**62.58%** — Đã rà soát chi tiết đến mã `HMS`)
 - **Số mã rớt tại Bước 1 (Ngành & VTNL):** **428** mã (26.08%)
-- **Số mã rớt tại Bước 2 (Lỗ 3 năm liên tiếp):** **32** mã (1.95%)
+- **Số mã rớt tại Bước 2 (Lỗ 3 năm liên tiếp):** **33** mã (2.01%)
 - **Số mã rớt tại Bước 3 (Chuỗi GT thấp & P/B ≥ 0.5):** **27** mã (1.65%)
 - **Số mã rớt tại Bước 4 (ROE 5 năm < 10%):** **445** mã (27.12%)
-- **Số mã đạt chuẩn lọt vào File 5 (Champions):** **709** mã (43.21%)
+- **Số mã đạt chuẩn lọt vào File 5 (Champions):** **708** mã (43.14%)
 - **Tổng số mã trong hệ sinh thái:** **1,641 / 1,641 mã (100.0%)**
 
 ---
@@ -34,10 +34,10 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | :---: | :--- | :--- | :--- | :--- |
 | ⚡ | [00-quick-summary-all.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md) | **Bảng Tổng Hợp Siêu Tốc Toàn Bộ Cổ Phiếu** (Cheat-sheet tra cứu) | **1,641** mã | Xem chi tiết từng mã |
 | 1 | [summary-01-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md) | Bảng tóm tắt các công ty rớt Bước 1 (Ngành nghề ngoài VTNL) | **428** mã | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
-| 2 | [summary-02-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-02-consecutive-loss.md) | Bảng tóm tắt các công ty rớt Bước 2 (Lỗ 3 năm liên tiếp) | **32** mã | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
+| 2 | [summary-02-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-02-consecutive-loss.md) | Bảng tóm tắt các công ty rớt Bước 2 (Lỗ 3 năm liên tiếp) | **33** mã | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
 | 3 | [summary-03-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md) | Bảng tóm tắt các công ty rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5) | **27** mã | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
 | 4 | [summary-04-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md) | Bảng tóm tắt các công ty rớt Bước 4 (ROE 5 năm < 10%) | **445** mã | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
-| 5 | [summary-05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md) | 🏆 **Bảng tóm tắt Doanh Nghiệp Đạt Chuẩn (File 5)** | **709** mã | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 5 | [summary-05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md) | 🏆 **Bảng tóm tắt Doanh Nghiệp Đạt Chuẩn (File 5)** | **708** mã | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 
 
 
@@ -1069,6 +1069,11 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | 1020 | **HLB** | Công ty Cổ phần Bia và Nước giải khát Hạ Long | Bia & nước giải khát | ✅ Pass | ✅ Pass (LNST 111.3 / 134.7 / 155.5 tỷ) | ✅ Pass (Thương hiệu bia riêng, CFO vượt LNST) | ✅ Pass (ROE 5/5 năm >= 10%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 | 1021 | **HLO** | Công ty Cổ phần Công nghệ Ha Lô | Hóa chất xử lý bề mặt & hệ thống xi mạ | ✅ Pass | ✅ Pass (LNST 5.4 / 8.7 / 20.8 tỷ) | ✅ Pass (Hóa chất chuyên dụng, biên gộp ~25%) | ✅ Pass (ROE 2022 & 2025 >= 10%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 | 1022 | **HLS** | Công ty Cổ phần Sứ kỹ thuật Hoàng Liên Sơn | Sứ cách điện | ✅ Pass | ✅ Pass (LNST 18.4 / 27.6 / 42.5 tỷ) | ✅ Pass (Sản phẩm kỹ thuật, biên gộp ~40%) | ✅ Pass (ROE 5/5 năm >= 10%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 1023 | **HLT** | CTCP Dệt may Hoàng Thị Loan | Kéo sợi | ✅ Pass | ❌ Loại (Lỗ 3N liên tiếp 2023-2025) | - | - | Dừng ở Bước 2 | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
+| 1024 | **HLY** | Công ty Cổ phần Gốm Xây dựng Hưng Yên | Gạch đất sét nung | ❌ Loại (VLXD đại trà, sản xuất gần như ngừng) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 1025 | **HMD** | Công ty Cổ phần Hóa chất Minh Đức | Bột CaCO3 & Talc | ✅ Pass | ✅ Pass (LNST 9.5 / 16.9 / -7.6 tỷ) | ✅ Pass (Khoáng sản công nghiệp, tiền lệ YBM/AMC) | ✅ Pass (ROE 2022-2024 >= 10%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 1026 | **HMG** | CTCP Kim khí Hà Nội - VNSTEEL | Thương mại thép | ✅ Pass | ✅ Pass (LNST 11.6 / 11.3 / 18.4 tỷ) | ❌ Loại (Phân phối thép biên gộp ~2%, P/B 1.04) | - | Dừng ở Bước 3 | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
+| 1027 | **HMS** | Công ty Cổ phần Xây dựng bảo tàng Hồ Chí Minh | Tổng thầu xây lắp & BĐS | ❌ Loại (Tổng thầu xây lắp kiêm đầu tư BĐS) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 
 ---
 

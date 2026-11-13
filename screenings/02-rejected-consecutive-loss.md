@@ -41,6 +41,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
 | 29 | **HHG** | Công ty Cổ phần Hoàng Hà | Vận tải hành khách, xe buýt, taxi (Thái Bình) | Lỗ 6 năm liên tiếp 2020-2025 (2023-2025: -43,2 / -33,3 / -67,4 tỷ), 9T/2026 lỗ -4,7 tỷ, lỗ lũy kế 336,5 tỷ/vốn điều lệ 349 tỷ | 2026-11-10 |
 | 30 | **HKB** | Công ty Cổ phần Nông nghiệp và Thực phẩm Hà Nội - Kinh Bắc | Kinh doanh nông sản & nguyên liệu TACN | Lỗ 6 năm liên tiếp 2020-2025 (~-58 tỷ/năm), 9T/2026 lỗ -43,9 tỷ, vốn CSH âm -15,0 tỷ (30/09/2026) | 2026-11-10 |
 | 31 | **HLA** | Công ty Cổ phần Hữu Liên Á Châu | Ống thép, ống inox, xà gồ | Lỗ 2019-2020 (-121,9 / -135,4 tỷ), không công bố BCTC từ 2021, vốn CSH âm -1.618 tỷ, đình chỉ giao dịch | 2026-11-10 |
+| 32 | **HLT** | CTCP Dệt may Hoàng Thị Loan | Kéo sợi (thành viên Vinatex) | Lỗ 3 năm liên tiếp 2023-2025 (-49,9 / -47,8 / -18,7 tỷ), biên gộp 1-3%, vốn CSH âm -12,1 tỷ | 2026-11-13 |
 
 ---
 
@@ -628,3 +629,24 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
   - **Quy chuẩn loại trừ:** Lỗ liên tục trong các năm có số liệu, không công bố BCTC 5 năm gần nhất và vốn CSH âm sâu — nhất quán với tiền lệ GTT. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ File 5 sang Bước 2: hồ sơ cũ ghi nhầm "Doanh nghiệp đầu ngành… Vượt B4".)*
   - Định giá: Không giao dịch; BVPS âm ~-47.000 VNĐ/cp.
 - **Ngày Phân Tích:** 10/11/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 33. HLT - CTCP Dệt may Hoàng Thị Loan
+- **Mã cổ phiếu:** `HLT` (Sàn UPCOM — chỉ 2/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Dệt may / Kéo sợi (sợi nồi cọc, OE, SE) — thành viên Tập đoàn Dệt may Việt Nam (Nghệ An)
+- **Lý do loại trừ tại Bước 2 (Lỗ 3 năm liên tiếp 2023 – 2025, vốn CSH đã âm):**
+  - **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect không có BCTC quý):**
+
+    | Năm | Doanh thu thuần | Lợi nhuận gộp | LNST | Vốn CSH cuối kỳ | Trạng thái |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | 2021 | 797,0 | 135,1 | 53,3 | 102,4 | Lãi |
+    | 2022 | 704,0 | 59,9 | 2,4 | 104,3 | Lãi |
+    | 2023 | 780,6 | 6,8 | **-49,9** | 54,5 | **Lỗ** |
+    | 2024 | 808,2 | 11,0 | **-47,8** | 6,7 | **Lỗ** |
+    | 2025 | 240,8 | 7,6 | **-18,7** | -12,1 | **Lỗ** |
+
+  - Kéo sợi là khâu thượng nguồn đại trà, giá bán theo giá bông và sợi thế giới: biên gộp sụp từ 16,9% (2021) xuống 0,9% – 3,1% (2023 – 2025), không đủ trả lãi vay 15 – 20 tỷ VNĐ/năm. Doanh thu 2025 giảm 70% còn 240,8 tỷ VNĐ. Vốn CSH âm -12,1 tỷ VNĐ trên vốn điều lệ 55 tỷ VNĐ; vay ngắn hạn 114,6 + dài hạn 105,1 tỷ VNĐ.
+  - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ File 5 sang Bước 2: hồ sơ cũ ghi nhầm "Doanh nghiệp đầu ngành… Vượt B4".)*
+  - Định giá: Giá 11.900 VNĐ/cp (danh nghĩa), vốn hóa ~66 tỷ VNĐ; BVPS âm nên P/B không có ý nghĩa.
+- **Ngày Phân Tích:** 13/11/2026 (Hiệu đính phân loại lại)

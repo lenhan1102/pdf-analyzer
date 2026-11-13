@@ -152,11 +152,28 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ ba: 
 ---
 
 ### 15. HMG - CTCP Kim khí Hà Nội - VNSTEEL
-- **Mã cổ phiếu:** `HMG` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nguyên vật liệu
-- **Lý do loại trừ tại Bước 3:**
-  - Doanh nghiệp thương mại gia công trung gian đáy chuỗi giá trị biên mỏng, P/B (0.55) >= 0.5.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `HMG` (Sàn UPCOM — 39/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Nguyên vật liệu / Kinh doanh, xuất nhập khẩu thép & VLXD; cho thuê ki-ốt, kho bãi (đơn vị thành viên Tổng Công ty Thép Việt Nam)
+- **Bước 1 (Vòng tròn năng lực):** ✅ Pass. Thương mại thép phục vụ công nghiệp và xây dựng.
+- **Bước 2 (Lợi nhuận 3 năm):** ✅ Pass. LNST 2023 – 2025 dương (11,6 / 11,3 / 18,4 tỷ VNĐ).
+- **Vị thế chuỗi giá trị:**
+  - Nhà phân phối thép trung gian: 6 xí nghiệp, chi nhánh Hải Phòng và TP.HCM; mua thép trong nước/nhập khẩu bán lại cho nhà máy và công trình. Giá mua – bán theo thị trường thép, không có sản xuất hay thương hiệu riêng.
+  - Biên gộp chỉ **1,4% – 2,1%** (2019 – 2025), biên ròng ~0,4%. Vốn bị chôn trong phải thu 360,5 tỷ VNĐ (~84% tổng tài sản), tài trợ bằng vay ngắn hạn 193,3 tỷ VNĐ; CFO 2021 – 2022 âm -189,7 tỷ VNĐ khi doanh thu tăng.
+- **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect không có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 2.492,0 | 2,1% | 6,7 | 95,3 | 7,2% | -129,9 |
+  | 2022 | 3.551,7 | 1,5% | 7,0 | 102,1 | 7,1% | -59,8 |
+  | 2023 | 4.011,1 | 1,7% | 11,6 | 106,7 | 11,1% | 30,3 |
+  | 2024 | 4.068,0 | 1,7% | 11,3 | 107,3 | 10,6% | 13,6 |
+  | 2025 | 4.968,7 | 2,0% | 18,4 | 116,8 | 16,4% | 23,2 |
+
+- **Định giá P/B thực tế:** **~1,04 lần** (Thị giá 13.500 VNĐ/cp ngày 13/11/2026 so với BVPS ~12.970 VNĐ/cp cuối 2025); vốn hóa ~122 tỷ VNĐ; P/E ~6,6x (LNST 2025).
+  - Điều kiện ngoại lệ giữ lại: Định giá phải siêu rẻ với P/B < 0.5.
+  - Thực tế: P/B = 1.04 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net.
+- **Lý do bị loại:** Thương mại thép trung gian biên gộp ~2%, không có hào kinh tế, P/B ~1,04 lần nên bị loại tại Bước 3. *(Hiệu đính số liệu: hồ sơ cũ ghi P/B 0,55. ROE 2023 – 2025 đạt 10,6% – 16,4% sẽ qua Bước 4 nếu được xét tiếp, nhờ đòn bẩy vốn lưu động chứ không phải lợi thế cạnh tranh.)*
+- **Ngày sàng lọc:** 2026-11-13
 
 ---
 
