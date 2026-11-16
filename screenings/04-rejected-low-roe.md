@@ -4534,21 +4534,30 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 233. HNB - Công ty cổ phần Bến xe Hà Nội
-- **Mã cổ phiếu:** `HNB` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Công nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (9.5%, 0.1%, 7.7%, 8.5%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+### 233. HND - CTCP Nhiệt điện Hải Phòng
+- **Mã cổ phiếu:** `HND` (Sàn UPCOM — 400/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Tiện ích / Nhiệt điện than (Nhà máy Nhiệt điện Hải Phòng 1 & 2, 4 × 300 MW, Thủy Nguyên — Hải Phòng)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Sản xuất điện.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. 2023 – 2025 đều lãi (441,5 / 258,9 / 342,4 tỷ VNĐ).
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass. Chủ sở hữu tài sản phát điện quy mô lớn.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
 
----
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | Cổ tức tiền mặt đã trả |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 9.026,5 | 7,3% | 455,4 | 6.226,2 | 6,9% | 1.148,1 |
+  | 2022 | 10.511,2 | 7,7% | 546,8 | 6.317,6 | 8,7% | 400,5 |
+  | 2023 | 11.442,7 | 5,6% | 441,5 | 6.012,5 | 7,2% | 492,3 |
+  | 2024 | 11.036,3 | 3,7% | 258,9 | 5.723,2 | 4,4% | 551,1 |
+  | 2025 | 9.730,8 | 4,9% | 342,4 | 5.980,3 | 5,9% | 200,1 |
+  | 9T/2026 | 8.862,4 | 9,5% | 543,7 | 6.294,8 | — | — |
 
-### 234. HNG - Công ty cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
-- **Mã cổ phiếu:** `HNG` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nông nghiệp
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (0.2%, -18.7%, -48.7%, -78.4%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Lý do loại trừ cốt lõi:**
+  - **ROE chưa từng chạm 10% trong 2021 – 2025:** Sau khi hết lãi vay và khấu hao lớn (vay đã trả hết năm 2024), lợi nhuận vẫn bị giới hạn bởi cơ chế giá điện: biên gộp giảm từ 17,5% (2020) xuống 3,7% – 7,7% khi giá than nhập khẩu tăng nhưng giá bán điện cho EVN không theo kịp; huy động phụ thuộc thủy văn và điều độ hệ thống. Lần gần nhất ROE vượt 10% là năm 2020 (22,3%). *(Hiệu đính chuyển từ File 5 sang Bước 4: hồ sơ cũ ghi nhầm "Doanh nghiệp đầu ngành… Vượt B4".)*
+  - 9T/2026 phục hồi mạnh (LNST 543,7 tỷ VNĐ nhờ Q1 – Q2 huy động cao), nhưng Q3/2025 – Q4/2025 lỗ -15,0 / -50,3 tỷ VNĐ; ROE 4 quý gần nhất ~8,0% — vẫn dưới 10%. Cần xét lại nếu cả năm 2026 đạt trên ~615 tỷ VNĐ LNST.
+  - Định giá: Giá 8.400 VNĐ/cp, vốn hóa ~4.200 tỷ VNĐ, P/B ~0,67x (BVPS ~12.590 VNĐ/cp tại 30/09/2026), P/E ~8,5x (4 quý gần nhất). Tiền và tiền gửi 1.711,7 tỷ VNĐ cuối 2025, không còn nợ vay.
+- **Ngày Phân Tích:** 16/11/2026 (Hiệu đính chuyển từ File 5 sang Bước 4)
 
 ---
 

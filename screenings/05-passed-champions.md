@@ -13180,3 +13180,114 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Tiền mặt chỉ 1,7 tỷ VNĐ cuối 2025 trong khi vay ngắn hạn 44,7 tỷ VNĐ; capex 2023 – 2025 tổng 60,3 tỷ VNĐ chưa cho thấy hiệu quả. Chưa xác minh công ty có tự chủ nguồn đá nguyên liệu (mỏ) hay phải mua ngoài.
 - **Hành động tiếp theo:** Đọc BCTC kiểm toán 2025 để tìm nguyên nhân lỗ; xét lại khi có BCTC 2026.
 - **Ngày tốt nghiệp phễu:** 2026-11-13
+
+---
+
+### 412. HNB - Công ty cổ phần Bến xe Hà Nội
+- **Mã cổ phiếu:** `HNB` (Sàn UPCOM — 153/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Vận tải & Hạ tầng giao thông / Khai thác bến xe khách & vận tải hành khách đường bộ (Hà Nội)
+- **Hoạt động kinh doanh chính:** Tiền thân là Công ty Vận tải hành khách phía Nam Hà Nội (1996), cổ phần hóa 2015, thành viên Tổng Công ty Vận tải Hà Nội (Transerco); quản lý 3 bến xe liên tỉnh lớn của Thủ đô: **Mỹ Đình, Giáp Bát, Gia Lâm**; 376 lao động.
+- **Hiệu đính phân loại (Bước 4 → File 5):** Hồ sơ cũ ghi chuỗi ROE "9,5% / 0,1% / 7,7% / 8,5%" (thiếu năm 2025). Theo BCTC 2025, ROE đạt **10,9%** — vượt ngưỡng (sát nút).
+- **Luận điểm cốt lõi:**
+  - **Vị thế gần như độc quyền:** Ba bến xe đầu mối do thành phố quy hoạch, khó có đối thủ mới; doanh thu phục hồi đều từ 61,0 (2021, Covid) lên 144,8 tỷ VNĐ (2025), vượt mức trước dịch.
+  - **Bảng cân đối sạch:** Không vay nợ; tiền và tiền gửi 94,4 tỷ VNĐ (~82% vốn CSH); CFO dương 6/7 năm, cổ tức tiền mặt đều.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect không có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 61,0 | 10,4% | 0,1 | 105,8 | 0,1% | -3,3 |
+  | 2022 | 98,4 | 14,7% | 4,8 | 109,3 | 4,5% | 26,0 |
+  | 2023 | 127,7 | 14,6% | 8,5 | 111,0 | 7,7% | 13,7 |
+  | 2024 | 135,9 | 16,3% | 9,5 | 112,0 | 8,6% | 14,9 |
+  | 2025 | 144,8 | 18,1% | 12,4 | 115,4 | **10,9%** | 15,4 |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~6,1x** (LNST 2025; EPS ~1.310 VNĐ/cp)
+  - **P/B:** **~0,66x** (Giá 8.000 VNĐ/cp ngày 04/11/2026 so với BVPS ~12.150 VNĐ/cp cuối 2025); vốn hóa ~76 tỷ VNĐ — gần bằng lượng tiền và tiền gửi.
+  - **Vốn điều lệ:** **95,0 tỷ VNĐ** (9,5 triệu cổ phiếu); không vay nợ.
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Hạ tầng dịch vụ vận tải (bến xe) — không phải BĐS hay xây lắp.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 8,5 / 9,5 / 12,4 tỷ VNĐ, tăng đều.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Khai thác bến xe đầu mối mang tính độc quyền địa bàn; P/B ~0,66x.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn (sát nút): ROE 2025 10,9%.
+- **Điểm mạnh đặc biệt:** (1) 3 bến xe đầu mối Thủ đô; (2) Vốn hóa ~ bằng tiền mặt ròng; (3) Lợi nhuận và biên gộp cải thiện 4 năm liền.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **ROE vừa chạm ngưỡng và rủi ro quy hoạch:** ROE 2025 10,9% có phần đóng góp của lãi tiền gửi 2,6 tỷ VNĐ; nếu bỏ lãi tiền gửi, ROE ~9,4%. Hà Nội đã nhiều năm có chủ trương di dời/chuyển đổi công năng các bến xe nội đô (như Giáp Bát) — nếu thực hiện, nguồn thu cốt lõi bị ảnh hưởng lớn. Hành khách chuyển dần sang xe hợp đồng, limousine đón trả tận nơi.
+  - Thuế suất thực tế cao (LNST 12,4 trên LNTT 18,9 tỷ VNĐ năm 2025 — chưa xác minh nguyên nhân).
+- **Hành động tiếp theo:** Theo dõi quy hoạch bến xe của Hà Nội và BCTC 2026.
+- **Ngày tốt nghiệp phễu:** 2026-11-16
+
+---
+
+### 413. HNF - Công ty cổ phần Thực phẩm Hữu Nghị
+- **Mã cổ phiếu:** `HNF` (Sàn UPCOM — 219/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng / Sản xuất bánh kẹo, bánh trung thu, bánh mì công nghiệp (thương hiệu Hữu Nghị)
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy bánh kẹo cao cấp Hữu Nghị (1997), cổ phần hóa 2006; 3 nhà máy đạt chuẩn FSSC, xuất khẩu tới hơn 12 thị trường; 2.026 lao động.
+- **Luận điểm cốt lõi:**
+  - **ROE ≥ 10% cả 5/5 năm:** 10,2% / 20,0% / 11,4% / 28,0% / 14,4% (2021 – 2025).
+  - **Thương hiệu bánh kẹo nội địa lâu năm:** Biên gộp tăng từ 22,9% (2019) lên 30,2% – 32,5% (2024 – 2025); CFO 135 – 242 tỷ VNĐ/năm từ 2021, vượt LNST.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 1.602,6 | 27,1% | 52,2 | 536,5 | **10,2%** | 135,3 |
+  | 2022 | 1.962,9 | 28,3% | 120,0 | 664,1 | **20,0%** | 167,2 |
+  | 2023 | 1.756,3 | 27,4% | 71,0 | 579,1 | **11,4%** | 160,5 |
+  | 2024 | 1.969,6 | 32,5% | 178,3 | 693,8 | **28,0%** | 241,6 |
+  | 2025 | 1.800,3 | 30,2% | 102,3 | 727,3 | **14,4%** | 204,6 |
+  | 9T/2026 | 1.446,3 | 31,5% | 57,1 | 689,3 | ~11% (năm hóa) | — |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~7,4x** (LNST 4 quý gần nhất Q4/2025 – Q3/2026: 81,9 tỷ VNĐ; EPS ~2.730 VNĐ/cp)
+  - **P/B:** **~0,88x** (Giá 20.200 VNĐ/cp so với BVPS ~22.980 VNĐ/cp tại 30/09/2026); vốn hóa ~606 tỷ VNĐ.
+  - **Vốn điều lệ:** **300,0 tỷ VNĐ** (30 triệu cổ phiếu); vay ngắn hạn 557,9 + dài hạn 325,7 tỷ VNĐ (cuối 2025).
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Thực phẩm tiêu dùng có thương hiệu.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 71,0 / 178,3 / 102,3 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Thương hiệu bánh kẹo Hữu Nghị, biên gộp ~30%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% cả 5/5 năm.
+- **Điểm mạnh đặc biệt:** (1) Thương hiệu và kênh phân phối bánh kẹo, bánh trung thu; (2) Dòng tiền kinh doanh mạnh; (3) Cổ tức tiền mặt ~60 tỷ VNĐ/năm (20% mệnh giá) từ 2024.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Lợi nhuận biến động mạnh và nợ vay lớn:** LNST dao động 71 – 178 tỷ VNĐ theo giá nguyên liệu (đường, bột mì, dầu) và mùa trung thu – Tết; chi phí bán hàng chiếm ~20% doanh thu. Nợ vay ~884 tỷ VNĐ (~1,2 lần vốn CSH), capex tăng vọt lên 325,9 tỷ VNĐ năm 2025 (đầu tư mở rộng — chưa xác minh dự án). 9T/2026 LNST chỉ 57,1 tỷ VNĐ, Q2/2026 doanh thu giảm còn 336,2 tỷ VNĐ.
+  - Phải thu ~467 tỷ VNĐ (~26% doanh thu) do bán qua nhà phân phối.
+- **Hành động tiếp theo:** Theo dõi kết quả mùa trung thu – Tết 2026 và hiệu quả khoản capex 2025.
+- **Ngày tốt nghiệp phễu:** 2026-11-16
+
+---
+
+### 414. HNI - Công ty Cổ phần May Hữu Nghị
+- **Mã cổ phiếu:** `HNI` (Sàn UPCOM — 101/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Dệt may / Sản xuất & xuất khẩu may mặc (jacket, sơ mi, quần tây)
+- **Hoạt động kinh doanh chính:** Tiền thân là Công ty May và In Hữu Nghị thuộc Tổng Công ty Dệt May Việt Nam (1993), cổ phần hóa 2002; 1 xưởng chính và 4 xí nghiệp với năng lực 1 triệu jacket/năm và 2 triệu sơ mi – quần tây/năm; 2.534 lao động.
+- **Luận điểm cốt lõi:**
+  - **ROE ≥ 10% cả 5/5 năm:** 10,0% / 24,5% / 18,0% / 23,5% / 18,6% (2021 – 2025), không dùng đòn bẩy.
+  - **Bảng cân đối sạch:** Không vay nợ; tiền mặt 335,4 tỷ VNĐ cuối 2025 (~64% vốn CSH); CFO dương 6/7 năm; cổ tức tiền mặt đều ~35,7 tỷ VNĐ/năm (15% mệnh giá).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 779,3 | 13,7% | 35,3 | 339,3 | **10,0%** | -63,3 |
+  | 2022 | 1.128,9 | 16,2% | 90,4 | 398,0 | **24,5%** | 138,7 |
+  | 2023 | 869,5 | 16,4% | 73,5 | 420,0 | **18,0%** | 46,1 |
+  | 2024 | 1.182,1 | 16,8% | 105,9 | 482,1 | **23,5%** | 132,8 |
+  | 2025 | 980,3 | 17,7% | 93,7 | 527,3 | **18,6%** | 132,3 |
+  | 9T/2026 | 771,9 | 13,2% | 36,1 | 504,6 | — | — |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~6,9x** (LNST 4 quý gần nhất Q4/2025 – Q3/2026: 93,7 tỷ VNĐ; EPS ~3.940 VNĐ/cp)
+  - **P/B:** **~1,27x** (Giá 27.000 VNĐ/cp so với BVPS ~21.220 VNĐ/cp tại 30/09/2026); vốn hóa ~642 tỷ VNĐ.
+  - **Vốn điều lệ:** **237,8 tỷ VNĐ** (23,78 triệu cổ phiếu); không vay nợ.
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất may mặc.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 73,5 / 105,9 / 93,7 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: May xuất khẩu biên gộp 16% – 18%, cao hơn may gia công CMT thuần túy; nhất quán với tiền lệ BDG, BMG, DCG, TNG.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% cả 5/5 năm.
+- **Điểm mạnh đặc biệt:** (1) ROE ~20% không cần vay nợ; (2) Tiền mặt lớn, cổ tức đều; (3) P/E ~7x.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Lợi nhuận dồn vào quý 4 và phụ thuộc đơn hàng xuất khẩu:** Q4/2025 LNST 57,6 tỷ VNĐ (biên gộp quý 41%) chiếm phần lớn lợi nhuận năm — nhiều khả năng do ghi nhận/quyết toán cuối năm; 3 quý đầu 2026 biên gộp chỉ ~13% và LNST 36,1 tỷ VNĐ. Doanh thu dao động mạnh theo năm (869 – 1.182 tỷ VNĐ) do phụ thuộc đơn hàng của vài khách hàng lớn và chính sách thuế quan của thị trường nhập khẩu.
+  - Phải thu tăng từ 105,3 lên 189,9 – 197,6 tỷ VNĐ (2024 – 2025).
+- **Hành động tiếp theo:** Theo dõi kết quả Q4/2026 để xác nhận mô hình lợi nhuận cuối năm.
+- **Ngày tốt nghiệp phễu:** 2026-11-16

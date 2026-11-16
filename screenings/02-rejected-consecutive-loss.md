@@ -42,6 +42,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
 | 30 | **HKB** | Công ty Cổ phần Nông nghiệp và Thực phẩm Hà Nội - Kinh Bắc | Kinh doanh nông sản & nguyên liệu TACN | Lỗ 6 năm liên tiếp 2020-2025 (~-58 tỷ/năm), 9T/2026 lỗ -43,9 tỷ, vốn CSH âm -15,0 tỷ (30/09/2026) | 2026-11-10 |
 | 31 | **HLA** | Công ty Cổ phần Hữu Liên Á Châu | Ống thép, ống inox, xà gồ | Lỗ 2019-2020 (-121,9 / -135,4 tỷ), không công bố BCTC từ 2021, vốn CSH âm -1.618 tỷ, đình chỉ giao dịch | 2026-11-10 |
 | 32 | **HLT** | CTCP Dệt may Hoàng Thị Loan | Kéo sợi (thành viên Vinatex) | Lỗ 3 năm liên tiếp 2023-2025 (-49,9 / -47,8 / -18,7 tỷ), biên gộp 1-3%, vốn CSH âm -12,1 tỷ | 2026-11-13 |
+| 33 | **HNG** | Công ty cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai | Cây ăn trái & cao su (Lào, Campuchia) | Lỗ 5 năm liên tiếp 2021-2025 (2023-2025: -1.098,5 / -1.281,9 / -987,1 tỷ), 9T/2026 lỗ -251,7 tỷ | 2026-11-16 |
 
 ---
 
@@ -650,3 +651,25 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
   - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ File 5 sang Bước 2: hồ sơ cũ ghi nhầm "Doanh nghiệp đầu ngành… Vượt B4".)*
   - Định giá: Giá 11.900 VNĐ/cp (danh nghĩa), vốn hóa ~66 tỷ VNĐ; BVPS âm nên P/B không có ý nghĩa.
 - **Ngày Phân Tích:** 13/11/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 34. HNG - Công ty cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+- **Mã cổ phiếu:** `HNG` (Sàn UPCOM từ 18/09/2024 — 400/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Nông nghiệp / Trồng cây ăn trái & cao su tại Lào, Campuchia
+- **Lý do loại trừ tại Bước 2 (Lỗ 5 năm liên tiếp 2021 – 2025, tiếp tục lỗ 9T/2026):**
+  - **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+    | Năm | Doanh thu thuần | Lợi nhuận gộp | LNST công ty mẹ | Vốn CSH cuối kỳ | Trạng thái |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | 2021 | 1.198,9 | -454,3 | **-1.119,4** | 5.997,0 | **Lỗ** |
+    | 2022 | 741,8 | -970,8 | **-3.576,4** | 3.034,5 | **Lỗ** |
+    | 2023 | 605,6 | -664,3 | **-1.098,5** | 2.255,7 | **Lỗ** |
+    | 2024 | 491,9 | -435,7 | **-1.281,9** | 1.635,6 | **Lỗ** |
+    | 2025 | 677,6 | 151,4 | **-987,1** | 1.044,6 | **Lỗ** |
+    | 9T/2026 | 582,3 | — | **-251,7** | 646,1 | **Lỗ** |
+
+  - Lỗ lũy kế khổng lồ: vốn CSH giảm từ 9.738 (2019) xuống 646,1 tỷ VNĐ (30/09/2026) trên vốn điều lệ 11.085,5 tỷ VNĐ. Lợi nhuận gộp âm 4 năm 2021 – 2024; năm 2025 mới dương 151,4 tỷ VNĐ nhưng chi phí lãi vay, khấu hao và dự phòng vẫn đẩy lỗ gần 1.000 tỷ VNĐ. Vẫn chi đầu tư vườn cây 1.445,7 tỷ VNĐ năm 2025.
+  - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2.)*
+  - Định giá: Giá 5.800 VNĐ/cp, vốn hóa ~6.430 tỷ VNĐ, P/B ~9,9x (BVPS ~580 VNĐ/cp tại 30/09/2026) — giá phản ánh kỳ vọng tái cấu trúc của nhóm HAGL, không phải kết quả kinh doanh.
+- **Ngày Phân Tích:** 16/11/2026 (Hiệu đính phân loại lại)
