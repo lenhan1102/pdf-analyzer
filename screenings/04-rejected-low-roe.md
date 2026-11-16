@@ -4561,30 +4561,29 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 235. HNM - Công ty Cổ phần Sữa Hà Nội
-- **Mã cổ phiếu:** `HNM` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Hàng tiêu dùng
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (7.5%, 6.2%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
 ### 236. HNP - Công ty Cổ phần Hanel Xốp nhựa
-- **Mã cổ phiếu:** `HNP` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nguyên vật liệu
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (9.3%, 4.7%, 2.4%, 4.8%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `HNP` (Sàn UPCOM — 78/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Nguyên vật liệu / Sản phẩm nhựa ép phun, màng hút chân không, xốp EPS, khuôn mẫu
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Sản xuất nhựa – xốp, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. 2023 – 2025 đều lãi (3,0 / 6,3 / 6,7 tỷ VNĐ).
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass theo ngoại lệ. Gia công nhựa – xốp đại trà (4 nhà máy: ép phun 4.500 tấn/năm, màng hút chân không 500 tấn/năm, xốp EPS 3.000 tấn/năm, khuôn mẫu), nhưng **P/B ~0,40x < 0,5**.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect không có BCTC quý):**
 
----
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 351,6 | 12,7% | 6,0 | 129,4 | 4,6% | 18,2 |
+  | 2022 | 402,4 | 12,8% | 7,7 | 131,6 | 5,9% | 8,0 |
+  | 2023 | 308,9 | 12,3% | 3,0 | 127,8 | 2,3% | 14,3 |
+  | 2024 | 352,7 | 13,7% | 6,3 | 131,3 | 4,8% | 28,0 |
+  | 2025 | 339,9 | 15,8% | 6,7 | 133,9 | 5,0% | -1,9 |
 
-### 237. HNR - Công ty cổ phần Rượu và Nước giải khát Hà Nội
-- **Mã cổ phiếu:** `HNR` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Hàng tiêu dùng
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (-8.4%, -7.7%, -2.8%, -2.4%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Lý do loại trừ cốt lõi:**
+  - **ROE chưa từng chạm 10% trong 2021 – 2025 (2,3% – 5,9%):** Doanh thu đi ngang 309 – 402 tỷ VNĐ, biên gộp 12% – 16% bị chi phí bán hàng và quản lý (~47 tỷ VNĐ/năm) ăn gần hết; LNST chỉ 3 – 8 tỷ VNĐ/năm trên vốn CSH ~130 tỷ VNĐ. Năm gần nhất ROE đạt ~10% là 2020 (9,4%).
+  - Bảng cân đối an toàn: vay ngắn hạn chỉ 10,3 tỷ VNĐ, tiền mặt 18,8 tỷ VNĐ (cuối 2025); cổ tức tiền mặt 2,5 – 7,5 tỷ VNĐ/năm.
+  - Định giá: Giá 10.600 VNĐ/cp (thanh khoản rất thấp), vốn hóa ~53 tỷ VNĐ, P/B ~0,40x (BVPS ~26.780 VNĐ/cp cuối 2025), P/E ~7,9x (LNST 2025).
+- **Ngày Phân Tích:** 16/11/2026 (Thẩm định lại — giữ nguyên Bước 4)
 
 ---
 

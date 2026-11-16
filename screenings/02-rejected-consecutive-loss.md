@@ -43,6 +43,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
 | 31 | **HLA** | Công ty Cổ phần Hữu Liên Á Châu | Ống thép, ống inox, xà gồ | Lỗ 2019-2020 (-121,9 / -135,4 tỷ), không công bố BCTC từ 2021, vốn CSH âm -1.618 tỷ, đình chỉ giao dịch | 2026-11-10 |
 | 32 | **HLT** | CTCP Dệt may Hoàng Thị Loan | Kéo sợi (thành viên Vinatex) | Lỗ 3 năm liên tiếp 2023-2025 (-49,9 / -47,8 / -18,7 tỷ), biên gộp 1-3%, vốn CSH âm -12,1 tỷ | 2026-11-13 |
 | 33 | **HNG** | Công ty cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai | Cây ăn trái & cao su (Lào, Campuchia) | Lỗ 5 năm liên tiếp 2021-2025 (2023-2025: -1.098,5 / -1.281,9 / -987,1 tỷ), 9T/2026 lỗ -251,7 tỷ | 2026-11-16 |
+| 34 | **HNR** | Công ty cổ phần Rượu và Nước giải khát Hà Nội | Cồn, rượu & nước giải khát (Halico) | Lỗ 7 năm liên tiếp 2019-2025 (2023-2025: -9,9 / -8,4 / -5,3 tỷ), 9T/2026 lãi nhẹ 3,7 tỷ | 2026-11-16 |
 
 ---
 
@@ -672,4 +673,26 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
   - Lỗ lũy kế khổng lồ: vốn CSH giảm từ 9.738 (2019) xuống 646,1 tỷ VNĐ (30/09/2026) trên vốn điều lệ 11.085,5 tỷ VNĐ. Lợi nhuận gộp âm 4 năm 2021 – 2024; năm 2025 mới dương 151,4 tỷ VNĐ nhưng chi phí lãi vay, khấu hao và dự phòng vẫn đẩy lỗ gần 1.000 tỷ VNĐ. Vẫn chi đầu tư vườn cây 1.445,7 tỷ VNĐ năm 2025.
   - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2.)*
   - Định giá: Giá 5.800 VNĐ/cp, vốn hóa ~6.430 tỷ VNĐ, P/B ~9,9x (BVPS ~580 VNĐ/cp tại 30/09/2026) — giá phản ánh kỳ vọng tái cấu trúc của nhóm HAGL, không phải kết quả kinh doanh.
+- **Ngày Phân Tích:** 16/11/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 35. HNR - Công ty cổ phần Rượu và Nước giải khát Hà Nội
+- **Mã cổ phiếu:** `HNR` (Sàn UPCOM — không có phiên khớp lệnh nào từ 01/2025 trong dữ liệu VNDirect)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng / Cồn, rượu & nước giải khát (Halico — Lúa mới, Nếp mới, Vodka Hà Nội; nhà máy KCN Yên Phong, Bắc Ninh: 15 triệu lít cồn, 40 triệu lít rượu/năm)
+- **Lý do loại trừ tại Bước 2 (Lỗ 7 năm liên tiếp 2019 – 2025):**
+  - **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+    | Năm | Doanh thu thuần | Lợi nhuận gộp | LNST | Vốn CSH cuối kỳ | Trạng thái |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | 2021 | 102,1 | 16,3 | **-26,3** | 342,6 | **Lỗ** |
+    | 2022 | 110,9 | 27,6 | **-16,6** | 343,4 | **Lỗ** |
+    | 2023 | 100,9 | 28,3 | **-9,9** | 355,8 | **Lỗ** |
+    | 2024 | 112,2 | 37,3 | **-8,4** | 347,4 | **Lỗ** |
+    | 2025 | 121,2 | 41,7 | **-5,3** | 342,0 | **Lỗ** |
+    | 9T/2026 | 100,1 | — | **3,7** | 345,6 | Lãi nhẹ |
+
+  - Doanh thu chỉ ~100 – 120 tỷ VNĐ/năm, không đủ bù chi phí bán hàng và quản lý (~48 – 55 tỷ VNĐ/năm). Lỗ lũy kế -471,5 tỷ VNĐ trên vốn điều lệ 200 tỷ VNĐ (cuối 2025). Biên gộp cải thiện từ 16,0% (2021) lên 34,4% (2025), lỗ thu hẹp dần; không vay nợ, tiền và tiền gửi ~135 tỷ VNĐ.
+  - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2.)* 9T/2026 lãi nhẹ 3,7 tỷ VNĐ — xét lại nếu cả năm 2026 có lãi.
+  - Định giá: Giá tham chiếu 12.000 VNĐ/cp (không có giao dịch), P/B danh nghĩa ~0,69x (BVPS ~17.280 VNĐ/cp tại 30/09/2026).
 - **Ngày Phân Tích:** 16/11/2026 (Hiệu đính phân loại lại)

@@ -13291,3 +13291,82 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Phải thu tăng từ 105,3 lên 189,9 – 197,6 tỷ VNĐ (2024 – 2025).
 - **Hành động tiếp theo:** Theo dõi kết quả Q4/2026 để xác nhận mô hình lợi nhuận cuối năm.
 - **Ngày tốt nghiệp phễu:** 2026-11-16
+
+---
+
+### 415. HNM - Công ty Cổ phần Sữa Hà Nội
+- **Mã cổ phiếu:** `HNM` (Sàn UPCOM — 400/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng / Chế biến sữa bò, sữa đậu nành, sữa chua (thương hiệu Hanoimilk, IZZI, YOTUTI)
+- **Hoạt động kinh doanh chính:** Thành lập 2001; vận hành Nhà máy Chế biến Sữa Hà Nội (KCN Quang Minh) công suất trên 40 triệu lít/năm; vừa bán hàng thương hiệu riêng vừa nhận gia công. Năm 2025 doanh số hàng Hanoimilk tăng 11,2%, doanh số gia công giảm 10,7% (giải trình LNST 2025 ngày 27/03/2026); 496 lao động.
+- **Hiệu đính phân loại (Bước 4 → File 5):** Hồ sơ cũ ghi chuỗi ROE "7,5% / 6,2%". Tính trên vốn CSH bình quân, ROE 2021 – 2023 lần lượt **10,6% / 25,6% / 10,9%** — vượt ngưỡng (2021 và 2023 sát nút).
+- **Luận điểm cốt lõi:**
+  - **Thương hiệu sữa nội địa có nhà máy riêng:** Doanh thu tăng từ 272,3 (2021) lên 734,1 tỷ VNĐ (2025); biên gộp 15,7% – 28,8%.
+  - **Tái cấu trúc tài chính:** Tăng vốn điều lệ từ 200 lên 444 tỷ VNĐ năm 2023, xóa gần hết lỗ lũy kế (-79,1 tỷ VNĐ cuối 2021 → +18,9 tỷ VNĐ cuối 2025); trả cổ tức tiền mặt lần đầu 21,0 tỷ VNĐ năm 2025.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 272,3 | 28,8% | 16,9 | 130,5 | **10,6%** | 4,2 |
+  | 2022 | 484,2 | 21,9% | 38,3 | 168,8 | **25,6%** | 12,2 |
+  | 2023 | 698,8 | 17,1% | 33,6 | 446,1 | **10,9%** | 7,0 |
+  | 2024 | 714,4 | 15,7% | 29,6 | 475,7 | 6,4% | 138,6 |
+  | 2025 | 734,1 | 16,7% | 17,5 | 472,1 | 3,7% | 29,5 |
+  | 9T/2026 | 585,0 | 19,8% | 14,8 | 486,9 | — | — |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~20,7x** (LNST 4 quý gần nhất Q4/2025 – Q3/2026: 17,6 tỷ VNĐ; EPS ~396 VNĐ/cp)
+  - **P/B:** **~0,75x** (Giá 8.200 VNĐ/cp ngày 16/11/2026 so với BVPS ~10.970 VNĐ/cp tại 30/09/2026); vốn hóa ~364 tỷ VNĐ.
+  - **Vốn điều lệ:** **444,0 tỷ VNĐ** (44,4 triệu cổ phiếu); vay ngắn hạn 126,0 + dài hạn 115,6 tỷ VNĐ (30/09/2026).
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Chế biến thực phẩm – đồ uống tiêu dùng.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 33,6 / 29,6 / 17,5 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn (có điều kiện): Có thương hiệu riêng và nhà máy, nhưng còn mảng gia công và biên gộp chỉ ~16% – 17% những năm gần đây.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE 2021 – 2023 ≥ 10%.
+- **Điểm mạnh đặc biệt:** (1) Thương hiệu sữa Hà Nội lâu năm; (2) Doanh thu gấp 2,7 lần sau 4 năm; (3) Kiểm toán 2025 (IAV) chấp nhận toàn phần.
+- **Rủi ro cần theo dõi:**
+  - > [!CAUTION]
+    > **Chất lượng lợi nhuận, quản trị và giao dịch nội bộ bất thường:**
+    > - **ROE suy giảm:** ROE giảm liên tục từ 25,6% (2022) xuống 3,7% (2025); ROE 4 quý gần nhất chỉ ~3,7%. ROE cao năm 2022 tính trên vốn CSH bị bào mòn bởi lỗ lũy kế. Chi phí quản lý năm 2022 chỉ 1,5 tỷ VNĐ (các năm khác 8,6 – 17,7 tỷ VNĐ) — có thể do hoàn nhập dự phòng, chưa xác minh.
+    > - **Vốn CSH 2021 giảm bất thường:** Vốn CSH giảm từ 189,1 xuống 130,5 tỷ VNĐ dù năm 2021 lãi 16,9 tỷ VNĐ, tức có ~75 tỷ VNĐ điều chỉnh giảm lỗ lũy kế. Chưa xác minh được nguyên nhân (VNDirect không lưu BCTC 2021).
+    > - **Nợ quá hạn và đổi kiểm toán:** BCTC 2023 có đoạn nhấn mạnh của Kiểm toán TTP: 56,1 tỷ VNĐ (70,5%) nợ vay ngắn hạn đã quá hạn tại 31/12/2023. Năm 2024 công ty dừng một hợp đồng kiểm toán rồi ký hợp đồng khác.
+    > - **Giao dịch nội bộ:** Kế toán trưởng và Trưởng Ban kiểm soát mua bán qua lại 8 – 10 triệu cp mỗi lần (~18% – 23% vốn) trong các tháng 01, 04 và 06 – 07/2026. Chủ tịch HĐQT chuyển 10 triệu cp cho người có liên quan (05/2025), sau đó người này bán ra (01/2026).
+  - Capex 2023 – 2025 tổng ~307 tỷ VNĐ, vay dài hạn mới 115,6 tỷ VNĐ; hiệu quả đầu tư chưa thể hiện trong lợi nhuận.
+- **Hành động tiếp theo:** Đọc thuyết minh lỗ lũy kế 2021 và chi tiết giao dịch cổ đông nội bộ trước khi xem xét sâu; theo dõi biên gộp sau đầu tư.
+- **Ngày tốt nghiệp phễu:** 2026-11-16
+
+---
+
+### 416. HOT - Công ty cổ phần Du lịch - Dịch vụ Hội An
+- **Mã cổ phiếu:** `HOT` (Sàn UPCOM — 105/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Du lịch & Khách sạn / Khách sạn, nhà hàng, lữ hành tại Hội An (Đà Nẵng)
+- **Hoạt động kinh doanh chính:** Tiền thân là Công ty Ăn uống Dịch vụ Hội An (1990), cổ phần hóa 2006; năm 2025 doanh thu nhà hàng – khách sạn 138,2 tỷ VNĐ (**86%**), lữ hành 11,9 tỷ VNĐ, khác 10,9 tỷ VNĐ — không phát sinh doanh thu BĐS (thuyết minh 5.1 BCTC hợp nhất 2025); 284 lao động. Cổ đông có ảnh hưởng đáng kể: Văn phòng Tỉnh ủy Quảng Nam (nay là Văn phòng Thành ủy Đà Nẵng).
+- **Luận điểm cốt lõi:**
+  - **Vị trí tại đô thị di sản:** Thuê đất dài hạn tại trung tâm và ven biển Hội An: 16.340,5 m² đường Trần Hưng Đạo (đến 2041), 14.300,6 m² Phước Trạch (đến 2030), 4.767 m² Cửa Đại (đến 2031), 8.246,3 m² Tam Thanh (đến 2065).
+  - **Phục hồi rõ sau Covid:** Doanh thu tăng từ 26,5 (2021) lên 160,9 tỷ VNĐ (2025); biên gộp 35,2%; CFO 27,3 tỷ VNĐ năm 2025; không vay nợ, tiền mặt 45,3 tỷ VNĐ (31/03/2026).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo; VNDirect chưa có BCTC Q2 – Q3/2026):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 26,5 | -46,3% | -21,1 | 57,0 | -31,3% | -8,1 |
+  | 2022 | 40,7 | -12,3% | -16,7 | 40,2 | -34,4% | -13,3 |
+  | 2023 | 100,3 | 27,6% | 4,8 | 45,1 | **11,3%** | 3,2 |
+  | 2024 | 136,2 | 28,0% | 10,5 | 55,5 | **20,8%** | 13,8 |
+  | 2025 | 160,9 | 35,2% | 20,5 | 76,0 | **31,1%** | 27,3 |
+  | Q1/2026 | 52,1 | 35,9% | 7,8 | 83,8 | — | — |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~5,8x** (LNST 4 quý gần nhất Q2/2025 – Q1/2026: 22,3 tỷ VNĐ; EPS ~2.790 VNĐ/cp)
+  - **P/B:** **~1,54x** (Giá 16.100 VNĐ/cp, phiên khớp gần nhất 09/11/2026 chỉ 1 cp — giá danh nghĩa, so với BVPS ~10.480 VNĐ/cp tại 31/03/2026); vốn hóa ~129 tỷ VNĐ.
+  - **Vốn điều lệ:** **80,0 tỷ VNĐ** (8 triệu cổ phiếu); không vay nợ.
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Khách sạn – nhà hàng – lữ hành; mảng BĐS trong giấy phép không phát sinh doanh thu năm 2025.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 4,8 / 10,5 / 20,5 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Dịch vụ lưu trú gắn với vị trí đất thuê tại di sản Hội An, biên gộp ~35%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% 3/5 năm (2023 – 2025).
+- **Điểm mạnh đặc biệt:** (1) Quỹ đất thuê tại trung tâm và ven biển Hội An; (2) Không nợ vay, CFO dương 3 năm; (3) P/E ~6x.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **ROE bị phóng đại và lợi nhuận chưa chịu thuế:** Vốn CSH (76,0 tỷ VNĐ) vẫn thấp hơn vốn điều lệ do lỗ lũy kế -26,4 tỷ VNĐ, nên ROE cao hơn thực chất. Năm 2025 công ty chưa phải nộp thuế TNDN nhờ chuyển lỗ 22,4 tỷ VNĐ; khi hết lỗ chuyển sang, LNST sẽ giảm khoảng 20%. Doanh thu 2025 vẫn thấp hơn mức 183,2 tỷ VNĐ năm 2019.
+  - Hợp đồng thuê đất Phước Trạch hết hạn 2030 và Cửa Đại hết hạn 2031. Chi phí thuê đất giảm từ 9,9 (2024) xuống 4,1 tỷ VNĐ (2025) — chưa xác minh nguyên nhân (có thể do miễn giảm). Thanh khoản cổ phiếu rất thấp.
+- **Hành động tiếp theo:** Theo dõi gia hạn thuê đất 2030 – 2031 và LNST sau khi hết ưu đãi chuyển lỗ.
+- **Ngày tốt nghiệp phễu:** 2026-11-16

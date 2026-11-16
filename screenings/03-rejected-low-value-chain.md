@@ -462,3 +462,30 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ ba: 
   - Thực tế: P/B = 0.88 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net.
 - **Lý do bị loại:** Đại lý bán lẻ xăng dầu biên gộp 3% – 6%, không có hào kinh tế, P/B ~0,88 lần nên bị loại tại Bước 3. *(Hiệu đính: hồ sơ cũ ghi nhầm "Doanh nghiệp đầu ngành… Vượt B4". ROE 2024 – 2025 đạt 11,0% – 15,4% sẽ qua Bước 4 nếu được xét tiếp.)*
 - **Ngày sàng lọc:** 2026-11-09
+
+---
+
+### 28. HPB - Công ty Cổ phần Bao bì PP
+- **Mã cổ phiếu:** `HPB` (Sàn UPCOM — 174/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Nguyên vật liệu / Bao bì PP dệt (bao xi măng, bao phân bón, bao thức ăn chăn nuôi — thương hiệu HAIPAC, Hải Phòng)
+- **Bước 1 (Vòng tròn năng lực):** ✅ Pass. Sản xuất bao bì, không thuộc nhóm BĐS/xây lắp/VLXD.
+- **Bước 2 (Lợi nhuận 3 năm):** ✅ Pass. LNST 2023 – 2025 dương (9,1 / 15,9 / 8,2 tỷ VNĐ).
+- **Vị thế chuỗi giá trị:**
+  - Tiền thân Nhà máy Bao bì PP Hải Phòng (1993), cổ phần hóa 2003; cung cấp ~60 triệu bao/năm cho miền Bắc và 12 – 20 triệu bao xi măng cho miền Nam; khách hàng là các nhà máy xi măng, phân lân, đạm (Chinfon, Lafarge, Văn Điển, Ninh Bình, Hà Bắc…); 250 lao động. Sản phẩm bao bì PP dệt đại trà, đầu vào hạt nhựa PP, bán B2B theo đơn hàng — cùng nhóm với APH, ECO (đã loại tại Bước 3).
+  - Biên gộp chỉ **8,7% – 12,2%** (2021 – 2025), biên ròng 2025 ~5,2%; doanh thu giảm từ 239,2 (2021) xuống ~159 tỷ VNĐ (2023 – 2025) theo chu kỳ xi măng.
+- **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect không có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 239,2 | 9,2% | 9,8 | 113,6 | 8,8% | 0,5 |
+  | 2022 | 188,9 | 9,7% | 8,8 | 116,0 | 7,7% | -5,0 |
+  | 2023 | 158,2 | 11,1% | 9,1 | 120,5 | 7,7% | 10,5 |
+  | 2024 | 159,3 | 12,2% | 15,9 | 130,1 | 12,7% | 23,9 |
+  | 2025 | 159,0 | 8,7% | 8,2 | 131,9 | 6,3% | 4,3 |
+
+  - Không còn vay đáng kể (0,6 + 0,8 tỷ VNĐ cuối 2025); cổ tức tiền mặt đều ~5,5 tỷ VNĐ/năm.
+- **Định giá P/B thực tế:** **~0,53 lần** (Thị giá 18.000 VNĐ/cp ngày 13/11/2026 so với BVPS ~33.980 VNĐ/cp cuối 2025); vốn hóa ~70 tỷ VNĐ; P/E ~8,5x (LNST 2025).
+  - Điều kiện ngoại lệ giữ lại: Định giá phải siêu rẻ với P/B < 0.5.
+  - Thực tế: P/B = 0.53 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net. Lưu ý: thanh khoản rất mỏng, giá năm 2026 dao động 15.500 – 49.500 VNĐ/cp; ở mức 15.500 VNĐ/cp thì P/B ~0,46.
+- **Lý do bị loại:** Bao bì PP dệt đại trà cho xi măng – phân bón, biên gộp 9% – 12%, không có quyền định giá, P/B ~0,53 lần nên bị loại tại Bước 3. *(Hiệu đính: hồ sơ cũ ghi nhầm "Doanh nghiệp đầu ngành… Vượt B4". Kể cả khi P/B xuống dưới 0,5, nhiều khả năng vẫn rớt Bước 4: ROE 2024 12,7% có 7,1 tỷ VNĐ thu nhập khác — chưa xác minh bản chất; nếu loại khoản này, ROE ~8%.)*
+- **Ngày sàng lọc:** 2026-11-16
