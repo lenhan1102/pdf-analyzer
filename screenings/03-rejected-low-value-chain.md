@@ -489,3 +489,30 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ ba: 
   - Thực tế: P/B = 0.53 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net. Lưu ý: thanh khoản rất mỏng, giá năm 2026 dao động 15.500 – 49.500 VNĐ/cp; ở mức 15.500 VNĐ/cp thì P/B ~0,46.
 - **Lý do bị loại:** Bao bì PP dệt đại trà cho xi măng – phân bón, biên gộp 9% – 12%, không có quyền định giá, P/B ~0,53 lần nên bị loại tại Bước 3. *(Hiệu đính: hồ sơ cũ ghi nhầm "Doanh nghiệp đầu ngành… Vượt B4". Kể cả khi P/B xuống dưới 0,5, nhiều khả năng vẫn rớt Bước 4: ROE 2024 12,7% có 7,1 tỷ VNĐ thu nhập khác — chưa xác minh bản chất; nếu loại khoản này, ROE ~8%.)*
 - **Ngày sàng lọc:** 2026-11-16
+
+---
+
+### 29. HPH - Công ty Cổ phần Hóa chất Hưng Phát Hà Bắc
+- **Mã cổ phiếu:** `HPH` (Sàn UPCOM — 93/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Nguyên vật liệu / Sản xuất H2O2 (oxy già) & thương mại phân bón, vật tư nông nghiệp (Bắc Giang — nay thuộc Bắc Ninh)
+- **Bước 1 (Vòng tròn năng lực):** ✅ Pass. Hóa chất và thương mại vật tư nông nghiệp, không thuộc nhóm BĐS/xây lắp/VLXD.
+- **Bước 2 (Lợi nhuận 3 năm):** ✅ Pass. LNST 2023 và 2025 dương (6,2 / 5,4 tỷ VNĐ), 2024 lỗ -4,8 tỷ VNĐ — không lỗ cả 3 năm.
+- **Vị thế chuỗi giá trị:**
+  - Dây chuyền H2O2 nồng độ 50%, công suất 10.000 tấn/năm. Năm 2025, doanh thu **bán hàng hóa thương mại 308,5 tỷ VNĐ (80%)** với biên gộp ~8,1%; doanh thu thành phẩm tự sản xuất chỉ 77,0 tỷ VNĐ, biên gộp ~10% (thuyết minh 20 – 21 BCTC kiểm toán 2025). Năm 2024, doanh thu thành phẩm 93,6 tỷ VNĐ với biên gộp ~4%.
+  - H2O2 là hóa chất cơ bản đại trà, cạnh tranh trực tiếp với hàng nhập khẩu; khác CSV, HVT (vị thế chi phối xút – clo, biên gộp cao). Cùng nhóm thương mại nông sản – vật tư biên mỏng như BAF (đã loại tại Bước 3).
+  - Cổ đông lớn nhất là cá nhân (bà Trương Thị Lan Anh 54,76%); Đạm Hà Bắc chỉ còn 4,76% — hồ sơ cũ mô tả là "công ty con của Đạm Hà Bắc" đã lỗi thời. ĐHĐCĐ 2025 đã dừng phương án chào bán 2,8 triệu cp để đầu tư dây chuyền H2O2 mới và CO2 45.000 tấn/năm.
+- **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect không có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 66,2 | 5,1% | -3,7 | 95,8 | -3,8% | 3,2 |
+  | 2022 | 100,8 | 22,3% | 12,7 | 108,5 | 12,4% | 36,1 |
+  | 2023 | 99,3 | 18,6% | 6,2 | 101,1 | 5,9% | -15,7 |
+  | 2024 | 110,4 | 5,0% | -4,8 | 96,1 | -4,9% | 17,8 |
+  | 2025 | 385,5 | 8,5% | 5,4 | 101,4 | 5,4% | 22,1 |
+
+- **Định giá P/B thực tế:** **~1,28 lần** (Thị giá 15.500 VNĐ/cp, phiên khớp gần nhất 09/11/2026 chỉ 5 cp — giá danh nghĩa, so với BVPS ~12.080 VNĐ/cp cuối 2025); vốn hóa ~130 tỷ VNĐ; P/E ~24x (LNST 2025).
+  - Điều kiện ngoại lệ giữ lại: Định giá phải siêu rẻ với P/B < 0.5.
+  - Thực tế: P/B = 1.28 >= 0.5, **KHÔNG** đáp ứng tiêu chuẩn ngoại lệ tài sản Net-Net.
+- **Lý do bị loại:** 80% doanh thu 2025 là thương mại hàng hóa biên gộp ~8%, mảng tự sản xuất H2O2 đại trà biên gộp 4% – 10% (trừ năm giá cao 2022), không có quyền định giá; P/B ~1,28 lần nên bị loại tại Bước 3. *(Hiệu đính chuyển từ Bước 4 sang Bước 3. Lưu ý: ROE 2022 đạt 12,4% nhờ giá H2O2 tăng đột biến — nếu được xét tiếp sẽ qua Bước 4 theo tiêu chí "1 năm ≥ 10%".)*
+- **Ngày sàng lọc:** 2026-11-16

@@ -10,18 +10,18 @@ Tài liệu này theo dõi toàn bộ trạng thái của các mã cổ phiếu 
 pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị Trường)
     "Rớt Bước 1 (Ngành & Vòng tròn năng lực)" : 428
     "Rớt Bước 2 (Lỗ 3 năm liên tiếp)" : 35
-    "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 28
+    "Rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5)" : 29
     "Rớt Bước 4 (ROE 5 năm < 10%)" : 442
-    "🏆 Đạt Chuẩn File 5" : 708
+    "🏆 Đạt Chuẩn File 5" : 707
 ```
 
 - **Quy mô toàn bộ vũ trụ cổ phiếu:** **1,641** doanh nghiệp (Toàn bộ 3 sàn HOSE, HNX, UPCoM)
-- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **1,037 / 1,641** mã (**63.19%** — Đã rà soát chi tiết đến mã `HPB`)
+- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **1,042 / 1,641** mã (**63.50%** — Đã rà soát chi tiết đến mã `HPP`)
 - **Số mã rớt tại Bước 1 (Ngành & VTNL):** **428** mã (26.08%)
 - **Số mã rớt tại Bước 2 (Lỗ 3 năm liên tiếp):** **35** mã (2.13%)
-- **Số mã rớt tại Bước 3 (Chuỗi GT thấp & P/B ≥ 0.5):** **28** mã (1.71%)
+- **Số mã rớt tại Bước 3 (Chuỗi GT thấp & P/B ≥ 0.5):** **29** mã (1.77%)
 - **Số mã rớt tại Bước 4 (ROE 5 năm < 10%):** **442** mã (26.93%)
-- **Số mã đạt chuẩn lọt vào File 5 (Champions):** **708** mã (43.14%)
+- **Số mã đạt chuẩn lọt vào File 5 (Champions):** **707** mã (43.08%)
 - **Tổng số mã trong hệ sinh thái:** **1,641 / 1,641 mã (100.0%)**
 
 ---
@@ -35,9 +35,9 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | ⚡ | [00-quick-summary-all.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/00-quick-summary-all.md) | **Bảng Tổng Hợp Siêu Tốc Toàn Bộ Cổ Phiếu** (Cheat-sheet tra cứu) | **1,641** mã | Xem chi tiết từng mã |
 | 1 | [summary-01-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-01-circle-of-competence.md) | Bảng tóm tắt các công ty rớt Bước 1 (Ngành nghề ngoài VTNL) | **428** mã | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
 | 2 | [summary-02-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-02-consecutive-loss.md) | Bảng tóm tắt các công ty rớt Bước 2 (Lỗ 3 năm liên tiếp) | **35** mã | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
-| 3 | [summary-03-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md) | Bảng tóm tắt các công ty rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5) | **28** mã | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
+| 3 | [summary-03-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-03-low-value-chain.md) | Bảng tóm tắt các công ty rớt Bước 3 (Chuỗi GT thấp & P/B >= 0.5) | **29** mã | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
 | 4 | [summary-04-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-04-low-roe.md) | Bảng tóm tắt các công ty rớt Bước 4 (ROE 5 năm < 10%) | **442** mã | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
-| 5 | [summary-05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md) | 🏆 **Bảng tóm tắt Doanh Nghiệp Đạt Chuẩn (File 5)** | **708** mã | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 5 | [summary-05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/summary-05-passed-champions.md) | 🏆 **Bảng tóm tắt Doanh Nghiệp Đạt Chuẩn (File 5)** | **707** mã | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 
 
 
@@ -1084,6 +1084,11 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | 1035 | **HNR** | Công ty cổ phần Rượu và Nước giải khát Hà Nội | Cồn, rượu | ✅ Pass | ❌ Loại (Lỗ 7N liên tiếp 2019-2025) | - | - | Dừng ở Bước 2 | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
 | 1036 | **HOT** | Công ty cổ phần Du lịch - Dịch vụ Hội An | Khách sạn & lữ hành | ✅ Pass | ✅ Pass (LNST 4.8 / 10.5 / 20.5 tỷ) | ✅ Pass (Đất thuê tại di sản Hội An, biên gộp 35%) | ✅ Pass (ROE 2023-2025 >= 10%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 | 1037 | **HPB** | Công ty Cổ phần Bao bì PP | Bao bì PP dệt | ✅ Pass | ✅ Pass (LNST 9.1 / 15.9 / 8.2 tỷ) | ❌ Loại (Bao bì đại trà, P/B 0.53 >= 0.5) | - | Dừng ở Bước 3 | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
+| 1038 | **HPD** | Công ty Cổ phần Thủy điện Đăk Đoa | Thủy điện | ✅ Pass | ✅ Pass (LNST 23.8 / 20.2 / 24.9 tỷ) | ✅ Pass (Chủ sở hữu thủy điện, biên gộp ~60%) | ✅ Pass (ROE 5/5 năm >= 16%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 1039 | **HPH** | Công ty Cổ phần Hóa chất Hưng Phát Hà Bắc | H2O2 & thương mại phân bón | ✅ Pass | ✅ Pass (LNST 6.2 / -4.8 / 5.4 tỷ) | ❌ Loại (80% DT thương mại, H2O2 đại trà, P/B 1.28 >= 0.5) | - | Dừng ở Bước 3 | [03-rejected-low-value-chain.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/03-rejected-low-value-chain.md) |
+| 1040 | **HPI** | Công ty Cổ phần Khu công nghiệp Hiệp Phước | BĐS KCN | ✅ Pass | ✅ Pass (LNST 67.5 / 66.2 / 12.5 tỷ) | ✅ Pass (Chủ đầu tư hạ tầng KCN) | ✅ Pass (ROE 2021-2022 13.7% / 11.7%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
+| 1041 | **HPO** | Công ty cổ phần Công nghiệp Hapulico | Cột đèn & đèn LED | ✅ Pass | ✅ Pass (LNST 5.8 / 8.4 / 14.0 tỷ) | ✅ Pass (Tự sản xuất, biên gộp 13-18%) | ❌ Loại (ROE 2021-2025 4.4-9.95%) | Dừng ở Bước 4 | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
+| 1042 | **HPP** | Công ty Cổ phần Sơn Hải Phòng | Sơn tàu biển | ✅ Pass | ✅ Pass (LNST 90.3 / 103.9 / 134.5 tỷ) | ✅ Pass (Dẫn đầu sơn tàu biển, công nghệ Chugoku) | ✅ Pass (ROE 4/5 năm >= 10%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 
 ---
 

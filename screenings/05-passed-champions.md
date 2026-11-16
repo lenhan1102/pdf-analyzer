@@ -13370,3 +13370,116 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Hợp đồng thuê đất Phước Trạch hết hạn 2030 và Cửa Đại hết hạn 2031. Chi phí thuê đất giảm từ 9,9 (2024) xuống 4,1 tỷ VNĐ (2025) — chưa xác minh nguyên nhân (có thể do miễn giảm). Thanh khoản cổ phiếu rất thấp.
 - **Hành động tiếp theo:** Theo dõi gia hạn thuê đất 2030 – 2031 và LNST sau khi hết ưu đãi chuyển lỗ.
 - **Ngày tốt nghiệp phễu:** 2026-11-16
+
+---
+
+### 417. HPD - Công ty Cổ phần Thủy điện Đăk Đoa
+- **Mã cổ phiếu:** `HPD` (Sàn UPCOM — 362/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Tiện ích / Thủy điện (Nhà máy thủy điện Đăk Đoa 14 MW, Gia Lai)
+- **Hoạt động kinh doanh chính:** Thành lập 2007; vận hành nhà máy thủy điện Đăk Đoa 14 MW, sản lượng ~48 triệu kWh/năm; 21 lao động.
+- **Luận điểm cốt lõi:**
+  - **ROE ≥ 10% cả 5/5 năm:** 20,3% / 20,4% / 20,5% / 16,4% / 18,8% (2021 – 2025).
+  - **Tài sản phát điện đã khấu hao phần lớn:** Biên gộp 51% – 63%; CFO 27,9 – 32,7 tỷ VNĐ/năm, vượt LNST; vay dài hạn giảm từ 72,0 (2019) về 0, chỉ còn vay ngắn hạn 6,0 tỷ VNĐ (30/06/2026).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 46,5 | 63,4% | 21,2 | 109,5 | **20,3%** | 27,9 |
+  | 2022 | 49,7 | 62,7% | 22,4 | 110,4 | **20,4%** | 29,5 |
+  | 2023 | 51,3 | 60,1% | 23,8 | 121,5 | **20,5%** | 32,7 |
+  | 2024 | 43,6 | 50,9% | 20,2 | 124,6 | **16,4%** | 28,7 |
+  | 2025 | 51,6 | 61,2% | 24,9 | 140,6 | **18,8%** | 30,7 |
+  | 6T/2026 | 17,4 | 58,6% | 7,5 | 138,9 | — | — |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~4,4x** (LNST 4 quý gần nhất Q3/2025 – Q2/2026: 30,4 tỷ VNĐ; EPS ~3.660 VNĐ/cp)
+  - **P/B:** **~0,96x** (Giá 16.000 VNĐ/cp ngày 16/11/2026 so với BVPS ~16.710 VNĐ/cp tại 30/06/2026); vốn hóa ~133 tỷ VNĐ.
+  - **Vốn điều lệ:** **83,1 tỷ VNĐ** (8,31 triệu cổ phiếu).
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Thủy điện — ngoại lệ tài nguyên.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 23,8 / 20,2 / 24,9 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Chủ sở hữu tài sản phát điện, biên gộp ~60%.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 16% cả 5/5 năm.
+- **Điểm mạnh đặc biệt:** (1) Biên gộp ~60%, gần hết nợ vay; (2) CFO ổn định ~30 tỷ VNĐ/năm; (3) P/E ~4x, P/B < 1.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Quy mô nhỏ và phụ thuộc thủy văn:** Một nhà máy 14 MW, doanh thu 44 – 52 tỷ VNĐ/năm; năm khô hạn 2024 LNST giảm còn 20,2 tỷ VNĐ. Lợi nhuận dồn vào mùa mưa (Q3 – Q4). Khoản đầu tư vào công ty liên kết tăng lên 55,1 tỷ VNĐ (2024 – 2025, ~39% vốn CSH) — chưa xác minh đối tượng đầu tư; cổ tức tiền mặt giảm từ 20,8 (2022) xuống 4,2 tỷ VNĐ (2025).
+  - Cơ cấu cổ đông thay đổi: America LLC thoái vốn, không còn là cổ đông lớn (05/2025); Công ty TNHH Năng lượng SJE trở thành cổ đông lớn (02/2024).
+- **Hành động tiếp theo:** Xác minh khoản đầu tư liên kết 55,1 tỷ VNĐ và chính sách cổ tức.
+- **Ngày tốt nghiệp phễu:** 2026-11-16
+
+---
+
+### 418. HPI - Công ty Cổ phần Khu công nghiệp Hiệp Phước
+- **Mã cổ phiếu:** `HPI` (Sàn UPCOM — 113/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** BĐS Khu công nghiệp / Cho thuê lại đất KCN, cấp nước sạch & xử lý nước thải (KCN Hiệp Phước, Nhà Bè — TP.HCM)
+- **Hoạt động kinh doanh chính:** Thành lập 2007; quản lý hạ tầng KCN Hiệp Phước giai đoạn 1 (311,4 ha) và giai đoạn 2 (597 ha). Năm 2025, mảng cho thuê lại đất có doanh thu âm -28,2 tỷ VNĐ do giảm giá hàng bán; doanh thu dịch vụ (cấp nước, xử lý nước thải, nhà lưu trú công nhân…) đạt 85,4 tỷ VNĐ (giải trình BCTC 2025 ngày 04/03/2026); 195 lao động.
+- **Luận điểm cốt lõi:**
+  - **ROE ≥ 10% 4/5 năm theo số liệu:** 13,7% / 11,7% / 20,5% / 16,8% / 2,9% (2021 – 2025) — nhất quán tiền lệ BĐS KCN (KBC, NTC, SZL, TIP, LHG) qua Bước 1.
+  - **Quỹ đất KCN lớn tại TP.HCM:** Tại 30/09/2026, doanh thu chưa thực hiện tăng từ 88 lên 843 tỷ VNĐ và đầu tư giữ đến ngày đáo hạn từ 62 lên 1.332 tỷ VNĐ — nhiều khả năng khách thuê trả trước tiền thuê đất (chưa xác minh hợp đồng).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Doanh thu tài chính | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 158,4 | 43,6 | 33,7 | 263,3 | **13,7%** | 119,4 |
+  | 2022 | 142,8 | 42,2 | 32,7 | 295,5 | **11,7%** | -19,5 |
+  | 2023 | 22,7 | 110,7 | 67,5 | 362,1 | **20,5%** | 22,0 |
+  | 2024 | 33,2 | 32,6 | 66,2 | 427,7 | **16,8%** | -105,9 |
+  | 2025 | 57,2 | 27,4 | 12,5 | 439,4 | 2,9% | -29,1 |
+  | 9T/2026 | 63,7 | 36,2 | 10,7 | 450,2 | — | — |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **>300x** (LNST 4 quý gần nhất Q4/2025 – Q3/2026 chỉ 4,0 tỷ VNĐ; ~98,7x theo LNST 2025)
+  - **P/B:** **~2,73x** (Giá 20.500 VNĐ/cp so với BVPS ~7.500 VNĐ/cp tại 30/09/2026); vốn hóa ~1.230 tỷ VNĐ.
+  - **Vốn điều lệ:** **600,0 tỷ VNĐ** (60 triệu cổ phiếu); lỗ lũy kế -291 tỷ VNĐ; vay chỉ ~15 tỷ VNĐ.
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: BĐS KCN và tiện ích hạ tầng KCN, không phải BĐS dân dụng.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 67,5 / 66,2 / 12,5 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Chủ đầu tư hạ tầng KCN, độc quyền cấp nước – xử lý nước thải trong khu.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn (chất lượng thấp): ROE 2021 – 2022 đạt 13,7% / 11,7%; ROE 2023 – 2024 có yếu tố bất thường.
+- **Điểm mạnh đặc biệt:** (1) Quỹ đất KCN giai đoạn 2 tại cửa ngõ cảng phía Nam TP.HCM; (2) Gần như không vay nợ; (3) Dòng tiền trả trước của khách thuê tăng mạnh Q3/2026.
+- **Rủi ro cần theo dõi:**
+  - > [!CAUTION]
+    > **Lợi nhuận cốt lõi yếu, ROE phóng đại và định giá rất cao:**
+    > - **Lợi nhuận bất thường:** LNST 2024 (66,2 tỷ VNĐ) chủ yếu đến từ việc ghi giảm doanh thu và hoàn nhập giá vốn của một số hợp đồng thuê đất bị thanh lý — tổng chi phí năm 2024 chỉ 3,9 tỷ VNĐ (giải trình BCTC 2025). Doanh thu tài chính 2023 tăng vọt lên 110,7 tỷ VNĐ — chưa xác minh nguyên nhân. Kiểm toán năm 2025 điều chỉnh tăng LNST 31% so với số tự lập.
+    > - **ROE phóng đại:** Vốn CSH (439 – 450 tỷ VNĐ) thấp hơn vốn góp 600 tỷ VNĐ do khoản lỗ -788 tỷ VNĐ năm 2019. Số dư "chi phí phải trả" 1.602 tỷ VNĐ — nghĩa vụ hoàn thiện hạ tầng cho phần đất đã cho thuê.
+    > - **Định giá:** P/E 4 quý > 300x, P/B ~2,7x — giá đang phản ánh kỳ vọng vào quỹ đất giai đoạn 2 chứ không phải lợi nhuận hiện tại.
+  - Biến động nhân sự 2026: thành viên HĐQT từ nhiệm (04/2026, 08/2026), thành viên BKS từ nhiệm (09/2026). CFO âm 3/4 năm gần nhất.
+- **Hành động tiếp theo:** Xác minh các hợp đồng thuê đất làm tăng doanh thu chưa thực hiện tại Q3/2026 và nguồn gốc doanh thu tài chính 2023.
+- **Ngày tốt nghiệp phễu:** 2026-11-16
+
+---
+
+### 419. HPP - Công ty Cổ phần Sơn Hải Phòng
+- **Mã cổ phiếu:** `HPP` (Sàn UPCOM — 311/400 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Hóa chất / Sơn tàu biển & công trình biển, sơn công nghiệp, sơn giao thông, sơn xây dựng
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp hóa chất sơn dầu (1960), cổ phần hóa 2002; sơn tàu biển là sản phẩm mũi nhọn trên cơ sở liên doanh với Chugoku Marine Paints (Nhật Bản), theo hồ sơ công ty chiếm hơn 50% thị phần sơn tàu biển và công trình biển tại Việt Nam; 285 lao động. Cổ đông lớn: AFC VF Limited.
+- **Luận điểm cốt lõi:**
+  - **ROE ≥ 10% 4/5 năm:** 16,2% / 7,8% / 20,1% / 20,4% / 23,1% (2021 – 2025, trên vốn CSH công ty mẹ).
+  - **Tăng trưởng đều:** Doanh thu tăng từ 1.030,2 (2021) lên 1.533,5 tỷ VNĐ (2025); LNST công ty mẹ từ 66,9 lên 134,5 tỷ VNĐ; biên gộp ổn định ~19% từ 2023.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect không có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST cty mẹ | Vốn CSH cty mẹ cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 1.030,2 | 16,9% | 66,9 | 423,8 | **16,2%** | 46,1 |
+  | 2022 | 1.216,9 | 13,6% | 32,7 | 420,8 | 7,8% | -85,9 |
+  | 2023 | 1.215,4 | 19,6% | 90,3 | 478,4 | **20,1%** | 79,0 |
+  | 2024 | 1.394,6 | 19,2% | 103,9 | 542,1 | **20,4%** | 18,9 |
+  | 2025 | 1.533,5 | 19,4% | 134,5 | 623,1 | **23,1%** | -57,7 |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~3,7x** (LNST công ty mẹ 2025; EPS ~14.690 VNĐ/cp tính trên 9.154.318 cp đang lưu hành sau đợt phát hành cổ phiếu trả cổ tức 2025 tháng 07/2026)
+  - **P/B:** **~0,79x** (Giá 54.100 VNĐ/cp ngày 16/11/2026 so với BVPS ~68.070 VNĐ/cp cuối 2025, tính trên số cp mới); vốn hóa ~495 tỷ VNĐ.
+  - **Vốn điều lệ:** **92,0 tỷ VNĐ** (9.201.059 cp, trong đó 46.741 cp quỹ — theo thông báo ngày 29/07/2026); vay ngắn hạn 598,0 + dài hạn 86,8 tỷ VNĐ (cuối 2025).
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất sơn chuyên dụng — không phải VLXD đại trà (sơn xây dựng chỉ là một dòng sản phẩm).
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST công ty mẹ 2023 – 2025 lần lượt 90,3 / 103,9 / 134,5 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Sơn tàu biển kỹ thuật cao, thị phần dẫn đầu, công nghệ Chugoku.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% 4/5 năm, xu hướng tăng.
+- **Điểm mạnh đặc biệt:** (1) Dẫn đầu thị phần sơn tàu biển trong nước; (2) ROE > 20% ba năm liền; (3) P/E < 4x.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Lợi nhuận chưa chuyển thành tiền:** CFO âm năm 2022 (-85,9) và 2025 (-57,7 tỷ VNĐ); tổng CFO 2021 – 2025 chỉ ~0,4 tỷ VNĐ so với tổng LNST công ty mẹ ~428 tỷ VNĐ. Phải thu tăng lên 497,2 tỷ VNĐ (~32% doanh thu) và tồn kho 313,2 tỷ VNĐ; vay nợ ~685 tỷ VNĐ (~1,1 lần vốn CSH công ty mẹ), chi phí lãi vay 34 – 38 tỷ VNĐ/năm.
+  - Phụ thuộc chu kỳ đóng tàu và sửa chữa tàu; đầu tư vào công ty liên kết tăng lên 230,6 tỷ VNĐ năm 2025 (chưa xác minh đối tượng). Ngày 09/11/2026 có phiên khớp 116.000 cp, giá giảm về 52.000 VNĐ/cp.
+- **Hành động tiếp theo:** Đọc thuyết minh phải thu và chính sách tín dụng khách hàng đóng tàu; theo dõi CFO 2026.
+- **Ngày tốt nghiệp phễu:** 2026-11-16

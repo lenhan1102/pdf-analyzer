@@ -4587,12 +4587,29 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 238. HPH - Công ty Cổ phần Hóa chất Hưng Phát Hà Bắc
-- **Mã cổ phiếu:** `HPH` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nguyên vật liệu
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (1.6%, -3.9%, 6.2%, -5.0%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+### 238. HPO - Công ty cổ phần Công nghiệp Hapulico
+- **Mã cổ phiếu:** `HPO` (Sàn UPCOM từ 22/10/2025 — 39/266 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Công nghiệp / Sản xuất cột đèn, đèn LED chiếu sáng đô thị & sản phẩm cơ khí (nhà xưởng ~50.791 m² tại Hưng Yên)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Sản xuất thiết bị chiếu sáng, không phải nhà thầu xây lắp.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. 2023 – 2025 đều lãi (5,8 / 8,4 / 14,0 tỷ VNĐ).
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass. Sản phẩm tự sản xuất (cột đèn, đèn LED), biên gộp 13% – 18%.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4 (sát nút).**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect không có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 173,0 | 16,0% | 11,3 | 124,5 | 9,3% | -2,7 |
+  | 2022 | 210,5 | 12,7% | 9,2 | 129,0 | 7,3% | 12,6 |
+  | 2023 | 148,3 | 14,0% | 5,8 | 130,7 | 4,4% | -4,3 |
+  | 2024 | 146,5 | 15,5% | 8,4 | 135,3 | 6,3% | 21,0 |
+  | 2025 | 174,7 | 17,7% | 14,0 | 145,1 | 9,95% | -1,3 |
+
+- **Lý do loại trừ cốt lõi:**
+  - **ROE chưa chạm 10% trong 2021 – 2025:** Cao nhất là 9,95% năm 2025 (LNST 13,95 tỷ VNĐ trên vốn CSH bình quân 140,2 tỷ VNĐ), chỉ thiếu ~0,05 điểm %. Vốn CSH gấp ~2,5 lần vốn điều lệ (58,1 tỷ VNĐ), tiền và đầu tư ngắn hạn ~65 tỷ VNĐ không vay nợ kéo ROE xuống; doanh thu phụ thuộc đầu tư công chiếu sáng đô thị, CFO dao động âm/dương. *(Hiệu đính chuyển từ File 5 sang Bước 4: hồ sơ cũ ghi nhầm "Doanh nghiệp đầu ngành… Vượt B4".)*
+  - Xu hướng cải thiện (biên gộp và LNST 2025 cao nhất 6 năm) — **cần xét lại sau BCTC 2026**, khả năng vượt ngưỡng 10% cao nếu giữ đà.
+  - Định giá: Giá 15.000 VNĐ/cp (thanh khoản rất thấp), vốn hóa ~87 tỷ VNĐ, P/B ~0,60x (BVPS ~24.990 VNĐ/cp cuối 2025), P/E ~6,2x (LNST 2025); cổ tức tiền mặt 2,9 tỷ VNĐ/năm (5% mệnh giá).
+- **Ngày Phân Tích:** 16/11/2026 (Hiệu đính chuyển từ File 5 sang Bước 4)
 
 ---
 
