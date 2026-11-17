@@ -4613,12 +4613,29 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 
 ---
 
-### 239. HPW - Công ty Cổ phần Cấp nước Hải Phòng
-- **Mã cổ phiếu:** `HPW` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Dịch vụ
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (8.6%, 8.5%, 8.8%, 9.4%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+### 239. HSA - Công ty Cổ phần HESTIA
+- **Mã cổ phiếu:** `HSA` (Sàn UPCOM — diện hạn chế giao dịch từ 26/05/2025, duy trì theo quyết định 07/04/2026; không có phiên khớp lệnh nào trong 259 phiên gần nhất)
+- **Ngành nghề niêm yết:** Tài chính / Đầu tư tài chính & tư vấn đầu tư (công ty mẹ không có doanh thu hoạt động chính)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Công ty đầu tư tài chính, không thuộc nhóm BĐS/xây lắp/VLXD.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. Lãi nhỏ 2023 – 2024 (1,2 / 1,1 tỷ VNĐ), chỉ lỗ năm 2025.
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass. Không thuộc nhóm gia công/thương mại đại trà.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect không có BCTC quý):**
+
+  | Năm | Doanh thu tài chính | Chi phí QLDN | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | Phải thu |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 42,0 | 1,4 | 30,0 | 285,6 | 11,1% | 100,1 |
+  | 2022 | 3,8 | 0,8 | 0,7 | 286,3 | 0,3% | 87,0 |
+  | 2023 | 0,0 | 0,7 | 1,2 | 287,5 | 0,4% | 33,7 |
+  | 2024 | 6,4 | 3,0 | 1,1 | 288,6 | 0,4% | 233,5 |
+  | 2025 | 0,0 | 85,9 | -86,0 | 202,6 | -35,0% | 147,4 |
+
+- **Lý do loại trừ cốt lõi:**
+  - **ROE ≥ 10% duy nhất năm 2021 đến từ thu nhập tài chính không lặp lại:** LNST 30,0 tỷ VNĐ năm 2021 hoàn toàn từ doanh thu hoạt động tài chính 42,0 tỷ VNĐ; từ 2022 công ty gần như không còn nguồn thu. Theo văn bản giải trình số 01/2026/HSA-CV (31/03/2026), công ty **"không phát sinh doanh thu từ hoạt động sản xuất kinh doanh chính"** trong 2023 – 2025 và đang chuyển đổi mô hình. Nhất quán quy tắc loại lợi nhuận một lần tại Bước 4 (tiền lệ KLB, DRG, HGT).
+  - **Kiểm toán từ chối đưa ra ý kiến** đối với cả BCTC 2024 và 2025 (PKF-TTG) do không xác định được tính chính xác của dự phòng phải thu khó đòi; năm 2025 trích lập ~86 tỷ VNĐ làm lỗ -86,0 tỷ VNĐ, xóa ~30% vốn CSH. Phải thu vẫn chiếm ~73% tổng tài sản (147,4 / 202,7 tỷ VNĐ). TGĐ từ nhiệm (11/2025), thay đổi nhân sự liên tục 2025 – 2026.
+  - Định giá: Giá tham chiếu 33.000 VNĐ/cp (không có giao dịch), BVPS ~25.740 VNĐ/cp cuối 2025 — P/B danh nghĩa ~1,28x; vốn điều lệ 78,7 tỷ VNĐ. *(Hiệu đính chuyển từ File 5 sang Bước 4: hồ sơ cũ ghi "Doanh nghiệp đầu ngành… Vượt B4".)*
+- **Ngày Phân Tích:** 17/11/2026 (Hiệu đính chuyển từ File 5 sang Bước 4)
 
 ---
 

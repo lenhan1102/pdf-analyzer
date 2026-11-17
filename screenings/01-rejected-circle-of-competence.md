@@ -4640,3 +4640,15 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
   - **Số liệu (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo, BCTC 2025):** Doanh thu 27,7 / 29,6 / 30,5 / 33,4 / 35,3 (2021 – 2025), biên gộp 29% – 38%; LNST 2,6 / 2,8 / 2,7 / 1,4 / 5,1; ROE 12,7% / 13,3% / 11,6% / 5,6% / 19,2% — nếu xét tiếp sẽ qua B4. Vốn điều lệ 14,4 tỷ VNĐ, Nhà nước nắm 51,07%; cổ tức 3% mệnh giá.
   - Định giá: Không có giao dịch nên không xác định được P/B, P/E; BVPS ~19.930 VNĐ/cp cuối 2025.
 - **Ngày Phân Tích:** 10/11/2026 (Hiệu đính phân loại lại từ File 5)
+
+---
+
+### 442. HRB - Công ty Cổ phần Harec Đầu tư và Thương mại
+- **Mã cổ phiếu:** `HRB` (Sàn UPCOM — 25/259 phiên có khớp lệnh; bị đưa vào diện cảnh báo từ 10/02/2026)
+- **Ngành nghề niêm yết:** Dịch vụ (danh nghĩa) / Thực tế: Cho thuê văn phòng tại Tòa nhà HAREC, 4A Láng Hạ, Ba Đình, Hà Nội
+- **Lý do loại trừ tại Bước 1:**
+  - **BĐS cho thuê văn phòng ngoài VTNL:** Toàn bộ hoạt động là quản lý và cho thuê ~9.000 m² văn phòng tại một tòa nhà duy nhất (diện tích 50 – 580 m²/văn phòng); biên gộp 88% – 89% là đặc trưng tiền thuê. Nhất quán các tiền lệ BĐS cho thuê CCS, FCC, FTI, HAV, HBD, HHN. *(Hiệu đính chuyển từ File 5 sang Bước 1.)*
+  - **Rủi ro tập trung:** Một tài sản duy nhất, 21 lao động; tăng trưởng phụ thuộc giá thuê văn phòng hạng B khu Ba Đình.
+  - **Số liệu (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo):** Doanh thu 40,1 / 35,9 / 42,5 / 44,0 / 47,3 (2021 – 2025); LNST 23,3 / 17,6 / 23,3 / 22,7 / 22,3; ROE 17,6% / 13,4% / 17,7% / 17,0% / 16,7% — nếu xét tiếp sẽ qua B4. Tiền gửi có kỳ hạn 114,9 tỷ VNĐ (~68% tổng tài sản), không vay nợ; chi trả gần toàn bộ LNST làm cổ tức (~19 tỷ VNĐ/năm).
+  - Định giá: Giá 21.900 VNĐ/cp (thanh khoản rất thấp), vốn điều lệ 63,4 tỷ VNĐ, BVPS ~21.070 VNĐ/cp — P/B ~1,04x, P/E ~6,2x (LNST 2025).
+- **Ngày Phân Tích:** 17/11/2026 (Hiệu đính phân loại lại từ File 5)

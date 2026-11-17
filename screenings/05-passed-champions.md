@@ -13483,3 +13483,117 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Phụ thuộc chu kỳ đóng tàu và sửa chữa tàu; đầu tư vào công ty liên kết tăng lên 230,6 tỷ VNĐ năm 2025 (chưa xác minh đối tượng). Ngày 09/11/2026 có phiên khớp 116.000 cp, giá giảm về 52.000 VNĐ/cp.
 - **Hành động tiếp theo:** Đọc thuyết minh phải thu và chính sách tín dụng khách hàng đóng tàu; theo dõi CFO 2026.
 - **Ngày tốt nghiệp phễu:** 2026-11-16
+
+---
+
+### 420. HPT - Công ty Cổ phần Dịch vụ Công nghệ Tin học HPT
+- **Mã cổ phiếu:** `HPT` (Sàn UPCOM — 197/259 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Công nghệ thông tin / Tích hợp hệ thống, giải pháp hạ tầng CNTT, phần mềm & dịch vụ kỹ thuật (đối tác Oracle, Microsoft, Cisco)
+- **Hoạt động kinh doanh chính:** Thành lập 1995, cổ phần hóa 2004; trụ sở tại Khu Công nghệ cao TP.HCM; hơn 2.000 khách hàng là cơ quan Chính phủ, ngân hàng, doanh nghiệp; 463 lao động. **Năm tài chính kết thúc ngày 31/03.**
+- **Luận điểm cốt lõi:**
+  - **ROE ≥ 10% cả 5/5 năm tài chính gần nhất:** 17,6% / 17,3% / 23,9% / 19,6% / 22,0%.
+  - **Tăng trưởng mạnh năm tài chính 2025/26:** Doanh thu 1.932,2 tỷ VNĐ (+40,6%), LNST 37,8 tỷ VNĐ (+23,7%), CFO +72,8 tỷ VNĐ (năm trước -22,4 tỷ VNĐ) — BCTC kiểm toán năm tài chính kết thúc 31/03/2026, trang 10 – 11.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: VNDirect Finfo cho 3 năm đầu; BCTC kiểm toán 01/04/2025 – 31/03/2026 cho 2 năm cuối):**
+
+  | Năm tài chính | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021* | 807,5 | 18,0% | 19,8 | 117,1 | **17,6%** | 85,8 |
+  | 2022* | 1.172,5 | 15,4% | 21,2 | 128,2 | **17,3%** | -23,8 |
+  | 2023* | 1.156,6 | 20,0% | 33,4 | 151,3 | **23,9%** | 14,0 |
+  | 04/2024 – 03/2025 | 1.373,9 | 18,0% | 30,5 | 160,2 | **19,6%** | -22,4 |
+  | 04/2025 – 03/2026 | 1.932,2 | 15,2% | 37,8 | 183,4 | **22,0%** | 72,8 |
+
+  *\*Nhãn năm theo VNDirect; đối chiếu vốn điều lệ cho thấy đây là các năm tài chính kết thúc 31/03 năm kế tiếp (chưa đối chiếu từng BCTC).*
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~8,5x** (LNST năm tài chính kết thúc 31/03/2026; EPS ~2.880 VNĐ/cp tính trên 13.094.388 cp có quyền biểu quyết sau đợt phát hành cổ phiếu trả cổ tức 2025 — thông báo ngày 29/10/2026)
+  - **P/B:** **~1,75x** (Giá 24.500 VNĐ/cp ngày 17/11/2026, sau ngày giao dịch không hưởng quyền 21/10/2026, so với BVPS ~14.010 VNĐ/cp tại 31/03/2026); vốn hóa ~321 tỷ VNĐ.
+  - **Vốn điều lệ:** **132,5 tỷ VNĐ** (13.250.048 cp, trong đó 155.660 cp quỹ); vay ngắn hạn 116,3 tỷ VNĐ, không vay dài hạn (31/03/2026).
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Dịch vụ CNTT và tích hợp hệ thống.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 33,4 / 30,5 / 37,8 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Nhà tích hợp hệ thống có năng lực tư vấn, triển khai, bảo trì — không phải nhà phân phối thuần túy; nhưng biên gộp chỉ 15% – 20% do phần lớn doanh thu là thiết bị và bản quyền phần mềm bán lại.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 17% cả 5/5 năm.
+- **Điểm mạnh đặc biệt:** (1) ROE ổn định 17% – 24% với đòn bẩy vay thấp; (2) Tệp khách hàng Chính phủ, ngân hàng lâu năm; (3) Duy trì cổ tức tiền mặt và cổ phiếu hằng năm.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Biên mỏng và gần như không chịu thuế TNDN:** Biên lợi nhuận ròng chỉ ~2%; năm tài chính 2025/26 chi phí thuế TNDN chỉ 0,27 tỷ VNĐ trên LNTT 38,0 tỷ VNĐ, năm trước bằng 0 — nhiều khả năng nhờ ưu đãi doanh nghiệp tại Khu Công nghệ cao (chưa xác minh thời hạn ưu đãi). Khi hết ưu đãi, LNST có thể giảm ~20%.
+  - Dòng tiền dao động mạnh theo tiến độ dự án (CFO âm 2/5 năm); phải trả người bán 332,9 tỷ VNĐ tại 31/03/2026 — phụ thuộc tín dụng nhà cung cấp. Pha loãng định kỳ do ESOP (08 – 09/2024) và cổ phiếu thưởng.
+- **Hành động tiếp theo:** Xác minh thời hạn ưu đãi thuế TNDN và cơ cấu doanh thu dịch vụ so với bán thiết bị trong BCTN 2025.
+- **Ngày tốt nghiệp phễu:** 2026-11-17
+
+---
+
+### 421. HPW - Công ty Cổ phần Cấp nước Hải Phòng
+- **Mã cổ phiếu:** `HPW` (Sàn UPCOM — 151/259 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Tiện ích / Sản xuất & phân phối nước sạch (TP. Hải Phòng)
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy nước Hải Phòng (1967), cổ phần hóa 2015; vận hành 8 nhà máy nước, công suất trên 240.000 m³/ngày đêm, cấp nước cho gần 1,3 triệu dân Hải Phòng; 1.054 lao động.
+- **Luận điểm cốt lõi:**
+  - **ROE vượt ngưỡng từ năm 2025:** 8,8% / 8,9% / 9,2% / 9,9% / **13,9%** (2021 – 2025, trên vốn CSH công ty mẹ). LNST công ty mẹ 2025 tăng 46% lên 149,8 tỷ VNĐ nhờ lợi nhuận gộp +44,6 tỷ VNĐ và chi phí lãi vay giảm; thu nhập khác chỉ 7,8 tỷ VNĐ — không phải lợi nhuận bất thường.
+  - **Đà tăng duy trì trong 2026:** LNST công ty mẹ 9T/2026 đạt 128,7 tỷ VNĐ (+20% so với 107,2 tỷ VNĐ cùng kỳ).
+  - **Độc quyền tự nhiên khu vực:** CFO đều đặn 334 – 369 tỷ VNĐ/năm, gấp ~2,5 lần LNST; vay dài hạn giảm từ 1.080,4 (2020) xuống 709,5 tỷ VNĐ (30/09/2026).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST cty mẹ | Vốn CSH cty mẹ cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 1.023,4 | 35,8% | 89,5 | 1.015,2 | 8,8% | 346,0 |
+  | 2022 | 1.073,0 | 39,8% | 91,1 | 1.024,6 | 8,9% | 362,4 |
+  | 2023 | 1.131,1 | 39,8% | 94,3 | 1.032,3 | 9,2% | 347,6 |
+  | 2024 | 1.287,8 | 37,5% | 102,5 | 1.047,3 | 9,9% | 334,0 |
+  | 2025 | 1.388,6 | 38,0% | 149,8 | 1.104,5 | **13,9%** | 369,4 |
+  | 9T/2026 | 1.076,8 | 36,4% | 128,7 | 1.082,4 | — | — |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~9,4x** (LNST công ty mẹ 4 quý Q4/2025 – Q3/2026: 173,9 tỷ VNĐ; EPS ~2.340 VNĐ/cp)
+  - **P/B:** **~1,51x** (Giá 22.000 VNĐ/cp ngày 17/11/2026 so với BVPS ~14.590 VNĐ/cp tại 30/09/2026); vốn hóa ~1.633 tỷ VNĐ.
+  - **Vốn điều lệ:** **742,1 tỷ VNĐ** (74,2 triệu cp); cổ tức tiền mặt ~68 – 72 tỷ VNĐ/năm (lợi suất ~4,4%); tiền gửi có kỳ hạn 678,8 tỷ VNĐ (cuối 2025).
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Tiện ích cấp nước.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST công ty mẹ 2023 – 2025 lần lượt 94,3 / 102,5 / 149,8 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Độc quyền cấp nước khu vực, nhất quán các tiền lệ TDM, BTW, GDW, BWS, DNW.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE 2025 đạt 13,9%, được củng cố bởi 9T/2026.
+- **Điểm mạnh đặc biệt:** (1) Độc quyền cấp nước đô thị Hải Phòng; (2) CFO dồi dào, đang giảm nợ; (3) Cổ tức tiền mặt đều đặn.
+- **Rủi ro cần theo dõi:**
+  - > [!NOTE]
+    > **Mới vượt ngưỡng 1 năm:** ROE 2021 – 2024 đều dưới 10% (2024: 9,9%); kết quả B4 dựa trên năm 2025 và 9T/2026. Hồ sơ cũ xếp HPW ở Bước 4 với chuỗi ROE chưa gồm năm 2025. Chưa xác minh nguyên nhân lợi nhuận gộp tăng năm 2025 (khả năng điều chỉnh giá nước).
+  - Giá nước do UBND thành phố phê duyệt; vay dài hạn 709,5 tỷ VNĐ (chưa xác minh cơ cấu ngoại tệ/ODA); Trưởng BKS xin thôi chức (04/2026).
+- **Hành động tiếp theo:** Đọc BCTN 2025 để xác nhận lộ trình giá nước và cơ cấu nợ vay.
+- **Ngày tốt nghiệp phễu:** 2026-11-17
+
+---
+
+### 422. HSM - Tổng Công ty cổ phần Dệt may Hà Nội
+- **Mã cổ phiếu:** `HSM` (Sàn UPCOM — 122/259 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Dệt may / Sợi, dệt kim, khăn bông và may mặc xuất khẩu (Hanosimex)
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy sợi Hà Nội (1984), cổ phần hóa 2008; năng lực 36.000 tấn sợi/năm, 2.500 tấn sản phẩm dệt/năm, 1.850 tấn khăn/năm và 26 triệu sản phẩm may/năm; 3.931 lao động.
+- **Luận điểm cốt lõi:**
+  - **Vượt Bước 3 nhờ ngoại lệ P/B:** Sợi và may gia công thuộc đáy chuỗi giá trị, nhưng P/B chỉ ~0,33x (< 0,5).
+  - **ROE ≥ 10% duy nhất năm 2021:** 12,2% / 3,3% / -26,3% / -20,0% / 2,5% (2021 – 2025) — năm 2021 nhờ chu kỳ giá sợi tăng, là lợi nhuận hoạt động (lợi nhuận thuần từ HĐKD 72,1 tỷ VNĐ), không phải thu nhập bất thường.
+  - **Phục hồi rõ trong 2026:** Biên gộp 9T/2026 lên 15,3%; LNST công ty mẹ 9T/2026 đạt 41,2 tỷ VNĐ (riêng Q3: 28,0 tỷ VNĐ) so với 5,1 tỷ VNĐ cùng kỳ.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý hợp nhất qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST cty mẹ | Vốn CSH cty mẹ cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 1.655,2 | 13,3% | 60,0 | 517,9 | **12,2%** | 131,7 |
+  | 2022 | 1.679,8 | 11,6% | 17,1 | 507,0 | 3,3% | -9,9 |
+  | 2023 | 1.298,2 | 3,8% | -117,4 | 385,1 | -26,3% | 33,4 |
+  | 2024 | 1.114,9 | 4,9% | -70,5 | 320,4 | -20,0% | 52,5 |
+  | 2025 | 1.224,2 | 12,0% | 8,1 | 328,3 | 2,5% | 68,6 |
+  | 9T/2026 | 994,4 | 15,3% | 41,2 | 369,3 | — | — |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~2,8x** (LNST công ty mẹ 4 quý Q4/2025 – Q3/2026: 44,1 tỷ VNĐ; EPS ~2.150 VNĐ/cp)
+  - **P/B:** **~0,33x** (Giá 6.000 VNĐ/cp ngày 17/11/2026 so với BVPS ~18.010 VNĐ/cp tại 30/09/2026); vốn hóa ~123 tỷ VNĐ.
+  - **Vốn điều lệ:** **205,0 tỷ VNĐ** (20,5 triệu cp); lỗ lũy kế -149,8 tỷ VNĐ (cuối 2025); vay ngắn hạn 211,1 + dài hạn 286,5 tỷ VNĐ (30/09/2026, ~1,35 lần vốn CSH công ty mẹ).
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Dệt may, không thuộc nhóm loại trừ.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: Lỗ 2023 – 2024 nhưng có lãi 2025 (8,1 tỷ VNĐ) — không lỗ cả 3 năm.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn theo ngoại lệ: Sợi và may gia công đại trà, nhưng P/B ~0,33 < 0,5.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn (sát điều kiện): ROE 2021 đạt 12,2%.
+- **Điểm mạnh đặc biệt:** (1) Định giá rất thấp (P/B ~0,33x, P/E ~2,8x); (2) Thương hiệu Hanosimex lâu năm; (3) CFO dương 4/5 năm, vay nợ giảm từ 1.083,9 (2021) xuống ~498 tỷ VNĐ.
+- **Rủi ro cần theo dõi:**
+  - > [!CAUTION]
+    > **Chất lượng doanh nghiệp thấp, qua phễu nhờ giá rẻ:** Hai năm lỗ nặng 2023 – 2024 (-187,9 tỷ VNĐ) xóa ~1/3 vốn CSH công ty mẹ; biên gộp sợi dao động 3,8% – 15,3% theo giá bông/sợi thế giới, không có quyền định giá. P/E ~2,8x phụ thuộc lớn vào Q3/2026 (28,0 tỷ VNĐ) — cần xác nhận tính bền vững. Đòn bẩy cao (~1,35 lần vốn CSH công ty mẹ), lỗ lũy kế chặn cổ tức.
+  - Thanh khoản thấp (~620 cp/phiên bình quân); thành viên BKS từ nhiệm (04/2026).
+- **Hành động tiếp theo:** Đọc BCTC Q3/2026 để xác minh nguồn lợi nhuận quý và kế hoạch xóa lỗ lũy kế.
+- **Ngày tốt nghiệp phễu:** 2026-11-17
