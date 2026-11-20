@@ -3138,38 +3138,46 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 ---
 
 ### 279. HTT - Công ty cổ phần Thương mại Hà Tây
-- **Mã cổ phiếu:** `HTT` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `HTT` (Sàn UPCOM — 48/262 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Bất động sản / Phát triển dự án nhà ở – thương mại, cho thuê văn phòng, kinh doanh VLXD và nhựa nguyên sinh
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **BĐS dân dụng ngoài VTNL:** Hồ sơ công ty xác định kinh doanh bất động sản là nguồn doanh thu chính; các dự án nhà ở – thương mại tại 7 Trần Phú và đường Phùng Hưng (Hà Đông, Hà Nội), dự án Phúc Hưng (Hưng Yên); phần còn lại là thương mại VLXD và cho thuê văn phòng.
+  - **Gần như ngừng hoạt động:** Doanh thu chỉ 5,1 – 17,1 tỷ VNĐ/năm (2021 – 2025); lỗ liên tục 7 năm 2019 – 2025 (2023 – 2025: -13,6 / -9,6 / -7,7 tỷ VNĐ) — nếu xét tiếp cũng bị loại tại Bước 2. Vốn CSH giảm từ 186,0 (2019) xuống 106,6 tỷ VNĐ (2025) so với vốn điều lệ 200 tỷ VNĐ.
+  - Định giá: Giá 1.300 VNĐ/cp (thanh khoản rất thấp), vốn hóa ~26 tỷ VNĐ, P/B ~0,24x (BVPS ~5.330 VNĐ/cp cuối 2025).
+- **Ngày Phân Tích:** 20/11/2026 (Thẩm định lại, giữ Bước 1)
 
 ---
 
 ### 280. HU3 - Công ty cổ phần Đầu tư và Xây dựng HUD3
-- **Mã cổ phiếu:** `HU3` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `HU3` (Sàn UPCOM — 184/262 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Xây dựng / Nhà thầu xây lắp dân dụng & đầu tư BĐS (công ty con của Tập đoàn HUD, sở hữu 51%)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Nhà thầu xây lắp dân dụng:** Tiền thân là Công ty Xây dựng dân dụng Hà Đông (1978); xây lắp chiếm hơn 50% doanh thu, phụ thuộc dự án khu đô thị của HUD (Văn Quán, Linh Đàm, Việt Hưng, Pháp Vân – Tứ Hiệp).
+  - **Suy giảm kéo dài:** Doanh thu giảm từ 476,5 (2019) xuống 67,6 tỷ VNĐ (2025); biên gộp 7% – 11%; ROE 2021 – 2025 chỉ 0,4% / 0,3% / 0,2% / -2,7% / -2,3%, lỗ 2024 – 2025.
+  - Định giá: Giá 2.300 VNĐ/cp, vốn hóa ~23 tỷ VNĐ, P/B ~0,17x (BVPS ~13.870 VNĐ/cp cuối 2025).
+- **Ngày Phân Tích:** 20/11/2026 (Thẩm định lại, giữ Bước 1)
 
 ---
 
 ### 281. HU4 - Công ty Cổ phần Đầu tư và Xây dựng HUD4
-- **Mã cổ phiếu:** `HU4` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `HU4` (Sàn UPCOM — 224/262 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Bất động sản & Xây dựng / Phát triển nhà ở, xây lắp dân dụng – khu công nghiệp tại Thanh Hóa (công ty thuộc hệ thống HUD)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **BĐS dân dụng & xây lắp ngoài VTNL:** Dự án tiêu biểu là chung cư Phú Sơn, chung cư thu nhập thấp Đông Vệ (TP. Thanh Hóa); tồn kho BĐS 385,5 – 629,2 tỷ VNĐ (2021 – 2025), gấp 2 – 3 lần vốn CSH. Lợi nhuận phụ thuộc tiến độ bàn giao: doanh thu 2023 chỉ 28,8 tỷ VNĐ, năm 2025 tăng lên 491,4 tỷ VNĐ.
+  - Số liệu tham khảo: ROE 2021 – 2025 lần lượt 9,6% / 9,2% / 0,1% / 7,1% / 12,8% — nếu xét tiếp sẽ qua B4 nhờ năm 2025 (CFO 2025 đạt 379,3 tỷ VNĐ, vay giảm từ 347,8 xuống 67,8 tỷ VNĐ).
+  - Định giá: Giá 7.900 VNĐ/cp, vốn hóa ~119 tỷ VNĐ, P/B ~0,54x (BVPS ~14.700 VNĐ/cp cuối 2025), P/E ~4,4x (LNST 2025).
+- **Ngày Phân Tích:** 20/11/2026 (Thẩm định lại, giữ Bước 1)
 
 ---
 
 ### 282. HU6 - Công ty cổ phần Đầu tư Phát triển nhà và Đô thị HUD 6
-- **Mã cổ phiếu:** `HU6` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `HU6` (Sàn UPCOM — 177/262 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Bất động sản / Phát triển khu dân cư, khu đô thị mới (thuộc hệ thống HUD)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **BĐS dân dụng ngoài VTNL:** Chủ đầu tư các dự án chung cư D2-CT2 Tây Nam hồ Linh Đàm, CC-06A Việt Hưng, dự án Tân Mai (Hà Nội).
+  - **Không còn dự án tạo doanh thu:** Doanh thu giảm từ 69,2 (2019) xuống 0 (2025); LNST 2021 – 2024 xấp xỉ 0, năm 2025 lỗ -2,5 tỷ VNĐ; CFO âm 5 năm liên tục 2021 – 2025 do tồn kho dự án tăng từ 9,4 lên 42,6 tỷ VNĐ.
+  - Định giá: Giá 3.400 VNĐ/cp, vốn hóa ~26 tỷ VNĐ, P/B ~0,34x (BVPS ~10.000 VNĐ/cp cuối 2025).
+- **Ngày Phân Tích:** 20/11/2026 (Thẩm định lại, giữ Bước 1)
 
 ---
 

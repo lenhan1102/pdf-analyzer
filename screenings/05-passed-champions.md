@@ -13634,3 +13634,41 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Quy mô doanh thu đi ngang ~420 – 460 tỷ VNĐ suốt 2021 – 2025; phụ thuộc đầu tư công (cầu đường, thủy điện).
 - **Hành động tiếp theo:** Xác minh giá trị và cách sử dụng tiền thu từ chuyển nhượng tài sản Hào Nam; theo dõi CFO 2026.
 - **Ngày tốt nghiệp phễu:** 2026-11-20
+
+---
+
+### 424. HUG - Tổng Công ty may Hưng Yên - Công ty Cổ phần
+- **Mã cổ phiếu:** `HUG` (Sàn UPCOM — 91/262 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Hàng tiêu dùng / May mặc xuất khẩu (Mỹ, EU, Nhật Bản)
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp May xuất khẩu Hải Hưng (1966), cổ phần hóa 2005; vận hành 33 dây chuyền may, năng lực 7 triệu sản phẩm/năm; 1.975 lao động.
+- **Luận điểm cốt lõi:**
+  - **ROE ≥ 23% cả 5/5 năm:** 28,4% / 30,7% / 23,3% / 23,5% / 27,3% (2021 – 2025, trên vốn CSH công ty mẹ).
+  - **Không vay nợ, chi trả cổ tức cao:** Không có vay ngân hàng từ 2022; tiền gửi có kỳ hạn ~200 – 230 tỷ VNĐ; cổ tức tiền mặt ~57 – 59 tỷ VNĐ/năm (2022 – 2024), tương đương 50% – 90% LNST.
+  - **Biên gộp vượt trội so với may gia công:** 22% – 31%; 9T/2026 doanh thu +12%, LNST công ty mẹ 63,6 tỷ VNĐ (+8%).
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý hợp nhất qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST cty mẹ | Vốn CSH cty mẹ cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 818,8 | 31,3% | 81,9 | 353,7 | **28,4%** | 51,8 |
+  | 2022 | 936,6 | 27,7% | 113,5 | 386,1 | **30,7%** | 125,5 |
+  | 2023 | 690,5 | 22,2% | 76,6 | 270,4 | **23,3%** | 7,0 |
+  | 2024 | 678,4 | 23,5% | 64,2 | 277,3 | **23,5%** | 65,9 |
+  | 2025 | 789,3 | 23,4% | 80,6 | 312,3 | **27,3%** | 43,7 |
+  | 9T/2026 | 712,9 | 23,5% | 63,6 | 322,5 | — | — |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~5,6x** (LNST công ty mẹ 4 quý Q4/2025 – Q3/2026: 91,1 tỷ VNĐ; EPS ~4.670 VNĐ/cp)
+  - **P/B:** **~1,57x** (Giá 26.000 VNĐ/cp ngày 20/11/2026 so với BVPS ~16.530 VNĐ/cp tại 30/09/2026); vốn hóa ~507 tỷ VNĐ.
+  - **Vốn điều lệ:** **195,1 tỷ VNĐ** (19,51 triệu cp); không vay nợ.
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất may mặc.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST công ty mẹ 2023 – 2025 lần lượt 76,6 / 64,2 / 80,6 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: May xuất khẩu biên gộp 22% – 31%, nhất quán với tiền lệ BDG, BMG, DCG, HNI, TNG.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 23% cả 5/5 năm.
+- **Điểm mạnh đặc biệt:** (1) ROE cao ổn định, không vay nợ; (2) Cổ tức tiền mặt lớn; (3) P/E ~5,6x.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Một phần lợi nhuận đến từ thu nhập tài chính và vốn CSH biến động chưa giải thích:** Doanh thu tài chính 35,6 – 47,8 tỷ VNĐ/năm (2023 – 2025), riêng Q4/2025 và Q2/2026 lần lượt 24,5 / 21,0 tỷ VNĐ — vượt xa lãi tiền gửi, nhiều khả năng là cổ tức từ khoản đầu tư (chưa xác minh); chiếm ~35% – 40% LNTT. Năm 2023 vốn CSH công ty mẹ giảm từ 386,1 xuống 270,4 tỷ VNĐ, lớn hơn mức chi cổ tức 58,5 tỷ VNĐ, đồng thời lợi ích cổ đông thiểu số 24,7 tỷ VNĐ về 0 (có thể thoái vốn công ty con) — chưa xác minh.
+  - Phụ thuộc đơn hàng xuất khẩu Mỹ (rủi ro thuế quan); thanh khoản thấp (91/262 phiên); CFO 2023 chỉ 7,0 tỷ VNĐ.
+- **Hành động tiếp theo:** Đọc thuyết minh BCTC 2025 về nguồn doanh thu tài chính và biến động vốn CSH năm 2023.
+- **Ngày tốt nghiệp phễu:** 2026-11-20

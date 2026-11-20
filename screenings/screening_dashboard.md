@@ -16,7 +16,7 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 ```
 
 - **Quy mô toàn bộ vũ trụ cổ phiếu:** **1,641** doanh nghiệp (Toàn bộ 3 sàn HOSE, HNX, UPCoM)
-- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **1,052 / 1,641** mã (**64.11%** — Đã rà soát chi tiết đến mã `HTP`)
+- **Tiến độ thẩm định & phân tích chuyên sâu (Deep-dive Audit):** **1,057 / 1,641** mã (**64.41%** — Đã rà soát chi tiết đến mã `HUG`)
 - **Số mã rớt tại Bước 1 (Ngành & VTNL):** **429** mã (26.14%)
 - **Số mã rớt tại Bước 2 (Lỗ 3 năm liên tiếp):** **36** mã (2.19%)
 - **Số mã rớt tại Bước 3 (Chuỗi GT thấp & P/B ≥ 0.5):** **29** mã (1.77%)
@@ -1099,6 +1099,11 @@ pie title Tỷ Lệ Phân Bổ Qua Các Vòng Sàng Lọc (1,641 Mã Toàn Thị
 | 1050 | **HTE** | Công ty Cổ phần Đầu tư Kinh doanh Điện lực Thành phố Hồ Chí Minh | Thương mại vật tư điện & xây lắp điện | ✅ Pass | ✅ Pass (LNST 1.4 / -6.9 / 2.4 tỷ) | ✅ Pass (Ngoại lệ P/B 0.26 < 0.5) | ❌ Loại (ROE 2021-2025 <= 1.9%) | Dừng ở Bước 4 | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
 | 1051 | **HTM** | Tổng Công ty Thương mại Hà Nội - CTCP | Thương mại & bán lẻ | ✅ Pass | ❌ Loại (LNST -30.7 / -23.1 / -33.2 tỷ) | - | - | Dừng ở Bước 2 | [02-rejected-consecutive-loss.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/02-rejected-consecutive-loss.md) |
 | 1052 | **HTP** | Công ty Cổ phần In sách giáo khoa Hòa Phát | Công ty mẹ tập đoàn (đã hủy ĐKGD) | ✅ Pass | ✅ Pass (2023 lãi 3.5 tỷ; 2024 lỗ -112.4 tỷ) | ✅ Pass (Ngoại lệ P/B ~0.10) | ❌ Loại (ROE 2021 11.2% từ thu nhập khác một lần) | Dừng ở Bước 4 | [04-rejected-low-roe.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/04-rejected-low-roe.md) |
+| 1053 | **HTT** | Công ty cổ phần Thương mại Hà Tây | BĐS nhà ở - thương mại | ❌ Loại (BĐS dân dụng, gần như ngừng hoạt động) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 1054 | **HU3** | Công ty cổ phần Đầu tư và Xây dựng HUD3 | Xây lắp dân dụng | ❌ Loại (Nhà thầu xây lắp dân dụng) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 1055 | **HU4** | Công ty Cổ phần Đầu tư và Xây dựng HUD4 | BĐS nhà ở & xây lắp | ❌ Loại (BĐS chung cư & xây lắp dân dụng) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 1056 | **HU6** | Công ty cổ phần Đầu tư Phát triển nhà và Đô thị HUD 6 | BĐS khu đô thị | ❌ Loại (BĐS chung cư dân dụng) | - | - | - | Dừng ở Bước 1 | [01-rejected-circle-of-competence.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/01-rejected-circle-of-competence.md) |
+| 1057 | **HUG** | Tổng Công ty may Hưng Yên - Công ty Cổ phần | May mặc xuất khẩu | ✅ Pass | ✅ Pass (LNST 76.6 / 64.2 / 80.6 tỷ) | ✅ Pass (May xuất khẩu biên gộp 22-31%) | ✅ Pass (ROE 5/5 năm >= 23%) | 🏆 **Lọt vào File 5** | [05-passed-champions.md](file:///Users/nhan/Personal/code/pdf-analyzer/screenings/05-passed-champions.md) |
 
 ---
 
