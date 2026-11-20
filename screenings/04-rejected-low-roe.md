@@ -4718,11 +4718,27 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 ---
 
 ### 244. HVA - Công ty cổ phần Đầu tư HVA
-- **Mã cổ phiếu:** `HVA` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Tài chính
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (5.3%, 5.9%, 3.9%, 0.4%, 5.0%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `HVA` (Sàn UPCOM — 165/262 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Tài chính / Đầu tư tài chính, công nghệ tài chính (nền tảng quản lý tài sản số), thương mại
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Đầu tư tài chính – fintech, không thuộc nhóm BĐS/xây lắp.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. 2023 – 2025 đều lãi (0,6 / 7,4 / 4,7 tỷ VNĐ).
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass theo ngoại lệ. Doanh thu chủ yếu là thương mại biên gộp ~1% (2020 – 2023), P/B ~0,22 < 0,5.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect không có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | Phải thu |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 320,6 | 0,3% | 9,1 | 148,2 | 8,8% | 117,5 |
+  | 2022 | 822,3 | 1,1% | 6,2 | 154,4 | 4,1% | 97,4 |
+  | 2023 | 37,5 | 1,4% | 0,6 | 140,2 | 0,4% | 55,0 |
+  | 2024 | 16,7 | 44,5% | 7,4 | 147,6 | 5,1% | 147,4 |
+  | 2025 | 88,2 | 8,7% | 4,7 | 152,3 | 3,1% | 152,6 |
+
+- **Lý do loại trừ cốt lõi:**
+  - **ROE 2021 – 2025 chỉ 0,4% – 8,8%:** Doanh thu biến động thất thường (16,7 – 822,3 tỷ VNĐ) với biên gộp gần bằng 0 ở các năm doanh thu lớn; năm 2021 có thêm thu nhập khác 8,5 tỷ VNĐ. Phải thu 152,6 tỷ VNĐ (~87% tổng tài sản, cuối 2025), CFO 2024 âm -82,1 tỷ VNĐ — chất lượng tài sản cần theo dõi.
+  - Định giá: Giá 2.500 VNĐ/cp, vốn hóa ~34 tỷ VNĐ, P/B ~0,22x (BVPS ~11.160 VNĐ/cp cuối 2025), P/E ~7,3x (LNST 2025).
+- **Ngày Phân Tích:** 20/11/2026 (Thẩm định lại, giữ Bước 4)
 
 ---
 
@@ -6513,10 +6529,26 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
     - *Đánh giá chuỗi ROE:* Cả 5 năm liên tiếp tỷ suất sinh lời trên vốn chủ sở hữu (ROE) của CMK đều nằm sâu dưới ngưỡng 7.5% (ROE bình quân 5 năm chỉ đạt **~4.48% << 10%**), không có bất kỳ năm nào đạt ngưỡng tối thiểu 10% của phễu lọc. Dừng phân tích tại Bước 4. *(Hiệu đính đưa ra khỏi File 5 do trước đây bot gán nhãn nhầm)*.
 - **Ngày Phân Tích:** 13/10/2026 (Hiệu đính chuẩn hóa)
 
+---
 
+### 420. IBC - Công ty Cổ phần Đầu tư Apax Holdings
+- **Mã cổ phiếu:** `IBC` (Đã **hủy đăng ký giao dịch trên UPCoM từ 22/12/2025**, phiên cuối 19/12/2025 — Thông báo 5465/TB-SGDHN ngày 16/12/2025, do công ty bị hủy tư cách công ty đại chúng theo công văn 8570/UBCK-GSĐC ngày 09/12/2025; trước đó bị đưa vào diện hạn chế giao dịch từ 05/2024 và bị xử phạt vi phạm hành chính 05/2024)
+- **Ngành nghề niêm yết:** Giáo dục / Hệ thống Anh ngữ Apax English/Leaders, trường mầm non Steame Garden (IGarten), Apax Franklin; đầu tư tài chính
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Giáo dục – đào tạo, không thuộc nhóm BĐS/xây lắp. *(Hồ sơ cũ xếp nhầm vào nhóm BĐS dân dụng.)*
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ⚠️ Không đủ dữ liệu — không công bố BCTC năm 2023, 2024, 2025; năm 2022 lỗ -86,8 tỷ VNĐ.
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass. Dịch vụ giáo dục có thương hiệu, biên gộp 27% – 46%.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE (Tỷ VNĐ — nguồn: BCTC năm hợp nhất qua VNDirect Finfo; không có số liệu từ 2023):**
 
+  | Năm | Doanh thu thuần | Lợi nhuận gộp | Doanh thu tài chính | LNST cty mẹ | Vốn CSH cty mẹ cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2020 | 1.951,2 | 722,8 | 108,4 | 61,1 | 818,3 | 7,8% |
+  | 2021 | 1.733,8 | 477,9 | 319,7 | 112,3 | 916,4 | 12,9% |
+  | 2022 | 1.336,0 | 408,1 | 107,9 | -86,8 | 878,9 | -9,7% |
 
-
-
-
-
+- **Lý do loại trừ cốt lõi:**
+  - **ROE ≥ 10% duy nhất năm 2021 nhờ doanh thu tài chính:** Năm 2021 lợi nhuận gộp (477,9 tỷ VNĐ) chỉ vừa đủ bù chi phí bán hàng và quản lý (310,7 + 165,1 tỷ VNĐ) — hoạt động giáo dục cốt lõi lãi ~2 tỷ VNĐ; toàn bộ lợi nhuận đến từ doanh thu tài chính 319,7 tỷ VNĐ (gấp ~3 lần 2020), không lặp lại năm 2022. Nhất quán quy tắc loại lợi nhuận một lần (tiền lệ KLB, DRG, HGT, HSA, HTP).
+  - **Rủi ro quản trị nghiêm trọng:** Phải thu tăng từ 246,2 (2019) lên 1.589,9 tỷ VNĐ (2022, ~35% tổng tài sản); vay 1.915,5 tỷ VNĐ; không công bố BCTC từ 2023, bị hạn chế giao dịch rồi hủy tư cách công ty đại chúng.
+  - Định giá: Giá cuối 1.700 VNĐ/cp (83,15 triệu cp), BVPS ~10.570 VNĐ/cp cuối 2022 — P/B ~0,16x nhưng không còn giao dịch tập trung.
+- **Ngày Phân Tích:** 20/11/2026 (Hiệu đính chuyển từ Bước 1 sang Bước 4; đã hủy đăng ký giao dịch)

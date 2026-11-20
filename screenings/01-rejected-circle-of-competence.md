@@ -3181,21 +3181,14 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ngay từ vòng đ�
 
 ---
 
-### 283. IBC - Công ty Cổ phần Đầu tư Apax Holdings
-- **Mã cổ phiếu:** `IBC` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Dịch vụ
-- **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Dịch vụ), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
-
----
-
 ### 284. ICC - CTCP Xây dựng Công nghiệp
-- **Mã cổ phiếu:** `ICC` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
+- **Mã cổ phiếu:** `ICC` (Sàn UPCOM — 36/262 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Xây dựng / Nhà thầu xây dựng công trình công nghiệp, dân dụng và nhà ở (Hà Nội)
 - **Lý do loại trừ tại Bước 1:**
-  - Thuộc nhóm Bất động sản dân dụng, phân lô bán nền hoặc xây lắp hạ tầng đại trà (Bất động sản và Xây dựng), ngoài Vòng tròn năng lực.
-- **Ngày Phân Tích:** 13/09/2026
+  - **Nhà thầu xây dựng ngoài VTNL:** Thành lập 1972; thi công các công trình như Trụ sở UBND TP. Hà Nội, Cung thể thao Quần Ngựa, nhà ở N02, 71 Nguyễn Chí Thanh, nhà xưởng tổ hợp Samsung Yên Phong.
+  - **Quy mô thu hẹp:** Doanh thu giảm từ 179,7 (2019) xuống 56,1 – 92,3 tỷ VNĐ/năm (2021 – 2025); ROE 2021 – 2025 chỉ 4,6% – 8,5% — nếu xét tiếp cũng bị loại tại Bước 4. Không vay nợ; vốn CSH 151,2 tỷ VNĐ gấp 4 lần vốn điều lệ 38 tỷ VNĐ.
+  - Định giá: Giá 29.000 VNĐ/cp (thanh khoản thấp), vốn hóa ~110 tỷ VNĐ, P/B ~0,73x (BVPS ~39.800 VNĐ/cp cuối 2025), P/E ~8,8x (LNST 2025).
+- **Ngày Phân Tích:** 20/11/2026 (Thẩm định lại, giữ Bước 1)
 
 ---
 

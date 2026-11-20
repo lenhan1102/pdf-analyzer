@@ -13672,3 +13672,75 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Phụ thuộc đơn hàng xuất khẩu Mỹ (rủi ro thuế quan); thanh khoản thấp (91/262 phiên); CFO 2023 chỉ 7,0 tỷ VNĐ.
 - **Hành động tiếp theo:** Đọc thuyết minh BCTC 2025 về nguồn doanh thu tài chính và biến động vốn CSH năm 2023.
 - **Ngày tốt nghiệp phễu:** 2026-11-20
+
+---
+
+### 425. HWS - Công ty cổ phần Cấp nước Thừa Thiên Huế
+- **Mã cổ phiếu:** `HWS` (Sàn UPCOM — 259/262 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Tiện ích / Sản xuất & phân phối nước sạch (TP. Huế), nước đóng chai Bạch Mã, I-on Health
+- **Hoạt động kinh doanh chính:** Tiền thân là Nhà máy nước Huế (1909); vận hành 30 nhà máy nước, tổng công suất 200.000 m³/ngày đêm, cấp nước cho hơn 1 triệu dân; 513 lao động.
+- **Luận điểm cốt lõi:**
+  - **ROE ≥ 10% cả 5/5 năm, tăng đều:** 10,4% / 11,6% / 12,3% / 12,2% / 12,7% (2021 – 2025).
+  - **Biên gộp mở rộng:** từ 30,5% (2021) lên ~44% (2024 – 2025); LNST tăng từ 101,3 lên 142,1 tỷ VNĐ.
+  - **Dòng tiền mạnh, đang giảm nợ:** CFO 233 – 401 tỷ VNĐ/năm; capex giảm từ 518,2 (2021) còn 85,6 tỷ VNĐ (2025); vay dài hạn giảm từ 647,1 (2022) xuống 519,9 tỷ VNĐ (30/09/2026); cổ tức tiền mặt ~83 tỷ VNĐ/năm.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 586,4 | 30,5% | 101,3 | 982,3 | **10,4%** | 401,1 |
+  | 2022 | 595,7 | 37,0% | 118,2 | 1.051,8 | **11,6%** | 282,3 |
+  | 2023 | 635,0 | 41,7% | 132,1 | 1.089,3 | **12,3%** | 272,2 |
+  | 2024 | 670,2 | 43,8% | 135,0 | 1.119,9 | **12,2%** | 233,1 |
+  | 2025 | 668,5 | 43,7% | 142,1 | 1.120,6 | **12,7%** | 276,1 |
+  | 9T/2026 | 545,8 | 39,0% | 116,2 | 1.130,3 | — | — |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~8,6x** (LNST 4 quý Q4/2025 – Q3/2026: 145,0 tỷ VNĐ; EPS ~1.660 VNĐ/cp)
+  - **P/B:** **~1,11x** (Giá 14.300 VNĐ/cp ngày 20/11/2026 so với BVPS ~12.900 VNĐ/cp tại 30/09/2026); vốn hóa ~1.253 tỷ VNĐ; lợi suất cổ tức ~6,6%.
+  - **Vốn điều lệ:** **876,0 tỷ VNĐ** (87,6 triệu cp).
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Tiện ích cấp nước.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 132,1 / 135,0 / 142,1 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Độc quyền cấp nước khu vực, nhất quán các tiền lệ TDM, BTW, BWS, DNW, HPW.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% cả 5/5 năm.
+- **Điểm mạnh đặc biệt:** (1) Độc quyền cấp nước tỉnh Huế; (2) ROE và biên gộp tăng đều 5 năm; (3) Cổ tức tiền mặt ổn định.
+- **Rủi ro cần theo dõi:**
+  - > [!NOTE]
+    > **Biên gộp 9T/2026 giảm:** 39,0% so với 45,2% cùng kỳ — LNST 9T/2026 chỉ tăng 3% (116,2 so với 113,3 tỷ VNĐ) dù doanh thu tăng 8%. ROE chỉ cao hơn ngưỡng 0,4 – 2,7 điểm %. Giá nước do UBND phê duyệt; vay dài hạn ~520 tỷ VNĐ (chưa xác minh cơ cấu ngoại tệ).
+- **Hành động tiếp theo:** Xác minh nguyên nhân biên gộp 2026 giảm (chi phí khấu hao nhà máy mới, giá điện, hóa chất).
+- **Ngày tốt nghiệp phễu:** 2026-11-20
+
+---
+
+### 426. IBD - Công ty Cổ phần In Tổng hợp Bình Dương
+- **Mã cổ phiếu:** `IBD` (Sàn UPCOM — chỉ 8/262 phiên có khớp lệnh; phiên gần nhất 09/03/2026)
+- **Ngành nghề niêm yết:** Công nghiệp / In offset, in bao bì hộp giấy và in chứng từ có giá (hóa đơn GTGT, vé cầu đường, vé số)
+- **Hoạt động kinh doanh chính:** Tiền thân là Xí nghiệp In Sông Bé (1988), cổ phần hóa 01/2019; khách hàng gồm Bibica, Richy, First, Trung Nguyên và các công ty xổ số kiến thiết miền Trung; 129 lao động.
+- **Luận điểm cốt lõi:**
+  - **ROE ≥ 10% 3/5 năm:** 10,7% / 3,9% / 10,4% / 15,8% / 7,6% (2021 – 2025).
+  - **Bảng cân đối không nợ vay:** Tiền gửi có kỳ hạn 46 – 62 tỷ VNĐ (37% – 56% tổng tài sản); chi trả cổ tức đều 5,4 – 6,9 tỷ VNĐ/năm.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm qua VNDirect Finfo; VNDirect không có BCTC quý):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 83,1 | 25,4% | 10,7 | 101,1 | **10,7%** | 15,3 |
+  | 2022 | 93,8 | 14,7% | 3,8 | 95,6 | 3,9% | -12,9 |
+  | 2023 | 84,2 | 20,8% | 10,2 | 101,2 | **10,4%** | 14,8 |
+  | 2024 | 81,7 | 28,6% | 16,8 | 111,6 | **15,8%** | 9,3 |
+  | 2025 | 80,7 | 19,9% | 8,5 | 112,9 | 7,6% | 15,6 |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~5,2x** (LNST 2025; EPS ~945 VNĐ/cp)
+  - **P/B:** **~0,39x** (Giá tham chiếu 4.900 VNĐ/cp ngày 20/11/2026 — giá danh nghĩa do thanh khoản rất thấp — so với BVPS ~12.540 VNĐ/cp cuối 2025); vốn hóa ~44 tỷ VNĐ.
+  - **Vốn điều lệ:** **90,0 tỷ VNĐ** (9,0 triệu cp); không vay nợ.
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: In ấn và bao bì giấy.
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 10,2 / 16,8 / 8,5 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn theo ngoại lệ: In thương mại – bao bì giấy cạnh tranh cao, nhưng P/B ~0,39 < 0,5; mảng in chứng từ có giá (vé số, hóa đơn) có yêu cầu bảo mật.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn: ROE ≥ 10% năm 2021, 2023, 2024.
+- **Điểm mạnh đặc biệt:** (1) Không nợ vay, tiền gửi lớn; (2) Định giá thấp (P/B ~0,39x, P/E ~5x); (3) Khách hàng ngành xổ số ổn định.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **Quy mô nhỏ, doanh thu đi ngang và mảng chứng từ giấy suy giảm:** Doanh thu 80 – 94 tỷ VNĐ/năm, giảm dần từ 2022; hóa đơn điện tử và vé điện tử thay thế dần chứng từ in. Năm 2025 chi đầu tư TSCĐ 38,0 tỷ VNĐ (~1/3 vốn CSH, gấp 13 lần năm trước) — chưa xác minh dự án. Cổ phiếu gần như không có thanh khoản, giá tham chiếu chỉ mang tính danh nghĩa.
+- **Hành động tiếp theo:** Xác minh khoản đầu tư TSCĐ 38 tỷ VNĐ năm 2025 và cơ cấu doanh thu theo mảng.
+- **Ngày tốt nghiệp phễu:** 2026-11-20

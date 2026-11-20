@@ -1,9 +1,9 @@
 {
   "project": "Vietnamese Stock Market Multi-Stage Screening Funnel",
   "total_universe": 1641,
-  "screened_count": 1057,
-  "remaining_count": 584,
-  "progress_percentage": 64.41,
+  "screened_count": 1062,
+  "remaining_count": 579,
+  "progress_percentage": 64.72,
   "current_batch": {
     "batch_number": 31,
     "range": "1551-1642",
@@ -207,10 +207,10 @@
     }
   },
   "summary_metrics": {
-    "step_1_rejected_circle_of_competence": 429,
+    "step_1_rejected_circle_of_competence": 428,
     "step_2_rejected_consecutive_loss": 36,
     "step_3_rejected_low_value_chain": 29,
-    "step_4_rejected_low_roe": 441,
+    "step_4_rejected_low_roe": 442,
     "step_5_passed_champions": 706
   },
   "batches_history": [
@@ -2198,6 +2198,6 @@
       "passed": 75
     }
   ],
-  "last_updated": "2026-11-20T15:00:00+07:00",
-  "current_index": 1057
+  "last_updated": "2026-11-20T17:00:00+07:00",
+  "current_index": 1062
 }
