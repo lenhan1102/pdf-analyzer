@@ -44,6 +44,7 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
 | 32 | **HLT** | CTCP Dệt may Hoàng Thị Loan | Kéo sợi (thành viên Vinatex) | Lỗ 3 năm liên tiếp 2023-2025 (-49,9 / -47,8 / -18,7 tỷ), biên gộp 1-3%, vốn CSH âm -12,1 tỷ | 2026-11-13 |
 | 33 | **HNG** | Công ty cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai | Cây ăn trái & cao su (Lào, Campuchia) | Lỗ 5 năm liên tiếp 2021-2025 (2023-2025: -1.098,5 / -1.281,9 / -987,1 tỷ), 9T/2026 lỗ -251,7 tỷ | 2026-11-16 |
 | 34 | **HNR** | Công ty cổ phần Rượu và Nước giải khát Hà Nội | Cồn, rượu & nước giải khát (Halico) | Lỗ 7 năm liên tiếp 2019-2025 (2023-2025: -9,9 / -8,4 / -5,3 tỷ), 9T/2026 lãi nhẹ 3,7 tỷ | 2026-11-16 |
+| 35 | **HTM** | Tổng Công ty Thương mại Hà Nội - CTCP | Thương mại XNK, bán lẻ & hạ tầng thương mại (Hapro) | Lỗ 4 năm liên tiếp 2022-2025 (2023-2025: -30,7 / -23,1 / -33,2 tỷ), 9T/2026 lỗ -6,1 tỷ | 2026-11-20 |
 
 ---
 
@@ -696,3 +697,25 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ hai 
   - **Quy chuẩn loại trừ:** LNST âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2.)* 9T/2026 lãi nhẹ 3,7 tỷ VNĐ — xét lại nếu cả năm 2026 có lãi.
   - Định giá: Giá tham chiếu 12.000 VNĐ/cp (không có giao dịch), P/B danh nghĩa ~0,69x (BVPS ~17.280 VNĐ/cp tại 30/09/2026).
 - **Ngày Phân Tích:** 16/11/2026 (Hiệu đính phân loại lại)
+
+---
+
+### 36. HTM - Tổng Công ty Thương mại Hà Nội - CTCP
+- **Mã cổ phiếu:** `HTM` (Sàn UPCOM — 224/262 phiên có khớp lệnh; diện cảnh báo, duy trì theo quyết định 04/2026)
+- **Ngành nghề niêm yết:** Dịch vụ / Thương mại xuất nhập khẩu, bán lẻ (HaproMart, HaproFood) & hạ tầng thương mại (Hapro — UBND TP. Hà Nội cổ phần hóa)
+- **Lý do loại trừ tại Bước 2 (Lỗ 4 năm liên tiếp 2022 – 2025):**
+  - **Kết quả kinh doanh (Tỷ VNĐ — nguồn: BCTC năm & quý hợp nhất qua VNDirect Finfo):**
+
+    | Năm | Doanh thu thuần | Lợi nhuận gộp | LNST cty mẹ | Vốn CSH cty mẹ cuối kỳ | Trạng thái |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | 2021 | 618,5 | 87,8 | 1,0 | 2.256,2 | Lãi mỏng |
+    | 2022 | 389,9 | 116,1 | **-12,6** | 2.243,8 | **Lỗ** |
+    | 2023 | 444,4 | 102,9 | **-30,7** | 2.213,2 | **Lỗ** |
+    | 2024 | 725,9 | 372,4 | **-23,1** | 2.193,1 | **Lỗ** |
+    | 2025 | 444,8 | 119,0 | **-33,2** | 2.155,0 | **Lỗ** |
+    | 9T/2026 | 327,4 | 94,9 | **-6,1** | 2.148,9 | **Lỗ** |
+
+  - Doanh thu sụt từ 2.240,1 tỷ VNĐ (2019) xuống ~445 tỷ VNĐ (2025); lợi nhuận gộp không đủ bù chi phí bán hàng, quản lý và lãi vay. Năm 2024 lợi nhuận gộp tăng vọt lên 372,4 tỷ VNĐ (biên 51%, chưa xác minh nguồn) nhưng vẫn lỗ. Phải thu 868,4 tỷ VNĐ (~2 lần doanh thu năm); lỗ lũy kế -88,4 tỷ VNĐ (cuối 2025); CFO âm 5/7 năm 2019 – 2025.
+  - **Quy chuẩn loại trừ:** LNST công ty mẹ âm cả 3 năm tài chính gần nhất (2023, 2024, 2025), vi phạm trực tiếp tiêu chí Bước 2. Dừng phân tích tại Bước 2. *(Hiệu đính chuyển từ Bước 4 sang Bước 2.)*
+  - Định giá: Giá 9.200 VNĐ/cp, vốn hóa ~2.024 tỷ VNĐ, P/B ~0,94x (BVPS ~9.770 VNĐ/cp tại 30/09/2026). Cổ đông Ô tô Thành Công thoái khỏi nhóm cổ đông lớn (10/2026).
+- **Ngày Phân Tích:** 20/11/2026 (Hiệu đính phân loại lại)

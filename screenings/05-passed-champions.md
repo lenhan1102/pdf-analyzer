@@ -13597,3 +13597,40 @@ ightarrow$ Thỏa mãn vượt qua Bước 4.*
   - Thanh khoản thấp (~620 cp/phiên bình quân); thành viên BKS từ nhiệm (04/2026).
 - **Hành động tiếp theo:** Đọc BCTC Q3/2026 để xác minh nguồn lợi nhuận quý và kế hoạch xóa lỗ lũy kế.
 - **Ngày tốt nghiệp phễu:** 2026-11-17
+
+---
+
+### 423. HSP - Công ty Cổ phần Sơn Tổng hợp Hà Nội
+- **Mã cổ phiếu:** `HSP` (Sàn UPCOM — 174/262 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Hóa chất / Sơn công nghiệp, sơn giao thông – cầu đường, sơn trang trí (thương hiệu Sơn Đại Bàng)
+- **Hoạt động kinh doanh chính:** Thành lập 1970, cổ phần hóa 2006 từ doanh nghiệp thuộc Tổng công ty Hóa chất Việt Nam; hợp tác kỹ thuật với PPG (Mỹ), Kawakami & Mitsui (Nhật Bản) từ 1997; sản phẩm sơn Alkyd, Alkyd Melamin, sơn bảo vệ kết cấu thép cho cầu, hầm, thủy điện; 251 lao động.
+- **Luận điểm cốt lõi:**
+  - **ROE vượt ngưỡng 2 năm gần nhất:** 6,3% / 6,6% / 8,1% / **10,7%** / **10,4%** (2021 – 2025) — từ lợi nhuận hoạt động (thu nhập khác ≈ 0), nhờ biên gộp tăng từ 11,5% lên ~17%.
+  - **Đà cải thiện tiếp diễn:** 9T/2026 doanh thu +14%, biên gộp 17,6%; LNST cốt lõi (trừ khoản chuyển nhượng tài sản) ước ~24 tỷ VNĐ so với 14,5 tỷ VNĐ cùng kỳ.
+- **Số liệu tài chính (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 436,6 | 11,5% | 11,5 | 184,9 | 6,3% | -10,6 |
+  | 2022 | 462,8 | 12,5% | 12,3 | 186,7 | 6,6% | 37,4 |
+  | 2023 | 419,4 | 14,1% | 15,3 | 190,4 | 8,1% | 33,3 |
+  | 2024 | 417,3 | 17,1% | 20,8 | 196,6 | **10,7%** | 4,8 |
+  | 2025 | 433,1 | 16,7% | 20,5 | 197,4 | **10,4%** | 7,7 |
+  | 9T/2026 | 374,4 | 17,6% | 46,6 | 225,5 | — | — |
+
+- **Chỉ số định giá & Tài chính:**
+  - **P/E:** **~9,8x** (LNST 2025; EPS ~1.710 VNĐ/cp). Theo 4 quý gần nhất là ~3,8x (52,7 tỷ VNĐ) nhưng gồm khoản chuyển nhượng tài sản một lần; trừ khoản này còn ~6,6x.
+  - **P/B:** **~0,89x** (Giá 16.700 VNĐ/cp ngày 20/11/2026 so với BVPS ~18.750 VNĐ/cp tại 30/09/2026); vốn hóa ~201 tỷ VNĐ.
+  - **Vốn điều lệ:** **120,3 tỷ VNĐ** (12,03 triệu cp); không vay nợ.
+- **Kết quả kiểm tra 4 bước:**
+  - 1. **Bước 1 (Vòng tròn năng lực & Ngành nghề):** ✅ Đạt chuẩn: Sản xuất sơn công nghiệp và sơn bảo vệ kết cấu — không phải VLXD đại trà (nhất quán tiền lệ HPP).
+  - 2. **Bước 2 (Lợi nhuận 3 năm gần nhất):** ✅ Đạt chuẩn: LNST 2023 – 2025 lần lượt 15,3 / 20,8 / 20,5 tỷ VNĐ.
+  - 3. **Bước 3 (Chuỗi giá trị gia tăng & P/B):** ✅ Đạt chuẩn: Tự sản xuất, có thương hiệu Sơn Đại Bàng và công nghệ chuyển giao từ PPG, Kawakami.
+  - 4. **Bước 4 (Hiệu quả sử dụng vốn ROE):** ✅ Đạt chuẩn (sát ngưỡng): ROE 2024 – 2025 đạt 10,7% / 10,4%.
+- **Điểm mạnh đặc biệt:** (1) Không vay nợ; (2) Biên gộp cải thiện liên tục 5 năm; (3) P/B < 1.
+- **Rủi ro cần theo dõi:**
+  - > [!WARNING]
+    > **ROE mỏng và lợi nhuận 2026 có khoản một lần:** ROE chỉ vượt 10% với biên độ 0,4 – 0,7 điểm %. LNST Q1/2026 (28,6 tỷ VNĐ, gấp ~6,3 lần cùng kỳ) chủ yếu nhờ thu nhập khác 27,7 tỷ VNĐ từ **chuyển nhượng tài sản trên đất tại cơ sở Hào Nam** (giải trình BCTC quý 1/2026 số 61/2026/STH ngày 17/04/2026) — không lặp lại. CFO 2024 – 2025 chỉ 4,8 / 7,7 tỷ VNĐ do tồn kho tăng lên 84,0 tỷ VNĐ.
+  - Quy mô doanh thu đi ngang ~420 – 460 tỷ VNĐ suốt 2021 – 2025; phụ thuộc đầu tư công (cầu đường, thủy điện).
+- **Hành động tiếp theo:** Xác minh giá trị và cách sử dụng tiền thu từ chuyển nhượng tài sản Hào Nam; theo dõi CFO 2026.
+- **Ngày tốt nghiệp phễu:** 2026-11-20

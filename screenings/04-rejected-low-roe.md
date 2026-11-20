@@ -4640,38 +4640,80 @@ Tài liệu này lưu trữ các doanh nghiệp bị loại ở vòng thứ tư 
 ---
 
 ### 240. HSV - Công ty cổ phần Tập đoàn HSV Việt Nam
-- **Mã cổ phiếu:** `HSV` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Nguyên vật liệu
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (4.6%, 4.9%, 2.1%, 2.3%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `HSV` (Sàn UPCOM — 255/262 phiên có khớp lệnh)
+- **Ngành nghề niêm yết:** Nguyên vật liệu / Thu mua – bán buôn thép phế liệu và thép chuyên dụng (khách hàng chính: Thép Hòa Phát, Gang thép Thái Nguyên)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass. Thương mại thép phế liệu, không thuộc nhóm BĐS/xây lắp.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. 2023 – 2025 đều lãi (3,6 / 4,0 / 4,4 tỷ VNĐ).
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass theo ngoại lệ. Thương mại phế liệu đáy chuỗi giá trị (biên gộp 1,4% – 4,8%), nhưng P/B ~0,36 < 0,5.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo):**
+
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 393,4 | 4,8% | 7,9 | 162,4 | 7,3% | -58,1 |
+  | 2022 | 755,4 | 2,6% | 3,4 | 165,8 | 2,0% | -101,6 |
+  | 2023 | 683,4 | 3,9% | 3,6 | 169,4 | 2,2% | 33,2 |
+  | 2024 | 918,6 | 2,3% | 4,0 | 173,2 | 2,3% | -71,2 |
+  | 2025 | 1.616,0 | 1,4% | 4,4 | 177,7 | 2,5% | -31,4 |
+  | 9T/2026 | 1.503,5 | 2,0% | 6,7 | 334,4 | — | — |
+
+- **Lý do loại trừ cốt lõi:**
+  - **ROE 2021 – 2025 chỉ 2,0% – 7,3%:** Doanh thu tăng gấp 4 lần nhưng biên gộp co lại còn 1,4%; tăng trưởng được tài trợ bằng vay ngắn hạn (385,3 tỷ VNĐ cuối 2025, 398,5 tỷ VNĐ tại 30/09/2026) và CFO âm 4/5 năm. Phát hành riêng lẻ 15 triệu cp (Q1/2026) nâng vốn điều lệ lên 307,5 tỷ VNĐ, TGĐ mua 2,4 triệu cp — vốn CSH gần gấp đôi khiến ROE tiếp tục thấp.
+  - Định giá: Giá 3.900 VNĐ/cp, vốn hóa ~120 tỷ VNĐ, P/B ~0,36x (BVPS ~10.880 VNĐ/cp tại 30/09/2026), P/E ~16,7x (LNST 4 quý 7,2 tỷ VNĐ).
+- **Ngày Phân Tích:** 20/11/2026 (Thẩm định lại, giữ Bước 4)
 
 ---
 
 ### 241. HTE - Công ty Cổ phần Đầu tư Kinh doanh Điện lực Thành phố Hồ Chí Minh
-- **Mã cổ phiếu:** `HTE` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Bất động sản và Xây dựng
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (0.1%, -2.1%, 0.6%, -3.1%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `HTE` (Sàn UPCOM — 258/262 phiên có khớp lệnh; diện cảnh báo, duy trì theo quyết định 04/2026)
+- **Ngành nghề niêm yết:** Xây dựng & thương mại điện / Thương mại vật tư thiết bị điện, xây lắp đường dây – trạm biến áp, tư vấn (Tradincorp)
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass (tạm). Năm 2025 doanh thu thương mại tăng 66,9 tỷ VNĐ trong khi xây lắp giảm 47,1 tỷ VNĐ — thương mại vật tư điện đang là mảng chính; phần xây lắp điện thuộc nhóm loại trừ Bước 1.
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. 2023 lãi 1,4, 2024 lỗ -6,9, 2025 lãi 2,4 tỷ VNĐ.
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass theo ngoại lệ. Thương mại – xây lắp biên gộp 0% – 4%, nhưng P/B ~0,26 < 0,5.
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE 5 năm liên tục (Tỷ VNĐ — nguồn: BCTC năm & quý qua VNDirect Finfo; giải trình BCTC 2025 ngày 30/03/2026):**
 
----
+  | Năm | Doanh thu thuần | Biên gộp | LNST | Vốn CSH cuối kỳ | ROE (bình quân) | CFO |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 121,4 | -3,8% | -4,6 | 214,7 | -2,1% | 55,2 |
+  | 2022 | 153,2 | 4,3% | 4,0 | 218,7 | 1,9% | -5,7 |
+  | 2023 | 160,6 | 4,0% | 1,4 | 230,1 | 0,6% | 0,0 |
+  | 2024 | 377,8 | 0,1% | -6,9 | 222,9 | -3,1% | 54,4 |
+  | 2025 | 401,5 | 3,5% | 2,4 | 225,3 | 1,1% | -58,3 |
+  | 9T/2026 | 211,3 | 3,1% | 1,5 | 226,7 | — | — |
 
-### 242. HTM - Tổng Công ty Thương mại Hà Nội - CTCP
-- **Mã cổ phiếu:** `HTM` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Dịch vụ
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (0.1%, 0.0%, -1.4%, -1.0%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Lý do loại trừ cốt lõi:**
+  - **ROE âm hoặc dưới 2% suốt 2021 – 2025:** Biên gộp gần bằng 0 trên vốn CSH ~225 tỷ VNĐ (bằng vốn điều lệ 236,1 tỷ VNĐ); không vay nợ.
+  - **Ý kiến kiểm toán ngoại trừ BCTC 2025 (Moore AISC):** 12,5 tỷ VNĐ chi phí quản lý chung tích lũy từ trước 2022 vẫn treo trong chi phí SXKD dở dang; nếu phân bổ, lợi nhuận chưa phân phối giảm tương ứng — lỗ lũy kế thực tế lớn hơn số báo cáo.
+  - Định giá: Giá 2.500 VNĐ/cp, vốn hóa ~59 tỷ VNĐ, P/B ~0,26x (BVPS ~9.600 VNĐ/cp tại 30/09/2026).
+- **Ngày Phân Tích:** 20/11/2026 (Thẩm định lại, giữ Bước 4)
 
 ---
 
 ### 243. HTP - Công ty Cổ phần In sách giáo khoa Hòa Phát
-- **Mã cổ phiếu:** `HTP` (Sàn UPCOM)
-- **Ngành nghề niêm yết:** Dịch vụ
-- **Lý do loại trừ tại Bước 4:**
-  - ROE trong suốt 5 năm gần nhất (0.8%, 2.4%) đều nằm dưới ngưỡng tối thiểu 10%.
-- **Ngày Phân Tích:** 13/09/2026
+- **Mã cổ phiếu:** `HTP` (Đã **hủy đăng ký giao dịch trên UPCoM từ 04/11/2026**, phiên cuối 03/11/2026 — Quyết định 1303/QĐ-SGDHN ngày 28/10/2026, do công ty bị hủy tư cách công ty đại chúng theo công văn 10422/UBCK-GSĐC ngày 20/10/2026)
+- **Ngành nghề niêm yết:** Dịch vụ (danh nghĩa: in sách giáo khoa) / Thực tế từ 2021: công ty mẹ của tập đoàn có tổng tài sản ~6.700 tỷ VNĐ, lợi ích cổ đông thiểu số ~1.140 – 1.360 tỷ VNĐ
+- **Kết quả kiểm tra 4 bước:**
+  - *Bước 1 (Vòng tròn năng lực):* ✅ Pass (chưa xác minh hoạt động của các công ty con).
+  - *Bước 2 (Lợi nhuận 3 năm liên tiếp):* ✅ Pass. 2023 lãi 3,5 tỷ VNĐ; 2024 lỗ -112,4 tỷ VNĐ; chưa có BCTC năm 2025 (Q1/2025 lỗ -31,0 tỷ VNĐ).
+  - *Bước 3 (Chuỗi giá trị & P/B):* ✅ Pass theo ngoại lệ P/B (~0,10x).
+  - *Bước 4 (Hiệu quả sử dụng vốn - ROE 5 năm):* ❌ **Loại tại Bước 4.**
+- **Số liệu tài chính & Chuỗi ROE (Tỷ VNĐ — nguồn: BCTC năm hợp nhất qua VNDirect Finfo; không có số liệu năm 2025):**
+
+  | Năm | Doanh thu thuần | Doanh thu tài chính | Thu nhập khác (thuần) | LNST cty mẹ | Vốn CSH cty mẹ cuối kỳ | ROE (bình quân) |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | 2021 | 23,8 | 19,5 | 56,2 | 55,7 | 978,1 | 11,2% |
+  | 2022 | 83,8 | 63,0 | -1,7 | -1,6 | 976,6 | -0,2% |
+  | 2023 | 101,0 | 97,5 | 1,8 | 3,5 | 980,1 | 0,4% |
+  | 2024 | 1,5 | 73,9 | -2,8 | -112,4 | 812,4 | -12,5% |
+
+- **Lý do loại trừ cốt lõi:**
+  - **ROE ≥ 10% duy nhất năm 2021 đến từ khoản một lần:** LNST 55,7 tỷ VNĐ năm 2021 chủ yếu nhờ thu nhập khác 56,2 tỷ VNĐ, đúng năm vốn điều lệ tăng từ 18 lên 918 tỷ VNĐ (ROE tính trên vốn CSH bình quân bị méo do quy mô thay đổi 50 lần). Nhất quán quy tắc loại lợi nhuận một lần (tiền lệ KLB, DRG, HGT, HSA).
+  - **Không còn là công ty đại chúng:** Không công bố BCTC năm 2025; cổ phiếu bị hạn chế, đình chỉ giao dịch (06/2026) rồi hủy đăng ký giao dịch từ 04/11/2026; CTCK Thành Công thoái khỏi cổ đông lớn (11/2025).
+  - Định giá: Giá cuối 900 VNĐ/cp (91,8 triệu cp), BVPS ~8.850 VNĐ/cp cuối 2024 — P/B ~0,10x nhưng không còn giao dịch tập trung.
+- **Ngày Phân Tích:** 20/11/2026 (Thẩm định lại, giữ Bước 4; đã hủy đăng ký giao dịch)
 
 ---
 
